@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕公众号【神秘的哥哥们】",
+            "name": "🌕公众号",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -684,7 +684,7 @@
         },
         {
             "key": "fan",
-            "name": "导航 https://饭太硬.top",
+            "name": "导航",
             "type": 3,
             "api": "csp_fan",
             "searchable": 0,
@@ -707,7 +707,7 @@
             "url": "Demo"
         },
         {
-            "name": "神秘的哥哥们",
+            "name": "神秘的",
             "type": 1,
             "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
             "ext": {
@@ -963,11 +963,6 @@
             "url": "./lives/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "./lives/ipv6.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        }
+        
     ]
 }
