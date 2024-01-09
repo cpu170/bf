@@ -44,16 +44,6 @@
             "ext": "https://www.czzy66.com/"
         },
         {
-            "key": "橘子",
-            "name": "🍊橘子┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-        },
-        {
             "key": "77",
             "name": "👒七七┃App",
             "type": 3,
@@ -190,17 +180,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://haozhansou.com/"
-        },
-        {
-            "key": "迪迪",
-            "name": "🌈迪迪┃App",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
             "key": "csp_Bttoo",
@@ -559,7 +538,7 @@
         },
         {
             "key": "csp_Nbys",
-            "name": "🛫泥巴┃飞",
+            "name": "🛫泥巴",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -568,7 +547,7 @@
         },
         {
             "key": "csp_trj",
-            "name": "🛫唐人街┃飞",
+            "name": "🛫唐人街",
             "type": 3,
             "api": "csp_Tangrenjie",
             "searchable": 1,
@@ -690,6 +669,8 @@
             "searchable": 0,
             "quickSearch": 0
         }
+         
+        
     ],
     "parses": [
         {
@@ -954,11 +935,6 @@
             "url": "./lives/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "./lives/ipv6.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        }
+        
     ]
 }
