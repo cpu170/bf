@@ -377,6 +377,20 @@
             "changeable": 1
         },
         {
+         "key": "无尽资源",
+         "name": "无尽【📺】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8"
+    },
+     {
+         "key": "天翼资源",
+         "name": "天翼【📺】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://www.911ysw.top/tianyi.php/provide/vod/"
+    },
+        {
             "key": "Aid",
             "name": "🚑急救┃教学",
             "type": 3,
