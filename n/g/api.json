@@ -391,6 +391,72 @@
          "ext": "https://www.911ysw.top/tianyi.php/provide/vod/"
     },
         {
+                "key": "lehuo",
+                "name": "🏵乐活",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+            },
+            
+           
+            {
+                "key": "feisu",
+                "name": "🏵飞速",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+            },
+            {
+                "key": "jszyapi",
+                "name": "🏵极速",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://jszyapi.com/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "hhzyapi",
+                "name": "🏵火狐",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://hhzyapi.com/api.php/provide/vod/at/json"
+            },
+           
+            {
+                "key": "apitiankongapi",
+                "name": "🏵天空",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "pgfenwe078",
+                "name": "🏵四圈",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "moviegsl99",
+                "name": "🏵新马",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://movie.gsl99.com/api.php/provide/vod/at/json"
+            },
+             {
+                "key": "feifei67",
+                "name": "🏵飞飞",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "http://www.feifei67.com/api.php/provide/vod/at/json"
+            },
+              {
+                "key": "apizuidapi",
+                "name": "🏵[最大]",
+                "type": 1,
+                "api": "./caiji.js",
+                "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
+            },
+        {
             "key": "Aid",
             "name": "🚑急救┃教学",
             "type": 3,
