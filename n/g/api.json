@@ -380,16 +380,26 @@
          "key": "无尽资源",
          "name": "无尽【📺】",
          "type": 3,
-         "api": "./caiji.js",
-         "ext": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8"
+         "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8",
+          "searchable": 1,
+         "changeable": 1
     },
      {
          "key": "天翼资源",
          "name": "天翼【📺】",
          "type": 3,
-         "api": "./caiji.js",
-         "ext": "https://www.911ysw.top/tianyi.php/provide/vod/"
+         "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+          "searchable": 1,
+            "changeable": 1
     },
+        {
+            "key": "暴风",
+            "name": "暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
         {
                 "key": "lehuo",
                 "name": "🏵乐活",
