@@ -3848,7 +3848,7 @@
     },
 
 	    
-      {
+ {
       "host": "www.djuu.com",
       "rule": [
         "mp4.djuu.com",
@@ -3929,7 +3929,7 @@
   	    
     
   
-        {
+   {
             "name": "cl",
             "hosts": [
                 "magnet"
