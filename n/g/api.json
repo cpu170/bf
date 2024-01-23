@@ -1506,10 +1506,29 @@
             }
         },
 	 {
-      "name": "yangtu",
+         "name": "点这个好用",
+         "type": 0,
+         "url": "https://jx.yangtu.top/?url="
+       },   
+        {
+      "name": "全民",
       "type": 0,
-      "url": "https://jx.yangtu.top/?url="
-    },    
+      "url": "http://api.wpsseo.cn/?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "qiyi",
+          "youku",
+          "pptv",
+          "le",
+          "sohu",
+          "bilibili",
+          "xigua",
+          "1905"
+        ]
+      }
+    },
+	    
          {
       "name": "可遇不可求",
       "type": 1,
@@ -2023,24 +2042,7 @@
       "type": 1,
       "url": "https://www.2022xxj.com&url="
     },
-    {
-      "name": "全民",
-      "type": 0,
-      "url": "http://api.wpsseo.cn/?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "youku",
-          "pptv",
-          "le",
-          "sohu",
-          "bilibili",
-          "xigua",
-          "1905"
-        ]
-      }
-    },
+    
     {
       "name": "搬运",
       "type": 1,
