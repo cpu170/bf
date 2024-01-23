@@ -1528,6 +1528,11 @@
         ]
       }
     },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },    
 	    
          {
       "name": "可遇不可求",
@@ -3459,11 +3464,7 @@
       "type": 0,
       "url": "https://byg.ziqj5.shop/?url="
     },
-    {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
+    
     {
       "name": "365",
       "type": 0,
