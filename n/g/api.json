@@ -1505,6 +1505,11 @@
                 ]
             }
         },
+	 {
+      "name": "yangtu",
+      "type": 1,
+      "url": "https://jx.yangtu.top/?url="
+    },    
          {
       "name": "可遇不可求",
       "type": 1,
