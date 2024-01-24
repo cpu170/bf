@@ -1470,6 +1470,26 @@
             "type": 3,
             "url": "Demo"
         },
+
+	{
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	}, 
+	
+        {
+            "name": "Json轮询",
+            "type": 3,
+            "url": "Sequence"
+        },
+        
+        
+        {
+		"name": "Json聚合",
+		"type": 3,
+		"url": "Demo"
+	},   
+	    
         {
             "name": "神秘的哥哥们",
             "type": 1,
