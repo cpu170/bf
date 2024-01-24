@@ -1612,7 +1612,7 @@
         
     {
       "name": "rx2",
-      "type": 1,
+      "type": 0,
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
         {
@@ -1649,7 +1649,7 @@
     },
     {
       "name": "呆哇",
-      "type": 1,
+      "type": 0,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
         "flag": [
@@ -1752,7 +1752,7 @@
     },
     {
       "name": "无名1",
-      "type": 1,
+      "type": 0,
       "url": "http://api.ckflv.cn/?url="
     },
     {
@@ -1762,7 +1762,7 @@
     },
     {
       "name": "BT51",
-      "type": 1,
+      "type": 0,
       "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
     },
     {
@@ -1772,22 +1772,22 @@
     },
     {
       "name": "8090",
-      "type": 1,
+      "type": 0,
       "url": "https://www.8090.la/8090/?url="
     },
     {
       "name": "无名2",
-      "type": 1,
+      "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
     },
     {
       "name": "云龙3",
-      "type": 1,
+      "type": 0,
       "url": "https://freejx.rx88.top:1234/?url="
     },
     {
       "name": "左岸",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
     },
     {
@@ -1899,12 +1899,12 @@
     },
     {
       "name": "莫为",
-      "type": 1,
+      "type": 0,
       "url": "http://jx.vipmv.co/json.php?token=123457&url="
     },
     {
       "name": "江湖",
-      "type": 1,
+      "type": 0,
       "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
       "ext": {
         "flag": [
@@ -1939,7 +1939,7 @@
     },
      {
       "name": "AiKu",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url=",
       "ext": {
         "flag": [
@@ -2052,18 +2052,18 @@
     },
     {
       "name": "扶风2",
-      "type": 1,
+      "type": 0,
       "url": "https://vip.byteamone.cn/api/?key=bbpSbJMpjxLqcBKzUW&url="
     },
     {
       "name": "黄仓",
-      "type": 1,
+      "type": 0,
       "url": "https://www.2022xxj.com&url="
     },
     
     {
       "name": "搬运",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.bynote.top/API.php?url=",
       "ext": {
         "flag": [
@@ -2322,7 +2322,7 @@
     },
     {
       "name": "集象",
-      "type": 1,
+      "type": 0,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url=",
       "ext": {
         "flag": [
@@ -2349,7 +2349,7 @@
    
     {
       "name": "VIP3",
-      "type": 1,
+      "type": 0,
       "url": "http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url=",
       "ext": {
         "flag": [
@@ -2392,7 +2392,7 @@
     },
     {
       "name": "VIP1",
-      "type": 1,
+      "type": 0,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
       "ext": {
         "flag": [
@@ -2848,6 +2848,8 @@
      
   "flags": [
     "youku",
+    "SPA",
+    "QQ",
     "qq",
     "iqiyi",
     "qiyi",
@@ -2868,7 +2870,47 @@
     "rx",
     "CL4K",
     "xfyun",
-    "wuduzy"
+    "wuduzy",
+    "xmm",
+    "xigua",
+    "m1905",
+    "xinluan",
+    "tgqp",
+    "tkqp",
+    "duoduozy",
+    "xrjx",
+    "ddzy",
+    "YuMi-vip",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "ltnb",
+    "rx",
+    "SLYS4k",
+    "tucheng",
+    "BYGA",
+    "luanzi",
+    "dxzy",    
+    "QEYSS",
+    "aliyun",
+    "AliS",
+    "122",
+    "chuangying",
+    "xfyun",
+    "wuduzy",
+    "wasu",
+    "bilibili",
+    "renrenmi",
+    "ppayun",
+    "haiwaikan",
+    "cool",
+    "dbm3u8",
+    "xmm",
+    "xigua",   
+    "funshion",
+     "imgo",
+     "ruyi1080",
+     "ruyib1080"
   ],
   
   
