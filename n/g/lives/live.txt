@@ -1492,6 +1492,114 @@ CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 丹东新闻综合,http://59.47.133.234:64230/live
 丹东公共频道,http://59.47.133.234:64231/live
+辽宁都市 ,http://39.135.126.62/PLTV/88888888/224/3221226524/index.m3u8
+辽宁都市 ,http://39.135.126.62/PLTV/88888888/224/3221226914/index.m3u8
+辽宁经济 ,http://39.135.126.62/PLTV/88888888/224/3221226504/index.m3u8
+辽宁经济 ,http://39.135.126.62/PLTV/88888888/224/3221226869/index.m3u8
+辽宁体育 ,http://39.135.126.62/PLTV/88888888/224/3221226508/index.m3u8
+辽宁体育 ,http://39.135.126.62/PLTV/88888888/224/3221226916/index.m3u8
+沈阳新闻 ,http://39.135.126.62/PLTV/88888888/224/3221226593/index.m3u8
+沈阳新闻 ,http://39.135.126.62/PLTV/88888888/224/3221226924/index.m3u8
+辽宁公共 ,http://39.135.126.62/PLTV/88888888/224/3221226922/index.m3u8
+辽宁北方 ,http://39.135.126.62/PLTV/88888888/224/3221226865/index.m3u8
+辽宁影视 ,http://39.135.126.62/PLTV/88888888/224/3221226512/index.m3u8
+辽宁影视 ,http://39.135.126.62/PLTV/88888888/224/3221226861/index.m3u8
+辽宁教育 ,http://39.135.126.62/PLTV/88888888/224/3221226863/index.m3u8
+辽宁生活 ,http://39.135.126.62/PLTV/88888888/224/3221226918/index.m3u8
+辽宁移动 ,http://39.135.126.62/PLTV/88888888/224/3221226717/index.m3u8
+辽宁移动 ,http://39.135.126.62/PLTV/88888888/224/3221226867/index.m3u8
+沈阳新闻 ,http://39.134.52.215/PLTV/88888888/224/3221226593/index.m3u8
+沈阳新闻 ,http://39.134.52.215/PLTV/88888888/224/3221226924/index.m3u8
+辽宁体育 ,http://39.134.52.215/PLTV/88888888/224/3221226508/index.m3u8
+辽宁体育 ,http://39.134.52.215/PLTV/88888888/224/3221226916/index.m3u8
+辽宁公共 ,http://39.134.52.215/PLTV/88888888/224/3221226922/index.m3u8
+辽宁北方 ,http://39.134.52.215/PLTV/88888888/224/3221226865/index.m3u8
+辽宁影视 ,http://39.134.52.215/PLTV/88888888/224/3221226512/index.m3u8
+辽宁影视 ,http://39.134.52.215/PLTV/88888888/224/3221226861/index.m3u8
+辽宁教育 ,http://39.135.126.62/PLTV/88888888/224/3221226863/index.m3u8
+辽宁生活 ,http://39.134.52.215/PLTV/88888888/224/3221226918/index.m3u8
+辽宁移动 ,http://39.134.52.215/PLTV/88888888/224/3221226717/index.m3u8
+辽宁移动 ,http://39.134.52.215/PLTV/88888888/224/3221226867/index.m3u8
+辽宁经济 ,http://39.134.52.215/PLTV/88888888/224/3221226504/index.m3u8
+辽宁经济 ,http://39.134.52.215/PLTV/88888888/224/3221226869/index.m3u8
+辽宁都市 ,http://39.134.52.215/PLTV/88888888/224/3221226524/index.m3u8
+辽宁都市 ,http://39.134.52.215/PLTV/88888888/224/3221226914/index.m3u8
+沈阳新闻 ,http://39.134.52.214/PLTV/88888888/224/3221226593/index.m3u8
+沈阳新闻 ,http://39.134.52.214/PLTV/88888888/224/3221226924/index.m3u8
+辽宁体育 ,http://39.134.52.214/PLTV/88888888/224/3221226508/index.m3u8
+辽宁体育 ,http://39.134.52.214/PLTV/88888888/224/3221226916/index.m3u8
+辽宁公共 ,http://39.134.52.214/PLTV/88888888/224/3221226922/index.m3u8
+辽宁北方 ,http://39.134.52.214/PLTV/88888888/224/3221226865/index.m3u8
+辽宁影视 ,http://39.134.52.214/PLTV/88888888/224/3221226512/index.m3u8
+辽宁影视 ,http://39.134.52.214/PLTV/88888888/224/3221226861/index.m3u8
+辽宁教育 ,http://39.134.52.214/PLTV/88888888/224/3221226863/index.m3u8
+辽宁生活 ,http://39.134.52.214/PLTV/88888888/224/3221226918/index.m3u8
+辽宁移动 ,http://39.134.52.214/PLTV/88888888/224/3221226717/index.m3u8
+辽宁移动 ,http://39.134.52.214/PLTV/88888888/224/3221226867/index.m3u8
+辽宁经济 ,http://39.134.52.214/PLTV/88888888/224/3221226504/index.m3u8
+辽宁经济 ,http://39.134.52.214/PLTV/88888888/224/3221226869/index.m3u8
+辽宁都市 ,http://39.134.52.214/PLTV/88888888/224/3221226524/index.m3u8
+辽宁都市 ,http://39.134.52.214/PLTV/88888888/224/3221226914/index.m3u8
+沈阳新闻 ,http://39.134.61.219/PLTV/88888888/224/3221226593/index.m3u8
+沈阳新闻 ,http://39.134.61.219/PLTV/88888888/224/3221226924/index.m3u8
+辽宁体育 ,http://39.134.61.219/PLTV/88888888/224/3221226508/index.m3u8
+辽宁体育 ,http://39.134.61.219/PLTV/88888888/224/3221226916/index.m3u8
+辽宁公共 ,http://39.134.61.219/PLTV/88888888/224/3221226922/index.m3u8
+辽宁北方 ,http://39.134.61.219/PLTV/88888888/224/3221226865/index.m3u8
+辽宁影视 ,http://39.134.61.219/PLTV/88888888/224/3221226512/index.m3u8
+辽宁影视 ,http://39.134.61.219/PLTV/88888888/224/3221226861/index.m3u8
+辽宁教育 ,http://39.134.61.219/PLTV/88888888/224/3221226863/index.m3u8
+辽宁生活 ,http://39.134.61.219/PLTV/88888888/224/3221226918/index.m3u8
+辽宁移动 ,http://39.134.61.219/PLTV/88888888/224/3221226717/index.m3u8
+辽宁移动 ,http://39.134.61.219/PLTV/88888888/224/3221226867/index.m3u8
+辽宁经济 ,http://39.134.61.219/PLTV/88888888/224/3221226504/index.m3u8
+辽宁经济 ,http://39.134.61.219/PLTV/88888888/224/3221226869/index.m3u8
+辽宁都市 ,http://39.134.61.219/PLTV/88888888/224/3221226524/index.m3u8
+辽宁都市 ,http://39.134.61.219/PLTV/88888888/224/3221226914/index.m3u8
+沈阳新闻 ,http://39.134.61.218/PLTV/88888888/224/3221226593/index.m3u8
+沈阳新闻 ,http://39.134.61.218/PLTV/88888888/224/3221226924/index.m3u8
+辽宁体育 ,http://39.134.61.218/PLTV/88888888/224/3221226508/index.m3u8
+辽宁体育 ,http://39.134.61.218/PLTV/88888888/224/3221226916/index.m3u8
+辽宁公共 ,http://39.134.61.218/PLTV/88888888/224/3221226922/index.m3u8
+辽宁北方 ,http://39.134.61.218/PLTV/88888888/224/3221226865/index.m3u8
+辽宁影视 ,http://39.134.61.218/PLTV/88888888/224/3221226512/index.m3u8
+辽宁影视 ,http://39.134.61.218/PLTV/88888888/224/3221226861/index.m3u8
+辽宁教育 ,http://39.134.61.218/PLTV/88888888/224/3221226863/index.m3u8
+辽宁生活 ,http://39.134.61.218/PLTV/88888888/224/3221226918/index.m3u8
+辽宁移动 ,http://39.134.61.218/PLTV/88888888/224/3221226717/index.m3u8
+辽宁移动 ,http://39.134.61.218/PLTV/88888888/224/3221226867/index.m3u8
+辽宁经济 ,http://39.134.61.218/PLTV/88888888/224/3221226504/index.m3u8
+辽宁经济 ,http://39.134.61.218/PLTV/88888888/224/3221226869/index.m3u8
+辽宁都市 ,http://39.134.61.218/PLTV/88888888/224/3221226524/index.m3u8
+辽宁都市 ,http://39.134.61.218/PLTV/88888888/224/3221226914/index.m3u8
+辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
+辽宁体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
+辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
+辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
+辽宁青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
+辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000481
+辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000480
+辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000071
+辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000610
+辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000068
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000077
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000481
+辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000076
+辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000480
+辽宁青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000075
+辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000073
+辽宁体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000611
+辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000070
+大连新闻综合,http://iptv.cooltv.top/tv/cutv.php?id=dlxwzh
+大连生活,http://iptv.cooltv.top/tv/cutv.php?id=dlsh 
+大连公共,http://iptv.cooltv.top/tv/cutv.php?id=dlgg 
+大连文体,http://iptv.cooltv.top/tv/cutv.php?id=dlwt 
+大连综合影视,http://iptv.cooltv.top/tv/cutv.php?id=dlzhys 
+大连少儿,http://iptv.cooltv.top/tv/cutv.php?id=dlse 
+大连财经,http://iptv.cooltv.top/tv/cutv.php?id=dlcj 
 
 
 
