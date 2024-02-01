@@ -21,6 +21,6 @@
   "搜索图片": "url(&&)",
   "线路数组": "play-btn&&/a>[排序:腾>达][不包含:优#奇#芒]",
   "线路标题": "⚡️‍多多接口⚡️‍+>&&<[替换:线路1>>万达专线]",
-  "分类url": "https://www.yanaifei.me/vod/typs/id/{cateId}/page/{catePg}.html;;ak",     
+  "分类url": "https://www.yanaifei.me/vod/typs/id/{cateId}.html;;ak",     
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
