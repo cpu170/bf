@@ -228,16 +228,7 @@
 			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "./lib/万达.json"
         },			
-         {
-            "key": "js_耐菲",
-            "name": "🦆┃耐菲┃影视",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/鸭奈飞.js"
-        },
+         
         {
             "key": "csp_beijihu",
             "name": "🎪┃极狐┃影视",
@@ -522,16 +513,7 @@
             "changeable": 1,
             "ext": "./json/nmys.json"
         },
-        {
-            "key": "Auete",
-            "name": "🏝奥特┃直连",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://haozhansou.com/"
-        },
+       
         {
             "key": "csp_SP33",
             "name": "📺三三┃解析",
@@ -552,16 +534,7 @@
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
         },
-        {
-            "key": "Cokemv",
-            "name": "📕可乐┃直连",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
          {
             "key": "4KHDR",
             "name": "🧲世界磁力┃慎用",
@@ -623,17 +596,7 @@
       "searchable": 1,
       "changeable": 1
     },
-        {
-            "key": "zxzj",
-            "name": "📗在线┃直连",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzj.pro/"
-        },
-        
+       
         
         
         {
