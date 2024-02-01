@@ -1,6 +1,6 @@
 var rule = {
 	title: '鸭鸭[V2]', // csp_AppYsV2
-	host: 'https://yayayaaapp.ynf.icu',
+	host: 'https://www.yanaifei.me/',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
