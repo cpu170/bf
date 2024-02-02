@@ -1424,7 +1424,18 @@
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
-	},  
+	},
+	  {
+            "name": "小种嗅探",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        }, 
+	 {
+            "name": "滇红嗅探",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },    
+	       
 	
         {
             "name": "神秘的哥哥们",
