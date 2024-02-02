@@ -1648,40 +1648,40 @@
         }
       }
     },
-    {
-      "name": "阿飞",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-	  "乐视",	
-          "leshi",
-          "LS",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-	  "xigua",
-          "fun",
-          "风行",	
-        ],
-        "header": {
-          "User-Agent": ""
-        }
-      }
-    },
+     {
+            "name": "普洱嗅探",
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "type": 0,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
     {
       "name": "rxjx",
       "type": 0,
