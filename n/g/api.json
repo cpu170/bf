@@ -717,14 +717,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "cjmygzy.com",
-      "name": "成人05",
-      "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
+   
     
     {
       "key": "wmcj8.com",
@@ -747,23 +740,9 @@
     
     
     
-    {
-      "key": "mygzycj.com",
-      "name": "成人14",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
     
-    {
-      "key": "99zywcj.com",
-      "name": "成人16",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
+    
+    
     {
       "key": "api.11bat.com",
       "name": "成人30",
@@ -796,14 +775,7 @@
     
     
     
-    {
-      "key": "caiji.huakuiapi.com",
-      "name": "成人42",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "filterable": 1
-    },
+    
     
     {
       "key": "kxgav.com",
@@ -885,8 +857,8 @@
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{"key":"*玖玖资源","name":"*玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*狼少年","name":"*狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
+
+
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
@@ -903,15 +875,7 @@
       "filterable": 1
     },
     
-    {
-      "key": "JAV名优",
-      "name": "JAV名优",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "乐播资源",
       "name": "乐播资源",
@@ -987,15 +951,7 @@
       "filterable": 1
     },
     
-    {
-      "key": "玖玖资源",
-      "name": "玖玖资源",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "番号资源",
       "name": "番号资源",
