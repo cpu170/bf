@@ -214,8 +214,30 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/jp.js"
         },    
-       
+         {
+            "key": "js_4KHDR",
+            "name": "👩‍⚕️┃玩偶┃姐姐",
+            "type": 3,
+            "api": "./lib/apiv15drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/4KHDR.js"
+        },		
+        {
+            "key": "js_6V",
+            "name": "✡️┃六维┃磁力",
+            "type": 3,
+            "api": "./lib/apiv15drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/6V.js"
+        },	
         
+        
+        
+       
        
 	
           
