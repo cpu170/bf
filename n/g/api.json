@@ -1786,7 +1786,21 @@
                 ]
             }
         },
-	
+	 {
+            "name": "杰森",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "战狼",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url="
+        },
+        {
+            "name": "ok",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
+        },
 	
 	    
         
