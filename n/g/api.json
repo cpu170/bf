@@ -3754,7 +3754,7 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
 	        "18.5333",
                 "19.52"   
             ]
