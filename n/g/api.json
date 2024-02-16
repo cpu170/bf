@@ -3432,7 +3432,7 @@
                 "15.2666",
                 "16.333333",
                 "15.266667"
-                
+                "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+", 
                 
             ]
         },
@@ -3460,7 +3460,8 @@
                 "vip.lz",
                 "hd.lz",
                 "v.cdnlz1",
-                "v.cdnlz"
+                "v.cdnlz",
+		"lz"   
             ],
             "regex": [
                 "18.5333",
@@ -3473,6 +3474,7 @@
             "name": "非凡",
             "hosts": [
                 "vip.ffzy",
+		"25.08",   
                 "hd.ffzy"
             ],
             "regex": [
@@ -3747,11 +3749,14 @@
             "hosts": [
                 "vip.lz",
                 "hd.lz",
-                "v.cdnlz"
+                "v.cdnlz",
+	        "lz"   
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+	        "18.5333",
+                "19.52"   
             ]
         },
          {
@@ -3775,6 +3780,10 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+	        "25.0666",
+                "25.08",
+                "20.52",
+                "25.1"   
             ]
         },
         {
