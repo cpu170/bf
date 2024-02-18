@@ -44,15 +44,7 @@
             "changeable": 1,
             "ext": "https://www.czzy88.com/"
         },
-         {
-            "key": "酷看",
-            "name": "💡酷看┃App",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+        
 	    
         {
             "key": "Xinsj",
@@ -74,16 +66,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-	 {
-            "key": "南坊",
-            "name": "☀南坊┃App",
-            "type": 3,
-            "api": "csp_Appto",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
-        },
+	 
          {
             "key": "77",
             "name": "👒七七┃App",
