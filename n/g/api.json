@@ -44,6 +44,16 @@
             "changeable": 1,
             "ext": "https://www.czzy88.com/"
         },
+         {
+            "key": "酷看",
+            "name": "💡酷看┃App",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+	    
         {
             "key": "Xinsj",
             "name": "👓视觉┃直连",
@@ -64,16 +74,16 @@
             "quickSearch": 1,
             "changeable": 1
         },
-	  {
+	 {
             "key": "南坊",
             "name": "☀南坊┃App",
             "type": 3,
-            "api": "csp_AppMao",
+            "api": "csp_Appto",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
-        },    
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
+        },
          {
             "key": "77",
             "name": "👒七七┃App",
@@ -114,7 +124,7 @@
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
         },
-        {
+         {
             "key": "小柚",
             "name": "🍊小柚┃App",
             "type": 3,
@@ -1320,6 +1330,26 @@
             "quickSearch": 0,
             "changeable": 0
         },
+	 {
+            "key": "短剧",
+            "name": "🌈短剧┃在线",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://duanju.one"
+        },
+        {
+            "key": "csp_Yj1211",
+            "name": "📽️网红┃直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "playerType": "1",
+            "searchable": 0,
+            "quickSearch": 1,
+            "changeable": 0
+        },    
         {
             "key": "有声小说js",
             "name": "🎧有声┃小说",
