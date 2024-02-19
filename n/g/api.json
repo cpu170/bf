@@ -3636,7 +3636,9 @@
                 "suonizy"
             ],
             "regex": [
-		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",    
+	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+",   
+		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"   
                 "15.1666",
                 "15.2666",
                 "16.333333",
@@ -3645,6 +3647,7 @@
                 
             ]
         },
+	 
 	{
             "name": "bf",
             "hosts": [
@@ -3677,12 +3680,16 @@
 		"lz"   
             ],
             "regex": [
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",   
                 "18.5333",
                 "19.52"
                 
                 
             ]
         },
+	  
+	 
           {
             "name": "ff",
             "hosts": [
@@ -3732,46 +3739,10 @@
                 "video/tos/cn"
             ]
         },
-          {
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666",
-        "15.2666",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
-        
-        
-      ]
-    },
+          
    
-    {
-      "name": "星星",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-        
-        
-      ]
-    },
+   
+    
     
     {
       "name": "火山嗅探",
@@ -3938,21 +3909,7 @@
         "path="
       ]
     },
-     {
-            "name": "lz",
-            "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz",
-	        "lz"   
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-	        "18.5333",
-                "19.52"   
-            ]
-        },
+    
          {
             "name": "蜗牛直连去广",
             "hosts": [
@@ -3962,6 +3919,7 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY[\\s\\S]+?#EXT-X-DISCONTINUITY",    
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
