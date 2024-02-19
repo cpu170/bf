@@ -3620,13 +3620,16 @@
         {
             "name": "yqk",
             "hosts": [
-                "yqk88"
+                "yqk88",
+		"ydd"   
             ],
             "regex": [
                 "18.4",
-                "15.1666"
+                "15.1666",
+		"16.5333"  
             ]
         },
+	 
         {
             "name": "sn",
             "hosts": [
@@ -3642,15 +3645,19 @@
                 
             ]
         },
-        {
+	{
             "name": "bf",
             "hosts": [
-                "bfzy"
+                "bfzy",
+                "s5.bfzycdn"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
             ]
-        },
+        },    
+       
+	 
         {
             "name": "xx",
             "hosts": [
@@ -3676,27 +3683,28 @@
                 
             ]
         },
-        {
-            "name": "非凡",
+          {
+            "name": "ff",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
             ],
             "regex": [
-                "25.0666",
-                "19.52",
-	        "25.1",  
-		"25.08",   
-                "20.52",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",  
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+		"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+" 
-                
-                
-                
-                
+	        "25.0666",
+		"19.52",
+                "25.08",
+                "20.52",
+                "25.1"   
             ]
         },
+	    
+        
+	 
         {
             "name": "hs",
             "hosts": [
@@ -3739,18 +3747,7 @@
         
       ]
     },
-    {
-      "name": "暴風",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
-        
-        
-      ]
-    },
+   
     {
       "name": "星星",
       "hosts": [
@@ -3775,17 +3772,7 @@
         
       ]
     },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.0666",
-        "25.08"
-      ]
-    },
+    
     {
       "name": "火山嗅探",
       "hosts": [
@@ -3978,31 +3965,8 @@
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
-          {
-            "name": "ff",
-            "hosts": [
-                "vip.ffzy",
-                "hd.ffzy"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-	        "25.0666",
-                "25.08",
-                "20.52",
-                "25.1"   
-            ]
-        },
-        {
-            "name": "bf",
-            "hosts": [
-                "bfzy",
-                "s5.bfzycdn"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
+          
+       
          {
             "name": "hs",
             "hosts": [
