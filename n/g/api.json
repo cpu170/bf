@@ -837,6 +837,14 @@
       "searchable": 1,
       "changeable": 1
     },
+    {
+      "key": "快帆",
+      "name": "快帆",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },    
     
     {
       "key": "巴士",
