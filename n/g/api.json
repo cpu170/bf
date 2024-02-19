@@ -332,7 +332,17 @@
       "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
       "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/Auete.js"
     },   
-	
+	{
+      "key": "荐片",
+      "name": "荐片",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+    },
           
         {
             "key": "蜂鸟",
