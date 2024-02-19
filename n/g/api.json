@@ -3701,7 +3701,7 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
 		"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+" 
+                "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
 	        "25.0666",
 		"19.52",
                 "25.08",
