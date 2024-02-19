@@ -3638,7 +3638,7 @@
             "regex": [
 	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+",   
-		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"   
+		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",   
                 "15.1666",
                 "15.2666",
                 "16.333333",
