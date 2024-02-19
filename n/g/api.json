@@ -3739,6 +3739,7 @@
                 "video/tos/cn"
             ]
         },
+	    
         {
       "name": "♻️乐视",
       "hosts": [
@@ -3974,7 +3975,7 @@
             "name": "live",
             "type": 0,
             "url": "./lives/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 	    "logo": "https://epg.112114.xyz/logo/{name}.png"	
         },
         
