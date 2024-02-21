@@ -76,17 +76,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "率率",
-            "name": "🌸率率┃App",
-            "type": 3,
-            "api": "csp_AppLd",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
-        },
+        
 	 {
             "key": "萌米",
             "name": "👀萌米┃App",
@@ -2322,7 +2312,22 @@
           "YuMi-vip"
         ]
       }
-    },       
+    },  
+	 {
+      "name": "神仙解析1",
+      "type": 1,
+      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+    },
+    {
+      "name": "神仙解析2",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
+    },
+    {
+      "name": "神仙解析3",
+      "type": 1,
+      "url": "https://jx.xyflv.cc/?url="
+    },    
 	
         {
             "name": "神秘的哥哥们",
@@ -2738,7 +2743,35 @@
                 }
             }
         },
-        
+        {
+      "name": "神仙嗅探1",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
         
         
         
