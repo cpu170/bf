@@ -420,6 +420,38 @@
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"
         },
+       {
+      "key": "api_xml_搜糊",
+      "name": "️🦊┃搜糊┃影视",
+      "type": 1,
+      "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
+      "playUrl": "https://jx.777jiexi.com/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+      ]
+    },
        
         {
             "key": "49zy",
