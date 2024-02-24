@@ -1196,6 +1196,13 @@
             "filterable": 1,
             "ext": "./lib/qzys.js"
         },
+	 {
+      "key": "drpy_js_奇珍异兽",
+      "name": "无意云┃爱奇┃官源",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+      "ext": "http://alist.xn--z7x900a.live/爱奇.js"
+    },   
         {
             "key": "js_芒果",
             "name": "🥭┃芒芒┃大厂",
@@ -1206,6 +1213,13 @@
             "filterable": 1,
             "ext": "./lib/baimang.js"
         },
+	 {
+      "key": "drpy_js_百忙无果",
+      "name": "无意云┃芒果┃官源",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+    },   
         {
             "key": "js_优酷",
             "name": "👑┃油库┃大厂",
@@ -1216,6 +1230,14 @@
             "filterable": 1,
             "ext": "./lib/youku.js"
         },
+         {
+      "key": "drpy_js_优酷",
+      "name": "无意云┃优酷┃官源",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+	    
         {
             "key": "js_菜狗",
             "name": "🐕️┃菜狗┃大厂",
@@ -1226,6 +1248,13 @@
             "filterable": 1,
             "ext": "./lib/caigou.js"
         },
+	 {
+      "key": "搜狗",
+      "name": "无意云┃搜狗┃官源",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://weixine.net/js/caigou.js"
+    },   
          
            {
             "key": "腐宅",
