@@ -1232,6 +1232,13 @@
 			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "./lib/奇优影院.json"
         },
+	   {
+            "key": "drpy_js_骚火电影",
+            "name": "骚火[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/骚火电影.js"
+        },  
         
       
 	  {
