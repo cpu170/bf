@@ -1498,6 +1498,13 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/4khdr.js"
         },
+	 {
+            "key": "熊掌",
+            "name": "👉春盈┃熊掌",
+            "type": 1,
+            "api": "https://xzcjz.com/api.php/provide/vod"
+       },
+           
     
     {
       "key": "暴風",
