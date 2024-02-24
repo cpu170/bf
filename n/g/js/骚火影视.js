@@ -2,7 +2,7 @@
 var rule={
     title:'骚火影视',
     // host:'https://www.saohuotva.com',
-    host:'http://shapp.us',
+    host:'',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(2)&&href");print(src);HOST=src',
     // url:'/list/fyclass-fypage.html',
     url:'/list/fyfilter-fypage.html',
