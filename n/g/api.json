@@ -422,6 +422,7 @@
         },
 	  {"key": "豪华资源",  "name": "👉春盈┃豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,
  "categories": [
+	"伦理片",
         "内地剧",
         "香港剧",
         "欧美剧",
@@ -457,6 +458,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
+	        "伦理片",   
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -537,7 +539,7 @@
         },
        {
       "key": "api_xml_搜糊",
-      "name": "️🦊┃搜糊┃影视",
+      "name": "️🦊┃忆梦┃影视",
       "type": 1,
       "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
       "playUrl": "https://jx.777jiexi.com/player/?url=",
@@ -722,7 +724,7 @@
     },
 	{
       "key": "双黄",
-      "name": "🥚双黄┃BPQ",
+      "name": "🥚蛋蛋剧┃BPQ",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -739,7 +741,7 @@
     },
 	{
       "key": "即可",
-      "name": "👋即刻┃BPQ",
+      "name": "👋极客电影┃BPQ",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -775,6 +777,7 @@
       "filterable": 1,
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
+	"伦理片",      
         "动作片",
         "喜剧片",
         "科幻片",
@@ -819,6 +822,7 @@
       "filterable": 1,
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
+	"伦理片",      
         "动作片",
         "国产剧",
         "喜剧片",
@@ -853,6 +857,7 @@
       "filterable": 1,
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
+	"伦理片",     
         "动作片",
         "大陆剧",
         "喜剧片",
@@ -892,6 +897,7 @@
       "filterable": 1,
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
+	"伦理片",     
         "动作片",
         "国产剧",
         "喜剧片",
@@ -936,6 +942,7 @@
       "filterable": 1,
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
+	"伦理片",
         "动作片",
         "国产剧",
         "喜剧片",
@@ -1024,6 +1031,7 @@
       "filterable": 1,
       "playurl": "json:https://www.ikdmjx.com/?url=",
       "categories": [
+	"伦理片",      
         "动作片",
         "大陆剧",
         "喜剧片",
