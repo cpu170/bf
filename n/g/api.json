@@ -1963,58 +1963,10 @@
                 "ratio": 3.8
             }
         },
-        {
-            "key": "88js",
-            "name": "⚽ 88┃看球",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/88看球.js",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_qiumi",
-            "name": "⚽ Jrs┃球迷",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/jrk.js",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_310直播",
-            "name": "⚽310┃看球",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/310直播.js",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_XPath_企鹅体育",
-            "name": "🐧企鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/企鹅直播.json"
-        },
+       
+        
+       
+       
         {
             "key": "酷奇js",
             "name": "🎤酷奇┃MV",
