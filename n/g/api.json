@@ -1737,7 +1737,17 @@
       "searchable": 1,
       "filterable": 1
     },
-     
+    {
+      "key": "csp_xBPQ_麻豆映画",
+      "name": "麻豆映画",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/麻豆映画.json",
+      "jar": "./lib/Yoursmile2.jar"
+    }, 
     
     
     
