@@ -1286,7 +1286,7 @@
 {"key":"drpy_js_爱迪[V2]","name":"影视 | 爱迪[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪[V2].js"},
 {"key":"drpy_js_刺桐[V2]","name":"影视 | 刺桐[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/刺桐[V2].js"},
 {"key":"drpy_js_咕噜[V2]","name":"影视 | 咕噜[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
-{"key":"drpy_js_曲奇影视[V2]","name":"影视 | 曲奇影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/曲奇影视[V2].js"},
+
 {"key":"drpy_js_北极狐[V2]","name":"影视 | 北极狐[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/北极狐[V2].js"},
 {"key":"drpy_js_大米星球[V2]","name":"影视 | 大米星球[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球[V2].js"},
 {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奈飞狗[V2].js"},
