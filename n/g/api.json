@@ -1262,8 +1262,6 @@
 {"key":"drpy_js_4k剧院","name":"影视 | 4k剧院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4k剧院.js"},
 {"key":"drpy_js_爱迪影视","name":"影视 | 爱迪影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪影视.js"},
 {"key":"drpy_js_333影视","name":"影视 | 333影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/333影视.js"},
-{"key":"drpy_js_4KHDR","name":"磁力 | 4KHDR[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"drpy_js_MP4US","name":"磁力 | MP4电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_哔嘀影视","name":"影视 | 哔嘀影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔嘀影视.js"},
 {"key":"drpy_js_7喜影院","name":"影视 | 7喜影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/7喜影院.js"},
 {"key":"drpy_js_18哈","name":"影视 | 18哈[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/18哈.js"},
