@@ -1248,13 +1248,7 @@
             "ext": "./js/玄天.js"
         },
         
-          {
-            "key": "新视觉js",
-            "name": "新视觉[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/新视觉影视.js"
-        },
+          
         {"key":"drpy_js_秋霞影院","name":"影视 | 秋霞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞.js"},
 	{"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影先生.js"},
     {"key":"drpy_js_热播库","name":"影视 | 热播库[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/热播库.js"},    
