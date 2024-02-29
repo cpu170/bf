@@ -2701,6 +2701,22 @@
             "type": 0,
             "url": "https://vip.zykbf.com/?url="
         },         
+	 {
+            "name": "金鹰资源解析",
+            "type": 0,
+            "url": "https://hd.iapijy.com/play?url="
+        },  
+          {
+            "name": "快车资源解析",
+            "type": 0,
+            "url": "https://jiexi.kczyapi.com/m3u8/?url="
+        },  
+	 {
+            "name": "ikun资源解析",
+            "type": 0,
+            "url": "https://www.ikdmjx.com/?url="
+        },        
+
 	    
         
     {
