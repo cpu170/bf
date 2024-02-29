@@ -1589,6 +1589,7 @@
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "searchable": 1,
+      "quickSearch": 1,       
       "filterable": 1,    
       "playurl": "json:https://vip.zykbf.com/?url="      
     },
