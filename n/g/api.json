@@ -1807,7 +1807,7 @@
       "key": "hdzyk.com",
       "name": "优质资源库",
       "type": 1,
-      "api": "https://api.1080zyku.com/api.php/provide/vod/",
+      "api": "https://api.1080zyku.com/inc/apijson.php",
       "searchable": 1,
       "filterable": 1
     },
