@@ -1765,15 +1765,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "apittzy.com",
-      "name": "成人47",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-	    
+   
     
     
      {
@@ -1812,10 +1804,10 @@
       "jar": "./lib/Yoursmile2.jar"
     }, 
     {
-      "key": "lbapi9.com",
-      "name": "91麻豆",
+      "key": "hdzyk.com",
+      "name": "优质资源库",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/at/xml",
+      "api": "https://api.1080zyku.com/inc/api_all.php",
       "searchable": 1,
       "filterable": 1
     },
