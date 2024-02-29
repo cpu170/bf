@@ -2689,6 +2689,21 @@
              "type": 0,
             "url": "https://vip.zykbf.com/?url="
     },
+	{
+            "name": "暴风播放器解析",
+            "type": 0,
+            "url": "https://bfzyplayer.com/player/?url="
+        },  
+	 {
+            "name": "虎牙解析",
+            "type": 0,
+            "url": "https://huyajx.com/play/?url="
+        }, 
+	   {
+            "name": "zyk播放器解析",
+            "type": 0,
+            "url": "https://vip.zykbf.com/?url="
+        },         
 	    
         
     {
