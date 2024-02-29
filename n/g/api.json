@@ -1811,11 +1811,11 @@
       "ext": "./lib/麻豆映画.json",
       "jar": "./lib/Yoursmile2.jar"
     }, 
-     {
-      "key": "apittzy.com",
-      "name": "最新探探",
+    {
+      "key": "lbapi9.com",
+      "name": "91麻豆",
       "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+      "api": "https://91md.me/api.php/provide/vod/at/xml",
       "searchable": 1,
       "filterable": 1
     },
