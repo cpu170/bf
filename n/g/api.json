@@ -1807,7 +1807,7 @@
       "key": "hdzyk.com",
       "name": "优质资源库",
       "type": 1,
-      "api": "https://api.1080zyku.com/inc/api_all.php",
+      "api": "https://api.1080zyku.com/inc/ldg_api.php",
       "searchable": 1,
       "filterable": 1
     },
