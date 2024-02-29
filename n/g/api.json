@@ -1583,7 +1583,7 @@
       "searchable": 1,
       "changeable": 1
     },
-       {
+    {
       "key": "hdzyk.com",
       "name": "优质资源库",
       "type": 1,
@@ -1594,7 +1594,27 @@
       "filterable": 1   
      
     },
-    
+      {
+      "key": "jyzyapi.com",
+      "name": "金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+      "playurl": "json:https://hd.iapijy.com/play?url=",        
+      "searchable": 1,
+      "quickSearch": 1,       
+      "filterable": 1   
+     
+    },    
+    {
+      "key": "sdzyapi.com",
+      "name": "闪电资源",
+      "type": 1,
+      "api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",       
+      "searchable": 1,
+      "quickSearch": 1,       
+      "filterable": 1   
+     
+    },    
     
        
         
