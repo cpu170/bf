@@ -1773,6 +1773,7 @@
       "searchable": 1,
       "filterable": 1
     },
+	    
     
     
      {
@@ -1810,7 +1811,14 @@
       "ext": "./lib/麻豆映画.json",
       "jar": "./lib/Yoursmile2.jar"
     }, 
-    
+     {
+      "key": "apittzy.com",
+      "name": "最新探探",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "filterable": 1
+    },
     
     
      
