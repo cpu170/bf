@@ -1583,16 +1583,14 @@
       "searchable": 1,
       "changeable": 1
     },
-      {
-            "key": "csp_XYQHiker_电影港",
-            "name": "🧲电影港(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电影港磁力.json"
-        },
+       {
+      "key": "hdzyk.com",
+      "name": "优质资源库",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "filterable": 1
+    },
     
     
        
@@ -1803,14 +1801,7 @@
       "ext": "./lib/麻豆映画.json",
       "jar": "./lib/Yoursmile2.jar"
     }, 
-    {
-      "key": "hdzyk.com",
-      "name": "优质资源库",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php",
-      "searchable": 1,
-      "filterable": 1
-    },
+    
     
     
      
