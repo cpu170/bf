@@ -332,16 +332,7 @@
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
         },
-        {
-            "key": "极光",
-            "name": "🦄️极光┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg=="
-        },
+        
         
        
         {
@@ -592,17 +583,7 @@
       "quickSearch": 1,
       "changeable": 0
     },
-	{
-      "key": "亮亮",
-      "name": "💡主源┃无广",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+	
 	 {
       "key": "Auete",
       "name": "🏂奥特┃直连",
@@ -687,20 +668,7 @@
         "搜索模式": "0"
       }
     },
-	{
-      "key": "茶杯",
-      "name": "🍵茶杯┃BPQ",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-        "请求头": "手机#Referer$https://www.cupfox1.cc",
-        "分类url": "https://cupfox1.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-        "标题": "movie-title txtHide\"*>&&</div",
-        "副标题": "豆瓣评分+div class=\"movie-rating cor4\">&&</div>",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4"
-      }
+	
     },
 	{
       "key": "csp_xml_百度",
