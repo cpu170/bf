@@ -266,17 +266,7 @@
       "filterable": 1,
       "ext": "https://www.80yy3.com/"
     },   
-     {
-      "key": "二懒影视",
-      "name": "🏍️┃二懒┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://dy.yuzhoukeji.top/api.php/app/",
-      "playerType": 1
-    },
+     
      {
       "key": "酷影视",
       "name": "APP | 酷影视",
