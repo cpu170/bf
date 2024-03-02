@@ -1288,7 +1288,13 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/追剧迷.js"
         },
-
+         {
+            "key": "drpy_js_Auete",
+            "name": "影视 | Auete[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/Auete.js"
+        },
 	    
 	    
         
