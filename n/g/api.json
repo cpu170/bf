@@ -1357,7 +1357,80 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/网易公版影像.js"
+        }, 
+          {
+            "key": "drpy_js_996影视",
+            "name": "影视 | 996影视[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/996影视.js"
+        },
+	 {
+            "key": "drpy_js_NY影院",
+            "name": "影视 | NY影院[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/NY影院.js"
+        },
+	  {
+            "key": "drpy_js_超前点播",
+            "name": "影视 | 超前点播[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/超前点播.js"
+        }, 
+          {
+            "key": "drpy_js_碟调影视",
+            "name": "影视 | 碟调影视[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/碟调影视.js"
+        },
+	   {
+            "key": "drpy_js_金曼影视",
+            "name": "影视 | 金曼影视[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/金曼影视.js"
+        },
+	 {
+            "key": "drpy_js_看BZ影视",
+            "name": "影视 | 看BZ影视[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/看BZ影视.js"
+        },   
+         {
+            "key": "drpy_js_米宝影院",
+            "name": "影视 | 米宝影院[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/米宝影院.js"
+        },
+	  {
+            "key": "drpy_js_视中影视",
+            "name": "影视 | 视中影视[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/视中心影视.js"
         },  
+	  {
+            "key": "drpy_js_西瓜影视",
+            "name": "影视 | 西瓜影视[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/西瓜影视.js"
+        },
+	 {
+            "key": "drpy_js_子子影视",
+            "name": "影视 | 子子影视[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/子子影视.js"
+        },   
+
+
+	    
 	    
 	    
 	    
