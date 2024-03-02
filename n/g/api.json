@@ -2265,7 +2265,7 @@
             "changeable": 0,
             "ext": "./json/MTV.json"
         },
-        {"key": "drpy_js_JustLive","name": "直播 | JustLive[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/JustLive.js"},
+      
 
 	    
         {
