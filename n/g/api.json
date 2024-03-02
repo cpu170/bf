@@ -1872,6 +1872,14 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/Anime1动畫.js"
         },
+	   {
+            "key": "drpy_js_爱上你听书网",
+            "name": "听书 | 爱上你听书网[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/爱上你听书网.js",
+            "playerType": "2"
+        },   
 
 
 
