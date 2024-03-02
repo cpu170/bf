@@ -1274,6 +1274,14 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/曲奇影视[V2].js"
         },
+         {
+            "key": "drpy_js_影渣渣",
+            "name": "影视 | 影渣渣[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/影渣渣.js"
+        },
+	    
         
         
         {
