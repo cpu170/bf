@@ -1290,11 +1290,20 @@
         },
          {
             "key": "drpy_js_Auete",
-            "name": "影视 | Auete[js]",
+            "name": "影视 | Auete2[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/Auete.js"
         },
+         {
+            "key": "drpy_js_LIBVIO",
+            "name": "影视 | LIBVIO[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/LIBVIO.js"
+        },
+
+	    
 	    
 	    
         
