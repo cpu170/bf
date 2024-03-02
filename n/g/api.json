@@ -1281,6 +1281,15 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/影渣渣.js"
         },
+         {
+            "key": "drpy_js_追剧迷",
+            "name": "影视 | 追剧迷[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/追剧迷.js"
+        },
+
+	    
 	    
         
         
