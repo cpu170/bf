@@ -1803,6 +1803,81 @@
             "changeable": 1
         },
          {
+            "key": "drpy_js_AnFuns",
+            "name": "动漫 | AnFuns[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/AnFuns.js"
+        },
+        {
+            "key": "drpy_js_NyaFun",
+            "name": "动漫 | NyaFun[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/NyaFun.js"
+        },
+{
+            "key": "drpy_js_NT动漫",
+            "name": "动漫 | NT动漫[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/NT动漫.js"
+        },
+{
+            "key": "drpy_js_去看吧",
+            "name": "动漫 | 去看吧[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/去看吧.js"
+        },
+{
+            "key": "drpy_js_曲奇动漫",
+            "name": "动漫 | 曲奇动漫[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/曲奇动漫.js"
+        },
+{
+            "key": "drpy_js_奇米动漫",
+            "name": "动漫 | 奇米动漫[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/奇米动漫.js"
+        },
+{
+            "key": "drpy_js_怡萱动漫",
+            "name": "动漫 | 怡萱动漫[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/怡萱动漫.js"
+        },
+{
+            "key": "drpy_js_异世界动漫",
+            "name": "动漫 | 异世界动漫[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/异世界动漫.js"
+        },
+{
+            "key": "drpy_js_AGE动漫",
+            "name": "动漫 | AGE动漫[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/AGE动漫.js"
+        },
+{
+            "key": "drpy_js_Anime1动畫",
+            "name": "动漫 | Anime1动畫[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/Anime1动畫.js"
+        },
+
+
+
+
+	    
+         {
             "key": "csp_Yj1211",
             "name": "📽️网红┃直播",
             "type": 3,
@@ -2182,6 +2257,9 @@
             "changeable": 0,
             "ext": "./json/MTV.json"
         },
+        {"key": "drpy_js_JustLive","name": "直播 | JustLive[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/JustLive.js"},
+
+	    
         {
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
@@ -2241,12 +2319,7 @@
             "changeable": 0
         },    
         
-	{
-            "key": "drpy_js_lf_p2p",
-            "name": "影视 | lf_p2p[js]",
-            "type": 3,
-            "api": "./api/lf_p2p1_min.js"
-        },
+	
         {
             "key": "YiSo",
             "name": "😹易搜┃搜索",
