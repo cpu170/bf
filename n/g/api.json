@@ -1184,11 +1184,11 @@
     },
 	    
         
-          
-        {"key":"drpy_js_秋霞影院","name":"影视 | 秋霞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞.js"},
-	 {"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影先生.js"},
-    {"key":"drpy_js_热播库","name":"影视 | 热播库[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/热播库.js"},    
-        {"key":"drpy_js_蛋蛋剧","name":"影视 | 蛋蛋剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蛋蛋剧.js"},
+{"key": "drpy_js_南瓜影视","name": "影视 | 南瓜影视[js]","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},        
+{"key":"drpy_js_秋霞影院","name":"影视 | 秋霞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞.js"},
+{"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影先生.js"},
+{"key":"drpy_js_热播库","name":"影视 | 热播库[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/热播库.js"},    
+{"key":"drpy_js_蛋蛋剧","name":"影视 | 蛋蛋剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蛋蛋剧.js"},
 {"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/B站影视.js"},
 {"key":"drpy_js_凌云影视","name":"影视 | 凌云影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/凌云影视.js"},
 {"key":"drpy_js_我爱跟剧","name":"影视 | 我爱跟剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我爱跟剧.js"},
@@ -1309,7 +1309,13 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/Voflix.js"
         },
-	    
+	  {
+            "key": "drpy_js_两个BT",
+            "name": "影视 | 两个BT[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/两个BT.js"
+        },  
 	    
 	    
         
