@@ -1727,6 +1727,16 @@
       "quickSearch": 1,       
       "filterable": 1   
      
+    },   
+     {
+      "key": "taopianzy.com",
+      "name": "淘片资源网",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",       
+      "searchable": 1,
+      "quickSearch": 1,       
+      "filterable": 1   
+     
     },        
     
        
