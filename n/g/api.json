@@ -2020,6 +2020,17 @@
       "ext": "./lib/麻豆映画.json",
       "jar": "./lib/Yoursmile2.jar"
     }, 
+    {
+      "key": "apiyutu.com",
+      "name": "玉兔资源库",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+      "playurl": "json:https://yutujx.com/?url=",        
+      "searchable": 1,
+      "quickSearch": 1,       
+      "filterable": 1   
+     
+    },    
     
     
     
