@@ -13,7 +13,7 @@ var rule = {
     timeout: 5000,
     limit: 6,
     url: '/api.php/provide/vod?ac=detail&t=fyclass&pg=fypage&f=',
-    class_name: '国产剧&伦理剧&香港剧&韩国剧&动作片&剧情片&喜剧片&爱情片&国产动漫',
+    class_name: '国产剧&香港剧&韩国剧&动作片&剧情片&喜剧片&爱情片&国产动漫&伦理剧',
     class_url: '13&14&15&6&11&7&8&29&34',
     推荐: 'json:list;vod_name;vod_pic;vod_remarks;vod_id', // double: true, // 推荐内容是否双层定位
     // 一级: 'json:list;vod_name;vod_pic;vod_remarks;vod_id',
