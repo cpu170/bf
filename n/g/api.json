@@ -1737,6 +1737,17 @@
       "quickSearch": 1,       
       "filterable": 1   
      
+    },  
+    {
+      "key": "kuaiyun-api.",
+      "name": "快云资源网",
+      "type": 1,
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/",
+      "playurl": "json:https://www.kuaiyunplayer.com/dplayer/?url=",        
+      "searchable": 1,
+      "quickSearch": 1,       
+      "filterable": 1   
+     
     },        
     
        
