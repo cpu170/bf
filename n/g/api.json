@@ -497,7 +497,7 @@
        
         {
             "key": "49zy",
-            "name": "🦁┃49┃资源",
+            "name": "🦁┃狮鹫┃资源",
             "type": 1,
             "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
 	    "playUrl": "json:https://49zyplayerurl.com/?url=",
