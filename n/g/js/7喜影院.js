@@ -21,9 +21,9 @@ var rule={
         2:{cateId:'2'},
         3:{cateId:'3'},
         4:{cateId:'4'},
-        5:{cateId:'57'}
+        5:{cateId:'5'}
     },
-    class_name:'电影&电视剧&综艺&动漫&4k',
+    class_name:'电影&电视剧&综艺&动漫',
     class_url:'1&2&3&4&5',
     detailUrl:'/voddetail/fyid.html',
     推荐:'.list-vod .public-list-box;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
