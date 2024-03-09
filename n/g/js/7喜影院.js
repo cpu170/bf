@@ -21,7 +21,7 @@ var rule={
         2:{cateId:'2'},
         3:{cateId:'3'},
         4:{cateId:'4'},
-        5:{cateId:'5'}
+        5:{cateId:'57'}
     },
     class_name:'电影&电视剧&综艺&动漫&4k',
     class_url:'1&2&3&4&5',
