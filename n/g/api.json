@@ -319,7 +319,19 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
-    
+      {
+            "key": "2聚合",
+            "name": "💖分享遇见",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 2,
+            "filterable": 1,
+            "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+        },    
+{"key":"雨晴","name":"💖分享晴天","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},	    
+
+	    
    
           
         {
