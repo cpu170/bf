@@ -899,10 +899,10 @@
         "海外剧"
       ]
     },  
-       {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
-        {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-	 {"key":"飞速资源","name":"飞速资源","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
-         {"key":"1080资源库","name":"1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
+       {"key":"八戒资源","name":"🎦八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
+        {"key":"U酷资源","name":"🎦U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	 {"key":"飞速资源","name":"🎦飞速资源","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+         {"key":"1080资源库","name":"🎦1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 	    
 	{
       "key": "csp_xml_爱坤",
@@ -958,7 +958,7 @@
          
         {
             "key": "csp_beijihu",
-            "name": "视频大全mxone",
+            "name": "🎦视频大全mxone",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1467,7 +1467,7 @@
         },
 	 {
       "key": "drpy_js_奇珍异兽",
-      "name": "无意云┃爱奇┃官源",
+      "name": "┃爱奇┃官源",
       "type": 3,
       "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.live/爱奇.js"
@@ -1484,7 +1484,7 @@
         },
 	 {
       "key": "drpy_js_百忙无果",
-      "name": "无意云┃芒果┃官源",
+      "name": "┃芒果┃官源",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
@@ -1519,7 +1519,7 @@
         },
 	 {
       "key": "搜狗",
-      "name": "无意云┃搜狗┃官源",
+      "name": "┃搜狗┃官源",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
       "ext": "https://weixine.net/js/caigou.js"
