@@ -137,16 +137,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "Lib",
-            "name": "🌟利播┃直连",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.fun/"
-        },
+        
         {
             "key": "Auete",
             "name": "🏝奥特┃直连",
