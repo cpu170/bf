@@ -145,7 +145,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.la/"
+            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "Auete",
@@ -1106,7 +1106,7 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/骚火电影.js"
         },  
-        {"key":"卧龙资源","name":"🐰春盈┃卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+        {"key":"卧龙资源","name":"🐰┃卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
       
 	  {
       "key": "saohuo",
