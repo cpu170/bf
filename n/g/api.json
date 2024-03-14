@@ -1536,7 +1536,15 @@
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
-        
+        {
+          "key": "追剧",
+           "name": "追剧吧",
+           "type": 1,
+           "api": "https://zjuba.vip//api.php/provide/vod/",
+            "playUrl": "",
+           "searchable": 1,
+          "quickSearch": 1
+    },
        
         
        
