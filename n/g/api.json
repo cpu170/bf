@@ -1574,30 +1574,7 @@
       "changeable": 0,
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
-{"key":"suy","name":"👑速映影视👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/gxrpsK/%E9%80%9F%E6%98%A0%E5%BD%B1%E9%99%A2.json"},    
-{"key":"月亮","name":"👑月亮影视👑",
-"type":3,"playerType":1,
-"api":"csp_XBPQ",
-"searchable":1,
-"filterable":1,
-"quickSearch":1,
- "ext":{
-    "免嗅": "0",
-    "分类url":"https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类":"电视剧$2#电影$1#综艺$3#动漫$4",
-    "数组": "class=\"pack-packcover returl list-top-b\">&&pack-infolist",
-    "标题":"title=\"&&\"",
-    "副标题":"pack-prb hidden\">&&</span>",
-    "图片":"data-original=\"&&\"",
-    "链接":"href=\"&&\"",
-    "简介":"id=\"cText\">&&</a>",
-    "线路数组":"channelname swiper-slide\">&&</a>",
-    "线路标题":"&nbsp;&&<[排序:腾讯>奇艺>优酷>芒果TV>搜狐>其它][不包含:超高清专用]"}
-},
-{"key": "耐看","name": "👑耐看影视👑","type": 3,
-      "searchable": 1,"api": "csp_XBPQ","ext": {"分类数组": "swiper-wrapper\"*&&</ul>","线路数组": "data-dropdown-value=&&</div>",
-"线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集","分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"}},	    
-{"key":"zp","name":"👑臻品影视👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/JPlEUk/%E8%87%BB%E5%93%81%E7%94%B5%E5%BD%B1.json"},    
+   	       
 {"key":"零柒",
         "name":"👑零柒影视👑",
         "type":1,
@@ -1608,7 +1585,7 @@
         "filterable":1,
         "categories":["国产动漫","电影","连续剧","国产剧","香港剧","韩国剧","欧美剧","动作","喜剧","爱情","科幻","古装片","历史片","大陆综艺","港台综艺","日韩综艺","动画","欧美动漫","日本动漫"]
         }, 
-{"key": "csp_七新影视","name":"👑七新影视👑","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/orAmhY/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"},    
+
 	    
         
        
