@@ -638,53 +638,7 @@
           "searchable": 1,
           "quickSearch": 1,
            "categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","伦理片","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
-        {"key":"可可","name":"👑可可影视👑","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"quickSearch":1,
-    "ext":  {
-     
-    "作者":"荷城茶秀",  
-    "站名":"可可影视",
-    
-    "主页url":"https://www.keke6.app/",
-    
-    "简介":"<p>&&</p>",
-    
-    "导演":"导演:</div>&&</div>",
-    
-    "主演":"演员:</div>&&</div>",
-    
-    "影片状态":"备注:</div>&&</div>",
-    
-    "影片类型":"detail-tags fs-margin-top fs-margin-bottom\"&&</div>",
-    
-    "数组":"module-item\">&&/span>",
-    
-    "标题":"title=\"&&\"",
-    
-    "副标题":"<span>&&<",
-    
-    "图片":"data-original=\"&&\"",
-    
-    "链接":"href=\"&&\"",
-    
-    "搜索url":"/search?os=pc&k={wd}",
-    
-    "搜索数组":"search-result-list fs-margin-section\">&&search-result-item-main\">",
-    
-    "搜索标题":"title=\"&&\"",
-    
-    "搜索副标题":"夜猫子",
-    
-    "搜索图片":"src=\"&&\"",
-    
-    "搜索链接":"href=\"&&\"",
-    
-    "线路数组":"<span class=\"source-item-label\"&&/span>[排序:独家>独家1>独家2>独家3>蓝光1>蓝光2>蓝光2-1>蓝光2-2>蓝光3>蓝光8>蓝光7>FF线路>XL线路>HN线路>SB线路][不包含:YH线路]",   
-    "线路标题":">&&<",  
-    "分类url":"https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;ak",
-    
-    "分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}
-},
-
+       
 
 	    
 	
@@ -1609,10 +1563,52 @@
             "changeable": 0,
             "ext": true
      },    
-
-
-
-
+      {
+      "key": "地瓜",
+      "name": "👑地瓜影视👑",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
+{"key":"suy","name":"👑速映影视👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/gxrpsK/%E9%80%9F%E6%98%A0%E5%BD%B1%E9%99%A2.json"},    
+{"key":"月亮","name":"👑月亮影视👑",
+"type":3,"playerType":1,
+"api":"csp_XBPQ",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+ "ext":{
+    "免嗅": "0",
+    "分类url":"https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类":"电视剧$2#电影$1#综艺$3#动漫$4",
+    "数组": "class=\"pack-packcover returl list-top-b\">&&pack-infolist",
+    "标题":"title=\"&&\"",
+    "副标题":"pack-prb hidden\">&&</span>",
+    "图片":"data-original=\"&&\"",
+    "链接":"href=\"&&\"",
+    "简介":"id=\"cText\">&&</a>",
+    "线路数组":"channelname swiper-slide\">&&</a>",
+    "线路标题":"&nbsp;&&<[排序:腾讯>奇艺>优酷>芒果TV>搜狐>其它][不包含:超高清专用]"}
+},
+{"key": "耐看","name": "👑耐看影视👑","type": 3,
+      "searchable": 1,"api": "csp_XBPQ","ext": {"分类数组": "swiper-wrapper\"*&&</ul>","线路数组": "data-dropdown-value=&&</div>",
+"线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集","分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"}},	    
+{"key":"zp","name":"👑臻品影视👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/JPlEUk/%E8%87%BB%E5%93%81%E7%94%B5%E5%BD%B1.json"},    
+{"key":"零柒",
+        "name":"👑零柒影视👑",
+        "type":1,
+        "api":"http://xzcjz.com/api.php/provide/vod/at/json",
+        "searchable":1,
+        "changeable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "categories":["国产动漫","电影","连续剧","国产剧","香港剧","韩国剧","欧美剧","动作","喜剧","爱情","科幻","古装片","历史片","大陆综艺","港台综艺","日韩综艺","动画","欧美动漫","日本动漫"]
+        }, 
+{"key": "csp_七新影视","name":"👑七新影视👑","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/orAmhY/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"},    
 	    
         
        
