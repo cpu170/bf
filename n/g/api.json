@@ -1553,6 +1553,17 @@
       "quickSearch": 1,
       "filterable": 0
     },    
+     {
+            "key": "唐三",
+            "name": "👑唐影视👑",
+            "type": 4,
+            "api": "https://tang.serv00.net/power/ub1818",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+},    
        
         
        
