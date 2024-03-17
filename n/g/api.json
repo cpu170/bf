@@ -2032,6 +2032,17 @@
       "quickSearch": 0,
       "filterable": 0
     },
+      {
+      "key": "siwa",
+      "name": "丝袜海外资源",
+      "type": 1,
+      "api": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json/",
+      "playurl": "json:https://help.siwazywcdn2.com:5278/m3u8.php?url=",      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
 	    
     
     
