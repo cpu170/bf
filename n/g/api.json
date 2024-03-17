@@ -2282,7 +2282,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
+     {
+      "key": "dd",
+      "name": "滴滴",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 
 	    
 
