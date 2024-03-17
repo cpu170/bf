@@ -2025,11 +2025,12 @@
     },  
      {
       "key": "鸡坤资源",
-      "name": "鸡坤资源",
+      "name": "jkun资源",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
+      "playurl": "https://www.jkunjx.com/?url=",     
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
       {
