@@ -2246,7 +2246,7 @@
       "name": "老色逼资源",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-      "playurl": "json:https://playlaosebi.com/?url=",        
+      "playurl": "https://playlaosebi.com/?url=",        
       "searchable": 1,
       "quickSearch": 1,       
       "filterable": 1   
@@ -2257,7 +2257,7 @@
       "name": "森林资源",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
-      "playurl": "json:https://sljxsl.com/?url=",        
+      "playurl": "https://sljxsl.com/?url=",        
       "searchable": 1,
       "quickSearch": 1,       
       "filterable": 1   
@@ -2277,11 +2277,21 @@
       "name": "jkun资源",
       "type": 1,
       "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
-      "playurl": "json:https://www.jkunjx.com/?url=",
+      "playurl": "https://www.jkunjx.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
+    {
+      "key": "tolong",
+      "name": "橘猫资源",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://to.to-long.com/bo/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },    
+	    
      {
       "key": "dd",
       "name": "滴滴",
