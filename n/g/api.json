@@ -2024,7 +2024,7 @@
      
     },  
      {
-      "key": "鸡坤资源",
+      "key": "jkzy",
       "name": "jkun资源",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
@@ -2274,16 +2274,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-     {
-      "key": "jkun",
-      "name": "jkun资源",
-      "type": 1,
-      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
-      "playurl": "https://www.jkunjx.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+     
     {
       "key": "tolong",
       "name": "橘猫资源",
