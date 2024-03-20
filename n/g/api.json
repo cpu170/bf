@@ -2747,7 +2747,11 @@
          "type": 0,
          "url": "https://jx.yangtu.top/?url="
        },   
-
+        {
+            "name": "爱豆",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url="
+        }, 
 
 
 
@@ -2798,21 +2802,8 @@
         ]
       }
     },  
-	 {
-      "name": "神仙解析1",
-      "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
-    },
-    {
-      "name": "神仙解析2",
-      "type": 1,
-      "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
-    },
-    {
-      "name": "神仙解析3",
-      "type": 1,
-      "url": "https://jx.xyflv.cc/?url="
-    },    
+	
+   
 	
         {
             "name": "神秘的哥哥们",
@@ -2966,11 +2957,7 @@
             }
         },
 	 
-        {
-            "name": "战狼",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url="
-        },
+       
         {
             "name": "ok",
             "type": 0,
