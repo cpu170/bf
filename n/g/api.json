@@ -2695,59 +2695,7 @@
 		"type": 3,
 		"url": "Demo"
 	},
-	{
-            "name": "精准1",
-            "type": 0,
-            "url": "https://jx.xyflv.cc/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-                    "referer": "https://www.xyflv.cc/"
-                }
-            }
-        },
-	    {
-            "name": "精准2",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },
-	{"name":"解析1","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
-        {"name":"解析2","type":1,"url":"https://api.cygc.xyz/analysis/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},    
-	{"name":"解析5","type":1,"url":"https://im1907.top/?jx="},   
-	{"name":"解析9","type":1,"url":"https://www.mtosz.com/m3u8.php?url="},   
-        {"name":"解析10","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
-        {"name":"解析11","type":1,"url":"https://www.8090g.cn/?url="},
-        {"name":"解析12","type":1,"url":"https://api.qianqi.net/vip/?url="},
-        {"name":"解析13","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url="},
-        {"name":"解析14","type":1,"url":"https://www.administratorw.com/video.php?url="},
-        {"name":"解析15","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
-        {"name":"解析16","type":1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},   
-        {"name":"解析17","type":1,"url":"https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="},
-        {"name":"解析18","type":0,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
-        {"name":"解析20","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
-        {"name":"解析21","type":1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-        {"name":"解析22","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
-
-
-
-
-	    
-	  {
-            "name": "小种嗅探",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        }, 
-	 {
-            "name": "滇红嗅探",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },  
-	 {
+        {
       "name": "肥猫宝贝",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
@@ -2782,6 +2730,40 @@
         ]
       }
     },   
+    
+	
+	    {
+            "name": "精准2",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+	 },
+	 {
+         "name": "点这个好用",
+         "type": 0,
+         "url": "https://jx.yangtu.top/?url="
+       },   
+
+
+
+
+	    
+	  {
+            "name": "小种嗅探",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        }, 
+	 {
+            "name": "滇红嗅探",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },  
+	 
         {
       "name": "肥猫最可爱",
       "type": 1,
@@ -3034,7 +3016,22 @@
             "type": 0,
             "url": "https://www.ikdmjx.com/?url="
         },        
+        {
+            "name": "精准1",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                    "referer": "https://www.xyflv.cc/"
+                }
+            }
+        },
 
+
+
+
+	    
 	    
         
     {
@@ -3381,7 +3378,22 @@
                     "芒果视频",
                     "乐视视频"
                     ],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
-        
+         {"name":"解析1","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+        {"name":"解析2","type":1,"url":"https://api.cygc.xyz/analysis/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},    
+	{"name":"解析5","type":1,"url":"https://im1907.top/?jx="},   
+	{"name":"解析9","type":1,"url":"https://www.mtosz.com/m3u8.php?url="},   
+        {"name":"解析10","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+        {"name":"解析11","type":1,"url":"https://www.8090g.cn/?url="},
+        {"name":"解析12","type":1,"url":"https://api.qianqi.net/vip/?url="},
+        {"name":"解析13","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+        {"name":"解析14","type":1,"url":"https://www.administratorw.com/video.php?url="},
+        {"name":"解析15","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
+        {"name":"解析16","type":1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},   
+        {"name":"解析17","type":1,"url":"https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="},
+        {"name":"解析18","type":0,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
+        {"name":"解析20","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
+        {"name":"解析21","type":1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+        {"name":"解析22","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},        
         
         
         
