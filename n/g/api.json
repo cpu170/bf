@@ -2677,11 +2677,7 @@
     "parses": [
         
 
-	{
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, 
+	
 	
         {
             "name": "Json轮询",
@@ -2695,6 +2691,15 @@
 		"type": 3,
 		"url": "Demo"
 	},
+        {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	}, 
+
+
+
+	    
         {
       "name": "肥猫宝贝",
       "type": 1,
