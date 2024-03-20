@@ -2685,14 +2685,14 @@
 	
         {
             "name": "Json轮询",
-            "type": 3,
+            "type": 2,
             "url": "Sequence"
         },
         
         
         {
 		"name": "Json聚合",
-		"type": 3,
+		"type": 2,
 		"url": "Demo"
 	},
         {
@@ -2741,7 +2741,7 @@
                     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
-        
+            },
 	 },
 	 {
          "name": "点这个好用",
