@@ -4809,6 +4809,8 @@
             ],
             "regex": [
 	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                     "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+",   
 		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",   
                 "15.1666",
@@ -4854,6 +4856,7 @@
             ],
             "regex": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		   "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",   
                 "18.5333",
                 "19.52"
@@ -4872,6 +4875,7 @@
             "regex": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",  
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		     "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
 		"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
@@ -5102,6 +5106,7 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",                
 		"#EXT-X-DISCONTINUITY[\\s\\S]+?#EXT-X-DISCONTINUITY",    
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
