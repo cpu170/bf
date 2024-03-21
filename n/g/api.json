@@ -2701,6 +2701,14 @@
 		"type": 3,
 		"url": "Demo"
 	},
+	    
+         {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },    
+
+	    
          {
             "name": "精准2",
             "type": 0,
@@ -2716,63 +2724,32 @@
          "type": 0,
          "url": "https://jx.aidouer.net/?url="
        },   
-        
-         
-
-
-
-
-
-
-
+        {
+            "name": "777嗅探",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },  
+            
+	 {
+         "name": "点这个好用",
+         "type": 0,
+         "url": "https://jx.yangtu.top/?url="
+       }, 
+        {
+            "name": "杰森",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        }, 
+         {
+      "name": "咸鱼解析",
+      "type": 0,
+      "url": "https://jx.xyflv.cc/?url="
+    },    
 
 
 
 
 	    
-        {
-      "name": "肥猫宝贝",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },   
-    
-	
-	   
-	 {
-         "name": "点这个好用",
-         "type": 0,
-         "url": "https://jx.yangtu.top/?url="
-       },   
         
    
     
@@ -2825,20 +2802,43 @@
                 }
             }
         },
-
-
-	    
-	  {
-            "name": "杰森",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        }, 
-	 {
-            "name": "滇红嗅探",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },  
-	 
+	
+          {
+      "name": "肥猫宝贝",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },   
+ 
         {
       "name": "肥猫最可爱",
       "type": 1,
@@ -2880,11 +2880,7 @@
       "type": 1,
       "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
     },
-    {
-      "name": "咸鱼解析",
-      "type": 1,
-      "url": "https://jx.xyflv.cc/?url="
-    },    
+   
 	
         {
             "name": "神秘的哥哥们",
@@ -2940,11 +2936,7 @@
         ]
       }
     },
-    {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },    
+   
     {
             "name": "巧技",
             "type": 0,
