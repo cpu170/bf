@@ -2716,7 +2716,49 @@
          "type": 1,
          "url": "https://jx.aidouer.net/?url="
        },   
-
+        {
+            "name": "观音解析",
+            "type": 1,
+            "url": "http://61.147.93.21:8090/index.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ]
+            }
+        },
 
 
 
@@ -2848,7 +2890,7 @@
 
 	    
 	  {
-            "name": "小种嗅探",
+            "name": "杰森",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         }, 
@@ -3113,7 +3155,14 @@
                 }
             }
         },
-
+          {
+            "name": "星辰云解析",
+            "type": 1,
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
 
 
 
@@ -3192,7 +3241,7 @@
       }
     },
      {
-            "name": "普洱嗅探",
+            "name": "bozrc",
             "url": "https://jx.bozrc.com:4433/player/?url=",
             "type": 0,
             "ext": {
@@ -3280,7 +3329,7 @@
             }
         },
         {
-            "name": "精准4",
+            "name": "jyparse1",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
@@ -4403,7 +4452,7 @@
       }
     },
     {
-      "name": "cod",
+      "name": "kskl",
       "type": 0,
       "url": "https://ksksl.codjx.com/?url="
     },
@@ -4446,7 +4495,7 @@
       "url": "http://vip.26db.cn/g/?url="
     },
     {
-      "name": "看看",
+      "name": "jx",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
