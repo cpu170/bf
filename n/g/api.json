@@ -2681,7 +2681,7 @@
 	
         {
             "name": "Json轮询",
-            "type": 2,
+            "type": 3,
             "url": "Sequence"
         },
         
@@ -2783,7 +2783,7 @@
 
 	    
 	  {
-            "name": "小种嗅探",
+            "name": "杰森嗅探",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         }, 
@@ -4292,7 +4292,18 @@
                 "document.getElementsByClassName('vjs-big-play-button')[0].click()"
             ]
         },    
-   
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+            ]
+        },
     
     
    
