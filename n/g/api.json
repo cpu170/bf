@@ -2703,7 +2703,7 @@
 	},
          {
             "name": "精准2",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
                 "header": {
@@ -2733,7 +2733,7 @@
 	    
         {
       "name": "肥猫宝贝",
-      "type": 1,
+      "type": 0,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
         "flag": [
@@ -2768,16 +2768,7 @@
     },   
     
 	
-	    {
-            "name": "精准2",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }  
-	 },
+	   
 	 {
          "name": "点这个好用",
          "type": 0,
