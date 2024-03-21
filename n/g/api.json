@@ -2753,22 +2753,7 @@
         
    
     
-    {
-      "name":"麒麟",
-      "type":0,
-      "url":"https://www.cygqw.com/jiexi/jiekou-2/?url="
-    },
-    
-    {
-      "name":"高速接口",
-      "url":"https://jsap.attakids.com/?url=",
-      "showType":3
-    },
-    {
-      "name":"综合/B站",
-      "url":"https://jx.bozrc.com:4433/player/?url=",
-      "showType":3
-    },
+   
       {
             "name": "爱酷🌾",
             "type": 1,
