@@ -2696,7 +2696,18 @@
 		"type": 3,
 		"url": "Web"
 	}, 
+        {
+            "name": "爱豆",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url="
+        }, 
 
+
+
+
+
+
+	    
 
 
 	    
@@ -2752,11 +2763,7 @@
          "type": 0,
          "url": "https://jx.yangtu.top/?url="
        },   
-        {
-            "name": "爱豆",
-            "type": 0,
-            "url": "https://jx.aidouer.net/?url="
-        }, 
+        
         {
             "name": "样图嗅探",
             "type": 0,
