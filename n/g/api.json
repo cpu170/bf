@@ -4508,12 +4508,14 @@
             "name": "yqk",
             "hosts": [
                 "yqk88",
+		 "yqk",   
 		"ydd"   
             ],
             "regex": [
                 "18.4",
                 "15.1666",
-		"16.5333"  
+		"16.5333", 
+		 "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"    
             ]
         },
 	 
@@ -4567,6 +4569,7 @@
                 "hd.lz",
                 "v.cdnlz1",
                 "v.cdnlz",
+		"yzzy1.play",   
 		"lz"   
             ],
             "regex": [
@@ -4574,6 +4577,7 @@
 		   "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",   
                 "18.5333",
+		"18.6666",   
                 "19.52"
                 
                 
@@ -4585,7 +4589,8 @@
             "name": "ff",
             "hosts": [
                 "vip.ffzy",
-                "hd.ffzy"
+                "hd.ffzy",
+		"ffzy"   
             ],
             "regex": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",  
@@ -4595,6 +4600,7 @@
 		"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
 	        "25.0666",
+		"25.1999",   
 		"19.52",
                 "25.08",
                 "20.52",
@@ -4657,8 +4663,10 @@
         "kuaikan"
       ],
       "regex": [
+	 "5",    
         "20.123",
-        "20.167"
+        "20.167",
+	"#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"      
       ]
     },
     {
