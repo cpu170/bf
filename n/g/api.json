@@ -2706,7 +2706,7 @@
               "type": 0,
                "url": "https://jx.xyflv.cc/?url=",
                "ext": {
-               "header": {
+              
               "header":{"User-Agent":"Dart/3.0(dart:io)",
               "referer": "https://www.xyflv.cc/"
         }
@@ -2717,7 +2717,7 @@
                "type": 0,
                "url": "https://jx.xmflv.com/?url=",
                "ext": {
-                "header": {
+                
                  "header":{"User-Agent":"Dart/3.0(dart:io)"
         }
       }
@@ -2727,7 +2727,7 @@
              "type": 0,
              "url": "https://jx.yparse.com/index.php?url=",
              "ext": {
-             "header": {
+             
             "header":{"User-Agent":"Dart/3.0(dart:io)"
         }
       }
@@ -2738,7 +2738,7 @@
                   "type": 0,
                  "url": "https://jx.jsonplayer.com/player/?url=",
                  "ext": {
-                 "header": {
+                 
                  "header":{"User-Agent":"Dart/3.0(dart:io)"
         }
       }
@@ -2749,7 +2749,7 @@
                 "type": 0,
                 "url": "https://jx.quankan.app/?url=",
                 "ext": {
-                "header": {
+            
                 "header":{"User-Agent":"Dart/3.0(dart:io)"
         }
       }
