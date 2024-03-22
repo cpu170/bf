@@ -2778,7 +2778,17 @@
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
-
+     {
+            "name": "精准1",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 14;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                    "referer": "https://www.xyflv.cc/"
+                }
+            }
+        },
 
 
 
