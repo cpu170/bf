@@ -3600,18 +3600,7 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
-         {
-            "name": "一起看",
-            "hosts": [
-                "yqk88"
-            ],
-            "regex": [
-                "18.4666",
-                "15.1666"
-                
-                
-            ]
-        },
+         
 	 {
             "name": "毛驴广告",
             "hosts": [
