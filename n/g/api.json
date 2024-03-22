@@ -2701,50 +2701,7 @@
 	},
         
         
-             
-         {
-               "name": "-虾米-",
-               "type": 0,
-               "url": "https://jx.xmflv.com/?url=",
-               "ext": {
-                
-                 "header":{"User-Agent":"Dart/3.0(dart:io)"
-        }
-      }
-    },
-           {
-             "name": "-云解析-",
-             "type": 0,
-             "url": "https://jx.yparse.com/index.php?url=",
-             "ext": {
-             
-            "header":{"User-Agent":"Dart/3.0(dart:io)"
-        }
-      }
-    },
-
-             {
-                 "name": "-777-",
-                  "type": 0,
-                 "url": "https://jx.jsonplayer.com/player/?url=",
-                 "ext": {
-                 
-                 "header":{"User-Agent":"Dart/3.0(dart:io)"
-        }
-      }
-    },
-
-             {
-               "name": "-麒麟播放器-",
-                "type": 0,
-                "url": "https://jx.quankan.app/?url=",
-                "ext": {
-            
-                "header":{"User-Agent":"Dart/3.0(dart:io)"
-        }
-      }
-    },
-
+        
 
 
 
