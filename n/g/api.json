@@ -2701,17 +2701,7 @@
 	},
         
         
-             {
-             "name": "-咸鱼-",
-              "type": 0,
-               "url": "https://jx.xyflv.cc/?url=",
-               "ext": {
-              
-              "header":{"User-Agent":"Dart/3.0(dart:io)",
-              "referer": "https://www.xyflv.cc/"
-        }
-      }
-    },
+             
          {
                "name": "-虾米-",
                "type": 0,
