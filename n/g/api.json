@@ -2764,51 +2764,7 @@
 
 
 	    
-	    
-         {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },    
-
-	    
-         {
-            "name": "精准2",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }  
-	 },
-            {
-         "name": "爱豆",
-         "type": 0,
-         "url": "https://jx.aidouer.net/?url="
-       },   
-        {
-            "name": "777嗅探",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },  
-            
-	 {
-         "name": "点这个好用",
-         "type": 0,
-         "url": "https://jx.yangtu.top/?url="
-       }, 
-        {
-            "name": "杰森",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        }, 
-         {
-      "name": "咸鱼解析",
-      "type": 0,
-      "url": "https://jx.xyflv.cc/?url="
-    },    
-
+	 
 
 
 
@@ -2853,7 +2809,7 @@
 	
           {
       "name": "肥猫宝贝",
-      "type": 0,
+      "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
         "flag": [
