@@ -8,6 +8,11 @@
 
 #春意
 ../lives/listx.txt
+#直播•综合
+http://home.jundie.top:81/Cat/tv/live.txt
+
+
+
 #YanG
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 #atsushi
