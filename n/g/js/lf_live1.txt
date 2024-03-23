@@ -18,7 +18,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Ad
 #atsushi
 https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
 #AV集
-../livex.m3u
+../lives/livex.m3u
 #直播
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/XX.m3u
 
