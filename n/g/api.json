@@ -25,12 +25,17 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
-           "key": "直播转点播",
+           "key": "live",
            "name": "综合直播",
             "type": 3,
-             "searchable": 0,
-             "api": "https://raw.gitcode.com/wykj/ys/raw/main/js/live2vod.js",
-            "ext": "https://raw.gitcode.com/wykj/ys/raw/main/js/feimaolive.json"
+             "api": "./lib/lf_live_min.js",
+	     "style":{ "type":"oval"},
+	     "searchable":1,
+	     "changeable":0,
+	     "quickSearch":1,
+	     "filterable":1,
+             "ext":"./js/lf_live1.txt"
+            
        },
         {
             "key": "Czsapp",
