@@ -2539,7 +2539,7 @@
     },
     {
       "name": "-777-",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
 	"flag": [
@@ -2693,21 +2693,7 @@
         ]
       }
     },  
-	 {
-      "name": "神仙解析1",
-      "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
-    },
-    {
-      "name": "神仙解析2",
-      "type": 1,
-      "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
-    },
-    {
-      "name": "神仙解析3",
-      "type": 1,
-      "url": "https://jx.xyflv.cc/?url="
-    },    
+	
 	
         {
             "name": "神秘的哥哥们",
@@ -2769,7 +2755,7 @@
     },
     {
       "name": "xmflv",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.xmflv.com/?url="
     },    
    
