@@ -6,8 +6,8 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#初秋语
-../listx.txt
+#春意
+../lives/listx.txt
 #YanG
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 #atsushi
