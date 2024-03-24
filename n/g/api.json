@@ -1876,20 +1876,11 @@
 
 
 	    
-         {
-            "key": "csp_Yj1211",
-            "name": "📽️网红┃直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+        
         
      
      
-   
-   
+
     
     {
       "key": "api.11bat.com",
@@ -2199,26 +2190,8 @@
             "quickSearch": 0,
             "changeable": 0
         },
-	 {
-            "key": "短剧",
-            "name": "🌈短剧┃在线",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://duanju.one"
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "📽️网红┃直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },    
+	 
+        
         
 	
         {
