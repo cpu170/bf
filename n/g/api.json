@@ -2395,6 +2395,16 @@
     "parses": [
         
 
+            {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+           }, 
+
+
+
+
+	    
 	 {
 		"name": "解析聚合",
 		"type": 3,
@@ -2402,11 +2412,6 @@
 	},
 	
         
-	{
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, 
 	
         
           {
@@ -2479,7 +2484,7 @@
     },
     {
       "name": "-777-",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
 	"flag": [
@@ -2548,12 +2553,82 @@
     },
      
     
-    {
-      "name": "满",
-      "type": 0,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+   
+     {
+      "name": "爱酷🌾",
+      "type": 1,
+      "url": "http://42.157.129.139:7788/json/aiku.php?url=",
+      "ext": {
+        "flag": [
+          "seven",
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
     },
-
+    {
+      "name": "蚂蚁🌾",
+      "type": 1,
+      "url": "http://121.62.61.51:6888/api/?key=n669JAmIzmG1K813tb&url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "米饭🌾",
+      "type": 1,
+      "url": "https://jx.yangtu.top/?url=",
+      "ext": {
+        "flag": [
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
             
 
 
