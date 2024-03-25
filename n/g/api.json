@@ -2546,7 +2546,26 @@
         }
       }
     },
-
+      {
+      "name": "家",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=11154896&key=cefgiksvwyCGINV047&url="
+    },
+    {
+      "name": "庭",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "美",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
+    },
+    {
+      "name": "满",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
 
             
 
@@ -3021,35 +3040,7 @@
                 }
             }
         },
-        {
-      "name": "神仙嗅探1",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+       
 
 
  
@@ -3443,31 +3434,7 @@
     },
    
     
-    {
-      "name": "扶风",
-      "type": 0,
-      "url": "https://vip.byteamone.cn/api/?key=bbpSbJMpjxLqcBKzUW&url="
-    },
-    {
-      "name": "QI解08",
-      "type": 0,
-      "url": "http://47.98.234.2:7768/api.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    },
+   
    
     {
       "name": "左岸",
@@ -3497,21 +3464,7 @@
         ]
       }
     },
-    {
-      "name": "随便",
-      "type": 0,
-      "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="
-    },
-    {
-      "name": "LTRX",
-      "type": 1,
-      "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=",
-      "ext": {
-        "flag": [
-          "rx"
-        ]
-      }
-    },
+   
     {
       "name": "线路NX",
       "type": 0,
