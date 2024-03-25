@@ -2016,14 +2016,7 @@
             "changeable": 1
         },
         
-        {
-            "key": "hav ",
-            "name": "辣椒2🔞 ",
-            "type": 0,
-            "api": "http://apilj.com/api.php/provide/vod/at/json/",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
         
          {
             "key": "timizy",
