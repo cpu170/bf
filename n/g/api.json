@@ -4200,6 +4200,7 @@
 	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                      "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+",   
 		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",   
                 "15.1666",
@@ -4215,6 +4216,7 @@
             "name": "bf",
             "hosts": [
                 "bfzy",
+		"bfbfvip",    
                 "s5.bfzycdn"
             ],
             "regex": [
@@ -4241,15 +4243,18 @@
                 "hd.lz",
                 "v.cdnlz1",
                 "v.cdnlz",
-		"yzzy1.play",   
+		"yzzy1.play",
+		".cdnlz",   
 		"lz"   
             ],
             "regex": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		   "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
+		   "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",   
                 "18.5333",
-		"18.6666",   
+		"18.6666",
+		"17.19",    
                 "19.52"
                 
                 
@@ -4268,11 +4273,14 @@
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",  
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		     "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		     "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		    "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
 		"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
 	        "25.0666",
-		"25.1999",   
+		"25.1999",
+		"17.99",    
 		"19.52",
                 "25.08",
                 "20.52",
@@ -4339,7 +4347,7 @@
         "20.123",
         "20.167",
 	  "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-           "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+          "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
      
 	"#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"      
       ]
