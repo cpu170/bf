@@ -2546,24 +2546,11 @@
         }
       }
     },
-      {
-      "name": "家",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=11154896&key=cefgiksvwyCGINV047&url="
-    },
-    {
-      "name": "庭",
-      "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    },
-    {
-      "name": "美",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
-    },
+     
+    
     {
       "name": "满",
-      "type": 1,
+      "type": 0,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
     },
 
