@@ -9,7 +9,7 @@
 #春意
 ../lives/listx.txt
 #电视直播•综合
-http://home.jundie.top:81/Cat/tv/live.txt
+../lives/maoyinshi.txt
 
 
 
