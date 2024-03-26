@@ -2367,11 +2367,7 @@
         
 	
         
-          {
-            "name": "Json并发",
-            "type": 3,
-            "url": "Parallel"
-        },
+         
 
          {
       "name": "-咸鱼-",
@@ -2437,7 +2433,7 @@
     },
     {
       "name": "-777-",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
 	"flag": [
