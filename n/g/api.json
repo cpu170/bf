@@ -1059,17 +1059,7 @@
             "filterable": 1,
             "ext": "./lib/555.js"
         },
-        {
-            "key": "csp_奇优",
-            "name": "🧼┃奇优解析┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "./lib/奇优影院.json"
-        },
+        
 	   
         {"key":"卧龙资源","name":"🐰┃卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
       
