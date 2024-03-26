@@ -212,14 +212,7 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/360.js"
     },
-     {
-      "key": "咕噜",
-      "name": "🦸┃咕噜┃影视",
-      "type": 3,
-      "api": "csp_Movie2",
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
-      "jar": "http://www.wya6.cn/tz/wyog.php"
-    },    
+    
      {
       "key": "爱看影视",
       "name": "❤┃爱看┃影视",
@@ -244,15 +237,7 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
     },
-     {
-	"key": "XAL蓝光",
-	"name": "🆑XAL",
-	"type": 1,
-	"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-	"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
-	"searchable": 1,
-	"quickSearch": 1
-    },
+    
      {
             "key": "天天",
             "name": "🔥天天",
@@ -297,23 +282,14 @@
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
-    {
-      "key": "kuin-duo",
-      "name": "APP | 酷音影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
+    
 	    
 	    
      {
       "key": "乐乐",
-      "name": "🎡️┃乐视┃影视",
+      "name": "🎡️┃乐视资源",
       "type": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "api": "https://leshiapi.com/api.php/provide /vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
