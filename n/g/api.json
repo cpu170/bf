@@ -1070,23 +1070,10 @@
 			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "./lib/奇优影院.json"
         },
-	   {
-            "key": "drpy_js_骚火电影",
-            "name": "骚火[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/骚火电影.js"
-        },  
+	   
         {"key":"卧龙资源","name":"🐰┃卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
       
-	  {
-      "key": "saohuo",
-      "name": " 👗┃骚火解析┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/骚火.js"
-    },  
+	
 	 
          {
             "key": "drpy_js_量子资源",
