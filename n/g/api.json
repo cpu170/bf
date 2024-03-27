@@ -332,7 +332,24 @@
         },    
 {"key":"雨晴","name":"💖分享晴天","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},	    
 {"key":"cjzy_优质","name":"优选影视","type":1,"api":"http://hdzyk.com/inc/apijson.php","playUrl":"","categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","纪录片","科幻片","喜剧片","战争片"]},
-	    
+
+	    {
+              "key": "天天影视",
+              "name": "天天影视",
+              "type": 1,
+              "api": "http://www.tiantian.la/api.php/provide/vod/?ac=list",
+              "searchable": 1,
+              "quickSearch": 1
+    },
+    {
+           "key": "348影视",
+            "name": "348影视",
+            "type": 3,
+            "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
+             "searchable": 1,
+             "changeable": 1,
+            "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/348ys.js"
+    },
    
           
         {
