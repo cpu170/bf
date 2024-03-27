@@ -378,7 +378,39 @@
              "changeable": 1,
              "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/4kfree.js"
     },
+          {
+            "key": "4K影视",
+            "name": "4K影视",
+             "type": 3,
+              "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
+             "searchable": 1,
+             "changeable": 1,
+             "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/4kys.js"
+    },
+           {
+            "key": "58影视",
+             "name": "58影视",
+             "type": 3,
+              "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
+               "searchable": 1,
+                "changeable": 1,
+                "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/58ys.js"
+    },
+              {
+               "key": "Ysgc影视",
+               "name": "Ysgc影视",
+                 "type": 3,
+                 "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
+                 "searchable": 1,
+                 "changeable": 1,
+                 "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/ysgcys.js"
+    },
 
+
+
+
+
+	    
 
 	    
           
