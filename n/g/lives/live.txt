@@ -3214,11 +3214,11 @@ CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 港澳频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
+
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
+
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
+
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -5356,6 +5356,7 @@ enLolitaRoller,http://60106.vod.redtraffic.xyz/ph5c3660a1e86d0/play.m3u8
 三人组女孩玩Dmitriy的胖公鸡,http://218158.vod.redtraffic.xyz/ph589550102a412/play.m3u8
 三人行青少年勾引厚公鸡和喷,http://21470.vod.redtraffic.xyz/ph5acd7db24730e/play.m3u8
 （Hard＆amp;Heavy）,http://6122.vod.redtraffic.xyz/ph598df2220b601/play.m3u8
+
 DeNata,http://11216.vod.redtraffic.xyz/ph569d3bea70ee1/play.m3u8
 （LeahGotti）乱搞,http://1465.vod.adultiptv.net/ph57e15d0ad994f/play.m3u8
 Feeldoe很有趣,http://60106.vod.adultiptv.net/ph55fafb92bdc00/play.m3u8
