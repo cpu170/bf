@@ -371,7 +371,7 @@
     },
          {
             "key": "4k剧院",
-            "name": "4k剧院",
+            "name": "4k剧厂",
             "type": 3,
             "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
             "searchable": 1,
