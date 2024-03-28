@@ -3973,6 +3973,7 @@
           "name": "reconnect",
           "value": "1"
         },
+	{"category": 4,"name": "max-buffer-size","value": "5242880"},     
         {
           "category": 4,
           "name": "enable-accurate-seek",
@@ -4053,6 +4054,7 @@
           "name": "reconnect",
           "value": "1"
         },
+	 {"category": 4,"name": "max-buffer-size","value": "5242880"},     
         {
           "category": 4,
           "name": "enable-accurate-seek",
