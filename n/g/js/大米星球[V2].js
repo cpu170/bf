@@ -21,7 +21,7 @@ var rule = {
 	timeout:5000,
 	// 分类筛选 /api.php/app/nav || /xgapp.php/v1/nav || /api.php/v1.vod/types
 	class_name:'电影&电视剧&动漫&综艺&福利',
-	class_url:'20&21&22&23',
+	class_url:'20&21&22&23&35',
 	play_parse:true,
 	lazy:`js:
 		let play_Url = '';
