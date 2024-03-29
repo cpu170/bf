@@ -28,7 +28,7 @@
            "key": "live",
            "name": "综合直播",
             "type": 3,
-             "api": "./lib/lf_live_min.js",
+             "api": "./lib/lf_live10_min.js",
 	     "style":{ "type":"oval"},
 	     "searchable":1,
 	     "changeable":0,
