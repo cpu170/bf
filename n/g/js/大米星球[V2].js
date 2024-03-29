@@ -17,7 +17,7 @@ var rule = {
 	searchUrl: '/search?text=**&pg=fypage',
 	searchable: 2,
 	quickSearch: 0,
-	filterable:1,//是否启用分类筛选,
+	filterable:0,//是否启用分类筛选,
 	// headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	headers:{'User-Agent':'okhttp/4.1.0'},
 	timeout:5000,
