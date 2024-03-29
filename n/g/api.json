@@ -3503,11 +3503,13 @@
             ],
             "regex": [
 	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                      "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+",   
-		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",   
+		"#EXTINF.*?\\s+.*?original.*?\\.ts\\s+", 
+		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
                 "15.1666",
                 "15.2666",
                 "16.333333",
@@ -3889,7 +3891,15 @@
                 "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
             ]
         },   
-        
+         {
+		 "name": "廣告",
+		"hosts": [""],
+	       "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		       "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		       "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		       "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		       "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		       "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"]},
         
     
     
