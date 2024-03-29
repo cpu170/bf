@@ -11,8 +11,6 @@
 #电视直播•综合
 ../lives/maoyinshi.txt
 
-
-
 #YanG
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 #atsushi
@@ -31,5 +29,5 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 #Ray•综合
 https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
-
-
+#Ray•糖意
+https://agit.ai/fenwe/TVBox/raw/branch/master/tv/%e7%b3%96%e6%84%8f.txt
