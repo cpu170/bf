@@ -1999,13 +1999,17 @@
       "filterable": 1
     },
 
+
+
+
 	    
     
     
     
-     
- {"key":"黄A","name":"黄A资源🔞","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},    
- {"key":"*AIvin","name":"AIvin🔞","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0,"filterable":0},    
+{"key": "麻豆村","name": "麻豆村🔞","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api": "https://madoucun.cn/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 1,
+"categories":["日本视频","麻豆传媒","皇家华人","玩偶姐姐","蜜桃传媒","星空传媒","兔子先生","精东影业","有码","巨乳","乱伦","出轨","天美传媒","杏吧原创","PsychoPorn","91茄子","91制片厂","糖心Vlog","起点传媒","乐播传媒","SA传媒","性世界","果冻传媒","葫芦影业","深夜保健室","北京天使","人妻","强奸","制服","调教","AV解说","动漫","福利姬","抖音视频","精品视频","女神学生","职场同事","主播大秀","空姐模特","美熟少妇","自慰群交","网爆门","粉嫩韩舞","AI换脸","欧美大片","无码","中文字幕","VR有码","VR无码","国产三级","萝丽社","丝袜"]},   
+{"key":"黄A","name":"黄A资源🔞","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},    
+{"key":"*AIvin","name":"AIvin🔞","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0,"filterable":0},    
 {"key":"*探探资源","name":"*探探资源🔞","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*色猫资源","name":"*色猫资源🔞","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0}, 
 {"key":"*色南国资源","name":"*色南国资源🔞","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
