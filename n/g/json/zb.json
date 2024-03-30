@@ -1,12 +1,32 @@
 [
-    {
+   {
         "name": "超级MV",
         "url": "http://rihou.cc:55/lib/MV.txt&&&https://z1.ax1x.com/2023/10/14/pipTgxg.jpg"
     },
      {
-        "name": "天天开心",
+        "name": "开心",
         "url": "http://rihou.cc:55/lib/MV.txt&&&http://3650000.xyz/api/360.php?cid=6"
-    }
- 
+    },
+    {
+        "name": "直播综合",
+        "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+    },
+    {
+        "name": "drang•ipv6",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u"
+    },
+    {"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
+    {
+        "name": "Yoursmile•综合",
+        "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
+    },
+    {"name":"YueChan•综合","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
+    {"name":"Ray•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+    {"name":"饭太硬•综合","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name":"肥猫•综合","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+    {"name":"肥羊•斗鱼","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType":1},
+{"name":"肥羊•虎牙","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType":1},
+{"name":"YanG•斗鱼","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"},
+{"name":"YanG•虎牙","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"},
 
 ]
