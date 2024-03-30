@@ -37,6 +37,19 @@
              "ext":"./js/lf_live1.txt"
             
        },
+        {
+            "key": "直播转点播",
+            "name": "📺︎电视综合点播",
+            "type": 3,
+            "api": "./lib/zbzdb.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/zb.json"
+        },
+
+
+	    
          {
             "key": "酷看",
             "name": "💡酷看┃秒播",
