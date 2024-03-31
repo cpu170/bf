@@ -104,6 +104,16 @@
             "quickSearch": 1,
             "changeable": 1
         },
+         {
+            "key": "一起看 ",
+            "name": "🎉一起┃App",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+
         
 	 {
             "key": "萌米",
@@ -127,15 +137,7 @@
         },
          
        
-        {
-            "key": "一起看 ",
-            "name": "🎉一起┃App",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+        
 	 {
             "key": "DiDuan",
             "name": "⏮️低端┃直连",
@@ -2671,17 +2673,17 @@
     {"name":"解析3","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"解析4","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"1907解析","type":0,"url":"https://im1907.top/?jx="},
-    {"name":"解析6","type":0,"url":"https://jx.yangtu.top/?url="},
-    {"name":"解析7","type":0,"url":"https://jx.yparse.com/index.php?url="},
+    {"name":"阳途解析","type":0,"url":"https://jx.yangtu.top/?url="},
+    {"name":"云解析","type":0,"url":"https://jx.yparse.com/index.php?url="},
     {"name":"夜幕解析","type":0,"url":"https://www.yemu.xyz/?url="},
     {"name":"猫解析","type":0,"url":"https://www.mtosz.com/m3u8.php?url="},
-    {"name":"解析10","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+    {"name":"风影阁","type":0,"url":"https://movie.heheda.top/?v="},
     {"name":"8090G","type":0,"url":"https://www.8090g.cn/?url="},
     {"name":"冰豆解析","type":0,"url":"https://api.qianqi.net/vip/?url="},
-    {"name":"解析13","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+    {"name":"BL解析","type":0,"url":"https://vip.bljiex.com/?v="},
     {"name":冰豆智能","type":0,"url":"https://bd.jx.cn/?url="},
+    {"name":"纯净","type":0,"url":"https://im1907.top/?jx="},
     {"name":"解析15","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-    
     {"name":"解析17","type":0,"url":"https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="},
     {"name":"解析18","type":0,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
     {"name":"解析19","type":0,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
