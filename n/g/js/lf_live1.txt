@@ -10,8 +10,7 @@
 ../lives/listx.txt
 #电视直播•综合
 ../lives/maoyinshi.txt
-#直播综合
-http://home.jundie.top:81/Cat/tv/live.txt
+
 #atsushi
 https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
 
