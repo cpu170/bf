@@ -2564,13 +2564,13 @@
       }
     },
     {
-      "name": "-爱豆-",
+      "name": "-索尼-",
       "type": 0,
-      "url": "https://jx.aidouer.net/?url=",
+      "url": "https://www.snplayer.com/?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-          "referer": "https://jiejie.uk/"
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+         
         }
       }
     },
@@ -2625,7 +2625,7 @@
         }
       }
     },
-
+    {"name":"索尼资源解析","type":3,"url":"https://www.snplayer.com/?url="},
 
 
 
@@ -2744,41 +2744,7 @@
         ]
       }
     },   
-        {
-      "name": "肥猫最可爱",
-      "type": 0,
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },  
+        
 	
 	
         {
@@ -2817,7 +2783,7 @@
             }
         },
 	 {
-         "name": "点这个好用",
+         "name": "阳途解析",
          "type": 0,
          "url": "https://jx.yangtu.top/?url="
        },   
@@ -2835,7 +2801,11 @@
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
-        
+        {
+      "name": "ovvo",
+      "type": 0,
+      "url": "https://json.ovvo.pro/jx.php?url="
+    },
        
 	
 
@@ -2889,7 +2859,11 @@
                 }
             }
         },
-       
+       {"name":"七哥",
+	       "url":"https://jx.mmkv.cn/tv.php?url=",
+	       "type":0,
+	       "ext":{
+	       "flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 
 
  
@@ -2971,7 +2945,11 @@
         }
       }
     },
-   
+   {"name":"BL",
+	   "url":"https://vip.bljiex.com/?v=",
+	   "type":0,
+	   "ext":{
+	   "flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
    
     
    
@@ -2981,11 +2959,7 @@
    
  
    
-    {
-      "name": "北雁手动",
-      "type": 0,
-      "url": "https://jx.beiyan.cc:4433/?url="
-    },
+   
     {
       "name": "阿里云手动",
       "type": 0,
