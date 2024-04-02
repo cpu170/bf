@@ -196,6 +196,21 @@
             "changeable": 1,
             "ext": "https://auete.pro/"
         },
+        {
+              "key": "csp_appys_影盒",
+              "name": "❤影探4K接口",
+              "type": 3,
+              "api": "csp_AppYsV2",
+              "searchable": 1,
+              "quickSearch": 1,
+               "filterable": 1,
+               "ext": "http://cms-ythz.lyyytv.cn/api.php/app/"
+      },
+
+
+
+
+	    
 
         {
             "key": "csp_SP33",
