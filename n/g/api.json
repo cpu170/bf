@@ -1492,21 +1492,8 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/视中心影视.js"
         },  
-	  {
-            "key": "drpy_js_西瓜影视",
-            "name": "影视 | 西瓜影视[js]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/西瓜影视.js"
-        },
-	 {
-            "key": "drpy_js_子子影视",
-            "name": "影视 | 子子影视[js]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/子子影视.js"
-        },   
-
+	 
+	
 
 	    
 	    
@@ -2491,17 +2478,20 @@
         }
     ],
     "parses": [
-        
+
+
+ {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+	    
  {
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
     },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
+   
     {
       "name": "Json轮询",
       "type": 2,
