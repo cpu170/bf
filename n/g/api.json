@@ -1492,8 +1492,31 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/视中心影视.js"
         },  
-	 
-	
+	  {
+      "key": "drpy_js_小白菜儿",
+      "name": "影视 | 小白菜儿[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.js"
+    },
+	 {
+      "key": "drpy_js_免费看",
+      "name": "影视 | 免费看[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
+    },
+         {
+      "key": "drpy_js_农民",
+      "name": "影视 | 农民[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
+    },
+       
+
+
+
 
 	    
 	    
