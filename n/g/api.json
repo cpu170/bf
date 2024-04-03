@@ -278,7 +278,7 @@
     },   
      {
       "key": "云播影视",
-      "name": "☁️┃云播┃影视",
+      "name": "☁️┃tvb云播┃影视",
       "type": 3,
       "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
