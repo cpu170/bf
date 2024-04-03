@@ -206,7 +206,14 @@
                "filterable": 1,
                "ext": "http://cms-ythz.lyyytv.cn/api.php/app/"
       },
-
+      {
+                "key": "茶杯狐",
+                "name": "🎄茶杯狐┃影视",
+                "type": 3,
+                "api": "http://a.nxog.top/m/js/nxog.js",
+                "jar": "http://www.wya6.cn/tz/wyog.php",
+                "ext": "http://a.nxog.top/m/js/102.js"
+       },
 
 
 
