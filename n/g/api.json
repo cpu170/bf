@@ -1147,16 +1147,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "js_6V",
-            "name": "✡️┃六维┃磁力",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/6V.js"
-        },	
+        
         {
             "key": "js_磁力熊",
             "name": "🐻‍┃贝尔┃磁力",
