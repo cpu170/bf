@@ -76,45 +76,47 @@
             "changeable": 1
         },
          
-        {
-            "key": "Czsapp",
-            "name": "📔厂长┃直连",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy88.com/"
-        },
+         {
+             "key": "厂长",
+             "name": "📔厂长┃无广",
+             "type": 3,
+             "api": "csp_Czsapp",
+             "timeout": 15,
+             "playerType": 2,
+             "searchable": 1,
+             "quickSearch": 1,
+             "changeable": 1,
+             "ext": "https://www.czzy77.com/"
+      },
+	 {
+             "key": "视觉",
+             "name": "👓视觉┃直连",
+             "type": 3,
+             "api": "csp_Xinsj",
+             "timeout": 15,
+             "searchable": 1,
+             "quickSearch": 1,
+             "changeable": 1,
+             "ext": "https://www.80yy3.com/"
+    },
         
-	    
-        {
-            "key": "Xinsj",
-            "name": "👓视觉┃直连",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
-        },
-        {
+	  {
             "key": "南瓜",
             "name": "🎃南瓜┃App",
             "type": 3,
             "api": "csp_NanGua",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-	 
+       },
          {
             "key": "77",
             "name": "👒七七┃App",
             "type": 3,
             "api": "csp_Kunyu77",
+	    "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -127,6 +129,7 @@
             "name": "👀萌米┃App",
             "type": 3,
             "api": "csp_AppMao",
+	    "timeout": 15, 
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -137,6 +140,7 @@
             "name": "🍓毛驴┃直连",
             "type": 3,
             "api": "csp_MLYS",
+	    "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -160,6 +164,7 @@
             "name": "🌾农民┃直连",
             "type": 3,
             "api": "csp_Nmys",
+	    "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -1742,7 +1747,7 @@
     
     {
       "key": "暴風",
-      "name": "暴風",
+      "name": "暴風资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -1750,7 +1755,7 @@
     },
     {
       "key": "索尼",
-      "name": "索尼 ",
+      "name": "索尼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -1759,7 +1764,7 @@
     
     {
       "key": "量子",
-      "name": "量子",
+      "name": "量子资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -1767,7 +1772,7 @@
     },
     {
       "key": "非凡",
-      "name": "非凡",
+      "name": "非凡资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -1775,7 +1780,7 @@
     },
     {
       "key": "快帆",
-      "name": "快帆",
+      "name": "快帆资源",
       "type": 1,
       "api": "https://api.kuaifan.tv/api.php/provide/vod",
       "searchable": 1,
@@ -1853,7 +1858,7 @@
     },
       {
             "key": "feisuzyapi",
-            "name": "飞速",
+            "name": "飞速资源",
             "type": 1,
             "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
