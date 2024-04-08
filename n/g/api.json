@@ -1231,16 +1231,7 @@
 			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "./lib/好戏.json"
         },
-        {
-            "key": "js_蛋蛋",
-            "name": "🥚‍┃蛋蛋┃影视",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-			"searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/蛋蛋.js"
-        },
+        
         {
             "key": "XBPQ_九八",
             "name": "🍸️┃九八┃影视",
