@@ -1119,28 +1119,10 @@
         "欧美综艺"
       ]
     },
-	{
-      "key": "益达影视",
-      "name": "🎦美益达┃秒播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.myd02.com/lvdou_api.php/v1.vod"
-    },    
+	
 	    
          
-        {
-            "key": "csp_beijihu",
-            "name": "🎦视频大全mxone",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
-        },
+       
         {
             "key": "js_荐片",
             "name": "⏳┃荐片┃影视",
