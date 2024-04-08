@@ -1587,15 +1587,7 @@
             "filterable": 1,
             "ext": "./lib/达达龟.json"
         },	
-        {
-            "key": "360_spider",
-            "name": "💫┃三六┃影视",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         {
             "key": "js_企鹅",
             "name": "🐧┃企鹅┃基地",
