@@ -491,17 +491,7 @@
       "changeable": 1,
       "timeout": 60
     },
-    {
-      "key": "New6v",
-      "name": "🧲New6V┃磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "jar": "http://www.wya6.cn/tz/wyog.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.xb6v.com"
-    },
+    
      {
       "key": "美剧天堂",
       "name": "🧲美剧┃磁力",
