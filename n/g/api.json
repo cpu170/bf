@@ -1737,12 +1737,7 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/4khdr.js"
         },
-	 {
-            "key": "熊掌",
-            "name": "熊掌资源",
-            "type": 1,
-            "api": "https://xzcjz.com/api.php/provide/vod"
-       },
+	
            
     
     {
