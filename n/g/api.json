@@ -342,19 +342,6 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     
-	    
-	    
-     {
-      "key": "乐乐",
-      "name": "🎡️┃乐视资源",
-      "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    
-    
      {
       "key": "低端",
       "name": "🛣┃低端┃影视",
