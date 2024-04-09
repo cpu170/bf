@@ -371,15 +371,7 @@
               "searchable": 1,
               "quickSearch": 1
     },
-    {
-           "key": "348影视",
-            "name": "348影视",
-            "type": 3,
-            "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
-             "searchable": 1,
-             "changeable": 1,
-            "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/348ys.js"
-    },
+   
 
          {
              "key": "YueAi影视",
