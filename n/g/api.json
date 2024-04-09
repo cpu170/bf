@@ -348,7 +348,7 @@
       "key": "乐乐",
       "name": "🎡️┃乐视资源",
       "type": 1,
-      "api": "https://leshiapi.com/api.php/provide /vod/at/json/",
+      "api": "https://leshiapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
