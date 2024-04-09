@@ -1265,13 +1265,7 @@
             "ext": "./js/量子资源.js"
         },
        
-        {
-            "key": "北极狐[V2]",
-            "name": "北极狐[V2][js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/北极狐[V2].js"
-        },
+       
         {
             "key": "ikanbot3",
             "name": "ikanbot3[js]",
