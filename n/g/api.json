@@ -1204,6 +1204,9 @@
             "type": 3,
             "playerType": 1,
             "api": "csp_XYQHiker",
+	    "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "jar": "./lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
             "ext": "./lib/港口.json"
         },	
