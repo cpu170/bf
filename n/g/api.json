@@ -1228,17 +1228,7 @@
 			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "./lib/348z.json"
         },
-         {
-            "key": "csp_XBPQ_haoxi",
-            "name": "⚡️┃好戏┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "./lib/好戏.json"
-        },
+         
         
         {
             "key": "XBPQ_九八",
