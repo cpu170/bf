@@ -3538,6 +3538,7 @@
                 "8.1748",
 		"12.33",   
                 "10.85",
+		"#EXTINF:(0|1|2|7\\.90).*?\\s+.*?921c07e8bfad6789.*?\\.ts\\s+"    
 	       "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93,[\\s\\S]*?#EXT-X-DISCONTINUITY"
     
             ]
@@ -4084,6 +4085,10 @@
         }
     ],
     "ads": [
+   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "wan.51img1.com",
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
@@ -4140,11 +4145,7 @@
     "vivovip.mmszxc.top",
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
-    "cms.qdwght.com",
-    "769056.com",
-    "api.htpan.net",
-    "www.kdnvxfdj.xyz,static-mozai.4gtv.tv",
-    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+    "cms.qdwght.com"
     ],
 	
     "lives": [
