@@ -67,15 +67,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-          {
-            "key": "一起看 ",
-            "name": "🎉一起┃App",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+         
          
          {
              "key": "厂长",
@@ -228,7 +220,15 @@
             "quickSearch": 1,
             "changeable": 1
         },	    
-
+         {
+            "key": "一起看 ",
+            "name": "🎉一起┃App",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
 
 	    
 
