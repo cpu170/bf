@@ -3547,7 +3547,7 @@
             "name": "yqk",
             "hosts": [
                 "yqk88",
-		 "yqk",   
+	        "yqk",   
 		"ydd"   
             ],
             "regex": [
@@ -3723,6 +3723,7 @@
         "yzzy"
       ],
       "regex": [
+	"18.66",      
         "19.52",
         "19.13"
       ]
@@ -3733,7 +3734,9 @@
         "kuaikan"
       ],
       "regex": [
-	 "5",    
+	 "5", 
+	 "15.32",
+         "15.231",     
         "20.123",
         "20.167",
 	  "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
