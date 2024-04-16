@@ -3593,7 +3593,8 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+		"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+		"_cef"    
             ]
         },    
        
@@ -3625,6 +3626,10 @@
 		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",   
                 "18.5333",
+		 "19.520000",
+                "18.666667",
+                "17.2",
+                "19.84",   
 		"18.6666",
 		"17.19",    
                 "19.52"
@@ -3656,7 +3661,8 @@
 		"19.52",
                 "25.08",
                 "20.52",
-                "25.1"   
+                "25.1",
+		"18"    
             ]
         },
 	   {
@@ -3732,7 +3738,7 @@
         "20.167",
 	  "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
           "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-     
+          "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"      
       ]
     },
