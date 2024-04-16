@@ -1,34 +1,6 @@
 [
-{
-"name": "小鸭",
-"server": "http://shicheng.wang:555/",
-"startPage": "/",
-"showAll": false,
-"search": true,
-"params": {
-"/abc": {
-"password": "123"
-},
-"/abc/abc": {
-"password": "123"
-}
-}
-},
-{
-"name": "小猫",
-"server": "https://nics.eu.org",
-"startPage": "/SP1",
-"showAll": false,
-"search": true,
-"params": {
-"/abc": {
-"password": "123"
-},
-"/abc/abc": {
-"password": "123"
-}
-}
-},
+
+
         {
         "name" : "🙋丫仙女",
         "server" : "http://alist.xiaoya.pro",
@@ -43,13 +15,7 @@
         "showAll" : false,
         "search" : true
     },
-        {
-        "name" : "🐋一只鱼",
-        "server" : "https://alist.youte.ml",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+        
         {
         "name" : "🌊七米蓝",
         "server" : "https://al.chirmyram.com",
@@ -71,6 +37,21 @@
         "showAll" : false,
         "search" : true
     },
+        {
+"name": "小鸭",
+"server": "http://shicheng.wang:555/",
+"startPage": "/",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
         {
         "name" : "✨星梦",
         "server" : "https://pan.bashroot.top",
