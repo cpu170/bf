@@ -3786,16 +3786,21 @@
         {
             "host": "*",
             "rule": [
-                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*",
+		"http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"    
             ]
         },
+       
         {
-            "host": "*",
-            "rule": [
-                "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+            "name": "jianpian",
+            "hosts": [
+                "tvbox-xg"
+            ],
+            "regex": [
+                "0-10000"
             ]
         },
-    
+
     
    
     
