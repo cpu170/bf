@@ -2009,8 +2009,31 @@
             "ext": "./js/爱上你听书网.js",
             "playerType": "2"
         },   
-
-
+         
+       {
+      "key": "gqzy",
+      "name": "搞起资源🔞",
+      "type": 1,
+      "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:https://jiexi.gqjiexi.com/?url=",
+      "categories": [
+	      
+        "网拍嫩模",
+        "热门事件",
+        "91大神",
+        "国产原创",
+        "国产主播",
+        "日韩主播",
+        "港台剧情",
+        "日韩剧情",
+        "AV无码",
+        "AV有码"
+         
+      ]
+    },
 
 
 
