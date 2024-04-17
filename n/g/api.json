@@ -2085,17 +2085,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
-      {
-      "key": "siwa",
-      "name": "丝袜海外资源🔞",
-      "type": 1,
-      "api": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json/",
-      "playurl": "json:https://help.siwazywcdn2.com:5278/m3u8.php?url=",      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
+      
+     {
+		"key": "swzy",
+		"name": "丝袜资源🔞",
+		"type": 0,
+		"api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml/",
+		"playUrl": "",
+		"categories": []
+	},
 
 
 
@@ -2250,7 +2248,16 @@
       "filterable": 0
     },
 {"key":"csp_xBPQ_黄仓库","name":"🏆黄仓库🔞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/黄仓库.json","jar": "./lib/Yoursmile2.jar"},
-	    
+    {
+      "key": "siwa",
+      "name": "丝袜海外资源🔞",
+      "type": 1,
+      "api": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json/",
+      "playurl": "json:https://help.siwazywcdn2.com:5278/m3u8.php?url=",      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	    
 
 	    
      
