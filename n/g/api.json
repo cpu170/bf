@@ -572,7 +572,33 @@
         "分类url": "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"
     }
 },
-
+  {
+    "key": "vod_享看",
+    "name": "🚀享看",
+    "type": 1,
+    "api": "https://xkanzy10.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playurl": "https://xkanzy10.com/m3u8.php?url=",
+    "categories": [
+        "泰国剧",
+        "大陆综艺",
+        "动画片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "日本动漫",
+        "其他片",
+        "国产剧",
+        "港台剧",
+        "欧美剧",
+        "日韩剧"
+    ]
+},
 
 
 
