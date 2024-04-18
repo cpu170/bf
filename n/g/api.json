@@ -1904,6 +1904,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
+	{"key":"vod_魔都","name":"️魔都动漫资源含🔞","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playurl": "https://jiexi.modujx01.com/?url=","categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},    
         {
             "key": "csp_Ying",
             "name": "💮樱花┃动漫",
