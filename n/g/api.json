@@ -2101,7 +2101,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playurl": "",
+      "playurl": "json:https://playlaosebi.com/?url=",
       "categories": [
 	      
         "亚洲有码",
@@ -2287,17 +2287,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-     {
-      "key": "laosebizy.com",
-      "name": "老色逼资源🔞",
-      "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-      "playurl": "https://playlaosebi.com/?url=",        
-      "searchable": 1,
-      "quickSearch": 1,       
-      "filterable": 1   
      
-    },  
 	{
       "key": "slapibf.com",
       "name": "森林资源🔞",
