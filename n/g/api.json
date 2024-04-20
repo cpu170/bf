@@ -4021,18 +4021,7 @@
         "/servlet/"
       ]
     },
-    {
-      "name": "wn",
-      "hosts": [
-        "vip.123pan.cn",
-        "rescdn.wuxivlog.cn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
+   
 	    
         {
             "name": "nm",
@@ -4404,7 +4393,7 @@
     },
     
          {
-            "name": "蜗牛直连去广",
+            "name": "wn",
             "hosts": [
                 "vip.123pan.cn",
                 "rescdn.wuxivlog.cn"
@@ -4412,7 +4401,7 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",                
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",                
 		"#EXT-X-DISCONTINUITY[\\s\\S]+?#EXT-X-DISCONTINUITY",    
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
