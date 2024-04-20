@@ -371,15 +371,7 @@
             "quickSearch": 1
     },
     
-    {    
-           "key": "9U影视",
-            "name": "9U影视",
-            "type": 3,
-            "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
-            "searchable": 1,
-           "changeable": 1,
-            "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/9Uys.js"
-    },
+   
          {
             "key": "4k剧院",
             "name": "4k剧厂",
