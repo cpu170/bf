@@ -658,7 +658,7 @@
 },
  {
     "key": "bfzy",
-    "name": "🎦暴风┃资源",
+    "name": "🎦暴风┃2k",
     "type": 1,
     "api": "http://by.bfzyapi.com/api.php/provide/vod/",
     "playurl": "json:https://jxbfbf.com/?url=",
@@ -730,7 +730,7 @@
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"
         },
-	  {"key": "hhzy",  "name": "🎦豪华┃资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,
+	  {"key": "hhzy",  "name": "🎦豪华┃2k", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,
  "categories": [
 	"伦理片",
         "内地剧",
@@ -762,7 +762,7 @@
     },
 	{
             "key": "zy_iKun资源",
-            "name": "iKun┃资源",
+            "name": "iKun┃2k",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -805,7 +805,7 @@
         },
 	    {
             "key": "zy_CK资源",
-            "name": "🐰ck┃资源",
+            "name": "🐰ck┃2k",
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/",
             "searchable": 1,
@@ -963,7 +963,7 @@
     },
      {
       "key": "光速资源",
-      "name": "🎦光速┃资源",
+      "name": "🎦光速┃2k",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -971,7 +971,7 @@
       "categories": ["大陆剧","韩国剧","香港剧","台湾剧","欧美剧","伦理片","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
       {
       "key": "天空",
-      "name": "🎦天空┃影视",
+      "name": "🎦天空┃2k",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -979,7 +979,7 @@
       "categories": ["国产剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
          {	    	
          "key": "快看资源",
-          "name": "🎦快看┃影视",
+          "name": "🎦快看┃2k",
          "type": 1,
           "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
           "searchable": 1,
@@ -988,7 +988,7 @@
        
   {
     "key": "lzzy",
-    "name": "🎦量子┃资源",
+    "name": "🎦量子┃2k",
     "type": 1,
     "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
     "playurl": "json:https://lziplayer.com/?url=",
@@ -1033,7 +1033,7 @@
    
 	{
       "key": "csp_xml_百度",
-      "name": "🎦百度┃资源",
+      "name": "🎦百度┃2k",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1196,52 +1196,63 @@
         "欧美综艺"
       ]
     },
-	{
-      "key": "索尼资源",
-      "name": "🎦索尼┃2K",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "categories": [
+  {
+    "key": "snzy",
+    "name": "🎦索尼┃2k",
+    "type": 1,
+    "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+    "playurl": "json:https://www.snplayer.com/?url=",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "categories": [
+        "预告片",
+        "邵氏电影",
         "动作片",
-        "国产剧",
         "喜剧片",
         "爱情片",
         "科幻片",
         "恐怖片",
         "剧情片",
         "战争片",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "海外剧",
-        "纪录片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
+        "伦理片",
         "动画片",
-        "港台动漫",
-        "海外动漫",
+        "国产剧",
+        "港剧",
+        "韩剧",
+        "欧美剧",
+        "台剧",
+        "日剧",
+        "海外剧",
+        "泰剧",
+        "爽文短剧",
         "港台三级",
         "韩国伦理",
         "西方伦理",
         "日本伦理",
-        "斯诺克"
-      ]
-    },
+        "4k电影",
+        "女频恋爱",
+        "反转爽剧",
+        "古装仙侠",
+        "年代穿越",
+        "脑洞悬疑",
+        "现代都市",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "电影解说"
+    ]
+},
 	{
       "key": "49zy",
-      "name": "🎦四九┃资源",
+      "name": "🎦四九┃2k",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "playurl": "json:https://49zyplayerurl.com/?url=",	
@@ -1287,7 +1298,7 @@
     }, 
     {
       "key": "uku",
-      "name": "🎦U酷┃资源",
+      "name": "🎦U酷┃2k",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "playurl": "",	
@@ -1322,10 +1333,10 @@
       ]
      }, 
 
-        {"key":"极速资源","name":"🎦极速┃资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
-        {"key":"快车资源","name":"🎦快车┃资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},    
-        {"key":"八戒资源","name":"🎦八戒┃资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
-	 {"key":"飞速资源","name":"🎦飞速┃资源","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+        {"key":"极速资源","name":"🎦极速┃2k","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
+        {"key":"快车资源","name":"🎦快车┃2k","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},    
+        {"key":"八戒资源","name":"🎦八戒┃2k","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
+	 {"key":"飞速资源","name":"🎦飞速┃2k","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
         
 	    
 	{
@@ -1370,7 +1381,7 @@
     },
     {
     "key": "1080",
-    "name": "🎦1080┃资源库",
+    "name": "🎦1080┃2k",
     "type": 1,
     "api": "https://api.1080zyku.com/inc/api_mac10.php",
     "playurl": "",
@@ -2018,14 +2029,7 @@
            
     
    
-    {
-      "key": "索尼",
-      "name": "索尼资源",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
+    
     
     
     {
