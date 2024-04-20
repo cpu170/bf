@@ -582,7 +582,16 @@
         "日韩剧"
     ]
 },
-
+      {
+      "key": "meowtv_jyys",
+      "name": "九悠┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/九悠影视.js"
+    },
 
 
 
