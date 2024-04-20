@@ -4011,6 +4011,29 @@
                 "is_play_url="
             ]
         },
+    {
+      "name": "yt",
+      "hosts": [
+        "jx.yangtu.top"
+      ],
+      "regex": [
+        "download4.caiyun.feixin.10086.cn",
+        "/servlet/"
+      ]
+    },
+    {
+      "name": "wn",
+      "hosts": [
+        "vip.123pan.cn",
+        "rescdn.wuxivlog.cn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+	    
         {
             "name": "nm",
             "hosts": [
