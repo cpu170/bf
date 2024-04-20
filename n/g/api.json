@@ -802,7 +802,7 @@
     },
 	{
             "key": "zy_iKun资源",
-            "name": "iKun┃2k",
+            "name": "🎦iKun┃2k",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -845,9 +845,10 @@
         },
 	    {
             "key": "zy_CK资源",
-            "name": "🐰ck┃2k",
+            "name": "🎦ck┃2k",
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/",
+	    "playurl": "json:https://ckm3u8.cc/?url=",	    
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
