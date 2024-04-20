@@ -656,7 +656,47 @@
     \"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",
     \"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
 },
-
+ {
+    "key": "bfzy",
+    "name": "🎦暴风┃资源",
+    "type": 1,
+    "api": "http://by.bfzyapi.com/api.php/provide/vod/",
+    "playurl": "json:https://jxbfbf.com/?url=",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "categories": [
+        "预告片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "理论片",
+        "动画片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "电影解说"
+    ]
+},
 
 
 
@@ -690,7 +730,7 @@
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"
         },
-	  {"key": "豪华资源",  "name": "👉春盈┃豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,
+	  {"key": "hhzy",  "name": "🎦豪华┃资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,
  "categories": [
 	"伦理片",
         "内地剧",
@@ -722,7 +762,7 @@
     },
 	{
             "key": "zy_iKun资源",
-            "name": "iKun资源",
+            "name": "iKun┃资源",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -765,7 +805,7 @@
         },
 	    {
             "key": "zy_CK资源",
-            "name": "🐰ck资源",
+            "name": "🐰ck┃资源",
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/",
             "searchable": 1,
@@ -923,7 +963,7 @@
     },
      {
       "key": "光速资源",
-      "name": "🎦光速资源",
+      "name": "🎦光速┃资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -931,7 +971,7 @@
       "categories": ["大陆剧","韩国剧","香港剧","台湾剧","欧美剧","伦理片","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
       {
       "key": "天空",
-      "name": "🎦天空┃影视┃",
+      "name": "🎦天空┃影视",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -939,7 +979,7 @@
       "categories": ["国产剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
          {	    	
          "key": "快看资源",
-          "name": "🎦快看┃影视┃",
+          "name": "🎦快看┃影视",
          "type": 1,
           "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
           "searchable": 1,
@@ -1977,14 +2017,7 @@
 	
            
     
-    {
-      "key": "暴風",
-      "name": "暴風资源",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "索尼",
       "name": "索尼资源",
