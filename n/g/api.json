@@ -427,17 +427,7 @@
               "timeout": 60,
               "ext": "null$$$null$$$1"
     },
-      {
-             "key": "Bdys_spider",
-             "name": "🧲哔滴┃磁力",
-             "api": "csp_Bdys01",
-             "jar": "http://www.wya6.cn/tz/wypg.php",
-             "type": 3,
-             "filterable": 1,
-             "searchable": 1,
-             "quickSearch": 1,
-             "ext": "https://www.bdys10.com/$$$null$$$1"
-    },
+     
      {
       "key": "Xunlei8",
       "name": "🧲Xunlei8┃磁力",
