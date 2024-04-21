@@ -715,7 +715,7 @@
 },
  {
     "key": "yzzy",
-    "name": "🎦优质资源",
+    "name": "🎦优质┃2k",
     "type": 1,
     "api": "https://api.1080zyku.com/inc/apijson.php",
     "playurl": "json:https://vip.zykbf.com/?url=",
@@ -756,7 +756,7 @@
 },
          {
     "key": "jyzy",
-    "name": "🎦金鹰资源",
+    "name": "🎦金鹰┃2k",
     "type": 1,
     "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
     "playurl": "json:https://hd.iapijy.com/play?url=",
@@ -846,7 +846,7 @@
 },
   {
     "key": "hyzy",
-    "name": "🎦虎牙资源",
+    "name": "🎦虎牙┃2k",
     "type": 1,
     "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
     "playurl": "json:https://huyajx.com/play/?url=",
@@ -882,7 +882,7 @@
 },       	    
  {
     "key": "fszy",
-    "name": "🎦飞速资源",
+    "name": "🎦飞速┃2k",
     "type": 1,
     "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
     "playurl": "json:https://www.feisuplayer.com/m3u8/?url=",
@@ -920,7 +920,51 @@
         
     ]
 },
-	    
+  {
+    "key": "wlzy",
+    "name": "🎦卧龙┃2k",
+    "type": 1,
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+    "playurl": "json:https://jx.wolongzywcdn.com:65/m3u8.php?url=",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "categories": [
+        "伦理片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "动画片",
+        "惊悚片",
+        "家庭片",
+        "古装片",
+        "历史片",
+        "悬疑片",
+        "犯罪片",
+        "短剧",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "韩国综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫"
+       
+        
+    ]
+},    
 
 	    
           
@@ -1716,7 +1760,7 @@
         },
         
 	   
-        {"key":"卧龙资源","name":"🐰┃卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+      
       
 	
 	 
