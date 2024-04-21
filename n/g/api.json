@@ -308,15 +308,19 @@
     },   
      
      {
-      "key": "酷影视",
-      "name": "APP | 酷影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
+      "key": "kuaiyun-api.",
+      "name": "🎦快云|2k",
+      "type": 1,
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/",
+      "playurl": "json:https://www.kuaiyunplayer.com/dplayer/?url=",        
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
+      "quickSearch": 1,       
+      "filterable": 1 ,
+     "categories": [
+                "动作片","喜剧片","冒险片","剧情片","伦理片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","灾难片","犯罪片","科幻片","爱情片","国产剧","欧美剧","日本剧","新马剧","其他剧","韩国剧","泰剧","动画电影","网络电影","日本动漫","欧美动漫","国产动漫","港台动漫","国产综艺","港台综艺","日本综艺","韩国综艺","欧美综艺"
+
+            ]
+        },
      
      {
       "key": "ysjj-duo",
@@ -381,15 +385,7 @@
              "changeable": 1,
              "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/4kys.js"
     },
-           {
-            "key": "58影视",
-             "name": "58影视",
-             "type": 3,
-              "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
-               "searchable": 1,
-                "changeable": 1,
-                "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/58ys.js"
-    },
+           
               {
                "key": "Ysgc影视",
                "name": "Ysgc影视",
@@ -2270,23 +2266,19 @@
       "filterable": 1   
      
     },
-     
+       {
+      "key": "酷影视",
+      "name": "APP | 酷影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    }, 
 
 	    
-    {
-      "key": "kuaiyun-api.",
-      "name": "快云资源网",
-      "type": 1,
-      "api": "https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/",
-      "playurl": "json:https://www.kuaiyunplayer.com/dplayer/?url=",        
-      "searchable": 1,
-      "quickSearch": 1,       
-      "filterable": 1 ,
-     "categories": [
-                "动作片","喜剧片","冒险片","剧情片","伦理片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","灾难片","犯罪片","科幻片","爱情片","国产剧","欧美剧","日本剧","新马剧","其他剧","韩国剧","泰剧","动画电影","网络电影","日本动漫","欧美动漫","国产动漫","港台动漫","国产综艺","港台综艺","日本综艺","韩国综艺","欧美综艺"
-
-            ]
-        },
+   
     
         {
             "key": "新6V",
@@ -2335,6 +2327,18 @@
             "quickSearch": 1,
             "changeable": 1
         },
+            {
+            "key": "58影视",
+             "name": "58动漫影视",
+             "type": 3,
+              "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
+               "searchable": 1,
+                "changeable": 1,
+                "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/58ys.js"
+    },
+
+
+	    
          {
             "key": "drpy_js_AnFuns",
             "name": "动漫 | AnFuns[js]",
