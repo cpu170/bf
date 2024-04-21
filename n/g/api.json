@@ -1972,49 +1972,7 @@
            "searchable": 1,
           "quickSearch": 1
     },
-    {
-      "key": "加菲猫",
-      "name": "🎡️加菲猫影视",
-      "type": 1,
-      "api": "https://xzcjz.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
-     {
-            "key": "唐三",
-            "name": "👑唐影视👑",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-     },    
-      {
-      "key": "地瓜",
-      "name": "👑地瓜影视👑",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://www.qiqiguai.cn/api.php/app/"
-    },
-   	       
-{"key":"零柒",
-        "name":"👑零柒影视👑",
-        "type":1,
-        "api":"http://xzcjz.com/api.php/provide/vod/at/json",
-        "searchable":1,
-        "changeable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "categories":["国产动漫","电影","连续剧","国产剧","香港剧","韩国剧","欧美剧","动作","喜剧","爱情","科幻","古装片","历史片","大陆综艺","港台综艺","日韩综艺","动画","欧美动漫","日本动漫"]
-        }, 
-
+   
 	    
         
        
