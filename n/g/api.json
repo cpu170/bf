@@ -2888,13 +2888,15 @@
       "filterable": 1
     },
       {
-		"key": "番号资源",
-		"name": "番号资源🔞",
-		"type": 0,
-		"api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
+      "key": "番号资源",
+      "name": "番号资源🔞",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json/",
+      "playurl": "json:https://www.fhm3u8.com/dpm3u8.html?url=", 
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 	    
 	    
      {
