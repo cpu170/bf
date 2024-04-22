@@ -2881,7 +2881,7 @@
       "name": "奶香香资源🔞",
       "type": 1,
       "api":"https://naixxzy.com/api.php/provide/vod/?ac=list",
-      "playUrl":"https://nxxjx.com/?url=",
+      "playUrl":"json:https://nxxjx.com/?url=",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
