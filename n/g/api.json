@@ -211,20 +211,42 @@
             "quickSearch": 1,
             "changeable": 1
         },	    
+         {
+             "key": "caiji_左岸切片",
+             "name": "🎦左岸┃2k",
+             "type": 1,
+             "api": "https://app.dybfun.com/api.php/provide/vod",
+             "searchable": 1,
+             "quickSearch": 1,
+             "changeable": 1,
+            "categories": [
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫",
+           "伦理"
+      ]
+    },
+   {
+      "key": "caiji_甜甜影视",
+      "name": "🎦甜甜┃2k",
+      "type": 1,
+      "api": "http://ck.xuees.top/api.php/provide/vod/at/json/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
         
-
+      ]
+    },
 	    
 
-        {
-            "key": "csp_SP33",
-            "name": "📺三三┃解析",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "贱贱",
             "name": "🐭贱贱┃p2p",
@@ -939,6 +961,10 @@
         
     ]
 },    
+   
+  
+
+
 
 	    
           
