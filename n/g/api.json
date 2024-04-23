@@ -1669,7 +1669,18 @@
         "短剧大全"
     ]
 },
-	    
+ {
+      "key": "hq资源",
+      "name": "🎦花旗┃2k",
+      "type": 1,
+      "api": "https://seacms.huaqi.live/zyapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": ""
+      
+      
+    },	    
          
        
         {
