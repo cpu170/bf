@@ -1670,17 +1670,16 @@
     ]
 },
  {
-      "key": "hq资源",
-      "name": "🎦花旗┃2k",
-      "type": 1,
-      "api": "https://seacms.huaqi.live/zyapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": ""
-      
-      
-    },	    
+    "key": "花旗资源",
+    "name": "花旗资源",
+    "api": "https://seacms.huaqi.live/zyapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "影视",
+    "status": true,
+    "isActive": true,
+    "type": 0
+},
          
        
         {
