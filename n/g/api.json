@@ -385,15 +385,7 @@
              "changeable": 1,
              "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/4kfree.js"
     },
-          {
-            "key": "4K影视",
-            "name": "4K影视",
-             "type": 3,
-              "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
-             "searchable": 1,
-             "changeable": 1,
-             "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/4kys.js"
-    },
+          
            
               {
                "key": "Ysgc影视",
@@ -1124,28 +1116,7 @@
             "filterable": 1,
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
         },			
-         {
-            "key": "XBPQ_星辰",
-            "name": "🌟┃星辰┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-			"searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "./lib/星辰影视.json"
-        },	
-         {
-            "key": "csp_XBPQ_wanda",
-            "name": "🗽┃万达┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "./lib/万达.json"
-        },
+        
 	 
 	
 	 
