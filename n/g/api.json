@@ -67,7 +67,16 @@
             "quickSearch": 1,
             "changeable": 1
         },
-         
+         {
+             "key": "csp_YCyz",
+              "name": "☀原创",
+              "type": 3,
+              "api": "csp_YCyz",
+              "searchable": 1,
+              "quickSearch": 1,
+              "filterable": 1,
+              "changeable": 1
+},
          
          {
              "key": "厂长",
@@ -79,7 +88,7 @@
              "searchable": 1,
              "quickSearch": 1,
              "changeable": 1,
-             "ext": "https://www.czzy77.com/"
+             "ext": "https://www.cz233.com/"
       },
 	 {
              "key": "视觉",
