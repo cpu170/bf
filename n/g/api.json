@@ -2561,7 +2561,16 @@
             "ext": "./js/爱上你听书网.js",
             "playerType": "2"
         },   
-         
+
+           {
+             "key": "秘密公寓",
+             "name": "秘密公寓🔞",
+            "type": 1,
+             "api": "https://91porn.men/api.php/provide/vod/",
+             "searchable": 1,
+            "quickSearch": 1
+    },
+	    
        {
       "key": "gqzy",
       "name": "搞起资源🔞",
