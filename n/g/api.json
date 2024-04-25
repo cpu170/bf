@@ -2570,6 +2570,19 @@
              "searchable": 1,
             "quickSearch": 1
     },
+
+         {
+             "key": "麻豆资源",
+             "name": "麻豆资源🔞",
+            "type": 1,
+             "api": "https://c.mdvod.cc/api.php/provide/vod/",
+             "searchable": 1,
+            "quickSearch": 1
+    },
+
+
+
+
 	    
        {
       "key": "gqzy",
