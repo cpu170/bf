@@ -3085,7 +3085,14 @@
       "quickSearch": 1,
       "filterable": 1
     },	    
-
+      {
+             "key": "夜色资源",
+             "name": "夜色资源🔞",
+            "type": 1,
+             "api": "https://www.yszy02.com/api.php/provide/vod/",
+             "searchable": 1,
+            "quickSearch": 1
+    },
 	    
      
      
