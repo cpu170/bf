@@ -1713,7 +1713,7 @@
 },
  {
     "key": "花旗资源",
-    "name": "花旗资源",
+    "name": "🎦花旗资源",
     "api": "https://seacms.huaqi.live/zyapi.php",
     "download": "",
     "jiexiUrl": "",
@@ -1809,7 +1809,14 @@
             "filterable": 1,
             "ext": "./lib/555.js"
         },
-        
+         {
+             "key": "影图",
+             "name": "🎦影图┃2k",
+            "type": 1,
+             "api": "https://cj.vodimg.top/api.php/provide/vod/",
+             "searchable": 1,
+            "quickSearch": 1
+    },
 	   
       
       
