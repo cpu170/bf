@@ -2579,7 +2579,18 @@
              "searchable": 1,
             "quickSearch": 1
     },
-
+    {
+      "key": "葡萄资源",
+      "name": "葡萄资源🔞",
+      "type": 1,
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": ""
+      
+      
+    },
 
 
 
