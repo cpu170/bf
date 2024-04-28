@@ -2087,13 +2087,7 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/Voflix.js"
         },
-	  {
-            "key": "drpy_js_两个BT",
-            "name": "影视 | 两个BT[js]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/两个BT.js"
-        }, 
+	  
          {
             "key": "drpy_js_纽约影院",
             "name": "影视 | 纽约影院[js]",
