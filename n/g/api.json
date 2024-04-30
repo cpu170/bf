@@ -207,7 +207,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"apv2_鸭奈飞","name":"丫丫影视","type":3,"api":"csp_AppYsV2","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-
+{"key": "T4-安博","name": "安博(T4)","type": 4,"api": "https://tang.serv00.net/power/ub1818?token=8726be0d","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
 
 
 	    
@@ -1169,16 +1169,7 @@
     },   
 	    
         
-         {
-            "key": "鑫鑫影视",
-            "name": "🥇┃鑫鑫┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-        },			
+         
    {
     "key": "vod_飘零影院",
     "name": "🎦飘零┃2k",
