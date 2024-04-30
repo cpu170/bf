@@ -24,8 +24,8 @@
           "quickSearch": 1,
           "changeable": 0,
           "ext": {
-           "aliToken": "tvfan/token.txt",
-          "quarkCookie": "tvfan/cookie.txt",
+           "aliToken": "/token.txt",
+          "quarkCookie": "/cookie.txt",
           "from": "4k|auto|fhd",
           "siteUrl": "https://api.wogg.xyz/",
           "danMu": "关"
