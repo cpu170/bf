@@ -7,7 +7,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕豆豆搜索",
+            "name": "🌕┃豆豆┃搜索",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
