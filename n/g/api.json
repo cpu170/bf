@@ -1887,7 +1887,16 @@
             "filterable": 1,
             "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/黑乎影视.json"
       },
-
+ {
+        "key": "csp_xBPQ_qixing",
+        "name": "🍚七新(XBPQ)",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/七新影视.json"
+      },
 
 
 	    
