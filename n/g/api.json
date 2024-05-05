@@ -23,7 +23,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/douban.js"
+      "ext": "./lib/douban.js"
     },  
          
  {
