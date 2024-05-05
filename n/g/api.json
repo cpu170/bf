@@ -19,7 +19,7 @@
       "key": "js豆瓣",
       "name": "🍀┃豆豆┃秒搜",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
