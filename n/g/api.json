@@ -2974,7 +2974,17 @@
       "ext": "./lib/香蕉资源.json",
       "jar": "./lib/Yoursmile2.jar"      
     },    
-
+     {
+      "key": "七天",
+      "name": "七天🔞",
+      "type": 1,
+      "api": "https://8day.icu/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": ""
+    },
+ 
 
 	    
     {
