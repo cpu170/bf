@@ -3534,33 +3534,9 @@
             "changeable": 0,
             "ext": "./json/高中课堂.json"
         },
-          {
-            "key": "Nbys",
-            "name": "🛫泥巴┃飞",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_trj",
-            "name": "🛫唐人街┃飞",
-            "type": 3,
-            "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-         {
-            "key": "fan",
-            "name": "导航.top",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+          
+       
+        
 
 
 	    
@@ -3581,15 +3557,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },   
-        {
-            "key": "cc",
-            "name": "请勿相信视频中任何广告",
-            "type": 3,
-            "api": "csp_fan",
-            "searchable": 0,
-            "quickSearch": 0
-        }
+        }  
+       
     ],
     "parses": [
 
