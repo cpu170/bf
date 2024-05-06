@@ -3466,7 +3466,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "aliToken":"./token.txt","quarkCookie":"./cookie.txt","from":"4k|auto|fhd"
+            "ext": {"aliToken":"./token.txt","quarkCookie":"./cookie.txt","from":"4k|auto|fhd"}
         },
         {
             "key": "csp_Nbys",
