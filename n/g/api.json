@@ -3466,7 +3466,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": {"aliToken":"./token.txt","quarkCookie":"./cookie.txt","from":"4k|auto|fhd"}
+            "ext": http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "csp_Nbys",
@@ -3589,13 +3589,13 @@
             "quickSearch": 1,
             "changeable": 1
         },
-	    {
-      "key": "cc",
-      "name": "请勿相信视频中任何广告",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0
+ {
+           "key": "cc",
+           "name": "请勿相信视频中任何广告",
+           "type": 3,
+           "api": "csp_fan",
+           "searchable": 0,
+           "quickSearch": 0
     }
 
 	    
