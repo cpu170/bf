@@ -265,7 +265,15 @@
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 
 
-         
+          {
+          "key": "追剧",
+           "name": "追剧吧",
+           "type": 1,
+           "api": "https://zjuba.vip//api.php/provide/vod/",
+            "playUrl": "",
+           "searchable": 1,
+          "quickSearch": 1
+    },
 
 
 	    
@@ -444,7 +452,17 @@
       "filterable": 1,
       "ext": "https://www.80yy3.com/"
     },   
-     
+  {
+      "key": "酷影视",
+      "name": "APP | 酷影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    }, 
+
      
      
      {
@@ -583,6 +601,20 @@
 				"搜索数组": "class=\"entry-media\">&&</div"
 			}
 		},
+
+
+
+
+	 {
+            "key": "新6V",
+            "name": "🧲新6V┃磁力",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://www.xb6v.com/"
+        },
 	    
      {
               "key": "Bt0",
@@ -1876,7 +1908,16 @@
 
             ]
 },
-
+ {
+      "key": "taopianzy.com",
+      "name": "🎦淘片┃2k",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",       
+      "searchable": 1,
+      "quickSearch": 1,       
+      "filterable": 1   
+     
+    },
 
 	    
        
@@ -2475,52 +2516,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+            "ext": "https://www.zhaifu.co/ruifenglb_api.php/v1.vod"
         },
-        {
-          "key": "追剧",
-           "name": "追剧吧",
-           "type": 1,
-           "api": "https://zjuba.vip//api.php/provide/vod/",
-            "playUrl": "",
-           "searchable": 1,
-          "quickSearch": 1
-    },
+        
    
 	    
-        
-       
-       
-         {
-            "key": "4KHDR",
-            "name": "🧲世界磁力┃慎用",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/4khdr.js"
-        },
-	
-           
     
-   
-    
-    
-    
-    
-    {
-      "key": "快帆",
-      "name": "快帆资源",
-      "type": 1,
-      "api": "https://api.kuaifan.tv/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },    
     
     {
       "key": "巴士",
-      "name": "巴士",
+      "name": "巴士动漫",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -2538,40 +2543,9 @@
     
    
    
-     {
-      "key": "taopianzy.com",
-      "name": "淘片资源网",
-      "type": 1,
-      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",       
-      "searchable": 1,
-      "quickSearch": 1,       
-      "filterable": 1   
-     
-    },
-       {
-      "key": "酷影视",
-      "name": "APP | 酷影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    }, 
 
-	    
-   
     
-        {
-            "key": "新6V",
-            "name": "🧲新6V┃磁力",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/"
-        },
+       
         {
             "key": "csp_Dm84",
             "name": "🚌动漫┃巴士",
