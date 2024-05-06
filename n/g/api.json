@@ -3442,7 +3442,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","aliToken":"http://127.0.0.1:9978/file/fatcat/token.txt","quarkCookie":"./cookie.txt","from":"4k|auto|fhd"
         },
         {
             "key": "csp_Nbys",
@@ -3533,24 +3533,8 @@
             "changeable": 0,
             "ext": "./json/高中课堂.json"
         },
-          {
-            "key": "Nbys",
-            "name": "🛫泥巴┃飞",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_trj",
-            "name": "🛫唐人街┃飞",
-            "type": 3,
-            "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+          
+        
          {
             "key": "fan",
             "name": "导航.top",
