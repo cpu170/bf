@@ -501,7 +501,17 @@
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
-    
+ {
+      "key": "csp_Zxzj",
+      "name": "🏚️在线",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+	    
      {
       "key": "低端",
       "name": "🛣┃低端┃影视",
@@ -522,20 +532,7 @@
         },    
 {"key":"雨晴","name":"💖分享晴天","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},	    
 
-   {
-           "key": "晴天",
-           "name": "💢晴天",
-           "type": 3,
-            "api": "csp_XBPQ",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-          "ext": {
-          "分类url": "https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-         "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
-         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
-      }
-    },
+   
 	    
    
 
