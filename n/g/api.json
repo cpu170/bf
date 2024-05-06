@@ -190,7 +190,16 @@
            "filterable": 1,
            "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
         },
-
+         {
+            "key": "csp_NewCz",
+            "name": "🏭厂长",
+            "type": 3,
+            "api": "csp_NewCz",
+            "searchable": 1,
+            "quickSearch": 1,
+             "filterable": 0,
+             "ext": "https://czzy.top/"
+    },
         
 	 {
             "key": "萌米",
