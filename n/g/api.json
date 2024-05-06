@@ -3466,7 +3466,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
             "key": "csp_Nbys",
