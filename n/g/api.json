@@ -3539,7 +3539,15 @@
             "changeable": 0,
             "ext": "./json/高中课堂.json"
         },
-          
+  {
+            "key": "fan",
+            "name": "导航.top",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+    },
         
          
 
