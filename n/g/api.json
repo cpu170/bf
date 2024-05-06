@@ -212,6 +212,17 @@
             "changeable": 0,
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
         },
+    {
+            "key": "csp_AppTT",
+            "name": "💥萌米",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+    },
         {
             "key": "毛驴",
             "name": "🍓毛驴┃直连",
@@ -232,7 +243,7 @@
             "quickSearch": 1,
             "filterable": 1
    },
- 
+      
        
         
 	 {
@@ -2130,17 +2141,7 @@
       "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/Auete.js"
     },   
   	    
-	{
-      "key": "荐片",
-      "name": "荐片",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
-    },
+	
 	    
      
 {"key": "drpy_js_南瓜影视","name": "影视 | 南瓜影视[js]","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},        
