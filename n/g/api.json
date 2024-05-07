@@ -88,8 +88,8 @@
       }
     },
     {
-      "key": "live",
-      "name": "综合直播",
+      "key": "live10",
+      "name": "📺︎综合直播",
       "type": 3,
       "api": "./lib/lf_live10_min.js",
       "style": {
