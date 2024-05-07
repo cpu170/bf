@@ -4383,14 +4383,35 @@
       "jar": "./lib/Yoursmile2.jar"
     },
     {
-      "key": "apiyutu.com",
-      "name": "玉兔资源库🔞",
+      "key": "玉兔资源网",
+      "name": "玉兔资源🔞",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
-      "playurl": "json:https://yutujx.com/?url=",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playurl": "json:https://yutujx.com/?url=",
+      "categories": [
+        "精品推荐",
+        "麻豆传媒",
+        "国产精品",
+        "主播秀色",
+        "日本有码",
+        "日本无码",
+        "中文字幕",
+        "童颜巨乳",
+        "性感人妻",
+        "强奸乱伦",
+        "欧美情色",
+        "三级伦理",
+        "卡通动漫",
+        "丝袜OL",
+        "自拍偷拍",
+        "日本片商",
+        "网曝系列"
+                  
+      ]
     },
     {
       "key": "jkzy",
