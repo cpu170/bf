@@ -4589,14 +4589,6 @@
       "quickSearch": 0
     },
     {
-      "key": "*乐播资源",
-      "name": "*乐播资源🔞",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "*博天堂",
       "name": "*博天堂伦理资源🔞",
       "type": 0,
