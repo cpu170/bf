@@ -4025,6 +4025,17 @@
       "playerType": "2"
     },
     {
+      "key": "越南资源",
+      "name": "越南资源🔞",
+      "type": 1,
+      "api": " https://vnzyz.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": ""
+      
+     }, 
+    {
       "key": "秘密公寓",
       "name": "秘密公寓🔞",
       "type": 1,
