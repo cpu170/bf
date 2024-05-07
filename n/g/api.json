@@ -4183,6 +4183,7 @@
       "name": "lsb资源🔞",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
