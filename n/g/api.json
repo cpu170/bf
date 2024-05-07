@@ -549,7 +549,119 @@
                 "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
                 "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
             }
-        },
+      },
+      {
+      "key": "红狐狸影院",
+      "name": "🎦红狐狸影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "+line-height: 20px;\">&&</div>",
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "悠云追剧",
+      "name": "🎦悠云┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": ">&&</div>",
+        "分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "凯奇追剧",
+      "name": "🎦凯奇┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "+hl-content-text\">&&</span>",
+        "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
+      }
+    },
+    {
+      "key": "赘婿影视",
+      "name": "🎦赘婿影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "video-img lazyload&&</p>",
+        "副标题": "mr-xs-0\">&&</span>",
+        "简介": "entry-content clearfix\">&&</p>",
+        "搜索url": "https://zhuixu.cc/Kansearch/-------------/?wd=",
+        "线路数组": "data-target=\"#ewave-playlist-&&</li>",
+        "线路标题": ">&&</a >",
+        "播放数组": "<ul class=\"row ewave-tab-content ewave-playlist-content&&</ul>",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://zhuixu.cc/type/{cateId}-{catePg}/",
+        "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
+      }
+    },
+    {
+      "key": "123影视",
+      "name": "🎦123影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍: +video-info-content vod_content\">&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.idc123.xyz/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"
+      }
+    },
+    {
+      "key": "看片狂人",
+      "name": "🎦看片狂人",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "免嗅": "1",
+        "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
+        "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]",
+        "分类": "国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "晨光电影",
+      "name": "🎦晨光电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍: +white-space: initial;\">&&</div>",
+        "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
+        "图片": "data-original=\"&&\"",
+        "标题": "fed-visible fed-part-eone\" href=*>&&</a>",
+        "副标题": "fed-text-white fed-text-center\">&&</span>",
+        "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
+        "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+      }
+    },
+    {
+      "key": "高清在线",
+      "name": "🎦高清在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
+        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+        "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
+      }
+    },
+
+    
     {
       "key": "YueAi影视",
       "name": "YueAi影视",
