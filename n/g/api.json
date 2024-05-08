@@ -751,16 +751,7 @@
             "filterable": 1,
             "ext": "./json/可可影视.json"
         },
-       {
-            "key": "热播之家",
-            "name": "🎦热播之家",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/rebozj.json"
-        },
+      
         {
             "key": "TVB云播",
             "name": "🎦TVB云播",
