@@ -1,5 +1,6 @@
-[
-
+{
+ "vodPic": "http://饭太硬.top/深色壁纸/api.php",
+  "drives": [
 
         {
         "name" : "🙋丫仙女",
@@ -66,4 +67,4 @@
         "startPage" : "/",
         "showAll" : false,
         "search" : true
-    }]
+    }]}
