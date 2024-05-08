@@ -15,6 +15,14 @@
         "showAll" : false,
         "search" : true
     },
+         {
+      "name": "🦢小鸭",
+      "server": "https://pan.mediy.cn/"
+    },
+         {
+      "name": "🌧秋雨",
+      "server": "https://share.qiuyu.org/"
+    },
         
         {
         "name" : "🌊七米蓝",
@@ -38,7 +46,7 @@
         "search" : true
     },
         {
-"name": "小鸭",
+"name": "小鸭2",
 "server": "http://shicheng.wang:555/",
 "startPage": "/",
 "showAll": false,
