@@ -67,7 +67,19 @@
           {
             "name": "🦆小雅网盘",
             "server": "https://pan.mediy.cn/"
-          }
+          },
+          {
+          "name": "👽ECVE",
+          "server": "https://pan.ecve.cn/"
+       },
+        {
+         "name": "🌧秋雨",
+         "server": "https://share.qiuyu.org/"
+      },
+       {
+        "name": "🐋七米蓝",
+        "server": "https://al.chirmyram.com"
+       }
         ]
       }
     },
