@@ -882,26 +882,7 @@
             "filterable": 1,
             "ext": "./json/dandan.json"
         },
-        {
-            "key": "HDmoli",
-            "name": "🎦魔力高清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/HDmoli.json"
-        },
-        {
-            "key": "策驰影院",
-            "name": "🎦策驰影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/cechi.json"
-        },
+        
         {
             "key": "csp_Voflix",
             "name": "🎦Voflix",
@@ -912,26 +893,7 @@
             "filterable": 1,
             "ext": "./json/voflix.json"
         },
-        {
-            "key": "Vidhub视频",
-            "name": "🎦视频库",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/Vidhub.json"
-        },
-        {
-            "key": "石榴影视",
-            "name": "🎦石榴影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/shiliu.json"
-        },
+  
         {
             "key": "麻衣呀呼",
             "name": "🎦麻衣呀呼",
