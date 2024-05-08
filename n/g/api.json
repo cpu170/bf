@@ -904,7 +904,16 @@
             "filterable": 1,
             "ext": "./json/voflix.json"
         },
-  
+         {
+          "key": "csp_酒吧影视",
+          "name": "🎦酒吧",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "./json/jiuba.json"
+      },
         {
             "key": "麻衣呀呼",
             "name": "🎦麻衣呀呼",
