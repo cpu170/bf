@@ -3487,6 +3487,13 @@
       "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/Icio影视.jsd"
     },
     {
+      "key": "drpy_js_歪片星球",
+      "name": "🪐歪片星球",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/歪片星球.js"
+    },
+    {
       "key": "drpy_js_量子资源",
       "name": "量子[js]",
       "type": 3,
