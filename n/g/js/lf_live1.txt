@@ -41,7 +41,8 @@ https://qu.ax/PEHy.txt
 https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt
 #18live
 https://mirror.ghproxy.com/raw.githubusercontent.com/mengzehe/TVBox/main/18/18live.txt
-
+#YanG-A
+https://yang-1989.eu.org/m3u/Adult
 
 
 
