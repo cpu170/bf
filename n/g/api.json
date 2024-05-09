@@ -3479,6 +3479,14 @@
       }
     },
     {
+      "key": "drpy_js_Icio影视",
+      "name": "🏝︎‍Icio影视",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/Icio影视.jsd"
+    },
+    {
       "key": "drpy_js_量子资源",
       "name": "量子[js]",
       "type": 3,
