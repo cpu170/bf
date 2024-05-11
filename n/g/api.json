@@ -353,22 +353,7 @@
         "伦理"
       ]
     },
-    {
-      "key": "caiji_甜甜影视",
-      "name": "🎦甜甜┃2k",
-      "type": 1,
-      "api": "http://ck.xuees.top/api.php/provide/vod/at/json/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]
-    },
+   
     {
       "key": "vod_速播",
       "name": "🎦速播┃2k",
