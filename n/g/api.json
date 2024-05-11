@@ -2746,6 +2746,28 @@
        
       ]
     },
+     {
+      "key": "tianmi影视",
+      "name": "🎦tianmi影视┃2k",
+      "type": 1,
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "https://jx.m3u8.biz/gg.php?url={url}",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "其他剧"
+         
+      ]
+    },
     {
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
