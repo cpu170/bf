@@ -6109,7 +6109,7 @@
       }
     },
      {
-      "name": "解析4",
+      "name": "无意解析4",
       "type": 0,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
@@ -6170,16 +6170,7 @@
       "type": 3,
       "url": "https://www.snplayer.com/?url="
     },
-     {
-      "name": "ces",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=dmnoxzADHKMOQSXZ01&url=",
-      "ext": {
-        "flag": [
-          "seven"
-        ]
-      }
-    },
+    
     {
       "name": "爱酷🌾",
       "type": 1,
