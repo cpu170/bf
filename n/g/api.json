@@ -5774,6 +5774,7 @@
           "哔哩",
           "哔 哩",
           "哔 哩 哔 哩",
+          "seven",
           "wasu"
         ],
         "header": {
@@ -6168,6 +6169,16 @@
       "name": "索尼资源解析",
       "type": 3,
       "url": "https://www.snplayer.com/?url="
+    },
+     {
+      "name": "ces",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=dmnoxzADHKMOQSXZ01&url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ]
+      }
     },
     {
       "name": "爱酷🌾",
