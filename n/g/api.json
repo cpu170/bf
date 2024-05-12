@@ -3605,6 +3605,16 @@
       "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/歪片星球.js"
     },
     {
+      "key": "柒月影视",
+      "name": "柒月影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/七月影视.json"
+    },
+    {
       "key": "drpy_js_量子资源",
       "name": "量子[js]",
       "type": 3,
