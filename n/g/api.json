@@ -3571,6 +3571,17 @@
         "链接前缀": "https://m.huya.com/"
       }
     },
+     {
+      "key": "csp_威士",
+      "name": "🍚┃威士┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/wykj/kj/raw/main/json/%E5%A8%81%E5%A3%AB%E5%BD%B1%E8%A7%86.json",
+      "jar": "http://www.wya6.cn/tz/wyxy.php"
+    },
     {
       "key": "drpy_js_Icio影视",
       "name": "🏝︎‍Icio影视",
