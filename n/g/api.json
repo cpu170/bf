@@ -534,6 +534,13 @@
       "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
     {
+      "key": "魔力高清",
+      "name": "魔力高清",
+      "type": 3,
+      "api": "./lib/drpy.min.js",
+      "ext": "./js/魔力高清.js"
+    },
+    {
       "key": "2聚合",
       "name": "💖分享遇见",
       "type": 3,
