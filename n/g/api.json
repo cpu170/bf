@@ -537,7 +537,7 @@
       "key": "魔力高清",
       "name": "魔力高清",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/drpy3.min.js",
       "ext": "./js/魔力高清.js"
     },
     {
