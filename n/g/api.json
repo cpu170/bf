@@ -465,6 +465,16 @@
       "ext": "https://cloud.lxweb.cn/f/Lyl2SD/%E5%A4%A9%E5%A4%A9%E9%9F%A9%E5%89%A7.json"
     },
     {
+      "key": "csp_app_天天视频",
+      "name": "🐌天天视频",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.qianju.cc/api.php/v1.vod"
+    },
+    {
       "key": "新视觉",
       "name": "🐦┃视觉┃影视",
       "type": 3,
