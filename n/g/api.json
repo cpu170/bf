@@ -545,7 +545,7 @@
     },
     {
       "key": "魔力高清",
-      "name": "魔力高清",
+      "name": "☯️魔力高清",
       "type": 3,
       "api": "./lib/drpy3.min.js",
       "ext": "./js/魔力高清.js"
@@ -570,6 +570,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
+    },
+     {
+        "key": "电影牛",
+        "name": "🐂电影牛",
+        "type": 3,
+        "api": "csp_XYQHiker",
+        "jar": "http://nctv.top/tv/jar/spider.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://nctv.top/tv/sub/电影牛.json"
     },
    
     {
