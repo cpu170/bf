@@ -2775,7 +2775,7 @@
     "name": "🎦┃奇虎┃2k",
     "type": 1,
     "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
-    "playUrl": "json:https://jiexi.qhzyapi.com/dp/?url=",
+    "playUrl": "json:https://jiexi.qhzyapi.com/ali/?url=",
     "searchable": 1,
     "quickSearch": 1,
     "categories": [
