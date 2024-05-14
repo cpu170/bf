@@ -18,7 +18,7 @@
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u"
     },
     {"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
-    { "name": "Yoursmile•综合", "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+    { "name": "joevess/IPTV home", "url": "https://iptv.b2og.com/txt/j_home.txt"},
     {"name":"YueChan","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
    {"name":"Ys•综合","type":0,"url":"http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
