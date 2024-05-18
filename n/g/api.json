@@ -3621,14 +3621,7 @@
       "ext": "https://raw.gitcode.com/wykj/kj/raw/main/json/%E5%A8%81%E5%A3%AB%E5%BD%B1%E8%A7%86.json",
       "jar": "http://www.wya6.cn/tz/wyxy.php"
     },
-    {
-      "key": "drpy_js_Icio影视",
-      "name": "🏝︎‍Icio影视",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/Icio影视.jsd"
-    },
+   
    
     {
       "key": "柒月影视",
