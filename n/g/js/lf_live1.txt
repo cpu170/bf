@@ -21,6 +21,8 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/m
 https://agit.ai/fenwe/TVBox/raw/branch/master/tv/%e7%b3%96%e6%84%8f.txt
 #麻豆
 https://qu.ax/XstR.txt
+#madou
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/madou.txt
 #快上车
 https://files.catbox.moe/w36yqk.txt
 #18
