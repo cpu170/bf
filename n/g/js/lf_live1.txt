@@ -8,8 +8,7 @@
 
 #春意
 ../lives/listx.txt
-#madou
-../lives/madou.txt
+
 
 #atsushi
 https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
