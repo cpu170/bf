@@ -3629,13 +3629,7 @@
       "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/Icio影视.jsd"
     },
-    {
-      "key": "drpy_js_歪片星球",
-      "name": "🪐歪片星球",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/歪片星球.js"
-    },
+   
     {
       "key": "柒月影视",
       "name": "柒月影视",
