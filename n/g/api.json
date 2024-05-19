@@ -6145,8 +6145,8 @@
       }
     },
      {
-      "name": "无意解析4",
-      "type": 0,
+      "name": "无意解析3",
+      "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
         "flag": [
@@ -6219,6 +6219,37 @@
         }
     }
 },
+     {
+      "name": "官解2",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+
+    
     {
       "name": "-咸鱼-",
       "type": 0,
