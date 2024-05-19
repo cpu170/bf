@@ -947,6 +947,16 @@
           "ext": "./json/jiuba.json"
       },
         {
+            "key": "Vidhub视频",
+            "name": "🎦视频库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/Vidhub.json"
+        },
+        {
             "key": "麻衣呀呼",
             "name": "🎦麻衣呀呼",
             "type": 3,
