@@ -916,8 +916,8 @@
     },
     
     {
-      "key": "YueAi影视",
-      "name": "YueAi影视",
+      "key": "YueAi全站资源",
+      "name": "YueAi全站资源",
       "type": 1,
       "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list",
       "searchable": 1,
