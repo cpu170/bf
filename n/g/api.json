@@ -6328,31 +6328,19 @@
       "type": 0,
       "url": "https://video.isyour.love/player/getplayer?url="
     },
-    {
-      "name": "解析15",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
+   
     {
       "name": "解析17",
       "type": 0,
       "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
     },
-    {
-      "name": "解析18",
-      "type": 0,
-      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
-    },
+   
     {
       "name": "解析19",
       "type": 0,
       "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
-    {
-      "name": "JSON链解酷云77",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
-    },
+    
     {
       "name": "小种嗅探",
       "type": 0,
