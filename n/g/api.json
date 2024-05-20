@@ -72,6 +72,10 @@
           "name": "👽ECVE",
           "server": "https://pan.ecve.cn/"
        },
+        {
+            "name": "🦆小雅分类",
+            "server": "http://tptpwhc.tpddns.cn:1234/"
+          },  
         
        {
         "name": "🐋七米蓝",
