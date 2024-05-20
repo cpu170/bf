@@ -5036,13 +5036,41 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "api.11bat.com",
+   {
+      "key": "*api.11bat.com",
       "name": "辣椒资源🔞",
       "type": 0,
       "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+      "playerType": 2,
       "searchable": 1,
-      "filterable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:https://lajiaoapi.com/watch?url=",
+      "categories": [
+        "国产自拍",
+        "欧美极品",
+        "日韩无码",
+        "AV明星",
+        "中文字幕",
+        "动漫精品",
+        "极骚萝莉",
+        "人妖视频",
+        "重咸口味",
+        "三级自慰",
+        "强奸乱伦",
+        "独家擂台格斗",
+        "辣椒GIGA",
+        "HEYZO",
+        "独家DMM",
+        "HEY诱惑",
+        "童颜巨乳",
+        "高潮喷吹",
+        "激情口交",
+        "觉美少女",
+        "首次亮相",
+        "AV明星1"
+
+      ]
     },
     {
       "key": "csp_香蕉资源",
