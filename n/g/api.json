@@ -5274,8 +5274,8 @@
       "filterable": 0
     },
      {
-      "key": "好色资源",
-      "name": "好色资源🔞",
+      "key": "色猫资源",
+      "name": "色猫资源🔞",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
       "playerType":2,
