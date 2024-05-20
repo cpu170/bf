@@ -4727,6 +4727,17 @@
       "playurl": ""
       
      }, 
+     {
+      "key": "色色虎资源",
+      "name": "色色虎资源🔞",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
+      "playerType": 1,
+      "playurl": "https://jx.jxsesehuzy.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "秘密公寓",
       "name": "秘密公寓🔞",
