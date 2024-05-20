@@ -4739,41 +4739,26 @@
       "filterable": 1
     },
     {
-      "key": "秘密公寓",
-      "name": "秘密公寓🔞",
+      "key": "私房TV",
+      "name": "私房TV🔞",
       "type": 1,
-      "api": "https://91porn.men/api.php/provide/vod/",
+      "api": "https://www.avbook.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "麻豆资源",
-      "name": "麻豆资源🔞",
-      "type": 1,
-      "api": "https://c.mdvod.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+   
     {
       "key": "葡萄资源",
       "name": "葡萄资源🔞",
       "type": 1,
       "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playurl": ""
+      "playurl": "https://jiexi.putaozyw.net/m3u8/?url="
     },
-    {
-      "key": "草帽资源",
-      "name": "草帽资源🔞",
-      "type": 1,
-      "api": "https://wvw.cmzy.top/api.php/provide/vod/?ac=list",
-      "playurl": "json:https://api.cmzy.top/m3u8/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
     {
       "key": "gqzy",
       "name": "搞起资源🔞",
