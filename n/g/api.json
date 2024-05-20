@@ -5114,6 +5114,7 @@
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "playurl": "https://www.jkunjx.com/?url=",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
