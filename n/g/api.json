@@ -4949,6 +4949,7 @@
       "name": "黄瓜资源🔞",
       "type": 1,
       "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
