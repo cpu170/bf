@@ -5446,7 +5446,7 @@
    {
       "key": "*奶香香资源",
       "name": "奶香香资源🔞",
-      "type": 0,
+      "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "playerType":"2",
       "searchable": 1,
