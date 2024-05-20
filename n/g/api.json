@@ -5443,16 +5443,38 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "naixiang",
+   {
+      "key": "*奶香香资源",
       "name": "奶香香资源🔞",
-      "type": 1,
+      "type": 0,
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
-      "playUrl": "json:https://nxxjx.com/?url=",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "playurl": "json:https://nxxjx.com/?url=",
+      "categories": [
+        "国产自拍",
+        "主播诱惑",
+        "探花约炮",
+        "偷拍偷窥",
+        "网曝吃瓜",
+        "抖阴短片",
+        "传媒剧情",
+        "日韩主播",
+        "日韩无码",
+        "中文字幕",
+        "AV解说",
+        "换脸明星",
+        "强奸乱伦",
+        "女优明星",
+        "欧美激情",
+        "重口激情",
+        "三级伦理",
+        "剧情动漫",
+        "SM调教",
+        "女同性恋",
+        "VR视角"
+      ]
     },
     {
       "key": "番号资源",
