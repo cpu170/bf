@@ -4801,6 +4801,7 @@
       "name": "奥斯卡资源🔞",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -4912,38 +4913,7 @@
         "国产探花"
       ]
     },
-    {
-      "key": "99rzy",
-      "name": "久久热🔞",
-      "type": 1,
-      "api": "https://99reapi.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "json:https://99replayer.com/?url=",
-      "categories": [
-        "自拍偷拍",
-        "主播直播",
-        "传媒出品",
-        "91探花",
-        "网曝热门",
-        "巨乳美乳",
-        "制服诱惑",
-        "成人动漫",
-        "欧美精品",
-        "乱伦三级",
-        "亚洲有码",
-        "日本无码",
-        "口交颜射",
-        "萝莉少女",
-        "国产精品",
-        "中文字幕",
-        "熟女人妻",
-        "强奸乱伦",
-        "av解说",
-        "AI换脸"
-      ]
-    },
+   
     {
       "key": "hgzy",
       "name": "黄瓜资源🔞",
