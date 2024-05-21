@@ -6016,6 +6016,11 @@
       }
     },
     {
+      "name": "we-vip",
+      "type": 0,
+      "url": "https://player.we-vip.com:2083/?url="
+    },
+    {
       "name": "无意解析",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
