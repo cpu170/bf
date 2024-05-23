@@ -2711,7 +2711,7 @@
      {
       "key": "海洋资源",
       "name": "🎦海洋┃2k",
-      "type": 1,
+      "type": 0,
       "api": "https://www.seacms.org/zyapi.php ",
       "playerType": 2,
       "searchable": 1,
