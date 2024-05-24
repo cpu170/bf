@@ -187,16 +187,7 @@
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },
-    {
-      "key": "csp_NewCz",
-      "name": "🏭厂长",
-      "type": 3,
-      "api": "csp_NewCz",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://czzy.top/"
-    },
+   
     {
       "key": "萌米",
       "name": "👀萌米┃App",
@@ -249,17 +240,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/sub/nmys.json"
-    },
+   
     {
       "key": "csp_Bttoo",
       "name": "🍄比特┃直连",
