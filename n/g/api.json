@@ -3932,13 +3932,7 @@
       "ext": "./js/影视之家[V2].js"
     },
    
-    {
-      "key": "drpy_js_中国人线上看",
-      "name": "影视 | 中国人线上看[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/中国人线上看.js"
-    },
+    
     {
       "key": "drpy_js_555电影[V2]",
       "name": "影视 | 555电影[V2]",
