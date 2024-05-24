@@ -4262,13 +4262,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/子子影视.js"
     },
-    {
-      "key": "drpy_js_大师兄影视",
-      "name": "起飞 | 大师兄影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/大师兄影视.js"
-    },
+    
     {
       "key": "drpy_js_起飞影院",
       "name": "起飞 | 起飞影院[js]",
