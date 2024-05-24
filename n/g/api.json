@@ -3894,13 +3894,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/多瑙影视.js"
     },
-    {
-      "key": "drpy_js_剧迷su",
-      "name": "影视 | 剧迷su[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/剧迷su.js"
-    },
+   
     {
       "key": "drpy_js_看韩剧",
       "name": "影视 | 看韩剧[js]",
