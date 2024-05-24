@@ -6153,7 +6153,7 @@
      
      {
       "name": "玉米",
-      "type": 1,
+      "type": 0,
       "url": "http://xhww.fun/jx.php?id=1&url=",
       "ext": {
         "flag": [
@@ -6407,12 +6407,7 @@
         }
       }
     },
-    {
-      "name": "索尼资源解析",
-      "type": 3,
-      "url": "https://www.snplayer.com/?url="
-    },
-    
+   
     {
       "name": "爱酷🌾",
       "type": 1,
@@ -6476,7 +6471,7 @@
     },
     {
     "name": "飞云",
-    "type": 1,
+    "type": 0,
     "url": "https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=",
     "ext": {
         "flag": [
