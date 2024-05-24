@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/nmys.json"
+      "ext": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/sub/nmys.json"
     },
     {
       "key": "csp_Bttoo",
