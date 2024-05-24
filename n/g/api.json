@@ -2978,7 +2978,7 @@
             "key": "csp_XYQHiker_看一看影视",
             "name": "看一看影视(XYQH)",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "./lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
