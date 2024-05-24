@@ -3954,13 +3954,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/爱迪[V2].js"
     },
-    {
-      "key": "drpy_js_刺桐[V2]",
-      "name": "影视 | 刺桐[V2][js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/刺桐[V2].js"
-    },
+    
     {
       "key": "drpy_js_kuba",
       "name": "酷吧[js]",
