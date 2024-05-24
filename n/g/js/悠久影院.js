@@ -5,7 +5,7 @@ muban.首图2.二级.tabs = '.dropdown-menu&&li';
 var rule = {
     title: '悠久影院(玄天)',
     模板: '首图2',
-    host: 'https://m.7caa.com',
+    host: 'https://www.yojiutv.com/',
     // url:'/list/fyclass-fypage.html',
     // url:'/vshow/fyclass--------fypage---.html',
     url: '/vshow/fyclassfyfilter.html',
