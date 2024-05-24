@@ -3830,13 +3830,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/333影视.js"
     },
-    {
-      "key": "drpy_js_哔嘀影视",
-      "name": "影视 | 哔嘀影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/哔嘀影视.js"
-    },
+   
     {
       "key": "drpy_js_7喜影院",
       "name": "影视 | 7喜影院[js]",
