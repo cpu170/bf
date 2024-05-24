@@ -1,7 +1,7 @@
 // 发布页 https://www.bdys.me/
 var rule = {
     title: '哔嘀影视',
-    host: 'https://www.bdys10.com',
+    host: 'https://www.yjys.me/',
     // url: '/s/all/fypage?type=fyclass',
 	url: '/s/all/fypage?type=fyclassfyfilter',
 	filter_url:'&{{fl.area}}&{{fl.year}}&{{fl.by}}',
