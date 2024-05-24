@@ -3931,13 +3931,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/影视之家[V2].js"
     },
-    {
-      "key": "drpy_js_悠久影院",
-      "name": "影视 | 悠久影院[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/悠久影院.js"
-    },
+   
     {
       "key": "drpy_js_中国人线上看",
       "name": "影视 | 中国人线上看[js]",
