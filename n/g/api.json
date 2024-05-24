@@ -4023,26 +4023,8 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/腾云驾雾.js"
     },
-    {
-      "key": "drpy_js_爱看机器人",
-      "name": "影视 | 爱看机器人[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./js/爱看机器人.js"
-    },
-    {
-      "key": "drpy_js_ikanbot2",
-      "name": "影视 | 爱看机器人2[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./js/ikanbot2.js"
-    },
+    
+   
     {
       "key": "drpy_js_ikanbot3",
       "name": "影视 | 爱看机器人3[js]",
