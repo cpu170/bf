@@ -2974,16 +2974,7 @@
          
       ]
     },
-     {
-            "key": "csp_XYQHiker_看一看影视",
-            "name": "看一看影视(XYQH)",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/看一看影视.json"
-        },
+     
     {
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
