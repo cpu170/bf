@@ -6056,6 +6056,12 @@
       "type": 0,
       "url": "https://player.we-vip.com:2083/?url="
     },
+     {
+            "name": "影视",
+            "type": 1,
+            "url": "http://122.228.84.103:7777/api/?key=rSqUtltpbfk1xsQFjz&url="
+        },
+    
     {
       "name": "无意解析",
       "type": 1,
@@ -6147,6 +6153,54 @@
         ]
       }
     },
+      {
+            "name": "极速解析",
+            "type": 1,
+            "url": "https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SMD",
+                    "YuMi",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.18 (dart:io)"
+                }
+            }
+        },
+
+    
      {
       "name": "玉米",
       "type": 1,
