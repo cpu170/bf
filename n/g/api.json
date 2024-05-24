@@ -3965,13 +3965,7 @@
       "changeable": 1,
       "timeout": 30
     },
-    {
-      "key": "drpy_js_北极狐[V2]",
-      "name": "影视 | 北极狐[V2]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/北极狐[V2].js"
-    },
+   
     {
       "key": "drpy_js_大米星球[V2]",
       "name": "影视 | 大米星球[V2]",
