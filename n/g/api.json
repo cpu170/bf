@@ -3773,13 +3773,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/热播库.js"
     },
-    {
-      "key": "drpy_js_蛋蛋剧",
-      "name": "影视 | 蛋蛋剧[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/蛋蛋剧.js"
-    },
+    
     {
       "key": "drpy_js_B站影视",
       "name": "影视 | B站影视[js]",
