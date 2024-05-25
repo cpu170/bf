@@ -512,6 +512,17 @@
       "api": "./lib/drpy3.min.js",
       "ext": "./js/魔力高清.js"
     },
+      {
+            "key": "五一零刻影院",
+            "name": "⚡五一零刻影院┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+        },
+
     {
       "key": "2聚合",
       "name": "💖分享遇见",
