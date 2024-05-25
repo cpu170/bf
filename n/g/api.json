@@ -986,6 +986,7 @@
             "filterable": 1,
             "ext": "./json/Vidhub.json"
         },
+       
         {
             "key": "麻衣呀呼",
             "name": "🎦麻衣呀呼",
@@ -1006,6 +1007,17 @@
       "filterable": 1,
       "ext": "http://175.24.189.226/box/tvbox/PG/JS/%E7%AB%8B%E6%B3%A2.js"
     },
+    {
+            "key": "电影驿站",
+            "name": "🕋电影┃驿站",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/电影驿站.json"
+        },
+
     
     {
       "key": "YueAi全站资源",
