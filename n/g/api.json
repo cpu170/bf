@@ -575,6 +575,16 @@
             "filterable": 1,
             "ext": "https://www.heli888.cc/api.php/app/"
         },
+       {
+            "key": "影视之家",
+            "name": "⚡影窝┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        },
 
 
      {
