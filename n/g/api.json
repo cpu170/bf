@@ -576,6 +576,16 @@
                 "分类值": "dianying&lianxuju&zongyi&dongman"
             }
         },
+        {
+            "key": "csp_ipianba",
+            "name": "🌠片吧┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$3#综艺$4"
+            }
+        },
 
     
      
