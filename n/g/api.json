@@ -555,7 +555,17 @@
         "filterable": 1,
         "ext": "http://nctv.top/tv/sub/电影牛.json"
     },
-   
+     {
+            "key": "橙汁",
+            "name": "🌠橙汁┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类": "短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5",
+                "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
+            }
+        },
+
     
      
    
