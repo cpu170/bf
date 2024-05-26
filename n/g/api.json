@@ -154,6 +154,17 @@
       "changeable": 0
     },
     {
+      "key": "csp_Kekys",
+      "name": "👻可可",
+      "type": 3,
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "视觉",
       "name": "👓视觉┃直连",
       "type": 3,
