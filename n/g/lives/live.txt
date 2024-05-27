@@ -628,7 +628,7 @@ CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1538464012_-19993
 CCTV13,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw98873079_-1249323947/ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8?icpid=3&RTS=1674380214&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec13_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
-CCTV-13,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw98664044_1212991025/ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8?icpid=3&RTS=1674380214&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw98664044_1212991025/ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8?icpid=3&RTS=1674380214&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2053011790_915661497/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 CCTV13,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://[2409:8087:7001:20:3::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
@@ -1443,7 +1443,7 @@ CCTV15,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/i
 CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2053177814_136071778/ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV15,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1206123286_628792276/ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8?icpid=3&RTS=1674381321&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV-5,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV5,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV15,http://[2409:8087:7001:20:3::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
 CCTV15,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?
 CCTV15,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS
@@ -1648,8 +1648,8 @@ CCTV风云音乐,http://111.225.115.250:808/tsfile/live/1036_1.m3u8?key=txiptv&p
 
 
 
-CCTV-4K,http://120.79.4.185/md0423.php?id=cctv4k
-CCTV-8K,http://120.79.4.185/md0423.php?id=cctv8k
+CCTV4K,http://120.79.4.185/md0423.php?id=cctv4k
+CCTV8K,http://120.79.4.185/md0423.php?id=cctv8k
 CCTV1,http://120.79.4.185/md0423.php?id=cctv1
 CCTV2,http://120.79.4.185/md0423.php?id=cctv2
 CCTV3,http://120.79.4.185/md0423.php?id=cctv3
