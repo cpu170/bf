@@ -618,7 +618,7 @@
             "ext": "./json/shenma.json"
      },
       {
-            "key": "bkyy布卡",
+            "key": "bkyy",
             "name": "🌠布卡┃影视",
             "type": 3,
             "api": "csp_XBPQ",
@@ -628,7 +628,7 @@
             "ext": {
                 "副标题": "观影快乐",
                 "分类url": "https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"
+                "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm#短剧$duanju#论理片$lunlipian"
             }
         },
    
