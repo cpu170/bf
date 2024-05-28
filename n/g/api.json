@@ -607,6 +607,17 @@
       "filterable": 1,
       "ext": "http://nctv.top/tv/sub/电影牛.json"
     },
+      {
+            "key": "神马影院",
+            "name": "🦄神马┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/shenma.json"
+     },
+
    
     {
       "key": "csp_mgtva",
