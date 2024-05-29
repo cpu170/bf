@@ -3122,6 +3122,17 @@
       ]
     },
     {
+      "key": "黑木耳资源站",
+      "name": "🎦黑木耳资源",
+      "type": 1,
+      "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "https://player.heimuer.tv/index.html?url="
+      
+    },
+    {
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
       "type": 3,
