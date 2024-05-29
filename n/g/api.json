@@ -5345,17 +5345,7 @@
         "AV明星1"
       ]
     },
-    {
-      "key": "csp_香蕉资源",
-      "name": "香蕉资源🔞",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/香蕉资源.json",
-      "jar": "./lib/Yoursmile2.jar"
-    },
+   
     {
       "key": "七天",
       "name": "七天🔞",
