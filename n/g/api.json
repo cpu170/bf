@@ -3052,6 +3052,24 @@
         "奇幻"
       ]
     },
+     {
+      "key": "爱狗API影视",
+      "name": "🎦爱狗API影视",
+      "type": 1,
+      "api": "https://api.i2g.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "少儿",
+        "动漫"
+      
+      ]
+    },
     {
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
