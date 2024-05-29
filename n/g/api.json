@@ -3071,6 +3071,18 @@
       ]
     },
     {
+      "key": "舒渡资源站",
+      "name": "🎦舒渡资源站",
+      "type": 1,
+      "api": "http://tv.69mu.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": ""
+      
+
+  },
+    {
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
       "type": 3,
