@@ -5074,6 +5074,15 @@
 		"searchable": 1,
 		"filterable": 1
 	  },
+   {
+		"key": "155",
+		"name": "❤️┃155采集🔞",
+		"type": 0,
+		"playerType": 2,
+		"api": "https://155api.com/api.php/provide/vod/at/xml",
+		"searchable": 1,
+		"quickSearch": 1
+   },
 
 	  
     {
