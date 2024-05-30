@@ -6799,6 +6799,21 @@
         }
       }
     },
+     {
+            "name": "解析1.3",
+            "type": 1,
+            "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
+        },
+    {
+            "name": "解析1.5",
+            "type": 1,
+            "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
+        },
+    {
+            "name": "解析1.6",
+            "type": 1,
+            "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
+        },
     {
       "name": "解析4",
       "type": 0,
