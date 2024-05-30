@@ -5464,7 +5464,7 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "api": "https://madoucun01.com/api.php/provide/vod/?ac=list",
+      "api": "https://madoucun01.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
