@@ -7181,16 +7181,7 @@
         }
       }
     },
-    {
-      "name": "阿里云手动",
-      "type": 0,
-      "url": "https://aliyun.beiyan.cc:4433/player/?url="
-    },
-    {
-      "name": "盘古手动",
-      "type": 0,
-      "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
-    },
+   
     {
       "name": "M3U8解析手动",
       "type": 0,
