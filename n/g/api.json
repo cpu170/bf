@@ -6382,11 +6382,7 @@
         ]
       }
     },
-    {
-      "name": "we-vip",
-      "type": 0,
-      "url": "https://player.we-vip.com:2083/?url="
-    },
+   
     {
       "name": "无意解析",
       "type": 1,
@@ -6478,35 +6474,7 @@
         ]
       }
     },
-    {
-      "name": "玉米",
-      "type": 0,
-      "url": "http://xhww.fun/jx.php?id=1&url=",
-      "ext": {
-        "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+    
     {
       "name": "-虾米-",
       "type": 0,
@@ -6568,16 +6536,7 @@
         }
       }
     },
-    {
-      "name": "-麒麟播放器-",
-      "type": 0,
-      "url": "https://t1.qlplayer.cyou/player/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
+   
     {
       "name": "-索尼-",
       "type": 0,
@@ -6588,35 +6547,7 @@
         }
       }
     },
-    {
-      "name": "云播",
-      "type": 0,
-      "url": "https://vip.lianfaka.com/vip/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+   
     {
       "name": "无意解析3",
       "type": 1,
@@ -6866,11 +6797,7 @@
       "type": 0,
       "url": "https://api.qianqi.net/vip/?url="
     },
-    {
-      "name": "BL解析",
-      "type": 0,
-      "url": "https://vip.bljiex.com/?v="
-    },
+    
     {
       "name": "冰豆智能",
       "type": 0,
@@ -7038,16 +6965,7 @@
         }
       }
     },
-    {
-      "name": "麒麟解析",
-      "type": 0,
-      "url": "https://t1.qlplayer.cyou/player/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
+   
     {
       "name": "七哥",
       "url": "https://jx.mmkv.cn/tv.php?url=",
@@ -7109,78 +7027,8 @@
         ]
       }
     },
-    {
-      "name": "视界",
-      "type": 0,
-      "url": "http://150.230.216.174/tvjx.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "iqiyi",
-          "奇艺",
-          "爱奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "xigua",
-          "西瓜",
-          "sohu",
-          "搜狐",
-          "cntv",
-          "cctv",
-          "央视",
-          "1905",
-          "m1905"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    },
-    {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v=",
-      "type": 0,
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
+   
+   
    
     {
       "name": "M3U8解析手动",
