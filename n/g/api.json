@@ -692,6 +692,28 @@
                 "分类值": "1&2&3&4"
             }
         },
+        {
+            "key": "4K影视",
+            "name": "🧿4KGOD┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/4K影院.json"
+        },
+    {
+            "key": "4K影院",
+            "name": "🧿影院┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/4kvm.json"
+        },
+
 
     
     {
