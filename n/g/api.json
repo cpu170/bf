@@ -835,6 +835,17 @@
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=雪儿"
     },
     {
+            "key": "皮皮虾",
+            "name": "🧿皮虾┃蓝光",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.aikun.tv/api.php/app/"
+        },
+
+    {
       "key": " gymboreejn百姓 ",
       "name": "🎦农民影视2",
       "type": 3,
