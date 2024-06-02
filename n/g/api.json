@@ -6942,11 +6942,22 @@
       "type": 1,
       "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
     },
+     
     {
       "name": "解析1.6",
       "type": 1,
       "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
     },
+     {
+            "name": "解析1.7",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url="
+        },
+	 {
+            "name": "解析0.12",
+            "type": 0,
+            "url": "https://www.nfzj.fun/bfq/FosiPlayer/?url="
+        },  
    
     {
       "name": "解析10",
