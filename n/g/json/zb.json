@@ -93,6 +93,14 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://tvbox.top/tvbox/logo/{name}.png"
         },
+       {
+            "name": "Ray直播",
+            "type": 0,
+            "url": "https://xhdwc.tk/tvlive.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://tvbox.top/tvbox/logo/{name}.png"
+        },
 
 
      {
