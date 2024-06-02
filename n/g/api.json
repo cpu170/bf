@@ -6934,6 +6934,11 @@
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
+			"name": "ckplayer",
+			"type": 0,
+			"url": "https://www.ckplayer.vip/jiexi/?url="
+		},
+    {
       "name": "1907解析",
       "type": 0,
       "url": "https://im1907.top/?jx="
