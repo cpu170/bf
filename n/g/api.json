@@ -6917,11 +6917,7 @@
       "type": 1,
       "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
     },
-    {
-      "name": "解析4",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
+   
     {
       "name": "解析10",
       "type": 1,
@@ -6994,11 +6990,7 @@
       "type": 0,
       "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
-    {
-      "name": "小种嗅探",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
+   
     {
       "name": "滇红嗅探",
       "type": 0,
@@ -7114,19 +7106,7 @@
       "type": 0,
       "url": "https://json.vipjx.cnow.eu.org/?url="
     },
-   
-   
-    {
-      "name": "精准6",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-   
+     
     {
       "name": "七哥",
       "url": "https://jx.mmkv.cn/tv.php?url=",
