@@ -6547,7 +6547,11 @@
         ]
       }
     },
-   
+   {
+        "name": "剖云2",
+        "type": 0,
+        "url": "https://www.pangujiexi.com/pangu/?url="
+    },
     {
       "name": "无意解析",
       "type": 1,
