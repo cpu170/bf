@@ -68,6 +68,23 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+       {
+            "name": "小黑IPV",
+            "type": 0,
+            "url": "https://d.kstore.space/download/7395/xiaohei.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://1060s677v8.goho.co/epg.php",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "小米电视",
+            "type": 0,
+            "url": "http://124.223.177.85:88/svip/直播挺快.txt",
+            "ua": "okhttp/3.12.13",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
 
      {
             "name": "Newtxin直播",
