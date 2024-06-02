@@ -596,15 +596,15 @@
       ]
     },
     {
-            "key": "北极狐",
-            "name": "⚡北狐┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
-        },
+      "key": "北极狐",
+      "name": "⚡北狐┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
     {
       "key": "电影牛",
       "name": "🐂电影牛",
@@ -662,78 +662,78 @@
       }
     },
     {
-            "key": "橙汁",
-            "name": "🌠橙汁┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类": "短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5",
-                "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
-            }
-        },
-        {
-            "key": "热播之家",
-            "name": "🌠热播┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$5",
-                "分类url": "https://rebozj.pro/type/{cateId}.html"
-            }
-        },
-       {
-            "key": "csp_hmhd",
-            "name": "🌠河马┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影&电视剧&动漫&综艺",
-                "分类值": "1&2&3&4"
-            }
-        },
-        {
-            "key": "4K影视",
-            "name": "🧿4KGOD┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/4K影院.json"
-        },
+      "key": "橙汁",
+      "name": "🌠橙汁┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5",
+        "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
+      }
+    },
     {
-            "key": "4K影院",
-            "name": "🧿影院┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/4kvm.json"
-        },
-      {
-            "key": "剧圈影视",
-            "name": "🥮剧圈┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/jqqys.json"
-        },
-     {
-            "key": "饭团影视",
-            "name": "🥮饭团┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/fantuan.json"
-        },
-      {
+      "key": "热播之家",
+      "name": "🌠热播┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$5",
+        "分类url": "https://rebozj.pro/type/{cateId}.html"
+      }
+    },
+    {
+      "key": "csp_hmhd",
+      "name": "🌠河马┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "1&2&3&4"
+      }
+    },
+    {
+      "key": "4K影视",
+      "name": "🧿4KGOD┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/4K影院.json"
+    },
+    {
+      "key": "4K影院",
+      "name": "🧿影院┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/4kvm.json"
+    },
+    {
+      "key": "剧圈影视",
+      "name": "🥮剧圈┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jqqys.json"
+    },
+    {
+      "key": "饭团影视",
+      "name": "🥮饭团┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/fantuan.json"
+    },
+    {
       "key": "农民wwgz",
       "name": "🥝农民",
       "type": 3,
@@ -748,8 +748,6 @@
         "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-
-    
     {
       "key": "赘婿影视",
       "name": "🎦赘婿影视",
@@ -891,15 +889,15 @@
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=雪儿"
     },
     {
-            "key": "皮皮虾",
-            "name": "🧿皮虾┃蓝光",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.aikun.tv/api.php/app/"
-        },
+      "key": "皮皮虾",
+      "name": "🧿皮虾┃蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.aikun.tv/api.php/app/"
+    },
     {
       "key": "ssys三思",
       "name": "三思┃影视",
@@ -910,8 +908,7 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/三思影视.json",
       "jar": "http://www.meowtv.cn/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
-    },	  
-
+    },
     {
       "key": " gymboreejn百姓 ",
       "name": "🎦农民影视2",
@@ -6558,10 +6555,10 @@
         ]
       }
     },
-   {
-        "name": "剖云2",
-        "type": 0,
-        "url": "https://www.pangujiexi.com/pangu/?url="
+    {
+      "name": "剖云2",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
       "name": "无意解析",
@@ -6654,7 +6651,6 @@
         ]
       }
     },
-    
     {
       "name": "-虾米-",
       "type": 0,
@@ -6665,7 +6661,7 @@
         }
       }
     },
-     {
+    {
       "name": "-777jx-",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url=",
@@ -6726,7 +6722,6 @@
         }
       }
     },
-   
     {
       "name": "-索尼-",
       "type": 0,
@@ -6737,7 +6732,6 @@
         }
       }
     },
-   
     {
       "name": "无意解析3",
       "type": 1,
@@ -6932,43 +6926,41 @@
       "type": 1,
       "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
     },
-     {
-            "name": "解析1.4",
-            "type": 1,
-            "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
-        },  
+    {
+      "name": "解析1.4",
+      "type": 1,
+      "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
+    },
     {
       "name": "解析1.5",
       "type": 1,
       "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
     },
-     
     {
       "name": "解析1.6",
       "type": 1,
       "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
     },
-     {
-            "name": "解析1.7",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url="
-        },
-	 {
-            "name": "解析0.12",
-            "type": 0,
-            "url": "https://www.nfzj.fun/bfq/FosiPlayer/?url="
-        },  
-   
+    {
+      "name": "解析1.7",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url="
+    },
+    {
+      "name": "解析0.12",
+      "type": 0,
+      "url": "https://www.nfzj.fun/bfq/FosiPlayer/?url="
+    },
     {
       "name": "解析10",
       "type": 1,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-			"name": "ckplayer",
-			"type": 0,
-			"url": "https://www.ckplayer.vip/jiexi/?url="
-		},
+      "name": "ckplayer",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
     {
       "name": "1907解析",
       "type": 0,
@@ -7009,7 +7001,6 @@
       "type": 0,
       "url": "https://api.qianqi.net/vip/?url="
     },
-    
     {
       "name": "冰豆智能",
       "type": 0,
@@ -7030,13 +7021,11 @@
       "type": 0,
       "url": "https://video.isyour.love/player/getplayer?url="
     },
-   
     {
       "name": "解析19",
       "type": 0,
       "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
-   
     {
       "name": "777jiex",
       "type": 0,
@@ -7152,7 +7141,6 @@
       "type": 0,
       "url": "https://json.vipjx.cnow.eu.org/?url="
     },
-     
     {
       "name": "七哥",
       "url": "https://jx.mmkv.cn/tv.php?url=",
@@ -7215,37 +7203,35 @@
       }
     },
     {
-            "name": "油果",
-            "type": 1,
-            "url": "http://json.youguo520.top/fufeng/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "Dart/2.14 (dart:io)"
-                }
-            }
-        },
-   
-   
+      "name": "油果",
+      "type": 1,
+      "url": "http://json.youguo520.top/fufeng/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.14 (dart:io)"
+        }
+      }
+    },
     {
       "name": "M3U8解析手动",
       "type": 0,
@@ -7970,7 +7956,7 @@
         "英皇体育",
         "全中文AV在线",
         "澳门皇冠赌场",
-        "澳门新葡京", 
+        "澳门新葡京",
         "哥哥快来",
         "美女荷官",
         "裸聊",
