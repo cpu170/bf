@@ -7115,16 +7115,7 @@
       "url": "https://json.vipjx.cnow.eu.org/?url="
     },
    
-    {
-      "name": "云解析",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
+   
     {
       "name": "精准6",
       "type": 0,
