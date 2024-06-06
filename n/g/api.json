@@ -93,8 +93,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "/token.txt",
-        "quarkCookie": "/cookie.txt",
+        "aliToken": "http://127.0.0.1:9978/token.txt",
+        "quarkCookie": "http://127.0.0.1:9978/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "关"
