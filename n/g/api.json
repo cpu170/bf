@@ -693,6 +693,18 @@
         "分类值": "1&2&3&4"
       }
     },
+     {
+            "key": "剧圈圈",
+            "name": "🎦剧圈圈",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "ua": "okhttp/3.15",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/剧圈圈.json"
+        },
+
     {
       "key": "4K影视",
       "name": "🧿4KGOD┃蓝光",
