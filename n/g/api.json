@@ -6321,8 +6321,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "http://127.0.0.1:9978/file/fatcat/token.txt",
-        "quarkCookie": "http://127.0.0.1:9978/file/fatcat/cookie.txt",
+        "aliToken": "http://127.0.0.1:9978/token.txt",
+        "quarkCookie": "http://127.0.0.1:9978/cookie.txt",
         "from": "4k|auto|fhd"
       }
     },
