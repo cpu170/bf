@@ -853,7 +853,7 @@
         "分类url": "https://www.zhangxindy.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#动漫$4#电视剧$2#邵氏电影$37#短剧$38#解说$39#综艺$3",
         "副标题": "class=\"pic-text text-right\"&&</span>",
-        "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
+        "简介": "⚠️观影愉快⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
       }
     },
     {
@@ -865,12 +865,12 @@
         "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "副标题": "class=\"pic-text text-right\"&&</span>",
-        "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
+        "简介": "⚠️观影愉快⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
       }
     },
     {
-      "key": "高清在线",
-      "name": "🎦高清在线",
+      "key":"苹果高清在线",
+      "name": "🎦苹果影视站",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
