@@ -1249,6 +1249,21 @@
       "ext": "./json/电影驿站.json"
     },
     {
+      "key": "mayiys",
+      "name": "🎦蚂蚁影视",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "祝观影愉快⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
+        "分类url": "https://www.mayiys.cc/tp/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.mayiys.cc/tp/{cateId}.html]",
+        "分类": "电影$1#剧集$2#综艺$4#动漫$3#其它$5 "
+      }
+    },
+    {
       "key": "YueAi全站资源",
       "name": "YueAi全站资源",
       "type": 1,
