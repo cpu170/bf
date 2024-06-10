@@ -4257,6 +4257,28 @@
       "ext": "./json/七月影视.json"
     },
     {
+      "key": "csp_nkvlog",
+      "name": "💢┃NK┃点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/HCCX.jar",
+      "ext": "./json/nkvlog.json"
+    },
+    {
+      "key": "csp_lkvod",
+      "name": "💢┃来看┃点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/HCCX.jar",
+      "ext": "./json/lkvod.json"
+    },
+    {
       "key": "drpy_js_量子资源",
       "name": "量子[js]",
       "type": 3,
