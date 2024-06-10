@@ -5413,7 +5413,6 @@
       "name": "狼友会资源🔞",
       "type": 1,
       "api": "https://api.lyhapi.com/api.php/provide/vod/?ac=list",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
