@@ -5060,6 +5060,14 @@
       "ext": "./lib/qtv.js"
     },
     {
+      "key": "dr_qq",
+      "name": "🐧┃腾讯(官)",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/qq.js"
+    },
+    {
       "key": "js_奇异",
       "name": "🥝┃奇异┃大厂",
       "type": 3,
@@ -5071,12 +5079,12 @@
       "ext": "./lib/qzys.js"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "┃爱奇┃官源",
+      "key": "dr_iqiyi",
+      "name": "🥝┃爱奇异(官)",
       "type": 3,
       "playerType": 2,
-      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
-      "ext": "http://alist.xn--z7x900a.live/爱奇.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/iqiyi.js"
     },
     {
       "key": "js_芒果",
@@ -5134,6 +5142,14 @@
       "playerType": 2,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
       "ext": "https://weixine.net/js/caigou.js"
+    },
+    {
+      "key": "dr_360影视",
+      "name": "📺┃360(官) ",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/360.js"
     },
     {
       "key": "csp_Dm84",
