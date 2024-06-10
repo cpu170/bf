@@ -445,6 +445,16 @@
       "ext": "https://www.80yy3.com/"
     },
     {
+      "key": "csp_SP360",
+      "name": "💘360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "酷影视",
       "name": "APP | 酷影视",
       "type": 3,
@@ -1280,13 +1290,7 @@
       "changeable": 1,
       "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/ysgcys.js"
     },
-    {
-      "key": "drpy_js_360影视官源",
-      "name": "📺┃360┃官源",
-      "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/360.js"
-    },
+   
     {
       "key": "haokongbu",
       "name": "👿好恐怖|磁力|XBPQ",
