@@ -4248,7 +4248,7 @@
     },
     {
       "key": "柒月影视",
-      "name": "柒月影视",
+      "name": "🍚柒月影视(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -4258,7 +4258,7 @@
     },
     {
       "key": "csp_nkvlog",
-      "name": "💢┃NK┃点播",
+      "name": "💢┃NK┃点播(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -4269,7 +4269,7 @@
     },
     {
       "key": "csp_lkvod",
-      "name": "💢┃来看┃点播",
+      "name": "💢┃来看┃点播(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -4280,7 +4280,7 @@
     },
     {
       "key": "csp_hanjulao",
-      "name": "🏵┃韩剧┃高清",
+      "name": "🏵┃韩剧佬┃高清(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
