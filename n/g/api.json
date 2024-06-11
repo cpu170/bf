@@ -415,15 +415,7 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
     },
-    {
-      "key": "天天",
-      "name": "🔥天天",
-      "type": 3,
-      "jar": "http://yydf.540734621.xyz/yydf/yydf/bd/jar/fix1209.jar;md5;55c166b3567b9a5b7746a048c5472263",
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn"
-    },
+   
     {
       "key": "csp_app_天天视频",
       "name": "🐌天天视频",
