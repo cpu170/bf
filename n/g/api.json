@@ -2260,6 +2260,14 @@
       ]
     },
     {
+      "key": "天翼资源",
+      "name": "🎦天翼资源",
+      "type": 0,
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "api_xml_搜糊",
       "name": "️🦊┃忆梦┃影视",
       "type": 1,
