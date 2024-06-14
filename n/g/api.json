@@ -299,6 +299,16 @@
       "changeable": 0
     },
     {
+      "key": "csp_Xdys",
+      "name": "💥小点",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "追剧",
       "name": "追剧吧",
       "type": 1,
