@@ -1250,18 +1250,7 @@
       "filterable": 1,
       "ext": "./json/电影驿站.json"
     },
-    {
-      "key": "rarbt",
-      "name": "rarbt",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./json/rarbt.json",
-      "jar": "./lib/XBPQ.jar"
-    },
+   
     {
       "key": "mayiys",
       "name": "🎦蚂蚁影视",
