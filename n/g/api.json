@@ -229,7 +229,7 @@
     },
     {
       "key": "rbys",
-      "name": "热播┃影视",
+      "name": "🌞热播┃影视",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -322,7 +322,7 @@
     },
     {
       "key": "追剧",
-      "name": "追剧吧",
+      "name": "🏃追剧吧",
       "type": 1,
       "api": "https://zjuba.vip//api.php/provide/vod/",
       "playUrl": "",
@@ -732,7 +732,7 @@
     },
     {
       "key": "剧圈圈",
-      "name": "🎦剧圈圈2",
+      "name": "💭剧圈圈2",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -799,7 +799,7 @@
     },
     {
       "key": "赘婿影视",
-      "name": "🎦赘婿影视",
+      "name": "🎎赘婿影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
