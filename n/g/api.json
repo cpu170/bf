@@ -228,6 +228,19 @@
       "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
     },
     {
+      "key": "rbys",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 15,
+      "playerType": 2,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
+      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+    {
       "key": "毛驴",
       "name": "🍓毛驴┃直连",
       "type": 3,
