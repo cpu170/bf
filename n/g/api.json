@@ -54,6 +54,15 @@
       }
     },
     {
+      "key": "csp_Local",
+      "name": "📚本地资源播放",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "alist",
       "name": "🦆小雅网盘",
       "type": 3,
