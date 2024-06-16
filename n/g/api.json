@@ -4324,8 +4324,8 @@
       "ext": "./js/量子资源.js"
     },
     {
-      "key": "ikanbot3",
-      "name": "ikanbot3[js]",
+      "key": "ikanbot-3",
+      "name": "ikanbot-3[js]",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/ikanbot3.js"
