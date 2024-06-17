@@ -1309,7 +1309,7 @@
       "key": "Ysgc影视",
       "name": "Ysgc影视",
       "type": 3,
-      "api": "/lib/drpy2.min.js",
+      "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "/js/影视工厂.js"
