@@ -1307,13 +1307,14 @@
     },
     {
       "key": "Ysgc影视",
-      "name": "Ysgc影视",
+      "name": "🎬影视工厂",
       "type": 3,
       "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "/js/影视工厂.js"
+      "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/ysgcys.js"
     },
+
     {
       "key": "haokongbu",
       "name": "👿好恐怖|磁力|XBPQ",
