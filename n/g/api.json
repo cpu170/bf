@@ -1370,18 +1370,7 @@
         "搜索数组": "class=\"entry-media\">&&</div"
       }
     },
-    {
-      "key": "华人影院",
-      "name": "🕋┃华人2k┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://notabug.org/zgj081/svip/raw/master/xyqxbpq.jar",
-      "ext": {
-        "分类url": "https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电视剧$drama#电影$movie"
-      }
-    },
-
+   
     {
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
