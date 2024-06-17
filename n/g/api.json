@@ -1309,10 +1309,10 @@
       "key": "Ysgc影视",
       "name": "Ysgc影视",
       "type": 3,
-      "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
+      "api": "/lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/ysgcys.js"
+      "ext": "/js/影视工厂.js"
     },
     {
       "key": "haokongbu",
