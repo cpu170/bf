@@ -1290,7 +1290,7 @@
     },
     {
       "key": "YueAi全站资源",
-      "name": "YueAi全站资源",
+      "name": "🎞YueAi全站资源",
       "type": 1,
       "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1298,7 +1298,7 @@
     },
     {
       "key": "4k剧院",
-      "name": "4k剧厂",
+      "name": "🎥4k剧厂",
       "type": 3,
       "api": "https://framagit.org/1771245847/TvBox/raw/main/js/drpy2.min.js",
       "searchable": 1,
