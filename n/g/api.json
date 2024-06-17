@@ -1288,14 +1288,7 @@
         "分类": "电影$1#剧集$2#综艺$4#动漫$3#其它$5 "
       }
     },
-    {
-      "key": "YueAi全站资源",
-      "name": "🎞YueAi全站资源",
-      "type": 1,
-      "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+    
     {
       "key": "4k剧院",
       "name": "🎥4k剧厂",
