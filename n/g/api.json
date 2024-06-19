@@ -1462,6 +1462,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/4KHDR.json"
     },
     {
+      "key": "csp_XYQHikerAL__ED3000",
+      "name": "0️⃣ED3000",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/ED3000.json"
+    },
+    {
       "key": "淘剧",
       "name": "🎭┃小米淘剧┃直联",
       "type": 3,
