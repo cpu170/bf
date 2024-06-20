@@ -424,14 +424,7 @@
       "ext": "./js/jp.js"
     },
    
-    {
-      "key": "种子短剧",
-      "name": "🍒┃短剧┃种子",
-      "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
-      "playerType": 2
-    },
+   
     {
       "key": "meowtv_Nfys",
       "name": "🇹┃耐飞2k┃秒播",
