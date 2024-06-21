@@ -7095,23 +7095,15 @@
         }
       }
     },
-    {
-      "name": "开心",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=rSqUtltpbfk1xsQFjz&url="
-    },
+    
     {
       "name": "上限万",
       "type": 1,
       "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
     },
+   
     {
-      "name": "解析1.3",
-      "type": 1,
-      "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
-    },
-    {
-      "name": "解析1.4",
+      "name": "解析1.2",
       "type": 1,
       "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
     },
