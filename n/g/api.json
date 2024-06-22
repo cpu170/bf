@@ -2,14 +2,16 @@
   "spider": "./Yoursmile.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "🌕┃豆豆┃搜索",
+   
+      {
+      "key": "lf_js_search",
+      "name": "🔭┃各大视频站点|搜索",
       "type": 3,
-      "api": "csp_DouDou",
       "searchable": 0,
+      "changeable": 1,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"
     },
     {
       "key": "js豆瓣",
@@ -21,16 +23,7 @@
       "filterable": 0,
       "ext": "./lib/douban.js"
     },
-    {
-      "key": "lf_js_search",
-      "name": "🔭┃各大视频站点|搜索",
-      "type": 3,
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"
-    },
+   
     {
       "key": "drpy_js_磁力熊搜索",
       "name": "🐻┃磁力熊┃搜索",
@@ -40,6 +33,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1
+    },
+     {
+      "key": "豆豆",
+      "name": "🌕┃豆豆┃搜索",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "csp_XBPQ_预告",
