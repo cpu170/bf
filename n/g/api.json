@@ -11,7 +11,7 @@
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"
+      "api": "./js/lib/lf_search3_min.js"
     },
     {
       "key": "js豆瓣",
