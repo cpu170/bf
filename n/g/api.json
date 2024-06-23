@@ -5377,7 +5377,7 @@
       "key": "色色虎资源",
       "name": "色色虎资源🔞",
       "type": 1,
-      "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://sesehuzy1.com/api.php/provide/vod/at/json/",
       "playerType": 1,
       "playurl": "https://jx.jxsesehuzy.com/?url=",
       "searchable": 1,
@@ -5642,7 +5642,7 @@
       "key": "hgzy",
       "name": "黄瓜资源🔞",
       "type": 1,
-      "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
+      "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -5963,14 +5963,7 @@
       "filterable": 1,
       "playurl": "https://jiexi.semaozy.cc/m3u8/?url= "
     },
-    {
-      "key": "*色南国资源",
-      "name": "*色南国资源🔞",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+    
     {
       "key": "*蛋蛋视频",
       "name": "*蛋蛋视频🔞",
@@ -6039,7 +6032,7 @@
       "key": "皇冠",
       "name": "皇冠🔞",
       "type": 1,
-      "api": "https://hghhh.com/api.php/provide/vod/",
+      "api": "https://hgzy05.com/api.php/provide/vod/at/json",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
