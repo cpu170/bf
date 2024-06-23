@@ -6101,14 +6101,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "ikunzyapi",
-      "name": "爱坤🔞",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "timizy",
       "name": "甜蜜资源🔞",
