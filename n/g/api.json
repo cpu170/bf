@@ -113,8 +113,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
-        "quarkCookie": "file://cookie.txt",
+        "aliToken": "file://TVBox/token.txt",
+        "quarkCookie": "file://TVBox/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "关"
@@ -6357,7 +6357,7 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "quarkCookie": "file://cookie.txt",
+        "quarkCookie": "file://TVBox/cookie.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6370,7 +6370,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://TVBox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6383,7 +6383,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://TVBox/token.txt",
         "from": "4k|auto|fhd$$$fanty$$$qqq111"
       }
     },
@@ -6396,7 +6396,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://TVBox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6409,7 +6409,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://TVBox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6422,7 +6422,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://TVBox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6435,7 +6435,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://TVBox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6447,8 +6447,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "file://token.txt",
-        "quarkCookie": "file://cookie.txt",
+        "aliToken": "file://TVBox/token.txt",
+        "quarkCookie": "file://TVBox/cookie.txt",
         "from": "4k|auto|fhd"
       }
     },
