@@ -4348,6 +4348,20 @@
       "jar": "./lib/HCCX.jar",
       "ext": "./json/lkvod.json"
     },
+     {
+      "key": "晴天qingtiantv",
+      "name": "💢晴天",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
+      }
+    },
     {
       "key": "csp_hanjulao",
       "name": "🏵┃韩剧佬┃高清(XBPQ)",
