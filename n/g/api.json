@@ -6594,7 +6594,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./file//TVBox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
     {
       "key": "fan",
