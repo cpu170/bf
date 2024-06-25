@@ -6587,6 +6587,16 @@
       "ext": "./json/高中课堂.json"
     },
     {
+      "key": "csp_Gitcafe",
+      "name": "📜小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./file//TVBox/token.txt"
+    },
+    {
       "key": "fan",
       "name": "无内容",
       "type": 3,
