@@ -128,7 +128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/土豆.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/土豆.json"
     },
     {
       "key": "live10",
