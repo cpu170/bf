@@ -1477,6 +1477,15 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/ED3000.json"
     },
     {
+      "key": "csp_KubaCL",
+      "name": "🧲酷吧电影",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "淘剧",
       "name": "🎭┃小米淘剧┃直联",
       "type": 3,
