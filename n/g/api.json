@@ -121,6 +121,16 @@
       }
     },
     {
+      "key": "csp_XYQHikerAL_阿里土豆",
+      "name": "🥔阿里土豆",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/土豆.json"
+    },
+    {
       "key": "live10",
       "name": "📺︎综合直播",
       "type": 3,
