@@ -1370,6 +1370,16 @@
       "changeable": 1,
       "ext": "https://framagit.org/1771245847/TvBox/raw/main/js/ysgcys.js"
     },
+    {
+            "key": "zzyings子子影视",
+            "name": "🎦子子影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/子子.json"
+        },
 
     {
       "key": "haokongbu",
