@@ -3627,6 +3627,12 @@
       "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
     },
     {
+            "key": "34712d70104d3cdae7b92a0278d2dddb",
+            "name": "七之影视",
+            "type": 1,
+            "api": "https://cdk.centos.chat/api.php/provide/vod/"
+    },
+    {
       "key": "js_荐片",
       "name": "⏳┃荐片┃影视",
       "type": 3,
