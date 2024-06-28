@@ -75,7 +75,7 @@
       "filterable": 1
     },
     {
-            "key": "84c5e55a64097743efe757e156a11447",
+            "key": "mingxingmtv",
             "name": "明星MTV",
             "type": 1,
             "api": "https://tvbox-mv.cyao.eu.org/mv/vod"
@@ -3619,6 +3619,12 @@
         "国产动漫",
         "港台动漫"
       ]
+    },
+    {
+      "key": "xiaohuangrentv",
+      "name": "小黄人",
+      "type": 1,
+      "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
     },
     {
       "key": "js_荐片",
