@@ -78,7 +78,10 @@
             "key": "mingxingmtv",
             "name": "明星MTV",
             "type": 1,
-            "api": "https://tvbox-mv.cyao.eu.org/mv/vod"
+            "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
      },
     {
       "key": "alist",
