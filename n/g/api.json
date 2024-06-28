@@ -75,6 +75,12 @@
       "filterable": 1
     },
     {
+            "key": "84c5e55a64097743efe757e156a11447",
+            "name": "明星MTV",
+            "type": 1,
+            "api": "https://tvbox-mv.cyao.eu.org/mv/vod"
+     },
+    {
       "key": "alist",
       "name": "🦆小雅网盘",
       "type": 3,
