@@ -137,6 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "from": "4k|auto|fhd",
       "ext": "./json/土豆.json"
     },
     {
