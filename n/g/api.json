@@ -76,7 +76,7 @@
     },
     {
             "key": "mingxingmtv",
-            "name": "明星MTV",
+            "name": "🎼明星MTV",
             "type": 1,
             "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
             "searchable": 0,
@@ -1750,8 +1750,8 @@
       ]
     },
     {
-      "key": "率率",
-      "name": "影视 | 率率",
+      "key": "率率suon",
+      "name": "🎞影视 | 率率",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1779,7 +1779,7 @@
     },
     {
       "key": "meowtv_jyys",
-      "name": "九悠┃影视",
+      "name": "🎞九悠┃影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -3633,7 +3633,7 @@
     },
     {
       "key": "⑤赛维lsys",
-      "name": "⑤赛维",
+      "name": "📽赛维",
       "type": 1,
       "api": "https://lsys.dsmynas.com:3000/api.php/provide/vod/",
       "playerType": 2,
@@ -3644,7 +3644,7 @@
     },
     {
       "key": "宝片zpsps",
-      "name": "⑥宝片",
+      "name": "📽宝片",
       "type": 1,
       "api": "https://zpsps.com/api.php/provide/vod/",
       "playerType": 2,
@@ -3695,13 +3695,13 @@
     },
     {
       "key": "xiaohuangrentv",
-      "name": "小黄人",
+      "name": "🤗小黄人",
       "type": 1,
       "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
     },
     {
             "key": "34712d70104d3cdae7b92a0278d2dddb",
-            "name": "七之影视",
+            "name": "📹七之影视",
             "type": 1,
             "api": "https://cdk.centos.chat/api.php/provide/vod/"
     },
