@@ -6489,16 +6489,7 @@
       "ext": "./js/黄仓库.json",
       "jar": "./lib/Yoursmile2.jar"
     },
-    {
-      "key": "siwa",
-      "name": "丝袜海外资源🔞",
-      "type": 1,
-      "api": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json/",
-      "playurl": "https://help.siwazywcdn2.com:5278/m3u8.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
