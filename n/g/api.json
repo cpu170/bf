@@ -7050,6 +7050,38 @@
       }
     },
     {
+      "name": "扫地僧解析",
+      "type": 1,
+      "url": "http://43.242.202.173:25253/tvbox/player/?key=387214662&url=",
+      "ext": {
+        "flag": [
+          "FYNB",
+          "NBY",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
       "name": "-麒麟plplayer-",
       "type": 0,
       "url": "https://t1.qlplayer.cyou/player/?url=",
