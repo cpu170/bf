@@ -413,6 +413,25 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
+    {
+      "key": "csp_Ikanbot",
+      "name": "❤️Ikanbot",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.aikanbot.com"
+    },
+    {
+      "key": "csp_TianTian",
+      "name": "🦉天天",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     
     {
       "key": "caiji_左岸切片",
