@@ -74,7 +74,7 @@
             "filterable": 0,
             "changeable": 0,
             "jar": "./jars/csp_KungFu404.jar",
-            "ext": "http://127.0.0.1:9978/tvbox/tok.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/tvbox/token.txt+4k|fhd|auto"
         },
     {
       "key": "csp_Local",
@@ -144,8 +144,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
-        "quarkCookie": "file://cookie.txt",
+        "aliToken": "file://tvbox/token.txt",
+        "quarkCookie": "file://tvbox/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "关"
@@ -6686,7 +6686,7 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "quarkCookie": "file://cookie.txt",
+        "quarkCookie": "file://tvbox/cookie.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6699,7 +6699,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://tvbox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6712,7 +6712,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://tvbox/token.txt",
         "from": "4k|auto|fhd$$$fanty$$$qqq111"
       }
     },
@@ -6725,7 +6725,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://tvbox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6738,7 +6738,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://tvbox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6751,7 +6751,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://tvbox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6764,7 +6764,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://token.txt",
+        "aliToken": "file://tvbox/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6776,8 +6776,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "file://token.txt",
-        "quarkCookie": "file://cookie.txt",
+        "aliToken": "file://tvbox/token.txt",
+        "quarkCookie": "file://tvbox/cookie.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -6877,7 +6877,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "file://token.txt"
+      "ext": "file://tvbox/token.txt"
     },
     {
       "key": "fan",
