@@ -76,20 +76,7 @@
             "jar": "./jars/csp_KungFu404.jar",
             "ext": "http://127.0.0.1:9978/tvbox/token.txt+4k|fhd|auto"
         },
-    {
-      "key": "配置中心",
-      "name": "👨‍🍳‍配置┃中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./danmu.jar;md5;5f6157c764202f28968131b805419431"
-    },
+   
     {
       "key": "csp_Local",
       "name": "📚本地资源播放",
