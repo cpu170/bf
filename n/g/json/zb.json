@@ -84,6 +84,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://tvbox.top/tvbox/logo/{name}.png"
         },
+        {"name":"tg直播接口2","url":"https://raw.gitcode.com/tg888/zb/raw/main/zb.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
 
 
      {
