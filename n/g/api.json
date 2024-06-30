@@ -150,6 +150,26 @@
             "ext": "./json/多多阿里.json"
         },
     {
+            "key": "玩我哥哥",
+            "name": "🎦玩我|哥哥",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/玩我哥哥.json"
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "🎦玩偶|哥哥",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/玩偶哥哥.json"
+        },
+    {
       "key": "live10",
       "name": "📺︎综合直播",
       "type": 3,
