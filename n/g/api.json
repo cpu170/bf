@@ -140,6 +140,16 @@
       "ext": "./json/土豆.json"
     },
     {
+            "key": "多多阿里",
+            "name": "🎦多多阿里",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/多多阿里.json"
+        },
+    {
       "key": "live10",
       "name": "📺︎综合直播",
       "type": 3,
