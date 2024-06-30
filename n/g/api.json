@@ -1423,6 +1423,17 @@
                 "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
             }
         },
+    {
+      "key": "csp_xBPQ看客影视",
+      "name": "🎦看客影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ2.jar",
+      "ext": "./json/看客影视.json"
+    },
 
     {
       "key": "haokongbu",
