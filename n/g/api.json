@@ -113,6 +113,17 @@
         ]
       }
     },
+     {
+            "key": "Alist",
+            "name": "🎦小雅网盘2",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "./json/小雅.json"
+        },
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K",
