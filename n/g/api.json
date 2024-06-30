@@ -74,7 +74,7 @@
             "filterable": 0,
             "changeable": 0,
             "jar": "./jars/csp_KungFu404.jar",
-            "ext": "file://token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/tvbox/tok.txt+4k|fhd|auto"
         },
     {
       "key": "csp_Local",
