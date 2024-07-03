@@ -1640,6 +1640,17 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/4KHDR.json"
     },
     {
+      "key": "BT天堂xyq",
+      "name": "🧲磁力┃BT天堂",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/yunpanspider.jar",
+      "ext": "./json/BT天堂.json"
+    },
+    {
       "key": "csp_XYQHikerAL__ED3000",
       "name": "0️⃣ED3000",
       "type": 3,
