@@ -6581,6 +6581,72 @@
       "jar": "./lib/xBPQ1.jar"
     },
     {
+      "key": "csp_xBPQ_香蕉超清",
+      "name": "🏆新香蕉超清",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/xBPQ1.jar",
+      "ext": "./json/新香蕉超清资源.json"
+    },
+    {
+      "key": "csp_xBPQ_香蕉国产",
+      "name": "🏆新香蕉国产",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/xBPQ1.jar",
+      "ext": "./json/新香蕉国产传媒.json"
+    },
+    {
+      "key": "csp_xBPQ_香蕉久久热",
+      "name": "🏆新香蕉久久热",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/xBPQ1.jar",
+      "ext": "./json/新香蕉久久热.json"
+    },
+    {
+      "key": "csp_xBPQ_香蕉废柴",
+      "name": "🏆新香蕉废柴",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/xBPQ1.jar",
+      "ext": "./json/新香蕉废柴网.json"
+    },
+    {
+      "key": "csp_xBPQ_香蕉直播",
+      "name": "🏆新香蕉直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/xBPQ1.jar",
+      "ext": "./json/新香蕉实时直播.json"
+    },
+    {
+      "key": "csp_xBPQ_香蕉av解说",
+      "name": "🏆新香蕉av解说",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/xBPQ1.jar",
+      "ext": "./json/新香蕉AV解说.json"
+    },
+    {
       "key": "csp_xBPQ_黄仓库",
       "name": "🏆黄仓库🔞",
       "type": 3,
