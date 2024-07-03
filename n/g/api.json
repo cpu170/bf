@@ -1647,7 +1647,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/yunpanspider.jar",
+      "jar": "./jars/yunpanspider.jar",
       "ext": "./json/BT天堂.json"
     },
     {
