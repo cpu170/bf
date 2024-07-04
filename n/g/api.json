@@ -1439,6 +1439,17 @@
       "ext": "./json/美柏.json"
     },
     {
+      "key": "剧集",
+      "name": "🎦剧集影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
+        "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
+        "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
+      }
+    },
+    {
       "key": "4k剧院",
       "name": "🎥4k剧厂",
       "type": 3,
