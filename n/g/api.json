@@ -4774,13 +4774,7 @@
 			"order_num": 0,
 			"ext": "./js/咖啡影视.js"
 		},	
-    {
-      "key": "drpy_js_玄天",
-      "name": "玄天[js]",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/玄天.js"
-    },
+  
    
    
     {
