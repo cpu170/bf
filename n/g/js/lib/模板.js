@@ -265,7 +265,8 @@ function getMubans() {
                 }else{
                     input= rule.parse_url+input; 
                 }
-            }`,
+            }
+	    `,
             推荐: '*',
             一级: 'json:list;vod_name;vod_pic;vod_remarks;vod_id;vod_play_from',
             二级: `js:
