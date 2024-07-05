@@ -1500,6 +1500,20 @@
       "filterable": 1,
       "ext": "./json/guangun.json"
     },
+     {
+      "key": "XBPQ_麻衣影院",
+      "name": "麻衣影院|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ2.jar",
+      "ext": {
+        "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
+      }
+    },  
     {
       "key": "haokongbu",
       "name": "👿好恐怖|磁力|XBPQ",
