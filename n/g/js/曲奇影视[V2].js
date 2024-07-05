@@ -1,6 +1,6 @@
 var rule = {
 	title: '曲奇影视[V2]', // csp_AppYsV2
-	host: 'https://1234567.weixiaolove.cn/api.php/app/',
+	host: 'https://www.quqitv.com/api.php/app/',
 	url: 'video?tid=fyclassfyfilter&limit=20&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&letter={{fl.letter}}&year={{fl.year}}&by={{fl.by}}',
 	filter: {
