@@ -5,7 +5,7 @@ var rule = {
 	title:'北川影视',
 	模板:'mxpro',
 	// host:'https://bczhuiju.com',
-	host:'https://www.bczhuiju.ink/fb',
+	host:'https://www.bczhuiju.com/',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(1)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---/',
 	url: '/vodshow/fyclassfyfilter/',
