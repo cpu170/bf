@@ -146,6 +146,41 @@ function getMubans() {
             limit: 6,
             double: true, // 推荐内容是否双层定位
         },
+	    默认1: {
+            title: '',
+            host: '',
+            url: '',
+            searchUrl: '',
+            searchable: 2,
+            quickSearch: 0,
+            filterable: 1,
+            filter: '',
+            filter_url: '',
+            filter_def: {},
+            headers: {
+                'User-Agent': 'MOBILE_UA',
+            },
+            timeout: 5000,
+            class_parse: '#side-menu li;a&&Text;a&&href;/(.*?)\.html',
+            cate_exclude: '',
+            play_parse: true,
+            lazy: `js:input = {parse: 1, url: input, js: ''}`,
+            double: true,
+            推荐: '列表1;列表2;标题;图片;描述;链接;详情',
+            一级: '列表;标题;图片;描述;链接;详情',
+            二级: {
+                title: 'vod_name;vod_type',
+                img: '图片链接',
+                desc: '主要信息;年代;地区;演员;导演',
+                content: '简介',
+                tabs: '',
+                lists: 'xx:eq(#id)&&a',
+                tab_text: 'body&&Text',
+                list_text: 'body&&Text',
+                list_url: 'a&&href'
+            },
+            搜索: '列表;标题;图片;描述;链接;详情',
+        },
         vfed: {
             title: '',
             host: '',
@@ -234,6 +269,37 @@ function getMubans() {
             quickSearch: 0,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
         },
+	     采集1: {
+            title: '',
+            host: '',
+            homeTid: '13',
+            homeUrl: '/api.php/provide/vod/?ac=detail&t={{rule.homeTid}}',
+            detailUrl: '/api.php/provide/vod/?ac=detail&ids=fyid',
+            searchUrl: '/api.php/provide/vod/?wd=**&pg=fypage',
+            url: '/api.php/provide/vod/?ac=detail&pg=fypage&t=fyclass',
+            headers: {'User-Agent': 'MOBILE_UA'},
+            timeout: 5000, // class_name: '电影&电视剧&综艺&动漫',
+            // class_url: '1&2&3&4',
+            // class_parse:'js:let html=request(input);input=JSON.parse(html).class;',
+            class_parse: 'json:class;',
+            limit: 20,
+            multi: 1,
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 1,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
+            play_parse: true,
+            parse_url: '',
+            lazy: `js:
+            if(/\\.(m3u8|mp4)/.test(input)){
+                input = {parse:0,url:input}
+            }else{
+                if(rule.parse_url.startsWith('json:')){
+                    let purl = rule.parse_url.replace('json:','')+input;
+                    let html = request(purl);
+                    input = {parse:0,url:JSON.parse(html).url}
+                }else{
+                    input= rule.parse_url+input; 
+      },
         短视: {
             title: '',
             host: '',
