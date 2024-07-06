@@ -6272,7 +6272,7 @@
       "key": "caoliuzyw",
       "name": "草榴🔞",
       "type": 1,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/json/",
       "searchable": 1,
       "changeable": 1
     },
