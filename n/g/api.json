@@ -5575,36 +5575,9 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "xrbsp.com",
-      "name": "❤️┃小日本采集🔞",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "苹果小电影",
-      "name": "❤️┃苹果采集🔞",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gdlsp.com",
-      "name": "❤️┃Lsp资源🔞",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+   
+   
+   
     {
       "key": "155",
       "name": "❤️┃155采集🔞",
@@ -5961,17 +5934,7 @@
       "filterable": 0,
       "playurl": ""
     },
-    {
-      "key": "csp_xBPQ_麻豆映画",
-      "name": "麻豆映画🔞",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/麻豆映画.json",
-      "jar": "./lib/Yoursmile2.jar"
-    },
+    
     {
       "key": "玉兔资源网",
       "name": "玉兔资源🔞",
@@ -6117,15 +6080,7 @@
         "丝袜"
       ]
     },
-    {
-      "key": "黄A",
-      "name": "黄A资源🔞",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "*AIvin",
       "name": "AIvin🔞",
@@ -6154,38 +6109,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "*美少女资源",
-      "name": "*美少女资源🔞",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*淫水机资源",
-      "name": "*淫水机资源🔞",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*香奶儿资源",
-      "name": "*香奶儿资源🔞",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*白嫖资源",
-      "name": "*白嫖资源🔞",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+   
     {
       "key": "*老鸭资源",
       "name": "*老鸭资源🔞",
