@@ -210,6 +210,16 @@
       "ext": "./json/六趣.json"
     },
     {
+      "key": "我的小站",
+      "name": "🐔云盘┃小站",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/我的小站.json"
+    },
+    {
       "key": "live10",
       "name": "📺︎综合直播",
       "type": 3,
