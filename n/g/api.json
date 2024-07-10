@@ -5765,25 +5765,7 @@
 			"order_num": 0,
 			"ext": "./js/路漫漫[漫].js"
 		},
-    {
-      "key": "drpy_js_爱上你听书网",
-      "name": "听书 | 爱上你听书网[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱上你听书网.js",
-      "playerType": "2"
-    },
-    {
-			"key": "hipy_js_i275听书[听]",
-			"name": "i275听书[听](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/i275听书[听].js"
-		},
+    
     {
       "key": "越南资源",
       "name": "越南资源🔞",
@@ -6754,6 +6736,36 @@
       "ext": "./json/黄仓库.json",
       "jar": "./lib/Yoursmile2.jar"
     },
+    {
+			"key": "hipy_js_六月听书[听]",
+			"name": "六月听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/六月听书[听].js"
+		},
+      {
+      "key": "drpy_js_爱上你听书网",
+      "name": "听书 | 爱上你听书网[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/爱上你听书网.js",
+      "playerType": "2"
+    },
+    {
+			"key": "hipy_js_i275听书[听]",
+			"name": "i275听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/i275听书[听].js"
+		},
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
