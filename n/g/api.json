@@ -482,7 +482,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    
     {
       "key": "Auete",
       "name": "🏝奥特┃直连",
@@ -4759,28 +4758,28 @@
       "ext": "./js/南瓜影视.js"
     },
     {
-			"key": "hipy_js_网飞猫[优]",
-			"name": "网飞猫[优](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/网飞猫[优].js"
-		},
+      "key": "hipy_js_网飞猫[优]",
+      "name": "网飞猫[优](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/网飞猫[优].js"
+    },
     {
-			"key": "hipy_js_一起看[优]",
-			"name": "一起看[优](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/一起看[优].js"
-		},
-      {
+      "key": "hipy_js_一起看[优]",
+      "name": "一起看[优](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/一起看[优].js"
+    },
+    {
       "key": "hipy_js_咖啡影视",
       "name": "咖啡影视(drpy_t3)",
       "type": 3,
@@ -4791,7 +4790,7 @@
       "order_num": 0,
       "ext": "./js/咖啡影视.js"
     },
-     {
+    {
       "key": "hipy_js_闪雷电",
       "name": "闪雷电(drpy_t3)",
       "type": 3,
@@ -4809,7 +4808,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/电影先生.js"
     },
-   
     {
       "key": "drpy_js_B站影视",
       "name": "影视 | B站影视[js]",
@@ -5744,28 +5742,27 @@
       "ext": "./js/Anime1动畫.js"
     },
     {
-			"key": "hipy_js_七色番[漫]",
-			"name": "七色番[漫](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/七色番[漫].js"
-		},
+      "key": "hipy_js_七色番[漫]",
+      "name": "七色番[漫](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/七色番[漫].js"
+    },
     {
-			"key": "hipy_js_路漫漫[漫]",
-			"name": "路漫漫[漫](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/路漫漫[漫].js"
-		},
-    
+      "key": "hipy_js_路漫漫[漫]",
+      "name": "路漫漫[漫](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/路漫漫[漫].js"
+    },
     {
       "key": "越南资源",
       "name": "越南资源🔞",
@@ -6736,7 +6733,6 @@
       "ext": "./json/黄仓库.json",
       "jar": "./lib/Yoursmile2.jar"
     },
-   
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
@@ -6921,18 +6917,18 @@
         "from": "4k|auto|fhd"
       }
     },
-     {
-			"key": "hipy_js_六月听书[听]",
-			"name": "六月听书[听](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/六月听书[听].js"
-		},
-      {
+    {
+      "key": "hipy_js_六月听书[听]",
+      "name": "六月听书[听](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/六月听书[听].js"
+    },
+    {
       "key": "drpy_js_爱上你听书网",
       "name": "听书 | 爱上你听书网[js]",
       "type": 3,
@@ -6941,49 +6937,49 @@
       "playerType": "2"
     },
     {
-			"key": "hipy_js_i275听书[听]",
-			"name": "i275听书[听](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/i275听书[听].js"
-		},
-     {
-			"key": "hipy_js_有声绘本网[听]",
-			"name": "有声绘本网[听](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/有声绘本网[听].js"
-		},
-		{
-			"key": "hipy_js_有声小说吧[听]",
-			"name": "有声小说吧[听](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/有声小说吧[听].js"
-		},
-     {
-			"key": "hipy_js_老白故事[box]",
-			"name": "老白故事[听](drpy_t3)",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/老白故事[box].js"
-		},
+      "key": "hipy_js_i275听书[听]",
+      "name": "i275听书[听](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/i275听书[听].js"
+    },
+    {
+      "key": "hipy_js_有声绘本网[听]",
+      "name": "有声绘本网[听](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/有声绘本网[听].js"
+    },
+    {
+      "key": "hipy_js_有声小说吧[听]",
+      "name": "有声小说吧[听](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/有声小说吧[听].js"
+    },
+    {
+      "key": "hipy_js_老白故事[box]",
+      "name": "老白故事[听](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/老白故事[box].js"
+    },
     {
       "key": "push_agent",
       "name": "🛴手机┃推送",
