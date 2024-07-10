@@ -6947,17 +6947,7 @@
       "order_num": 0,
       "ext": "./js/i275听书[听].js"
     },
-    {
-      "key": "hipy_js_有声绘本网[听]",
-      "name": "有声绘本网[听](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/有声绘本网[听].js"
-    },
+    
     {
       "key": "hipy_js_有声小说吧[听]",
       "name": "有声小说吧[听](drpy_t3)",
