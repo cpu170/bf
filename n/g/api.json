@@ -4769,13 +4769,7 @@
 			"order_num": 0,
 			"ext": "./js/网飞猫[优].js"
 		},
-    {
-      "key": "drpy_js_秋霞影院",
-      "name": "影视 | 秋霞影院[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/秋霞.js"
-    },
+   
     {
       "key": "drpy_js_电影先生",
       "name": "影视 | 电影先生[js]",
@@ -4783,13 +4777,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/电影先生.js"
     },
-    {
-      "key": "drpy_js_热播库",
-      "name": "影视 | 热播库[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/热播库.js"
-    },
+   
     {
       "key": "drpy_js_B站影视",
       "name": "影视 | B站影视[js]",
