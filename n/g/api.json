@@ -4791,6 +4791,17 @@
       "order_num": 0,
       "ext": "./js/咖啡影视.js"
     },
+     {
+      "key": "hipy_js_闪雷电",
+      "name": "闪雷电(drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/闪雷电.js"
+    },
     {
       "key": "drpy_js_电影先生",
       "name": "影视 | 电影先生[js]",
