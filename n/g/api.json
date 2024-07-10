@@ -5755,6 +5755,17 @@
 			"ext": "./js/七色番[漫].js"
 		},
     {
+			"key": "hipy_js_路漫漫[漫]",
+			"name": "路漫漫[漫](drpy_t3)",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/路漫漫[漫].js"
+		},
+    {
       "key": "drpy_js_爱上你听书网",
       "name": "听书 | 爱上你听书网[js]",
       "type": 3,
