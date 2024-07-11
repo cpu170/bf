@@ -822,6 +822,16 @@
       "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
     {
+            "key": "路人甲二",
+            "name": "路人甲二",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://122.228.84.103:5825/api.php/app/"
+        },
+    {
       "key": "西屋影视",
       "name": "🎦西屋影视",
       "type": 3,
