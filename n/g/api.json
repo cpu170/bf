@@ -5761,6 +5761,16 @@
       "ext": "./js/路漫漫[漫].js"
     },
     {
+      "key": "优优资源",
+      "name": "优优资源🔞",
+      "type": 1,
+      "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": ""
+    },
+    {
       "key": "越南资源",
       "name": "越南资源🔞",
       "type": 1,
@@ -6365,7 +6375,7 @@
       "name": "*蛋蛋视频🔞",
       "type": 1,
       "api": "https://156.249.29.8/inc/apijson_vod.php",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6373,7 +6383,7 @@
       "name": "*美少女资源🔞",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6381,7 +6391,7 @@
       "name": "*淫水机资源🔞",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6389,7 +6399,7 @@
       "name": "*香奶儿资源🔞",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6397,7 +6407,7 @@
       "name": "*白嫖资源🔞",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6405,7 +6415,7 @@
       "name": "*老鸭资源🔞",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6413,7 +6423,7 @@
       "name": "*博天堂伦理资源🔞",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6421,7 +6431,7 @@
       "name": "*环亚资源🔞",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0
     },
     {
@@ -6429,7 +6439,7 @@
       "name": "皇冠🔞",
       "type": 1,
       "api": "https://hgzy05.com/api.php/provide/vod/at/json",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
     },
@@ -6588,7 +6598,7 @@
       "type": 3,
       "api": "csp_xBPQ",
       "playerType": 2,
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"分类url\":\"https://7kkrr.vip/xjzy/{cateId}-{catePg}.html\", \"分类\":\"中文无码$sd-zhongwenwuma#水果派解说原片$sd-jieshuoyuanpian#AI明星$sd-mingxingyinmeng#中文综合$sd-zhongwenzonghe#近亲$sd-zhongwenjingqing#护士$sd-zhongwenhushi#师生$sd-zhongwenshisheng#强奸$sd-zhongwenqiangjian#自拍$sd-guochanzipai#三级$sd-sanjizonghe\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/xjzy/sdplay-&&.html\\\"\", \"链接前缀\": \"https://7kkrr.vip/xjzy/sdplay-\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
@@ -6600,7 +6610,7 @@
       "type": 3,
       "api": "csp_xBPQ",
       "playerType": 2,
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"分类url\":\"https://7kkrr.vip/gccm/{cateId}-{catePg}.html\", \"分类\":\"综合资源$op-madouyuanchuang#兔子先生$op-tuzixiansheng#大象传媒$op-daxiangchuanmei#果冻传媒$op-91zhipianchang#糖心Vlgo$op-tangxinVlgo#天美传媒$op-tianmeichuanmei#蜜桃传媒$op-mitaochuanmei#杏吧原创$op-xingbayuanchuang#星空传媒$op-xingkongchuanmei#精东影业$op-jingdongyingye\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/gccm/opplay-&&.html\\\"\", \"链接前缀\": \"https://7kkrr.vip/gccm/opplay-\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
@@ -6612,7 +6622,7 @@
       "type": 3,
       "api": "csp_xBPQ",
       "playerType": 2,
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"分类url\":\"https://7kkrr.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"亚洲$as-yazhou#超清传媒$as-chaoqingchuanmei#日本$as-luanlunrenqi#制服$as-siwazhifu#超清三级$as-chaoqingsanji#SM另类$as-SMlinglei#3D动漫$as-3Ddongman#欧美$as-oumei#自拍$as-zipaitoupai#直播录播$as-zhibolubo\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/asplay-&&.html\\\"\", \"链接前缀\": \"https://7kkrr.vip/cq/asplay-\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
@@ -6624,7 +6634,7 @@
       "type": 3,
       "api": "csp_xBPQ",
       "playerType": 2,
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"分类url\":\"https://7kkrr.vip/99re/{cateId}-{catePg}.html\", \"分类\":\"欧美$io-oumei#东京热$io-dongjingre#一本道$io-yibendao#加勒比$io-jialebi#高清$io-gaoqing#会员认证作品$io-jiujiurehuiyuanrenzhengzuopin#中文字幕$io-zhongwenzimu#日本无码$io-ribenwuma#日本有码$io-ribenyouma#国产自拍$io-guochanzipai#制服丝袜$io-zhifusiwa#潮吹$io-chaochui#口爆颜射$io-koubaoyanshe#SM性虐$io-SMxingnue#肛交$io-gangjiao#小格式综合$io-xiaogeshizonghe#韩国综合$io-hanguozonghe#成人动漫$io-chengrendongman#韩国女主播$io-hanguonvzhuboxilie#李宗瑞$io-lizongruiquanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/99re/ioplay-&&.html\\\"\", \"链接前缀\": \"https://7kkrr.vip/99re/ioplay-\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
