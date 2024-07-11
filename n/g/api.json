@@ -987,6 +987,27 @@
       }
     },
     {
+      "key": "XBPQ_麻衣影院",
+      "name": "麻衣影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./json/麻衣影院.json"
+    },
+    {
+      "key": "小白",
+      "name": "小白",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "timeout": 60,
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./json/小白.json"
+    },
+    {
       "key": "赘婿影视",
       "name": "🎎赘婿影视",
       "type": 3,
