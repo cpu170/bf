@@ -698,6 +698,15 @@
       "jar": "https://pan.tenfell.cn/webos/link/25b298aff6024255ac266cd900f5ff95/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"
     },
     {
+      "key": "F4kvm",
+      "name": "🦑纯享┃影视┃直连",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://pan.tenfell.cn/webos/link/25b298aff6024255ac266cd900f5ff95/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"
+    },
+    {
       "key": "鸭奈飞",
       "name": "😎奈飞┃影视",
       "type": 3,
