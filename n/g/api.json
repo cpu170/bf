@@ -986,17 +986,7 @@
         "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-    {
-      "key": "XBPQ_91黑料",
-      "name": "91黑料",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/XBPQ.jar",
-      "ext": "./json/91黑料.json"
-    },
+   
    
     {
       "key": "赘婿影视",
