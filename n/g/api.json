@@ -987,15 +987,15 @@
       }
     },
     {
-      "key": "XBPQ_麻衣影院",
-      "name": "麻衣影院",
+      "key": "XBPQ_91黑料",
+      "name": "91黑料",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/XBPQ1.jar",
-      "ext": "./json/麻衣影院.json"
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./json/91黑料.json"
     },
    
     {
