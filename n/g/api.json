@@ -513,6 +513,16 @@
       "filterable": 1
     },
     {
+      "key": "华为吧资源站",
+      "name": "🎦华为吧资源站",
+      "type": 1,
+      "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": ""
+    },
+    {
       "key": "caiji_左岸切片",
       "name": "🎦左岸┃2k",
       "type": 1,
