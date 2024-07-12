@@ -228,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/影搜.json"
+      "ext": "./json/影搜.json"
     },
     {
       "key": "live10",
