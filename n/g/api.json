@@ -220,6 +220,16 @@
       "ext": "./json/我的小站.json"
     },
     {
+      "key": "csp_XYQHikerAL_蜡笔",
+      "name": "🖍︎蜡笔",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/蜡笔.json"
+    },
+    {
       "key": "csp_XYQHikerAL__影搜",
       "name": "😈影搜",
       "type": 3,
