@@ -1002,38 +1002,6 @@
     },
    
     {
-      "key": "雪儿蓝光",
-      "name": "❄️雪儿┃蓝光┃在线",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=雪儿"
-    },
-    {
-      "key": "皮皮虾",
-      "name": "🧿皮虾┃蓝光",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.aikun.tv/api.php/app/"
-    },
-    {
-      "key": "ssys三思",
-      "name": "三思┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/xp/三思影视.json",
-      "jar": "http://www.meowtv.cn/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
-    },
-    {
       "key": " gymboreejn百姓 ",
       "name": "🎦农民影视2",
       "type": 3,
