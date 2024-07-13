@@ -2552,7 +2552,7 @@
       "key": "api_xml_搜糊",
       "name": "️🦊┃忆梦┃影视",
       "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/",
+      "api": "https://www.gnpt.net/api.php/provide/vod/",
       "playUrl": "https://jx.777jiexi.com/player/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -7820,7 +7820,7 @@
       "url": "http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url="
     },
     {
-      "name": "解析0.12",
+      "name": "fosiplayer",
       "type": 0,
       "url": "https://www.nfzj.fun/bfq/FosiPlayer/?url="
     },
@@ -7982,7 +7982,7 @@
       "url": "https://json.vipjx.cnow.eu.org/?url="
     },
     {
-      "name": "七哥",
+      "name": "vip七哥",
       "url": "https://jx.mmkv.cn/tv.php?url=",
       "type": 0,
       "ext": {
