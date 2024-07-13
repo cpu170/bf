@@ -914,18 +914,7 @@
         "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
       }
     },
-    {
-      "key": "123iDC影视",
-      "name": "🎦iDC影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "剧情介绍: +video-info-content vod_content\">&&</div>",
-        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://www.idc123.xyz/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"
-      }
-    },
+   
     {
       "key": "看片狂人",
       "name": "🎦看片狂人",
@@ -1011,17 +1000,7 @@
         "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
       }
     },
-    {
-      "key": "悠云追剧",
-      "name": "🎦悠云┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": ">&&</div>",
-        "分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
+   
     {
       "key": "雪儿蓝光",
       "name": "❄️雪儿┃蓝光┃在线",
