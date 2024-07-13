@@ -2,7 +2,7 @@
 "站名": "西屋影视",
 "作者": "天天开心",
 "首页": "电影$20",
-"分类url": "https://www.xiwutv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url": "https://www.xiwutv.com/vodtype/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "分类二次截取": "<ul&&</ul>",
 "分类数组": "<a&&/a>",
 "分类标题": "<span>&&</span>[不包含:首页#体育]",
