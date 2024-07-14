@@ -5638,6 +5638,15 @@
       "filterable": 1
     },
     {
+      "key": "zp011乐播",
+      "name": "🔞78乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "私房TV",
       "name": "私房TV🔞",
       "type": 1,
