@@ -891,6 +891,20 @@
         "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
+    {
+      "key": "csp_爱优",
+      "name": "🍀爱优影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/xyqxbpq.jar",
+      "ext": {
+        "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
+      }
+    },
    
    
     {
