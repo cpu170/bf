@@ -1089,6 +1089,24 @@
         "分类": "动作片$/dy/bangumi/#喜剧片$/dy/tvplay/#爱情片$/dy/aqp/#科幻片$/dy/khp/#剧情片$/dy/jqp/#恐怖片$/dy/kbp/#战争片$/dy/kbp/#纪录片$/dy/jlp/#动画片$/dy/donghuapian/#国产剧$/dsj/dlj/#日韩剧$/dsj/rhj/#欧美剧$/dsj/omj/#短剧$dsj/duanju/#综艺$/zyjm/"
       }
     },
+    {
+      "key": "libhd",
+      "name": "🍁libhd┃外剧",
+      "type": 3,
+      "jar": "./jars/xyqxbpq.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.libhd.com/",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "搜索url": "https://www.libhd.com/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.libhd.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html;;akx",
+        "图片": "data-src=\"&&\"",
+        "简介": "text cor3&&</div>",
+        "线路数组": "swiper-slide&&</a>[[不包含:夸克网盘]",
+        "线路标题": "</i>&&",
+        "播放数组": "anthology-list-box none&&</ul>"
+      }
+    },
    
    
     {
