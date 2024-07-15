@@ -5292,13 +5292,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/小狗影院.js"
     },
-    {
-      "key": "drpy_js_新视觉影视",
-      "name": "影视 | 新视觉影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/新视觉影视.js"
-    },
+   
     {
       "key": "drpy_js_星辰影院",
       "name": "影视 | 星辰影院[js]",
