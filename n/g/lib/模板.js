@@ -130,7 +130,7 @@ function getMubans() {
             搜索1: 'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
             搜索2: 'ul.stui-vodlist__media&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
         },
-        默认: {
+        默认1: {
             title: '',
             host: '',
             url: '/vodshow/fyclass--------fypage---.html',
@@ -146,7 +146,7 @@ function getMubans() {
             limit: 6,
             double: true, // 推荐内容是否双层定位
         },
-	     默认1: {
+	     默认: {
             title: '',
             host: '',
             url: '',
