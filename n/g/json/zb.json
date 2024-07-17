@@ -11,6 +11,10 @@
         "name": "直播综合",
         "url": "http://home.jundie.top:81/Cat/tv/live.txt"
     },
+     {
+        "name": "Guovintv直播综合",
+        "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt"
+    },
    
     {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {
