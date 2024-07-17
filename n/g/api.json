@@ -155,7 +155,6 @@
       "changeable": 0,
       "ext": "./json/小雅.json"
     },
-   
     {
       "key": "live10",
       "name": "📺︎综合直播",
@@ -608,7 +607,6 @@
       "ext": "http://cdn.teyonds.com/xp/三思影视.json",
       "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
-   
     {
       "key": "Wexxiongdiys",
       "name": "🚌👬基友┃影视┃App",
@@ -777,8 +775,6 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
-   
-   
     {
       "key": "电影牛",
       "name": "🐂电影牛",
@@ -962,8 +958,7 @@
         "分类": "电影$6#电视剧$13#综艺$3#动漫$4#伦理$37"
       }
     },
-   
-     {
+    {
       "key": "csp_ysdq大全",
       "name": "🌊影视大全",
       "type": 3,
@@ -1056,8 +1051,8 @@
       "jar": "./lib/XBPQ2.jar",
       "filterable": 1,
       "ext": {
-        "\u526f\u6807\u9898": "\u516c\u5b50\u4e13\u5c5e",
-        "线路标题": "\u516c\u5b50\u4e13\u5c5e",
+        "副标题": "公子专属",
+        "线路标题": "公子专属",
         "分类url": "https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"
       }
@@ -1110,8 +1105,6 @@
         "播放数组": "anthology-list-box none&&</ul>"
       }
     },
-   
-   
     {
       "key": "赘婿影视",
       "name": "🎎赘婿影视",
@@ -1133,7 +1126,6 @@
         "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
       }
     },
-   
     {
       "key": "看片狂人",
       "name": "🎦看片狂人",
@@ -1219,7 +1211,6 @@
         "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
       }
     },
-   
     {
       "key": " gymboreejn百姓 ",
       "name": "🎦农民影视2",
@@ -1264,7 +1255,6 @@
       "filterable": 1,
       "ext": "./json/348.json"
     },
-    
     {
       "key": "兄弟影视",
       "name": "🎦兄弟影视",
@@ -2749,7 +2739,6 @@
         "动漫"
       ]
     },
-   
     {
       "key": "黑狐",
       "name": "🦊黑狐┃BPQ",
@@ -5387,7 +5376,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/小狗影院.js"
     },
-   
     {
       "key": "drpy_js_星辰影院",
       "name": "影视 | 星辰影院[js]",
@@ -5967,7 +5955,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
     {
       "key": "zp066",
       "name": "🔞花椒资源",
@@ -5977,7 +5964,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-   
     {
       "key": "私房TV",
       "name": "私房TV🔞",
@@ -6932,51 +6918,51 @@
       "name": "黑料🔞",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jars/HeChengChaXiu.jar",
+      "jar": "./jars/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-      "发布地址": "https://hl31.co/",
-      "直接播放": "1",
-      "免嗅": "1",
-      "数组": "<div class=\"video-item \" data-v-a51695bc&&</a>",
-      "图片": "onload=\"loadImg(this,'&&')\"",
-      "标题": "title\" data-v-a51695bc>&&</div>",
-      "副标题": "ishot\" data-v-a51695bc>&&</div>",
-      "链接": "href=\"&&\"",
-      "播放数组": "<div class='dplayer&&</div>",
-      "播放列表": "'{&&}'",
-      "播放链接": "\"url\":\"&&\"",
-      "分类url": "https://mjtk.iwgk39u.net/category/{cateId}/{catePg}.html",
-      "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
-      "分类值": "9&1&4&2&12&3&7&6&8&10&11"
-   }
+        "发布地址": "https://hl31.co/",
+        "直接播放": "1",
+        "免嗅": "1",
+        "数组": "<div class=\"video-item \" data-v-a51695bc&&</a>",
+        "图片": "onload=\"loadImg(this,'&&')\"",
+        "标题": "title\" data-v-a51695bc>&&</div>",
+        "副标题": "ishot\" data-v-a51695bc>&&</div>",
+        "链接": "href=\"&&\"",
+        "播放数组": "<div class='dplayer&&</div>",
+        "播放列表": "'{&&}'",
+        "播放链接": "\"url\":\"&&\"",
+        "分类url": "https://mjtk.iwgk39u.net/category/{cateId}/{catePg}.html",
+        "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
+        "分类值": "9&1&4&2&12&3&7&6&8&10&11"
+      }
     },
     {
-            "key": "csp_xBPQ_404精品",
-            "name": "404精品T🔞",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"./jars/XYQ.jar",
-            "ext": {
-                "站名": "404精品",
-                "主页url": "https://404jpz.xyz/",
-                "分类": "精品推荐$27#剧情原创$28#探花约啪$51#主播大秀$52#传媒影像$53#情色节目$59#P站精品$61#抖阴短视频$63#网曝门$70#AV解说$76#国产视频$29#网红主播$30#偷拍自拍$31#国产伦理$77#国产精品$75#日韩视频$1#中文字幕$33#名优写真$35#日本伦理$39#名优综艺$40#韩美眉主播$41#骑兵有码$43#无码专区$6#卡通动漫$8#欧美$34",
-                "数组": "<div class=\"content\">&&</div>",
-                "图片": "src=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "副标题": "title=\"&&\"",
-                "分类url": "https://404jpz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "直接播放": "1",
-                "免嗅": "1"
-            }
-        },
-      {
+      "key": "csp_xBPQ_404精品",
+      "name": "404精品T🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/XYQ.jar",
+      "ext": {
+        "站名": "404精品",
+        "主页url": "https://404jpz.xyz/",
+        "分类": "精品推荐$27#剧情原创$28#探花约啪$51#主播大秀$52#传媒影像$53#情色节目$59#P站精品$61#抖阴短视频$63#网曝门$70#AV解说$76#国产视频$29#网红主播$30#偷拍自拍$31#国产伦理$77#国产精品$75#日韩视频$1#中文字幕$33#名优写真$35#日本伦理$39#名优综艺$40#韩美眉主播$41#骑兵有码$43#无码专区$6#卡通动漫$8#欧美$34",
+        "数组": "<div class=\"content\">&&</div>",
+        "图片": "src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "title=\"&&\"",
+        "分类url": "https://404jpz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "直接播放": "1",
+        "免嗅": "1"
+      }
+    },
+    {
       "key": "我爱AV",
       "name": "我爱AV🔞",
       "type": 3,
@@ -6998,8 +6984,6 @@
       "ext": "./json/色花堂.json",
       "jar": "./jars/XBPQ.jar"
     },
-     
-   
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
@@ -7072,7 +7056,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-     {
+    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K",
       "type": 3,
@@ -7513,7 +7497,6 @@
         }
       }
     },
-   
     {
       "name": "jsonplayer",
       "type": 0,
@@ -7686,7 +7669,7 @@
         ]
       }
     },
-     {
+    {
       "name": "-8090g",
       "type": 0,
       "url": "https://www.8090g.cn/?url=",
@@ -7696,7 +7679,7 @@
         }
       }
     },
-     {
+    {
       "name": "-8090g-1",
       "type": 1,
       "url": "https://www.8090g.cn/?url=",
@@ -7706,7 +7689,7 @@
         }
       }
     },
-     {
+    {
       "name": "-yangtu-",
       "type": 0,
       "url": "https://jx.yangtu.top?url=",
@@ -7726,7 +7709,6 @@
         }
       }
     },
-    
     {
       "name": "扫地僧解析",
       "type": 1,
@@ -7867,61 +7849,61 @@
       }
     },
     {
-            "name": "推荐",
-            "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-     {
-            "name": "推荐1",
-            "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐2",
-            "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐3",
-            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐4",
-            "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐5",
-            "url": "https://jx.huohua.vip/api/?key=btyg7V3j4YOo8G0xiT&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐6",
-            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
+      "name": "推荐",
+      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
+    },
+    {
+      "name": "推荐1",
+      "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
+    },
+    {
+      "name": "推荐2",
+      "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
+    },
+    {
+      "name": "推荐3",
+      "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
+    },
+    {
+      "name": "推荐4",
+      "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
+    },
+    {
+      "name": "推荐5",
+      "url": "https://jx.huohua.vip/api/?key=btyg7V3j4YOo8G0xiT&url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
+    },
+    {
+      "name": "推荐6",
+      "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
+    },
     {
       "name": "无意解析3",
       "type": 1,
