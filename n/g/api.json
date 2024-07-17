@@ -6976,6 +6976,17 @@
                 "免嗅": "1"
             }
         },
+      {
+      "key": "我爱AV",
+      "name": "我爱AV🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/我爱AV.json",
+      "jar": "./jars/XBPQ.jar"
+    },
      
    
     {
