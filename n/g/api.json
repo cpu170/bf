@@ -4835,7 +4835,7 @@
         "跳转播放链接": "value=\"&&\"",
         "嗅探词": "index.m3u8#.mp4",
         "分类url": "https://www.hanjutu.com/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html[https://www.hanjutu.com/htm/{cateId}.html]",
-        "分类": "韩剧$hanju#剧情$hanju/juqingju#动作$hanju/dongzuoju#古装$hanju/guzhuangju#喜剧$hanju/xiju#奇幻$hanju/qihuanju#悬疑$hanju/xuanyiju#爱情$hanju/aiqingju#惊悚$hanju/jingsongju#犯罪$hanju/fanzuiju#韩综$zongyi#韩影$dianying"
+        "分类": "韩剧$hanju#日剧$riju#泰剧$taiju#剧情$hanju/juqingju#动作$hanju/dongzuoju#古装$hanju/guzhuangju#喜剧$hanju/xiju#奇幻$hanju/qihuanju#悬疑$hanju/xuanyiju#爱情$hanju/aiqingju#惊悚$hanju/jingsongju#犯罪$hanju/fanzuiju#韩综$zongyi#韩影$dianying"
       }
     },
     {
