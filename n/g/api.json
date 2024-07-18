@@ -5927,6 +5927,17 @@
       "ext": "./js/路漫漫[漫].js"
     },
     {
+      "key": "桃花资源",
+      "name": "桃花伦理🔞",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
       "key": "优优资源",
       "name": "优优资源🔞",
       "type": 1,
