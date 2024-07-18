@@ -2397,7 +2397,7 @@
       "key": "hyzy",
       "name": "🎦虎牙┃2k",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "playurl": "json:https://huyajx.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
