@@ -4928,6 +4928,17 @@
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
       }
     },
+    {
+      "key": "华人影院",
+      "name": "┃华人2k┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "分类url": "https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$drama#电影$movie"
+      }
+    },
 
     {
       "key": "drpy_js_量子资源",
