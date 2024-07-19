@@ -4699,7 +4699,7 @@
     },
     {
       "key": "MFKYS影视",
-      "name": "┃MFKYS┃大全",
+      "name": "👑┃MFKYS┃大全",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -4734,7 +4734,7 @@
     },
     {
       "key": "华人影院",
-      "name": "┃华人2k┃秒播",
+      "name": "👑┃华人2k┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jars/XBPQ.jar",
@@ -4742,6 +4742,17 @@
         "分类url": "https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电视剧$drama#电影$movie"
       }
+    },
+    {
+      "key": "觅知影视",
+      "name": "👑觅知影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/觅知影视.json",
+      "jar": "./jars/XBPQ.jar"
     },
 
     {
