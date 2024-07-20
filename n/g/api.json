@@ -211,6 +211,15 @@
       "filterable": 0
     },
     {
+      "key": "csp_Suxun",
+      "name": "✨速迅",
+      "type": 3,
+      "api": "csp_Suxun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_YCyz",
       "name": "☀原创",
       "type": 3,
