@@ -4744,11 +4744,10 @@
       "jar": "./jars/XBPQ.jar"
     },
     {
-      "key": "华人影院",
+      "key": "huaren华人影院",
       "name": "🦄华人┃影院",
       "type": 3,
       "api": "csp_XBPQ",
-        "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
