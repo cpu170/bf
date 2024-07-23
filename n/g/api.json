@@ -4743,6 +4743,17 @@
       "ext": "./json/觅知影视.json",
       "jar": "./jars/XBPQ.jar"
     },
+    {
+      "key": "hipy_js_哈皮影视[优]",
+      "name": "哈皮影视[优](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/哈皮影视[优].js"
+    },
    
 
     {
