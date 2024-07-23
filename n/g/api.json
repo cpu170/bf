@@ -4765,6 +4765,18 @@
       "order_num": 0,
       "ext": "./js/即看影视.js"
     },
+    {
+      "key": "hipy_js_九牛电影.js",
+      "name": "九牛电影.js(drpy_t3)",
+      "type": 3,
+      "api": "https://jk.fookxue.cn/zy/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://jk.fookxue.cn/zy/drpy_js/九牛电影.js"
+    },
+    
    
 
     {
