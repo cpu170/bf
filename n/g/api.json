@@ -4787,6 +4787,17 @@
       "order_num": 0,
       "ext": "https://jk.fookxue.cn/zy/drpy_js/麻雀视频[优].js"
     },
+    {
+      "key": "hipy_js_七年影视.js(drpy_t3)",
+      "name": "七年影视.js(drpy_t3)",
+      "type": 3,
+      "api": "https://jk.fookxue.cn/zy/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://jk.fookxue.cn/zy/drpy_js/七年影视.js"
+    },
     
    
 
