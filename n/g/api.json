@@ -4754,6 +4754,17 @@
       "order_num": 0,
       "ext": "./js/哈皮影视[优].js"
     },
+    {
+      "key": "hipy_js_即看影视[优]",
+      "name": "即看影视[优](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/即看影视.js"
+    },
    
 
     {
