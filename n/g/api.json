@@ -4820,6 +4820,17 @@
       "order_num": 0,
       "ext": "https://jk.fookxue.cn/zy/drpy_js/三集电影[自动].js"
     },
+    {
+      "key": "hipy_js_旺旺影视.js(drpy_t3)",
+      "name": "旺旺影视.js(drpy_t3)",
+      "type": 3,
+      "api": "https://jk.fookxue.cn/zy/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://jk.fookxue.cn/zy/drpy_js/旺旺影视.js"
+    },
    
 
     {
