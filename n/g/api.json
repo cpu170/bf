@@ -4776,6 +4776,17 @@
       "order_num": 0,
       "ext": "https://jk.fookxue.cn/zy/drpy_js/九牛电影.js"
     },
+    {
+      "key": "hipy_js_麻雀视频[优](drpy_t3)",
+      "name": "麻雀视频[优](drpy_t3)",
+      "type": 3,
+      "api": "https://jk.fookxue.cn/zy/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://jk.fookxue.cn/zy/drpy_js/麻雀视频[优].js"
+    },
     
    
 
