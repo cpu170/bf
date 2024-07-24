@@ -46,7 +46,7 @@ https://yang-1989.eu.org/m3u/Adult
 #港台三级集
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt
 #13055资源
-https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx5.txt&&&https://jihulab.com/ztha/ztha/-/raw/main/jpg/2.jpg
+https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx5.txt
 
 
 
