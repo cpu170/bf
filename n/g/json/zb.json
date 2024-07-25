@@ -15,6 +15,7 @@
         "name": "Guovintv直播综合",
         "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt"
     },
+    {"name":"刺猬直播","url":"https://www.cwss.xyz/刺猬直播禁止贩卖","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":3},
    
     {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {
