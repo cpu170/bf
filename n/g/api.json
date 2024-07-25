@@ -7372,8 +7372,8 @@
       "jar": "./jars/XBPQ.jar"
     },
     {
-      "key": "www",
-      "name": "🏆四虎影院",
+      "key": "www四虎",
+      "name": "🏆四虎影院🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 0,
@@ -7391,7 +7391,7 @@
     },
     {
       "key": "av帝王",
-      "name": "🏆av帝王",
+      "name": "🏆av帝王🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 0,
@@ -7409,7 +7409,7 @@
     },
     {
       "key": "妹妹的妹妹",
-      "name": "🏆妹妹的",
+      "name": "🏆妹妹的🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 0,
@@ -7427,7 +7427,7 @@
     },
     {
       "key": "色佬街视频",
-      "name": "🏆色佬街视频",
+      "name": "🏆色佬街视频🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 0,
@@ -7445,7 +7445,7 @@
     },
     {
       "key": "https://www.qqdsp.cc",
-      "name": "🏆qqdsp",
+      "name": "🏆qqdsp🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 0,
@@ -7463,7 +7463,7 @@
     },
     {
       "key": "射了么https://shelm1.xyz",
-      "name": "🏆射了么",
+      "name": "🏆射了么🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
@@ -7479,35 +7479,7 @@
       },
       "jar": "https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
     },
-    {
-      "key": "csp_顶级网曝",
-      "name": "🏆顶级网曝",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
-      "ext": {
-        "请求头": "手机",
-        "站名": "顶级网曝",
-        "主页url": "https://www.djwb3.top/",
-        "数组": "<li class=\"content-item\">&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "播放数组": "<td>&&</td>",
-        "播放链接": "href=\"&&\"",
-        "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
-        "免嗅": "0",
-        "搜索url": "https://www.djwb3.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "嗅探词": ".m3u8#.mp4",
-        "分类url": "https://www.djwb3.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类数组": "<li&&</li>",
-        "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
-        "分类ID": "/index.php/vod/type/id/&&.html"
-      }
-    },
+   
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
