@@ -69,3 +69,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
 #爬虫H
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/爬虫H射仓库源.txt
+#SSM0415
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt
+#zeee-u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.txt
