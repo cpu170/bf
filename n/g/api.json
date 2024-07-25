@@ -4744,6 +4744,16 @@
       "jar": "./jars/XBPQ.jar"
     },
     {
+      "key": "csp_超前",
+      "name": "🥇┃超前┃点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/超前B站.json"
+    },
+    {
       "key": "hipy_js_哈皮影视[优]",
       "name": "哈皮影视[优](drpy_t3)",
       "type": 3,
