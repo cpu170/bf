@@ -45,8 +45,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/kele1111/mengzehe/m
 https://tv.iill.top/m3u/Adult
 #港台三级集
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt
-#刺猬
-https://www.cwss.xyz/刺猬直播禁止贩卖
 
 
 
