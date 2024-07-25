@@ -7390,6 +7390,24 @@
       "jar": "https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
     },
     {
+      "key": "av帝王",
+      "name": "🏆av帝王",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": {
+        "分类url": "https://xn--ztty08b.avdw-mod.sbs/index.php/vodtype/{cateId}-{catePg}.html",
+        "直接播放": "1",
+        "分类": "国产传媒&骑兵有码&步兵无码&师生制服&强奸乱伦&人妻熟女&丝袜美腿&亚洲情色",
+        "分类值": "160&27&28&50&51&53&56&58"
+      },
+      "jar": "https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
