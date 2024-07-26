@@ -3480,6 +3480,14 @@
       "filterable": 1
     },
     {
+      "key": "最大资源",
+      "name": "🎦最大云",
+      "type": 1,
+      "api": "http://zuidazy.co/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "艾旦影视",
       "name": "🎦艾旦影视┃2k",
       "type": 1,
