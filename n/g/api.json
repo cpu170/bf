@@ -1318,6 +1318,27 @@
       "ext": "./json/小茶狐.json"
     },
     {
+      "key": "csp_小鱼影视",
+      "name": "🎦小鱼影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ2.jar",
+      "ext": {
+        "数组": "class=\"module-item-pic\">&&</div>",
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索url": "https://www.zsxy1.top/index.php/vod/search.html?wd={wd}",
+        "搜索模式": "1",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</span>",
+        "播放数组": "scroll-box-y\">&&</div>",
+        "播放列表": "<a&&/a>",
+        "分类url": "https://www.zsxy1.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman"
+      }
+    },
+    {
       "key": "老六影视",
       "name": "🎦老六影视",
       "type": 3,
