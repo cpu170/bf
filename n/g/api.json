@@ -5172,6 +5172,21 @@
       "ext": "./json/超前B站.json"
     },
     {
+      "key": "csp_无忧影视",
+      "name": "👑无忧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ2.jar",
+      "ext": {
+        "线路数组": "data-dropdown-value=&&</div",
+        "线路标题": ">&&</span>",
+        "播放数组": "scroll-box-y\">&&</div>",
+        "播放列表": "<a&&/a>",
+        "分类url": "http://wyys.cf/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
       "key": "hipy_js_哈皮影视[优]",
       "name": "哈皮影视[优](drpy_t3)",
       "type": 3,
