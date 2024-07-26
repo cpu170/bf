@@ -765,6 +765,13 @@
       "ext": "https://www.kuin.one/api.php/app/"
     },
     {
+      "key": "异世界",
+      "name": "异界云",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "ext": "http://ysjtv.yy365.vip/api.php/app/"
+    },
+    {
       "key": "电影牛",
       "name": "🐂电影牛",
       "type": 3,
