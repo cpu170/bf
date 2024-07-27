@@ -437,22 +437,7 @@
       "filterable": 1,
       "playurl": ""
     },
-    {
-      "key": "caiji_左岸切片",
-      "name": "🎦左岸┃2k",
-      "type": 1,
-      "api": "https://app.dybfun.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "伦理"
-      ]
-    },
+   
     {
       "key": "vod_速播",
       "name": "🎦速播┃2k",
