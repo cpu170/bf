@@ -7611,6 +7611,16 @@
       "filterable": 0,
       "ext": "./json/学姐视频.json"
     },
+    {
+      "key": "csp_xBPQ_boluo",
+      "name": "菠萝蜜🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/boluo.json"
+    },
    
     {
       "key": "Aid",
