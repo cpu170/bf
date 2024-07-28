@@ -1751,18 +1751,7 @@
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
     },
-    {
-      "key": "Bt0",
-      "name": "🧲不灵|磁力",
-      "type": 3,
-      "api": "csp_Bt0",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "null$$$null$$$1"
-    },
+   
    {
       "key": "迅雷8",
       "name": "🧲迅雷吧|XBPQ|磁力",
@@ -1777,15 +1766,7 @@
         "分类": "电视剧$tv#电影$list"
       }
     },
-    {
-      "key": "SeedHub",
-      "name": "🧲SeedHub┃磁力",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "changeable": 1,
-      "timeout": 60
-    },
+   
     {
       "key": "美剧天堂",
       "name": "🧲美剧┃磁力",
