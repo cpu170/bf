@@ -1696,7 +1696,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 1,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./jars/XBPQ.jar",
       "ext": {
         "主页url": "https://www.xbw20.com/",
         "编码": "gb2312",
