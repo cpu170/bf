@@ -7577,6 +7577,22 @@
       "searchable": 1,
       "quickSearch": 1
     },
+    {
+      "key": "水果派",
+      "name": "水果派🔞",
+      "type": 1,
+      "api": "https://v.ririhair.com/sg.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "黄仓库1",
+      "name": "黄仓库1🔞",
+      "type": 1,
+      "api": "https://v.ririhair.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
    
     {
       "key": "Aid",
