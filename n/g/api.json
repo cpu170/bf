@@ -1763,14 +1763,19 @@
       "timeout": 60,
       "ext": "null$$$null$$$1"
     },
-    {
-      "key": "Xunlei8",
-      "name": "🧲Xunlei8┃磁力",
+   {
+      "key": "迅雷8",
+      "name": "🧲迅雷吧|XBPQ|磁力",
       "type": 3,
-      "api": "csp_Xunlei8",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "changeable": 1,
-      "timeout": 60
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "播放数组": "copylink&&</a>",
+        "播放链接": "alt=\"&&\"",
+        "简介": "b1f40f7888\"&&</p>",
+        "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
+        "分类": "电视剧$tv#电影$list"
+      }
     },
     {
       "key": "SeedHub",
