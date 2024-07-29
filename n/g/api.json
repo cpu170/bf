@@ -5207,7 +5207,7 @@
       "name": "👑Nuu|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ3.jar",
+      "jar": "./lib/XBPQ.jar",
       "ext": {
         "分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html",
         "分类": "電影$1#劇集$2#動漫$3#綜藝$4"
