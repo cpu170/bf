@@ -981,7 +981,7 @@
       "name": "💕蛙视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/XBPQ1.jar",
       "ext": {
         "主页url": "https://www.wvod.tv/",
         "数组": "hl-col-lg-2\"&&</a>",
