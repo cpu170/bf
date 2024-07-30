@@ -793,6 +793,22 @@
       "ext": "http://nctv.top/tv/sub/电影牛.json"
     },
     {
+      "key": "VS影院2",
+      "name": "⚡VS影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "线路数组": "#playlist&&</a>",
+        "播放数组": "myui-content__list&&</ul>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&<[不包含:APP秒播]",
+        "跳转播放链接": "src=\"https://jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
+        "分类url": "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html",
+        "分类": "短剧$5#国产剧$17#港台剧$18#日韩剧$20#电视剧$2#电影$1#动作片$6#喜剧片$7#爱情片$8#恐怖片$10#动漫$4#综艺$3"
+      }
+    },
+    {
       "key": "七夕❤️无广",
       "name": "七夕|影视",
       "type": 3,
