@@ -281,6 +281,34 @@
       "ext": "http://mf.songshu.cyou/api.php/app/"
     },
     {
+      "key": "剧兔2",
+      "name": "追剧兔子┃┃💠V2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.zjtu.one/api.php/app/"
+    },
+    {
+      "key": "河狸2",
+      "name": "河狸影视┃┃💠V2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.heli888.cc/api.php/app/"
+    },
+    {
+      "key": "柠檬2",
+      "name": "柠檬影视┃┃💠V2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://mf.songshu.cyou/api.php/app/"
+    },
+    {
+      "key": "思古2",
+      "name": "思古影视┃┃💠V2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://siguyy.cn/api.php/app/"
+    },
+    {
       "key": "可口可乐",
       "name": "♐┃可乐弟┃4K",
       "type": 3,
