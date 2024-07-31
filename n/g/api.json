@@ -5412,6 +5412,20 @@
         "分类": "電影$1#劇集$2#動漫$3#綜藝$4"
       }
     },
+      {
+      "key": "全集影视",
+      "name": "🎉全集┃高清┃快播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://quan.cn.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$39"
+      }
+    },
+  
     {
       "key": "XYQHiker_红领巾影院",
       "name": "红领巾影院",
