@@ -180,6 +180,56 @@
       "ext": "./json/zb.json"
     },
     {
+            "key": "drpy_360影视",
+            "name": "360影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/360影视.js"
+        },
+        {
+            "key": "drpy_腾讯视频",
+            "name": "腾讯视频",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/腾讯视频.js"
+        },
+        {
+            "key": "drpy_优酷",
+            "name": "优酷",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/优酷.js"
+        },
+        {
+            "key": "drpy_爱奇异",
+            "name": "爱奇异",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/爱奇异.js"
+        },
+        {
+            "key": "drpy_芒果TV",
+            "name": "芒果TV",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/芒果TV.js"
+        },
+       
+        {
+            "key": "drpy_搜狗视频",
+            "name": "搜狗视频",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/搜狗视频.js"
+        },
+
+    {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
