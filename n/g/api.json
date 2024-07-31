@@ -901,6 +901,19 @@
       "ext": "http://ysjtv.yy365.vip/api.php/app/"
     },
     {
+      "key": "可视影院",
+      "name": "💥可视┃高清┃快播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ketv.cc/s/movie-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$movie#连续剧$series#综艺$variety#动漫$anime#纪录片$documentary#网络短剧$skit#体育$sports"
+      }
+    },
+    {
       "key": "电影牛",
       "name": "🐂电影牛",
       "type": 3,
