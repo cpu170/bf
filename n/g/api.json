@@ -978,6 +978,20 @@
       }
     },
     {
+      "key": "剧迷影院",
+      "name": "🦝剧迷中心",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content\"&&</div>",
+        "分类url": "https://gimy.video/channel/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "電影$1#電視劇$2#動漫$30#綜藝$29"
+      }
+    },
+    {
       "key": "电影牛",
       "name": "🐂电影牛",
       "type": 3,
