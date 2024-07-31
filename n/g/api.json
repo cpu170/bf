@@ -927,6 +927,16 @@
         "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
       }
     },
+     {
+      "key": "好影快看",
+      "name": "🧿好影┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jars/dokilwss.jar",
+      "ext": "./json/好影快看.json"
+    },
     {
       "key": "电影牛",
       "name": "🐂电影牛",
