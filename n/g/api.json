@@ -992,6 +992,33 @@
       }
     },
     {
+      "key": "HG影视",
+      "name": "💥猴哥影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://hong.hgyx.vip/",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "影片状态": "连载：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索模式": "1",
+        "搜索url": "https://hong.hgyx.vip/index.php/vod/search.html?wd={wd}",
+        "搜索数组": "module-card-item-class\">&&</a>",
+        "搜索标题": "alt=\"&&\"",
+        "搜索副标题": "note\">&&</div>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://hong.hgyx.vip/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
       "key": "电影牛",
       "name": "🐂电影牛",
       "type": 3,
