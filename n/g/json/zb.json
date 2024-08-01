@@ -53,7 +53,7 @@
       "type": 0,
       "url": "https://notabug.org/zgj081/ys/raw/master/ds.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    }
+    },
   
      {
       "name":"Live",
