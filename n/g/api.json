@@ -180,6 +180,14 @@
       "ext": "./json/zb.json"
     },
     {
+      "key": "zhibo影视",
+      "name": "┃猫直播大全┃",
+      "type": 3,
+      "api": "./js/sdtv.js",
+      "ext": "./lives/sdtv.txt",
+      "jar": "./jars/sdtv.jar"
+    },
+    {
             "key": "drpy_360影视",
             "name": "360影视",
             "type": 3,
