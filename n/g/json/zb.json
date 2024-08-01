@@ -48,7 +48,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-   {"name":"猫TV直播","url":"http://rihou.cc:555/gggg.nzk&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+  
      {
       "name":"Live",
       "type":0,
