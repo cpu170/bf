@@ -2645,7 +2645,7 @@
       "key": "jyzy",
       "name": "🎦金鹰┃2k",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+      "api": "http://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "playurl": "json:https://hd.iapijy.com/play?url=",
       "searchable": 1,
       "quickSearch": 1,
