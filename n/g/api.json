@@ -8069,6 +8069,16 @@
         "分类url": "https://xxynwo6.buzz/type/id/{cateId}/{catePg}.html"
       }
     },
+     {
+      "key": "骏马影院1",
+      "name": "🧿骏马影院🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/dokilwss.jar",
+      "ext": "./json/junma.json"
+    },
    
     {
       "key": "Aid",
