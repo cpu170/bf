@@ -1,0 +1,10 @@
+{
+"站名":"骏马",
+"主页url":"https://junmatv.com",
+"直接播放":"1",
+"简介":"<p>&&</p>",
+"搜索模式":"1",
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+"分类":"字幕$20#国产$21#有码$24#动漫$23#伦理$25#欧美$22",
+"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html"
+}
