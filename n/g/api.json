@@ -899,6 +899,34 @@
       "ext": "http://ysjtv.yy365.vip/api.php/app/"
     },
     {
+      "key": "笙歌影视",
+      "name": "🎆笙歌┃高清┃快播",
+      "type": 3,
+      "api": "csp_AppYY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "./jars/spider240714.jar;md5;3843f962622e1fa261e6cd26ebbe2807"
+    },
+    {
+      "key": "愉悦影视",
+      "name": "😁愉悦┃高清┃快播",
+      "type": 3,
+      "api": "csp_Wexyuyueys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jars/spider240714.jar;md5;3843f962622e1fa261e6cd26ebbe2807"
+    },
+    {
+      "key": "纯享影视",
+      "name": "🌏纯享┃蓝光┃略卡",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jars/spider240714.jar;md5;3843f962622e1fa261e6cd26ebbe2807"
+    },
+    {
       "key": "可视影院",
       "name": "💥可视┃高清┃快播",
       "type": 3,
