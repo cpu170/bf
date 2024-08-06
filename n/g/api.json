@@ -188,57 +188,56 @@
       "jar": "./jars/sdtv.jar"
     },
     {
-            "key": "drpy_360影视",
-            "name": "360影视",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/360影视.js"
-        },
-        {
-            "key": "drpy_腾讯视频",
-            "name": "腾讯视频",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/腾讯视频.js"
-        },
-        {
-            "key": "drpy_优酷",
-            "name": "优酷",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/优酷.js"
-        },
-        {
-            "key": "drpy_爱奇异",
-            "name": "爱奇异",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/爱奇异.js"
-        },
-        {
-            "key": "drpy_芒果TV",
-            "name": "芒果TV",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/芒果TV.js"
-        },
-       
-        {
-            "key": "drpy_搜狗视频",
-            "name": "搜狗视频",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/搜狗视频.js"
-        },
-     {
+      "key": "drpy_360影视",
+      "name": "360影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "ext": "./js/360影视.js"
+    },
+    {
+      "key": "drpy_腾讯视频",
+      "name": "腾讯视频",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "ext": "./js/腾讯视频.js"
+    },
+    {
+      "key": "drpy_优酷",
+      "name": "优酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "ext": "./js/优酷.js"
+    },
+    {
+      "key": "drpy_爱奇异",
+      "name": "爱奇异",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "ext": "./js/爱奇异.js"
+    },
+    {
+      "key": "drpy_芒果TV",
+      "name": "芒果TV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "ext": "./js/芒果TV.js"
+    },
+    {
+      "key": "drpy_搜狗视频",
+      "name": "搜狗视频",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "ext": "./js/搜狗视频.js"
+    },
+    {
       "key": "豆瓣热播",
-	"name": "🌕影库┃电影频道",
+      "name": "🌕影库┃电影频道",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -276,8 +275,6 @@
         "简介": "detail-desc\">&&</p>"
       }
     },
-
-
     {
       "key": "酷看",
       "name": "💡酷看┃秒播",
@@ -289,7 +286,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    
     {
       "key": "csp_MaoLv",
       "name": "🐴毛驴",
@@ -299,7 +295,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-   
     {
       "key": "csp_YCyz",
       "name": "☀原创",
@@ -310,7 +305,6 @@
       "filterable": 1,
       "changeable": 1
     },
-    
     {
       "key": "csp_Kekys",
       "name": "👻可可",
@@ -322,7 +316,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-   
     {
       "key": "视觉",
       "name": "👓视觉┃直连",
@@ -501,7 +494,6 @@
       "filterable": 1,
       "ext": "https://www.libvio.pw/"
     },
-   
     {
       "key": "csp_Xdys",
       "name": "💥小点",
@@ -570,7 +562,6 @@
       "filterable": 1,
       "playurl": ""
     },
-   
     {
       "key": "vod_速播",
       "name": "🎦速播┃2k",
@@ -615,7 +606,7 @@
       "filterable": 1,
       "playurl": ""
     },
-     {
+    {
       "key": "cs_bh",
       "name": "宝盒|影视",
       "type": 1,
@@ -953,7 +944,7 @@
         "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
       }
     },
-     {
+    {
       "key": "好影快看",
       "name": "🧿好影┃蓝光",
       "type": 3,
@@ -1044,7 +1035,7 @@
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
       }
     },
-     {
+    {
       "key": "九七影视",
       "name": "💥九七影视",
       "type": 3,
@@ -1071,7 +1062,7 @@
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
       }
     },
-      {
+    {
       "key": "高清剧场1",
       "name": "💥高清剧场",
       "type": 3,
@@ -1111,7 +1102,6 @@
         "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports"
       }
     },
-
     {
       "key": "电影牛",
       "name": "🐂电影牛",
@@ -1160,7 +1150,7 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
-     {
+    {
       "key": "熊猫影院",
       "name": "🐼熊猫影视",
       "type": 3,
@@ -1392,7 +1382,6 @@
         "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
       }
     },
-  
     {
       "key": "海兔",
       "name": "影视 | 海兔影院",
@@ -1587,39 +1576,39 @@
       }
     },
     {
-            "key": "PPT",
-            "name": "❤️‍🔥〔PPT丨XP™〕",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jars/XBPQ.jar",
-            "ext": {
-                "首页": "电视剧$30",
-                "数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "class=\"badge badge-success\">&&</span>",
-                "链接": "href=\"/v/&&\"",
-                "链接前缀": "https://ptt.red/",
-                "搜索url": "https://ptt.red/node/search?title={wd}",
-                "搜索数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-                "搜索副标题": "class=\"badge badge-success\">&&</span>",
-                "搜索链接": "href=\"/v/&&\"",
-                "搜索链接前缀": "https://ptt.red/",
-                "多线二次截取": "class=\"tabbable fullwidth\">&&</div",
-                "多线数组": "class=\"nav-item\">&&</li",
-                "多线链接": "href=\"&&\"",
-                "多线链接前缀": "https://ptt.red",
-                "多线链接后缀": "",
-                "线路数组": "class=\"nav-item\">&&</li",
-                "线路标题": "title=\"&&\"",
-                "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "直接播放": "体育",
-                "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66伦理$1/c/33",
-                "分类url": "https://ptt.red/p/{cateId}?page={catePg}"
-            }
-        },
+      "key": "PPT",
+      "name": "❤️‍🔥〔PPT丨XP™〕",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "首页": "电视剧$30",
+        "数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
+        "图片": "src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "副标题": "class=\"badge badge-success\">&&</span>",
+        "链接": "href=\"/v/&&\"",
+        "链接前缀": "https://ptt.red/",
+        "搜索url": "https://ptt.red/node/search?title={wd}",
+        "搜索数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
+        "搜索副标题": "class=\"badge badge-success\">&&</span>",
+        "搜索链接": "href=\"/v/&&\"",
+        "搜索链接前缀": "https://ptt.red/",
+        "多线二次截取": "class=\"tabbable fullwidth\">&&</div",
+        "多线数组": "class=\"nav-item\">&&</li",
+        "多线链接": "href=\"&&\"",
+        "多线链接前缀": "https://ptt.red",
+        "多线链接后缀": "",
+        "线路数组": "class=\"nav-item\">&&</li",
+        "线路标题": "title=\"&&\"",
+        "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "直接播放": "体育",
+        "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66伦理$1/c/33",
+        "分类url": "https://ptt.red/p/{cateId}?page={catePg}"
+      }
+    },
     {
       "key": "看片狂人",
       "name": "🎦看片狂人",
@@ -1739,7 +1728,6 @@
       "filterable": 1,
       "ext": "./json/七新影视.json"
     },
-   
     {
       "key": "兄弟影视",
       "name": "🎦兄弟影视",
@@ -2218,8 +2206,7 @@
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
     },
-   
-   {
+    {
       "key": "迅雷8",
       "name": "🧲迅雷吧|XBPQ|磁力",
       "type": 3,
@@ -2233,7 +2220,6 @@
         "分类": "电视剧$tv#电影$list"
       }
     },
-   
     {
       "key": "美剧天堂",
       "name": "🧲美剧┃磁力",
@@ -2344,7 +2330,6 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
     },
-    
     {
       "key": "可达影视",
       "name": "🎦可达影视",
@@ -2502,7 +2487,6 @@
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/js/九悠影视.js"
     },
-   
     {
       "key": "kuin.one",
       "name": "🐉大中国资源",
@@ -3613,7 +3597,6 @@
         "电影解说"
       ]
     },
-   
     {
       "key": "uku",
       "name": "🎦U酷┃2k",
@@ -3969,9 +3952,6 @@
         "其他剧"
       ]
     },
-   
-   
-    
     {
       "key": "龙猫资源站",
       "name": "🎦龙猫资源",
@@ -4020,7 +4000,6 @@
       "filterable": 1,
       "playurl": "https://player.heimuer.tv/index.html?url="
     },
-    
     {
       "key": "牛牛资源站",
       "name": "🎦牛牛资源",
@@ -4254,7 +4233,6 @@
       "filterable": 1,
       "ext": "./lib/changmeng.js"
     },
-    
     {
       "key": "XBPQ_九八",
       "name": "🍸️┃九八┃影视",
@@ -5622,7 +5600,7 @@
         "分类": "電影$1#劇集$2#動漫$3#綜藝$4"
       }
     },
-      {
+    {
       "key": "全集影视",
       "name": "🎉全集┃高清┃快播",
       "type": 3,
@@ -5635,7 +5613,6 @@
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$39"
       }
     },
-  
     {
       "key": "XYQHiker_红领巾影院",
       "name": "红领巾影院",
@@ -5779,8 +5756,6 @@
       "order_num": 0,
       "ext": "https://jk.fookxue.cn/zy/drpy_js/HDmoli.js"
     },
-   
-
     {
       "key": "drpy_js_量子资源",
       "name": "量子[js]",
@@ -8097,7 +8072,7 @@
         "分类url": "https://xxynwo6.buzz/type/id/{cateId}/{catePg}.html"
       }
     },
-     {
+    {
       "key": "骏马影院1",
       "name": "骏马影院🔞",
       "type": 3,
@@ -8134,8 +8109,7 @@
         "热门事件",
         "吃瓜事件"
       ]
-    },  
-   
+    },
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
@@ -8821,8 +8795,8 @@
         ]
       }
     },
-     {
-      "name": m3u8player-0",
+    {
+      "name": "m3u8player-0\"",
       "type": 0,
       "url": "https://m3u8player.org/player.html?url=",
       "ext": {
@@ -8831,7 +8805,7 @@
         }
       }
     },
-     {
+    {
       "name": "xmflv-0",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
