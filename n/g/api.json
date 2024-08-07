@@ -2372,6 +2372,16 @@
       }
     },
     {
+      "key": "追风zfsp",
+      "name": "🍊追风",
+      "type": 1,
+      "api": "http://www.zfsp.cc/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
       "key": "鱼乐资源",
       "name": "🎦鱼乐资源┃2k",
       "type": 1,
