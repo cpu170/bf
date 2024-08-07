@@ -808,12 +808,7 @@
       "type": 1,
       "api": "https://hong.hgyx.vip/api.php/provide/vod/"
     },
-    {
-      "key": "剧狗影视",
-      "name": "🌀┣剧狗┃快播",
-      "type": 1,
-      "api": "https://www.youmuz.cn/api.php/provide/vod/"
-    },
+   
     {
       "key": "ssys",
       "name": "👑三思影视",
