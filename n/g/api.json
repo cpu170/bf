@@ -4258,6 +4258,18 @@
       "ext": "./lib/changmeng.js"
     },
     {
+      "key": "在线电影吧",
+      "name": "🎗┣爱碟┫蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+        "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+      }
+    },
+    {
       "key": "XBPQ_九八",
       "name": "🍸️┃九八┃影视",
       "type": 3,
@@ -5635,6 +5647,39 @@
       "ext": {
         "分类url": "https://quan.cn.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$39"
+      }
+    },
+    {
+      "key": "飞流",
+      "name": "🎗┣飞流┫速播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"mr-2 break-all line-clamp-3&&</div>",
+        "搜索url": "https://www.flixflop.com/results?q={q}",
+        "搜索模式": "1",
+        "搜索数组": "<a class=\"xeerELw&&xE6iANX",
+        "搜索图片": "<img src=\"&&\"",
+        "搜索标题": "<a class=\"xrIoPJE&&</a>",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "text-base mui-1q2h7u5\"&&</button>",
+        "线路标题": "飞流快播",
+        "播放数组": "xBwXv89\"&&xFo5MnU",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "分类url": "https://www.flixflop.com/explore/{cateId}?page={catePg}&area={area}&genre={class}&year={year}&language={lang}&sort={by}",
+        "分类": "电影$151438147786375168#电视剧$151438147794763777#动漫$151438147807346690#综艺$151438147807346691#体育$151438147807346693#电影解说$204814944317734918#短剧$331153971999670710"
+      }
+    },
+    {
+      "key": "可乐影视kele",
+      "name": "🎗┣可乐┫蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
+        "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
       }
     },
     {
