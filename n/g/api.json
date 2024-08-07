@@ -779,23 +779,18 @@
       "api": "https://www.wyvod.com/api.php/provide/vod/"
     },
     {
-      "key": "三八资源",
+      "key": "三八资源38",
       "name": "🌀┣三八┫采集",
       "type": 1,
       "api": "https://vod38.com/api.php/provide/vod/"
     },
     {
-      "key": "九零资源",
+      "key": "九零资源ok",
       "name": "🌀┣九零┫采集",
       "type": 1,
       "api": "https://oknnews.com/api.php/provide/vod/"
     },
-    {
-      "key": "追剧资源",
-      "name": "🌀┣追剧剧┫采集",
-      "type": 1,
-      "api": "https://www.zhuijuju.net/api.php/provide/vod/"
-    },
+   
     {
       "key": "ssys",
       "name": "👑三思影视",
