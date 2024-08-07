@@ -725,6 +725,66 @@
       "ext": "http://cdn.teyonds.com/js/网飞影视.js"
     },
     {
+      "key": "喵派对影",
+      "name": "🌀┣喵趣┃采集",
+      "type": 1,
+      "api": "https://www.lezy.lol/api.php/provide/vod/"
+    },
+    {
+      "key": "映迷资源",
+      "name": "🌀┣映迷┃快播",
+      "type": 1,
+      "api": "https://www.inmi.app/api.php/provide/vod/"
+    },
+    {
+      "key": "影猫资源",
+      "name": "🌀┣影猫┃快播",
+      "type": 1,
+      "api": "http://ysm.tkbot.fun/api.php/provide/vod/"
+    },
+    {
+      "key": "何以资源",
+      "name": "🌀┣何以┃快播",
+      "type": 1,
+      "api": "https://www.heyik.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "猫咪资源",
+      "name": "🌀┣猫咪┫采集",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
+    },
+    {
+      "key": "星星追剧资源",
+      "name": "🌀┣追剧┫采集",
+      "type": 1,
+      "api": "http://vip.smzj6.vip/api.php/provide/vod/"
+    },
+    {
+      "key": "追风资源",
+      "name": "🌀┣追风┫采集",
+      "type": 1,
+      "api": "http://www.zfsp.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "五一资源",
+      "name": "🌀┣五一追剧┫采集",
+      "type": 1,
+      "api": "http://www.51zhuiju.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "无忧资源",
+      "name": "🌀┣无忧┫采集",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/"
+    },
+    {
+      "key": "三八资源",
+      "name": "🌀┣三八┫采集",
+      "type": 1,
+      "api": "https://vod38.com/api.php/provide/vod/"
+    },
+    {
       "key": "ssys",
       "name": "👑三思影视",
       "type": 3,
