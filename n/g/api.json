@@ -8910,6 +8910,16 @@
       }
     },
     {
+      "name": "-一支穿云箭-",
+      "type": 0,
+      "url": "https://bfq2.yzcyj.net/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
       "name": "剖云py",
       "type": 0,
       "url": "https://www.pouyun.com/?url=",
