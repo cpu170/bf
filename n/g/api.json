@@ -438,6 +438,20 @@
       "api": "csp_AppYsV2",
       "ext": "https://www.xingyiying.com/api.php/v1.vod"
     },
+    {
+      "key": "千神",
+      "name": "🏧┣千神┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.9mcm.com/api.php/app/"
+    },
+    {
+      "key": "北川",
+      "name": "🏧┣北川┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.bczhuiju.com/api.php/v1.vod"
+    },
     
     {
       "key": "萌米",
