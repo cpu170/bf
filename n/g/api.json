@@ -1057,13 +1057,7 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
-    {
-      "key": "异世界",
-      "name": "异界云",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "ext": "http://ysjtv.yy365.vip/api.php/app/"
-    },
+   
     {
       "key": "笙歌影视",
       "name": "🎆笙歌┃高清┃快播",
