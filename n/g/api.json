@@ -837,6 +837,45 @@
       "api": "https://hong.hgyx.vip/api.php/provide/vod/"
     },
     {
+      "key": "TIMI",
+      "name": "TIMI",
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 1
+    },
+    {
+      "key": "小猫咪",
+      "name": "小猫咪",
+      "api": "https://zy.xiaomaomi.tv/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 2
+    },
+   
+    
+    {
+      "key": "U酷资源",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 5
+    },
+   
+    {
       "key": "csp_即看魔盒",
       "name": "┣即看┫影视┃",
       "type": 3,
