@@ -7746,6 +7746,14 @@
       "searchable": 1,
       "filterable": 1
     },
+     {
+      "key": "花都影视",
+      "name": 花都影视🔞",
+      "type": 1,
+      "api": "https://hdys2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
     {
       "key": "易看资源-伦理",
       "name": "易看资源-伦理🔞",
