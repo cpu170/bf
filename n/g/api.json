@@ -7681,6 +7681,14 @@
       "quickSearch": 0
     },
     {
+      "key": "*老鸨资源",
+      "name": "*老鸨资源🔞",
+      "type": 1,
+      "api": "http://laobaozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
       "key": "*博天堂",
       "name": "*博天堂伦理资源🔞",
       "type": 0,
