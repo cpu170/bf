@@ -7018,7 +7018,17 @@
       "key": "越南资源",
       "name": "越南资源🔞",
       "type": 1,
-      "api": " https://vnzyz.com/api.php/provide/vod/?ac=list",
+      "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": ""
+    },
+     {
+      "key": "色南国资源",
+      "name": "色南国资源🔞",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
