@@ -876,7 +876,14 @@
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"
       }
     },
-    
+    {
+      "key": "XBPQ_4k影视",
+      "name": "4K┃BPQ",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4k影视.json"
+    },
    
     {
       "key": "ssys",
