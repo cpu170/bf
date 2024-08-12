@@ -7119,6 +7119,15 @@
       "quickSearch": 1
     },
     {
+      "key": "资源首发",
+      "name": "❤️资源首发🔞",
+      "type": 1,
+      "api": "http://45.58.178.99/api.php/provide/vod/",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "葡萄资源",
       "name": "葡萄资源🔞",
       "type": 1,
