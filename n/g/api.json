@@ -5988,13 +5988,7 @@
       "api": "./api/drpy2.min.js",
       "ext": "./js/量子资源.js"
     },
-    {
-      "key": "ikanbot-3",
-      "name": "ikanbot-3[js]",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/ikanbot3.js"
-    },
+    
     {
       "key": "drpy_js_玄天",
       "name": "玄天[js]",
@@ -6002,13 +5996,7 @@
       "api": "./api/drpy2.min.js",
       "ext": "./js/玄天.js"
     },
-    {
-      "key": "ikanbot3",
-      "name": "ikanbot3[js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
-    },
+    
     {
       "key": "drpy_js_Auete",
       "name": "Auete影视[js]",
