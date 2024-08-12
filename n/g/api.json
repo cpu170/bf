@@ -874,7 +874,18 @@
       "type": 1,
       "id": 5
     },
-   
+    {
+      "key": "票厂影视",
+      "name": "票厂影视",
+      "api": "http://101.43.119.105:88/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 49
+    },
     {
       "key": "csp_即看魔盒",
       "name": "┣即看┫影视┃",
