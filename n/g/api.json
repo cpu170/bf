@@ -1818,6 +1818,69 @@
       }
     },
     {
+      "key": "csp_XBPQ_yiqikan",
+      "name": "👺一起看(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "线路数组": "span class=\"label\">&&/span>",
+      "线路标题": "<span>&&</span>",
+      "播放数组": "class=\"playlistlink&&</ul>",
+      "播放列表": "<li&&</li>",
+      "播放标题": "title=\"&&\"",
+      "播放链接": "href=\"&&\"",
+      "跳转播放链接": "varurlDecode(varplayer*url\":\"&&\")",
+      "ext": {
+        "分类url": "https://www.yck0.cn/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30"
+      }
+    },
+    {
+      "key": "csp_XBPQ_maicaiyingyuan",
+      "name": "👺麦菜影院(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "ext": {
+        "分类url": "https://wap.maicai.la/type/{cateId}/--{year}---addtime.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$43"
+      }
+    },
+    {
+      "key": "csp_XBPQ_aikanyingyuan3",
+      "name": "👺爱看影院2(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "ext": {
+        "分类url": "https://www.jjrxby.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$11#韩剧$16#美剧$15#短剧$41#今日更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_letuys",
+      "name": "👺乐途影视(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "ext": {
+        "分类url": "https://www.n-meng.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$25#韩剧$16#美剧$29#短剧$26"
+      }
+    },
+    {
       "key": "PPT",
       "name": "❤️‍🔥〔PPT丨XP™〕",
       "type": 3,
