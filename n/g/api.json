@@ -4821,6 +4821,20 @@
       }
     },
     {
+      "key": "csp_XBPQ_hanjutv",
+      "name": "🍚韩剧TV(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "ext": {
+        "分类url": "http://www.cjz8.com/Shaixuan/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$21#韩剧$16#美剧$25#短剧$21#纪录片$20#今日更新$new"
+      }
+    },
+    {
       "key": "csp_XBPQ_jsyy",
       "name": "🍚极速影院(XP)",
       "type": 3,
