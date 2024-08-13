@@ -4723,6 +4723,48 @@
       }
     },
     {
+      "key": "csp_XBPQ_chaojiyingyuan",
+      "name": "🍚超级影院(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "ext": {
+        "分类url": "https://www.cjtry.com/chaojiys/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$duanju#美剧$18#韩剧$20#纪录片$15#教育$16#今日更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_chaojiyingshi2",
+      "name": "🍚超级影视2(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "ext": {
+        "分类url": "http://www.cjyysss.com/{cateId}/list.html?year=2024&cate=0&country=&rating=0&page=2&per-page=24",
+        "分类": "电影$m#电视剧$t#综艺$var#动漫$a"
+      }
+    },
+    {
+      "key": "csp_XBPQ_chaojiyingshi3",
+      "name": "🍚超级影视3(XP)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "ext": {
+        "分类url": "http://www.cj560.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#美剧$15#韩剧$18#教育$23#记录片$22#今日更新$new"
+      }
+    },
+    {
       "key": "csp_XBPQ_sgw",
       "name": "🍚时光电影(XP)",
       "type": 3,
