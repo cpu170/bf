@@ -192,6 +192,13 @@
       "jar": "./jars/sdtv.jar"
     },
     {
+      "key": "2400部恐怖电影📲",
+      "name": "💖分享恐怖电影",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
+    },
+    {
       "key": "drpy_360影视",
       "name": "360影视",
       "type": 3,
