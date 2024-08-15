@@ -747,6 +747,15 @@
       "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
+      "key": "①蓝光网",
+      "name": "💧中国蓝光网4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": "1",
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/中国蓝光网.json"
+    },
+    {
       "key": "圣城影视sc1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
