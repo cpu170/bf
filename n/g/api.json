@@ -331,6 +331,16 @@
       }
     },
     {
+      "key": "csp_NewCz",
+      "name": "🏭厂长",
+      "type": 3,
+      "api": "csp_NewCz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://czys.pro/"
+    },
+    {
       "key": "csp_Jiaozi",
       "name": "🥣饺子",
       "type": 3,
@@ -384,16 +394,7 @@
       "changeable": 1,
       "ext": "https://www.6080yy3.com/"
     },
-    {
-      "key": "csp_NewCz",
-      "name": "🏭厂长",
-      "type": 3,
-      "api": "csp_NewCz",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://czys.pro/"
-    },
+   
     {
       "key": "南瓜",
       "name": "🎃南瓜┃App",
