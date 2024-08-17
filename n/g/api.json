@@ -56,7 +56,7 @@
         "图片": "src=\"&&\"",
         "标题": "\"intro\">&&</a>",
         "链接": "href=\"&&\"",
-        "副标题": "data-score=\"&&\"+class=\"release-date\">&&</li>",
+        "副标题": "评分+data-score=\"&&\"+class=\"release-date\">&&</li>",
         "播放数组": "<li class=\"video&&</li>",
         "播放列表": "<a&&</a>",
         "播放标题": "alt=\"&&\"",
