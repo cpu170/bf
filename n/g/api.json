@@ -350,15 +350,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_MaoLv",
-      "name": "🐴毛驴",
-      "type": 3,
-      "api": "csp_MaoLv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+   
     {
       "key": "csp_YCyz",
       "name": "☀原创",
