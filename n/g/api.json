@@ -407,6 +407,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "csp_LiteApple",
+      "name": "🍎小苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
     {
       "key": "西瓜xigua",
       "name": "🏧┣西瓜┫APP",
@@ -577,17 +588,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_LiteApple",
-      "name": "🍎小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "csp_Lib",
       "name": "🔷LibVio",
