@@ -365,7 +365,17 @@
         ]
       }
     },
-   
+    {
+      "key": "🍑遥遥领先🍑_ykrx",
+      "name": "持国👹天王",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://igdux.top/~XBPQ-jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/ykrx.json"
+    },
     {
       "key": "csp_Jiaozi",
       "name": "🥣饺子",
