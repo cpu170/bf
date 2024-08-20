@@ -9378,17 +9378,6 @@
       }
     },
     {
-      "key": "农夫与少妇",
-      "name": "农夫与少妇",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "jars/XBPQ3.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/农夫与少妇.json"
-    },
-    {
       "key": "✨R撸巴✨🔞",
       "name": "✨R撸吧✨🔞",
       "type": 3,
