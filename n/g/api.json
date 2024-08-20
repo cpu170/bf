@@ -1070,6 +1070,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4k影视.json"
     },
     {
+      "key": "fxznl",
+      "name": "💖分享奶酪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享nl.json?ref=master"
+    },
+    {
       "key": "小鸭影音",
       "name": "💖小鸭影音",
       "type": 3,
