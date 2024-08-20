@@ -9430,7 +9430,7 @@
       "name": "🔞222cuo",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jars/XBPQ.jar",
+      "jar": "./jars/XBPQ3.jar",
       "ext": {
         "主页url": "http://224cuo.com/",
         "直接播放": "1",
@@ -9447,7 +9447,7 @@
       "name": "🔞pronlulu(T)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jars/XBPQ.jar",
+      "jar": "./jars/XBPQ3.jar",
       "ext": {
         "直接播放": "1",
         "嗅探词": ".m3u8#.mp4",
