@@ -2026,13 +2026,23 @@
       }
     },
     {
-            "key": "快快影视",
+            "key": "快快影视ksngs",
             "name": "快快影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "http://www.ksngs.cn/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+    {
+            "key": "快剧影视kuaiju",
+            "name": "快剧影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://tv.kuaijuwu.net/{cateId}/index{catePg}.html[https://tv.kuaijuwu.net/{cateId}/]",
+                "分类": "大陆剧$dalu#香港剧$tvb#台湾剧$taiwan#韩剧$hanju#日剧$riju#美剧$meiju"
             }
         },
     {
