@@ -138,7 +138,22 @@
 {"name":"芸汐直播","url":"https://d.kstore.space/download/3701/芸汐电视.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
 {"name":"青鱼直播","url":"https://fel.forxhr.top:2022/down.php/b04945bc6640a33f693de484cf2095b2.txt&3344520&&&http://我不是.肥猫.live/lives/直播图3.png"},
 
-
+{
+      "name": "酷兴直播",
+      "type": "0",
+      "pass": true,
+      "url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt",
+      "epg": "https://m3u.ibert.me/epg/112114_xyz.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "FMM_IPV6",
+      "type": "0",
+      "pass": true,
+      "url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt",
+      "epg": "https://m3u.ibert.me/epg/112114_xyz.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
 
    
