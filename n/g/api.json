@@ -1008,7 +1008,18 @@
       "type": 1,
       "id": 2
     },
-   
+    {
+      "key": "csp_XYQHiker_vid",
+      "name": "韦德┃影视",
+      "type": 3,
+      "jar": "https://jihulab.com/su7/4k/-/raw/master/jar/custom_spider.jar",
+      "api": "csp_XYQHiker",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/su7/4k/-/raw/master/json/韦德影视.json"
+    },
     
     {
       "key": "U酷资源",
