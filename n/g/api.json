@@ -9474,6 +9474,29 @@
       }
     },
     {
+      "key": "csp_Bili_zyy",
+      "name": "中医┃药区",
+      "type": 3,
+      "jar": "https://jihulab.com/su7/4k/-/raw/master/jar/fine.jar",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/su7/4k/-/raw/master/json/zyy.json"
+    },
+    
+    {
+      "key": "csp_Bili__dapei",
+      "name": "搭配穿搭┃教程",
+      "type": 3,
+      "jar": "https://jihulab.com/su7/4k/-/raw/master/jar/fine.jar",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/su7/4k/-/raw/master/json/搭配.json"
+    },
+    {
       "key": "酷奇MV",
       "name": "🎸酷奇MV",
       "type": 3,
