@@ -2873,6 +2873,39 @@
       "jar": "./lib/XBPQ.jar"
     },
     {
+      "key": "17k影视1",
+      "name": "17k影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "数组": "class=\"module-item-pic\">&&</div>",
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "播放数组": "scroll-box-y\">&&</div>",
+        "线路标题": "<span>&&</span>",
+        "分类url": "http://17k.video/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "影咖影视1",
+      "name": "影咖影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "图片": "data-original=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "线路数组": "class=\"nav nav-tabs active\">&&</ul>",
+        "线路标题": "<span>&&</span>",
+        "播放数组": "module-play-list\">&&</div>",
+        "分类url": "https://www.52yingka.vip/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$4#综艺$30#动漫$25"
+      }
+    },
+    {
       "key": "小白",
       "name": "🧲 4小白磁力🧲 |XBPQ",
       "type": 3,
