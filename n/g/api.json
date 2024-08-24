@@ -1117,51 +1117,7 @@
       "ext": "http://cdn.teyonds.com/xp/三思影视.json",
       "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
-    {
-      "key": "Wexxiongdiys",
-      "name": "🚌👬基友┃影视┃App",
-      "type": 3,
-      "api": "csp_Wexxiongdiys",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://pan.tenfell.cn/webos/link/25b298aff6024255ac266cd900f5ff95/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"
-    },
-    {
-      "key": "Wexyuyueys",
-      "name": "🚌⛈️雨落┃影视┃App",
-      "type": 3,
-      "api": "csp_Wexyuyueys",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://pan.tenfell.cn/webos/link/25b298aff6024255ac266cd900f5ff95/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"
-    },
-    {
-      "key": "mingriyingshi",
-      "name": "🚌☀️明日┃影视┃App",
-      "type": 3,
-      "api": "csp_WexMingriys",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://pan.tenfell.cn/webos/link/25b298aff6024255ac266cd900f5ff95/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"
-    },
-    {
-      "key": "Fujutv",
-      "name": "🚌🍩腐剧┃TV┃App",
-      "type": 3,
-      "api": "csp_WexFujutv",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://pan.tenfell.cn/webos/link/25b298aff6024255ac266cd900f5ff95/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"
-    },
-    {
-      "key": "F4kvm",
-      "name": "🦑纯享┃影视┃直连",
-      "type": 3,
-      "api": "csp_WexF4kvm",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://pan.tenfell.cn/webos/link/25b298aff6024255ac266cd900f5ff95/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"
-    },
+    
     {
       "key": "鸭奈飞",
       "name": "😎奈飞┃影视",
