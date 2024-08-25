@@ -1036,7 +1036,16 @@
       "type": 1,
       "id": 49
     },
-    
+    {
+      "key": "fxznl",
+      "name": "💖分享奶酪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享nl.json?ref=master"
+    },
     
     {
       "key": "小鸭影音",
