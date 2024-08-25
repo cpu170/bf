@@ -1138,9 +1138,18 @@
       "filterable": 1,
       "ext": "https://www.netfly.tv/api.php/app/"
     },
-   
     {
-      "key": "雨晴",
+      "key": "2聚合遇见",
+      "name": "💖分享遇见",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 2,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+    },
+    {
+      "key": "个人雨晴",
       "name": "💖分享晴天",
       "type": 3,
       "api": "csp_AppYsV2",
