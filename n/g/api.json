@@ -9269,33 +9269,25 @@
         "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
       }
     },
-    {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
+   {
+      "key": "虎牙直播",
+      "name": "🐯虎牙直播",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/虎牙直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "filterable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js"
     },
     {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟斗鱼┃直播",
+      "key": "斗鱼直播",
+      "name": "🐠斗鱼直播",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "filterable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js"
     },
     {
       "key": "csp_聚短视频",
