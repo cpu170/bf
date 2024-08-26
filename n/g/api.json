@@ -988,7 +988,16 @@
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
-   
+    {
+      "key": "腐剧",
+      "name": "腐剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"
+    },
     {
       "key": "影猫资源",
       "name": "🌀┣影猫┃快播",
