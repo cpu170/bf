@@ -91,7 +91,7 @@
       "name": "🎦阿里设置暂时不用",
       "type": 3,
       "api": "csp_KungFu404",
-      "searchable": 1,
+      "searchable": 0,
       "filterable": 0,
       "changeable": 0,
       "jar": "./jars/csp_KungFu404.jar",
