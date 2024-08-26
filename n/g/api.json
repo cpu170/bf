@@ -9401,224 +9401,70 @@
       "changeable": 0
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K",
+      "key": "玩偶gg",
+      "name": "👽玩偶哥哥",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "file://XYQTVBoxx/token.txt",
-        "quarkCookie": "file://XYQTVBox/cookie.txt",
-        "from": "4k|auto|fhd",
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "https://www.wogg.net/",
-        "danMu": "关"
+        "filter": "http://127.0.0.1:9978/file/TVBox/wogg.json"
       }
     },
     {
-      "key": "csp_XYQHikerAL_阿里土豆",
-      "name": "🥔阿里土豆",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/土豆.json"
-    },
-    {
-      "key": "多多阿里",
-      "name": "🎦多多阿里",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/多多阿里.json"
-    },
-    {
-      "key": "玩我哥哥",
-      "name": "🎦玩我|哥哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/玩我哥哥.json"
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "🎦玩偶|哥哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/玩偶哥哥.json"
-    },
-    {
-      "key": "土豆阿里",
-      "name": "🎦土豆阿里",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/土豆阿里.json"
-    },
-    {
-      "key": "csp_XYQHikerAL_六趣",
-      "name": "6️⃣六趣",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/六趣.json"
-    },
-    {
-      "key": "我的小站",
-      "name": "🐔云盘┃小站",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/我的小站.json"
-    },
-    {
-      "key": "csp_XYQHikerAL_蜡笔",
+      "key": "蜡笔",
       "name": "🖍︎蜡笔",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_kongbai",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/蜡笔.json"
-    },
-    {
-      "key": "csp_XYQHikerAL__影搜",
-      "name": "😈影搜",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "quarkCookie": "file://XYQTVBox/cookie.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/影搜.json"
-    },
-    {
-      "key": "csp_Gitcafe",
-      "name": "📜小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "file://XYQTVBox/token.txt"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "🆎XYQ易搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "file://XYQTVBox/token.txt"
-    },
-    {
-      "key": "夸搜",
-      "name": "🐺夸搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "pan": "quark",
-        "quarkCookie": "file://XYQTVBox/cookie.txt",
-        "from": "4k|auto|fhd"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+        "siteUrl": "https://duopan.fun",
+        "filter": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"
       }
     },
     {
-      "key": "YiSo",
-      "name": "😹易搜┃搜索",
+      "key": "星剧社",
+      "name": "⭐️星剧社",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+      }
+    },
+    {
+      "key": "易搜",
+      "name": "🆎易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
+      "filterable": 0,
+      "switchable": 0,
       "ext": {
-        "aliToken": "file://XYQTVBox/token.txt",
-        "from": "4k|auto|fhd"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
-      "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
+      "key": "网盘集合",
+      "name": "🅿网盘集合|4K",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_网盘集合",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
+      "filterable": 0,
+      "switchable": 0,
       "ext": {
-        "aliToken": "file://XYQTVBox/token.txt",
-        "from": "4k|auto|fhd$$$fanty$$$qqq111"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+        "share": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"
       }
     },
-    {
-      "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "file://XYQTVBox/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "UpYun",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "file://XYQTVBox/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "file://XYQTVBox/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "七夜",
-      "name": "😾七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "file://XYQTVBox/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
+   
+   
     {
       "key": "hipy_js_六月听书[听]",
       "name": "六月听书[听](drpy_t3)",
@@ -9660,17 +9506,15 @@
       "order_num": 0,
       "ext": "./js/老白故事[box].js"
     },
-    {
+   {
       "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "name": "🍭推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "file://XYQTVBox/token.txt",
-        "quarkCookie": "file://XYQTVBox/cookie.txt",
-        "from": "4k|auto|fhd"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
