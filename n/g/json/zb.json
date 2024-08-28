@@ -12,6 +12,14 @@
         "url": "http://home.jundie.top:81/Cat/tv/live.txt"
     },
      {
+        "name": "平安live",
+        "url": "https://git.acwing.com/cnlv/tv/-/raw/main/live.txt"
+    },
+     {
+        "name": "平安live2",
+        "url": "https://www.gitlink.org.cn/api/cnlv/tvbox/raw/live.txt?ref=master"
+    },
+     {
         "name": "Guovintv直播综合",
         "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt"
     },
