@@ -533,18 +533,6 @@
       "filterable": 1
     },
     {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-   
-    {
       "key": "csp_YCyz",
       "name": "☀原创",
       "type": 3,
