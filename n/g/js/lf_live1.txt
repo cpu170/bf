@@ -8,6 +8,14 @@
 
 #春意
 ../lives/listx.txt
+#黄仓库
+../lives/hsck.txt
+#黄仓
+../lives/hck.txt
+#sg
+../lives/sg.txt
+#you
+../lives/you.txt
 
 
 #atsushi
