@@ -10,11 +10,11 @@
 ../lives/listx.txt
 #黄仓库
 ../lives/hsck.txt
-#黄仓
+#国产
 ../lives/hck.txt
-#sg
+#水果
 ../lives/sg.txt
-#you
+#名优
 ../lives/you.txt
 
 
