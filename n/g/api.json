@@ -1142,7 +1142,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "简介": "分享者剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
+        "简介": "剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
         "分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电视剧$2#电影$1#动漫$30#综艺$29"
       }
@@ -1153,7 +1153,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "简介": "分享者剧情介绍:+show-desc\" style=*>&&</div>",
+        "简介": "剧情介绍:+show-desc\" style=*>&&</div>",
         "分类url": "https://ios.taozi007.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
         "分类": "短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"
       }
@@ -1164,12 +1164,39 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "简介": "分享者剧情介绍:+line-height: 20px;\">&&</div>",
+        "简介": "剧情介绍:+line-height: 20px;\">&&</div>",
         "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-   
+    {
+      "key": "fxzQQ",
+      "name": "💖分享扣扣",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://111.173.115.204:2211/api.php/app/"
+    },
+    {
+      "key": "yytt",
+      "name": "💖分享探戈",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
+    },
+    {
+      "key": "hipy_js_fxz旋风",
+      "name": "💖分享旋风",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享XF.js"
+    },
     
     {
       "key": "鸭奈飞",
