@@ -502,7 +502,29 @@
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"
       }
     },
-   
+    {
+      "key": "✨小熊XXTV✨",
+      "name": "✨小熊TV✨甄选✨",
+      "type": 3,
+      "jar": "./jars/XBPQ2.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.xxystv.top/",
+        "数组": "thumb hl-lazy&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "✨推荐✨+remarks\">&&</span>",
+        "线路数组": "hl-tabs-btn hl-slide&&</a>",
+        "线路标题": "✨推荐✨+alt=\"&&\"",
+        "播放数组": "id=\"hl-plays-list\"&&</ul>",
+        "播放标题": "✨+html\">&&<",
+        "简介": "✨剧情✨+简介：&&</li>",
+        "搜索url": "https://www.xxystv.top/vod/search/page/{pg}/wd/{wd}.html",
+        "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$5"
+      }
+    },
     {
       "key": "XBPQ_4k影视",
       "name": "4K┃BPQ",
