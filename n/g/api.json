@@ -9439,6 +9439,17 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
     },
     {
+      "key": "csp_XYQHiker_91在线视频",
+      "name": "🏆91在线(XYQHiker)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91在线视频.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
