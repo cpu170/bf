@@ -9595,24 +9595,7 @@
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
-    {
-      "key": "csp_Nbys",
-      "name": "🛫无内容",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_trj",
-      "name": "🛫无内容",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
@@ -9683,15 +9666,7 @@
       "changeable": 0,
       "ext": "./json/高中课堂.json"
     },
-    {
-      "key": "fan",
-      "name": "无内容",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+    
     {
       "key": "cc",
       "name": "不要相信视频中广告",
