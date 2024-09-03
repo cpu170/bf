@@ -199,7 +199,13 @@
         "name": "xiutan",
         "url": "https://xhdwc.tk/xiutan.m3u"
     },
-   
+     {
+            "name": "影视",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/yun3695/yun/main/yun.txt",
+            "type": 0,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
     {"name":"肥羊•斗鱼","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType":1},
    
 {"name":"肥羊•虎牙","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType":1},
