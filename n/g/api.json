@@ -9392,6 +9392,42 @@
       }
     },
     {
+      "key": "H色车房🔞",
+      "name": "🏆H色车房🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": {
+        "分类url": "https://hskf18.shop/vodtype/{cateId}-{catePg}.html",
+        "直接播放": "1",
+        "分类": "日韩专区&国产专区&欧美专区&动漫专区",
+        "分类值": "7&10&11&12"
+      },
+      "jar": " https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
+    },
+    {
+      "key": "香蕉午夜🔞",
+      "name": "🏆香蕉午夜🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": {
+        "分类url": "https://www.xjys11.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+        "播放数组": "<ul class=\"myui-content__list sort-list clearfix\"&&/ul>",
+        "分类": "视频一区&视频二区&视频三区&视频四区&特色专区&三级伦理&国产乱伦&美女主播&明星淫梦&TS人妖&中文字幕&日本有码&高清无码&精品素人&AV解说&VR专区",
+        "分类值": "29&30&28&27&31&25&26&27&28&29&30&31&32&49&50&51"
+      },
+      "jar": "https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
