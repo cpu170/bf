@@ -937,17 +937,7 @@
       "api": "./api/drpy2.min.js",
       "ext": "./js/jp.js"
     },
-    {
-      "key": "meowtv_Nfys",
-      "name": "🇹┃耐飞2k┃秒播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
+   
     {
       "key": "①蓝光网",
       "name": "💧中国蓝光网4K",
