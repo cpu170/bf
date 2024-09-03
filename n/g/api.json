@@ -554,14 +554,7 @@
         "分类标题": ">&&</a>"
       }
     },
-    {
-      "key": "XBPQ_4k影视",
-      "name": "4K┃BPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4k影视.json"
-    },
+   
     {
       "key": "厂长",
       "name": "厂长┃超清",
