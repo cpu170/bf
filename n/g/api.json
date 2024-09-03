@@ -9361,6 +9361,17 @@
       }
     },
     {
+      "key": "农夫与少妇",
+      "name": "农夫与少妇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/农夫与少妇.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
