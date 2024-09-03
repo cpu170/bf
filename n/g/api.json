@@ -568,15 +568,7 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
-    {
-      "key": "csp_Jiaozi",
-      "name": "🥣饺子",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_YCyz",
       "name": "☀原创",
