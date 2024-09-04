@@ -1187,6 +1187,25 @@
       }
     },
     {
+      "key": "wayl",
+      "name": "🌝我爱月亮",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "数组": "<a class=\"aplus-exp&&</a>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "标题": "title=\"&&\"",
+        "搜索url": "https://www.woaimoon.com/search.html?wd={wd}",
+        "副标题": "免费分享",
+        "分类url": "https://www.woaimoon.com/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;lr",
+        "分类": "电影$1#连续剧$2#综艺$4#动漫$3"
+      }
+    },
+    {
       "key": "fxzQQ",
       "name": "💖分享扣扣",
       "playerType": 1,
