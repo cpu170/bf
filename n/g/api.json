@@ -9555,6 +9555,24 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
     },
     {
+      "key": "csp_hxc-ss",
+      "name": "🔞hxc成人",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "数组": "colVideoList\">&&/a></div></div>",
+        "标题": "title text-sub-title mt-2 mb-3\" href=*>&&<",
+        "副标题": "layer\">&&</small>",
+        "图片": "url('&&')",
+        "链接": "href=\"&&\"",
+        "分类url": "https://hxc.hxc131.com/vodtype/{cateId}-{catePg}.html;;az",
+        "分类": "所有分类$1#欧美情色$15#三级伦理$16#卡通动漫$17#丝袜OL$18#自拍偷拍$19#传媒系列$20#女同人妖$21#国产精品$22#精品推荐$4#主播秀色$5#日本有码$6#日本无码$7#中文字幕$8#强奸乱伦$9"
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
