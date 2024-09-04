@@ -9702,6 +9702,21 @@
       "changeable": 0
     },
     {
+      "key": "csp_Kugou",
+      "name": "🐶酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
       "key": "玩偶gg",
       "name": "👽玩偶哥哥",
       "type": 3,
