@@ -9691,16 +9691,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js"
     },
-    {
-      "key": "csp_聚短视频",
-      "name": "📽️聚短┃视频",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/短视频.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+    
     {
       "key": "csp_Kugou",
       "name": "🐶酷狗",
