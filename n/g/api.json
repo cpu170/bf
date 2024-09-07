@@ -671,6 +671,20 @@
       "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
     },
     {
+      "key": "少泽app",
+      "name": "🏧┣少泽┫App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://yk.shaozeyy.com/api.php/app/"
+    },
+    {
+      "key": "看剧app",
+      "name": "🏧┣爱看┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.ikanju.cc/mogai_api.php/v1.vod"
+    },
+    {
       "key": "河狸",
       "name": "🦛河狸┃蓝光┃纯净",
       "type": 3,
@@ -743,22 +757,28 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "星易",
+      "key": "星易app",
       "name": "🏧┣星影┫APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.xingyiying.com/api.php/v1.vod"
     },
-    
     {
-      "key": "北川",
+      "key": "雷神app",
+      "name": "🏧┣雷神┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://39.98.32.241:6688/api.php/zjv3.vod"
+    },
+    {
+      "key": "北川app",
       "name": "🏧┣北川┫APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.bczhuiju.com/api.php/v1.vod"
     },
     {
-      "key": "追忆",
+      "key": "追忆app",
       "name": "🏧┣追忆┫APP",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -1266,7 +1286,27 @@
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
       "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享XF.js"
     },
-    
+    {
+      "key": "君君app",
+      "name": "🏧┣君君┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },
+    {
+      "key": "感觉app",
+      "name": "🏧┣新觉┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://43.248.100.147:9891/api.php/app/"
+    },
+    {
+      "key": "奴娜app",
+      "name": "🏧┣奴娜┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.nntv.in/api.php/v1.vod"
+    },
     {
       "key": "鸭奈飞",
       "name": "😎奈飞┃影视",
