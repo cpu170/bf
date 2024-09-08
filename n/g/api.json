@@ -145,6 +145,10 @@
                         "name": "【4K点播】ecve资源站",
                         "server": "https://pan.ecve.cn"
            },
+	  {
+            "name": "星梦云盘",
+            "server": "https://pan.bashroot.top"
+          },
           {
             "name": "👽ECVE",
             "server": "https://pan.ecve.cn/"
