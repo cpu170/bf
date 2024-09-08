@@ -149,6 +149,10 @@
             "name": "星梦云盘",
             "server": "https://pan.bashroot.top"
           },
+	  {
+            "name": "共享云盘",
+            "server": "https://pan.oldming.top/"
+          },
           {
             "name": "👽ECVE",
             "server": "https://pan.ecve.cn/"
