@@ -758,16 +758,7 @@
       "api": "csp_AppYsV2",
       "ext": "https://siguyy.cn/api.php/app/"
     },
-    {
-      "key": "可口可乐",
-      "name": "♐┃可乐弟┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },
+   
     {
       "key": "泰泰",
       "name": "🎈tv酷影",
