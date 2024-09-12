@@ -621,6 +621,17 @@
       "filterable": 1
     },
     {
+      "key": "csp_AppRZ",
+      "name": "🕵忍者",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rzys.xyz/"
+    },
+    {
       "key": "厂长",
       "name": "厂长┃超清",
       "type": 3,
