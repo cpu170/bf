@@ -585,6 +585,42 @@
       }
     },
     {
+      "key": "瓜子",
+      "name": "🍉瓜子",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "农民",
+      "name": "👩‍🌾农民",
+      "type": 3,
+      "api": "csp_Nongm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "看客",
+      "name": "👲看客",
+      "type": 3,
+      "api": "csp_Kanke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱看",
+      "name": "❤️爱看",
+      "type": 3,
+      "api": "csp_Ikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "厂长",
       "name": "厂长┃超清",
       "type": 3,
@@ -679,7 +715,6 @@
       "name": "🦛河狸┃蓝光┃纯净",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "ext": "https://www.heli888.cc/api.php/app/"
     },
     {
@@ -687,7 +722,6 @@
       "name": "🐔影馆┃蓝光┃纯净",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "ext": "https://4kdyg.top/api.php/v1.vod"
     },
     {
@@ -695,7 +729,6 @@
       "name": "🥮思古┃蓝光┃纯净",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "ext": "http://mf.songshu.cyou/api.php/app/"
     },
     {
