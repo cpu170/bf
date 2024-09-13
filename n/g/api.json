@@ -5018,7 +5018,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.yingshi.dog/vodshow/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$jilupian#今日更新$new"
@@ -5032,7 +5032,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.imtop5.com/ww/{cateId}/page/{catePg}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#今日更新$new"
@@ -5046,7 +5046,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.bilfun.cc/bilfunshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$22#纪录片$19"
@@ -5060,7 +5060,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.itvs.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#美剧$14#韩剧$15#纪录片$23"
@@ -5074,7 +5074,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://ysjvideo.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20#短剧$21"
@@ -5088,7 +5088,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.pinshasha.net/pddys/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$jilu#短剧$fuli"
@@ -5102,7 +5102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.cjtry.com/chaojiys/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$duanju#美剧$18#韩剧$20#纪录片$15#教育$16#今日更新$new"
@@ -5116,7 +5116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.cjyysss.com/{cateId}/list.html?year=2024&cate=0&country=&rating=0&page=2&per-page=24",
         "分类": "电影$m#电视剧$t#综艺$var#动漫$a"
@@ -5130,7 +5130,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.cj560.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#美剧$15#韩剧$18#教育$23#记录片$22#今日更新$new"
@@ -5144,7 +5144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.i86.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#美剧$16#韩剧$15#港台剧$14#短剧$23#教育$21"
@@ -5158,7 +5158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.time-chicken.com/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
@@ -5172,7 +5172,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.fnsptv.vip/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3#美剧$14#韩剧$15#港台剧$16#短剧$5#今日更新$new"
@@ -5186,7 +5186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://zfsp.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$24"
@@ -5200,7 +5200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.cjz8.com/Shaixuan/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$21#韩剧$16#美剧$25#短剧$21#纪录片$20#今日更新$new"
@@ -5214,7 +5214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.ylfqw.cc/list/{cateId}-pg-{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -5228,7 +5228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.caasco.net/{cateId}-p{catePg}",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duan#纪录片$jilu"
@@ -5242,7 +5242,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.aiguo.cc/t{cateId}{catePg}/lang/{lang}/year/{year}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
@@ -5256,7 +5256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "主页url": "https://hnxjmxmf.com/hns/donghua/by/time/",
         "分类url": "https://hnxjmxmf.com/hns/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
@@ -5271,7 +5271,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.qingfengys.com/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"
@@ -5285,7 +5285,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.jjysw.cc/jjdy/{cateId}-{catePg}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#纪录片$fuli美剧$oumei韩剧$hanguo"
@@ -5299,7 +5299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.xun888.cc/xun8/{cateId}-{catePg}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#纪录片$jilu"
@@ -5313,7 +5313,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.lqlc1.com/td/{cateId}-{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -5327,7 +5327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.yzzs116.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#教育$fuli#纪录片$jilu"
@@ -5341,7 +5341,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.qufuly.com/qfshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#美剧$oumei#韩剧$hanguo#教育$fuli#纪录片$jilu"
@@ -5381,7 +5381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.laodifang.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$20#纪录片$5"
@@ -5395,7 +5395,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://csunion.cn/show/{cateId}--------{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画电影$22#日剧$18#韩剧$20#美剧$19#纪录片$13#电影解说$24#体育$23#教育$15#纪录片$13"
@@ -5409,7 +5409,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://m.gbdytt.com/{cateId}/year-{year}-page-{catePg}/",
         "分类": "电影$dy#电视剧$tv#综艺$zy#动漫$dm#短剧$dj#纪录片$jilupian#今日更新$new#日韩剧$rihanju#欧美剧$oumeiju"
@@ -5423,7 +5423,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://haom.cc/vodclass/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"
@@ -5437,7 +5437,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://tv.lajiaokt.com/index.php/vod/show/area/{area}/by/hits/class/{class}/id/{cateId}/page/{catePg}lang/{lang}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$23#短剧$24#韩剧$16#欧美剧$13"
@@ -5451,7 +5451,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.bqg43.com/zb8ys/{cateId}/by/time/page/{catePg}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
@@ -5465,7 +5465,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.kanying.org/so/{cateId}/{area}-------{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -5479,7 +5479,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.ppxys.vip/s/{cateId}/page/{catePg}.html",
         "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
@@ -5493,7 +5493,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.tlyy8.com/tlpb/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3#今日更新$new"
@@ -5507,7 +5507,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.di1yy.com/d1tv/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3#今日更新$new"
@@ -5521,7 +5521,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.trjvod.com/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$53#今日更新$new"
@@ -5535,7 +5535,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://lzi888.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$40#今日更新$new"
@@ -5549,7 +5549,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.zxbxdl.net/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -5563,7 +5563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.99meiju.org/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "只有美剧$2"
@@ -5577,7 +5577,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://m.muyy.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
@@ -5591,7 +5591,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jarr",
       "ext": {
         "分类url": "https://tijiantang.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -5605,7 +5605,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.yfeil.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
@@ -5619,7 +5619,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.miushuo.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$67#纪录片$22"
@@ -5633,7 +5633,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.pianmax.com/tags/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$67#纪录片$22"
@@ -5647,7 +5647,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://pptv09.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
@@ -5661,7 +5661,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://myd04.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
@@ -5675,7 +5675,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://nkvlog.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -5689,7 +5689,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.siren93.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -5703,7 +5703,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.smyy93.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#港剧$14#美剧$15#韩剧$25#纪录片$5#今日更新$new"
@@ -5717,7 +5717,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.sshenma.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#港剧$14#美剧$16#韩剧$15#纪录片$21"
@@ -5731,7 +5731,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.6wyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#记录片$63#今日更新$new"
@@ -5745,7 +5745,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://shzsmy.net/smshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -5759,7 +5759,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://xiguatv.cn/vodshow/{cateId}---{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$21#综艺$2#动漫$19#纪录片$30"
@@ -5773,7 +5773,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.xigua60.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
         "分类": "电影$1#电视剧$3#综艺$33#动漫$31短剧$45美剧$15韩剧$16#纪录片$11"
@@ -5787,7 +5787,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.xigua1100.com/show/{cateId}---{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$34"
@@ -5801,7 +5801,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.xigua1100.com/show/{cateId}---{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"
@@ -5815,7 +5815,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.xdizhi2.com/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"
@@ -5829,7 +5829,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://csunion.cn/show/{cateId}--------{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画电影$22#日剧$18#韩剧$20#美剧$19#纪录片$13#电影解说$24#体育$23#教育$15#纪录片$13"
@@ -5843,7 +5843,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#韩剧$15#美剧$16"
@@ -5857,7 +5857,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.jlxxgl.net/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#记录片$33#今日更新$new"
@@ -5871,7 +5871,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.5iys.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$32#港剧$5#美剧$15#韩剧$16#记录片$21#今日更新$new"
@@ -5885,7 +5885,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://zbkyyy.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#日韩$15#欧美$16#今日更新$new"
@@ -5899,7 +5899,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.haitu.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$42#日韩$29#欧美$26#教育$21#纪录片$20"
@@ -5913,7 +5913,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.scxxw.com.cn/news/class-{cateId}--------{catePg}---.html",
         "分类": "电影$1#电视剧$2#综艺$20#动漫$3"
@@ -5927,7 +5927,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://v.wlmqw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -5941,7 +5941,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.mifengyingku.com/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area--lang-.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#美剧$15#日韩剧$14#港台剧$13"
@@ -5955,7 +5955,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": "https://bitbucket.org/chaoni/zbs/raw/master/json/看一看.json"
     },
     {
@@ -5966,7 +5966,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.jiaozi.me/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$41#今日更新$new"
@@ -5980,7 +5980,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.heezhu.com/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -5994,7 +5994,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.kanjuw.net/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -6008,7 +6008,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "https://www.kjbkjb.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#今日更新$new"
@@ -6022,7 +6022,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/heng546199810/hxvip8/raw/master/hx.jar",
+      "jar": "./jars/hx.jar",
       "ext": {
         "分类url": "http://www.3456yy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$30#海外剧$33"
