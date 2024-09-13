@@ -47,16 +47,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
-    "name": "GitHub-TXT",
-    "url": "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "img": "http://www.weibomn.com/uploadfile/image/20240622/5bf3ad336af04dc36b49ecd4a909882c.jpg"
-  },
-  {
-    "name": "GitHub-M3U",
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-    "img": "http://www.weibomn.com/uploadfile/image/20240622/5bf3ad336af04dc36b49ecd4a909882c.jpg"
-  },
+    
    {
     "name": "南风",
     "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/lives/live.txt",
