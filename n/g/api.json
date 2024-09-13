@@ -1290,6 +1290,17 @@
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享花姐.json"
     },
     {
+      "key": " fxzds ",
+      "name": "💖分享袋鼠",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享DS.json"
+    },  
+    {
       "key": "wayl",
       "name": "🌝我爱月亮",
       "type": 3,
