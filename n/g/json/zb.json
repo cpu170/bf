@@ -49,7 +49,12 @@
     },
     	{"name": "🪣┃直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt","playerType":1},
 	{"name": "🖍️┃央卫地直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","playerType":1},
-	
+	{
+            "name": "毒盒live",
+            "type": 0,
+            "url": "https://tv.youdu.fan:666/live/",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        },
 	
     {
 				"name": "catbox.ipv6",
