@@ -975,6 +975,15 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/中国蓝光网.json"
     },
+     {
+      "key": "芒果视频4k",
+      "name": "🩸云自建4k-💯┃VIP",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"
+    },
+
     {
       "key": "圣城影视sc1080",
       "name": "🏰┃圣城┃影视",
