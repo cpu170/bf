@@ -582,6 +582,16 @@
       }
     },
     {
+      "key": "csp_XBPQ_微云",
+      "name": "影视 | 🍚微云(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/微云tv.json"
+    },
+    {
       "key": "瓜子",
       "name": "🍉瓜子",
       "type": 3,
