@@ -1353,16 +1353,7 @@
       "filterable": 1,
       "ext": " http://111.173.115.204:2211/api.php/app/"
     },
-    {
-      "key": "yytt",
-      "name": "💖分享探戈",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
-    },
+   
     {
       "key": "hipy_js_fxz旋风",
       "name": "💖分享旋风",
