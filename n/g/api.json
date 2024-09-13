@@ -1024,6 +1024,29 @@
       "changeable": 1
     },
     {
+      "key": "楚门影视cm",
+      "name": "楚门影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "myui-vodlist__thumb lazyload&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "🍎专享🍎+text-right\">&&<",
+        "搜索url": "https://www.chumenys.com/vodsearch/-------------.html?wd={wd}&submit=",
+        "线路数组": "myui-vodlist__box&&</div>",
+        "线路标题": "🍎专享🍎+<span>&&</span>",
+        "播放数组": "class=\"myui-content__list&&</ul>",
+        "分类url": "https://www.chumenys.com/vodtype/{cateId}-{catePg}.html",
+        "分类": "电影&电视剧&综艺&动漫&短剧",
+        "分类值": "1&2&3&4&62"
+      }
+    },
+    {
       "key": "酷影视",
       "name": "APP | 酷影视",
       "type": 3,
