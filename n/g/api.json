@@ -1169,6 +1169,15 @@
       "type": 1,
       "id": 49
     },
+     {
+	"key": "hipy_js_fxzjz",
+	"name": "💖分享饺子",
+	"type": 3,
+	"ua": "okhttp/3.15",
+         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享饺子.js"
+},
+
     {
 	"key": "hipy_js_fxzhl",
 	"name": "💖分享海纳",
@@ -1219,6 +1228,66 @@
         "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       }
+    },
+     {
+	"key": "hipy_js_fxz闪电",
+	"name": "💖分享闪电",
+	"type": 3,
+	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+	"ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/闪雷电.js?ref=master"
+},
+    {
+	  "key": " fxz好影",
+	  "name": "💖分享好影",
+	  "type": 3,
+	  "api": "csp_XBPQ",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享好影.json"
+	},
+    {
+      "key": "fxznl",
+      "name": "💖分享奶酪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享nl.json?ref=master"
+    },
+    {
+            "key": "fxzlc",
+            "name": "💖分享绿茶",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
+            "ext": {
+"分类url": "https://lvcha.asia/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;m",
+"编码": "UTF-8",
+"请求头": "手机",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+     {
+      "key": "bydy",
+      "name": "💖分享白洋",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享BY.json"
+    },
+    {
+      "key": "huajie",
+      "name": "💖分享花街",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享花姐.json"
     },
     {
       "key": "wayl",
