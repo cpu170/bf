@@ -225,7 +225,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "order_num": 142,
-      "ext": "./js/采集之王.js?type=url&params=https://raw.gitcode.com/woxinyijiu/YL/raw/main/采集静态.json"
+      "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
     },
      {
       "key": "采集_CJzw2",
