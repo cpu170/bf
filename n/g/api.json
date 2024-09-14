@@ -997,14 +997,19 @@
       "ext": "./js/jp.js"
     },
     {
-      "key": "①蓝光网",
-      "name": "💧中国蓝光网4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": "1",
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/xb/中国蓝光网.json"
-    },
+            "key": "全看影视91",
+            "name": "⭐┃全看影视┃秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "<div class=\"stui-content__desc col-pd clearfix\"&&</div>",
+                "分类url": "https://wrea.91qkw.cc/show/{cateId}--------{catePg}---.html",
+                "分类": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#纪录片$22#悬疑片$25#犯罪片$26#惊悚片$27#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$20#动漫$4#综艺$3#短剧$28"
+            }
+        },
     
     {
       "key": "圣城影视sc1080",
