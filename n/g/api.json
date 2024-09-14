@@ -8225,6 +8225,16 @@
       ]
     },
     {
+      "key": "桃花资源thzy",
+      "name": "桃花视频2🔞",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": ""
+    },
+    {
       "key": "优优资源",
       "name": "优优资源🔞",
       "type": 1,
