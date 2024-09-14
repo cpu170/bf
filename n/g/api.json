@@ -227,6 +227,16 @@
       "order_num": 142,
       "ext": "./js/采集之王.js?type=url&params=https://raw.gitcode.com/woxinyijiu/YL/raw/main/采集静态.json"
     },
+     {
+      "key": "采集_CJzw2",
+      "name": "综合┃采集[密]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "order_num": 142,
+      "ext": "./js/采集之王.js?type=url&params=./json/采集[密]静态.json"
+    },
     {
       "key": "drpy_360影视",
       "name": "360影视",
