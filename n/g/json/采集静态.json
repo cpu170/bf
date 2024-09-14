@@ -381,6 +381,20 @@
     ]
   },
      {
+    "name": "魔都💎资源",
+    "url": "https://www.moduzy.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAFsU12YC/zWQW27CMBBFd5N18lABR4iABKFABB8NmEeAQEULCU43k5mJd1F74nz53DsPjS+sVJlJ8Pf4Pnk43+rNoRGJpGLUiOcVgtSJ+qHpA9TN0/0hzY6u4rzqb035GYT0KH9XIrMTpYpI9D0II+NbosENux9McgKv3BK2x9gKuU9IV8XBZ5kJpq6PnSVXLz+QnZmCuPriPhj1ILhzXyehcMKb/SupI1O70MvCUnVJQc3Y29Qr6gjMtXq3sB+1ZGJYKUsuBkMmAHwV7M23GCVMj1+IQ6bv1E1ALPWi535eB9cIzrcRvNgJc4oZ/QdeIxHTjQEAAA==",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38",
+    "cate_excludes": [
+      "电影",
+      "连续剧",
+      "灾难片"
+    ]
+  },
+     {
     "name": "淘片💎资源",
     "url": "https://taopianapi.com",
     "parse_url": "",
