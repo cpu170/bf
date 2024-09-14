@@ -586,6 +586,16 @@
             "filterable": 1,
             "ext": "./json/影院蓝光.json"
         },
+     {
+            "key": "海纳TV",
+            "name": "🧿海纳┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/海纳TV.json"
+        },
     {
       "key": "天龙高清",
       "name": "天龙☪高清",
