@@ -11,6 +11,9 @@
         "name": "直播综合",
         "url": "http://home.jundie.top:81/Cat/tv/live.txt"
     },
+    {"name":"麻豆","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利2.txt&&&https://api.likepoems.com/img/mc"},
+    {"name":"合集","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利1.txt&&&https://api.likepoems.com/img/mc"},
+
      {
         "name": "平安live",
         "url": "https://git.acwing.com/cnlv/tv/-/raw/main/live.txt"
