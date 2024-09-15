@@ -193,6 +193,16 @@
       "ext": "./js/lf_live1.txt"
     },
     {
+      "key": "csp_直播",
+      "name": "福利直播",
+      "type": 3,
+      "api": "./js/直播转点播.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lives/zb.txt"
+    },
+    {
       "key": "直播转点播",
       "name": "📺︎电视综合点播",
       "type": 3,
