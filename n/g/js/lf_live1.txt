@@ -42,9 +42,9 @@ https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tv
 #c源
 https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
 #麻豆2
-https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利2.txt&&&https://api.likepoems.com/img/mc
+https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利2.txt
 #合集
-https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利1.txt&&&https://api.likepoems.com/img/mc
+https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利1.txt
 #传媒2
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt
 #小武
