@@ -24,7 +24,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/m
 #AV集
 ../lives/livex.m3u
 
-糖意
+#糖意
 https://agit.ai/fenwe/TVBox/raw/branch/master/tv/%e7%b3%96%e6%84%8f.txt
 #麻豆
 https://qu.ax/XstR.txt
@@ -41,6 +41,10 @@ https://files.catbox.moe/408zl3.txt
 https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt
 #c源
 https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
+#麻豆2
+https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利2.txt&&&https://api.likepoems.com/img/mc
+#合集
+https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/18j/福利1.txt&&&https://api.likepoems.com/img/mc
 #传媒2
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt
 #小武
