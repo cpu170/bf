@@ -22,7 +22,7 @@
         "url": "https://www.gitlink.org.cn/api/cnlv/tvbox/raw/live.txt?ref=master"
     },
      {
-      "name": "live",
+      "name": "ycabao",
       "type": 0,
       "url": "https://notabug.org/ycabao/TVBox/raw/master/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
