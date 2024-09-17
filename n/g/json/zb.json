@@ -22,6 +22,12 @@
         "url": "https://www.gitlink.org.cn/api/cnlv/tvbox/raw/live.txt?ref=master"
     },
      {
+            "name": "央卫v6_1",
+            "type": 0,
+            "url": "https://9267.kstore.space/lib/央卫v6.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        },
+     {
       "name": "ycabao",
       "type": 0,
       "url": "https://notabug.org/ycabao/TVBox/raw/master/live.txt",
