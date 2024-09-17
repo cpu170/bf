@@ -1147,6 +1147,17 @@
       }
     },
     {
+      "key": "csp_cally",
+      "name": "💚┃Cally┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/xbpq新版.jar",
+      "ext": "http://150.158.91.136/xbpq/callyxbpq.json"
+    },
+    {
       "key": "酷影视",
       "name": "APP | 酷影视",
       "type": 3,
