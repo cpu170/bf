@@ -146,7 +146,24 @@
       "url": "https://notabug.org/zgj081/ys/raw/master/ds.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
-  
+     {
+            "name": "zb直播-1",
+            "type": 0,
+            "playerType": 1,
+            "url": "https://7672.kstore.space/zb.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "zb直播-2",
+            "type": 0,
+            "playerType": 1,
+            "url": "https://7672.kstore.space/zb2.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
      {
       "name":"Live",
       "type":0,
