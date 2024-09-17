@@ -6,8 +6,7 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#初秋语•综合
-../list.txt
+
 #快乐直播
 https://ipv4wp.axzzz.top:9503/f/dqaIl/ZB.css
 #自用直播
