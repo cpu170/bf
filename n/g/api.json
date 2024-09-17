@@ -180,7 +180,7 @@
     },
     {
       "key": "live10",
-      "name": "📺︎综合直播",
+      "name": "📺︎live直播",
       "type": 3,
       "api": "./lib/lf_live10_min.js",
       "style": {
@@ -190,7 +190,21 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/lf_live1.txt"
+      "ext": "./lives/lf_live.txt"
+    },
+    {
+      "key": "live10",
+      "name": "📺︎live直播[密]",
+      "type": 3,
+      "api": "./lib/lf_live10_min.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lives/lf_live1.txt"
     },
     {
       "key": "csp_直播",
@@ -204,13 +218,23 @@
     },
     {
       "key": "直播转点播",
-      "name": "📺︎电视综合点播",
+      "name": "📺︎电视点播",
       "type": 3,
       "api": "./lib/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./json/zb.json"
+    },
+    {
+      "key": "直播转点播1",
+      "name": "📺︎点播[密]",
+      "type": 3,
+      "api": "./lib/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/zb1.json"
     },
     {
       "key": "zhibo影视",
