@@ -924,19 +924,7 @@
       "filterable": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-    {
-      "key": "rbys",
-      "name": "🌞热播┃影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15,
-      "playerType": 2,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "jar": "http://m1839732.cf.caoni.ru/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
-    },
+   
     {
       "key": "csp_Kuaikan",
       "name": "👀快看",
@@ -957,16 +945,7 @@
       "changeable": 1
     },
    
-    {
-      "key": "csp_Lib",
-      "name": "🔷LibVio",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.libvio.pw/"
-    },
+   
    
     {
       "key": "追剧",
@@ -1964,34 +1943,7 @@
       "quickSearch": 1,
       "ext": "分类url:https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-page-{catePg}------{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
-    {
-      "key": "卫总影院",
-      "name": "💞┃卫总┃💠",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ2.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "myui-vodlist__thumb lazyload&&</a",
-        "副标题": "pic-text text-right\">&&</span",
-        "简介": "剧情介绍</h3>&&<div class=\"myui-panel myui-panel-bg clearfix",
-        "线路数组": "<li><a href=\"#playlist&&</li[排序:专线01]",
-        "线路标题": ">&&</a",
-        "播放数组": "class=\"tab-pane fade&&</div",
-        "播放列表": "<li&&</li",
-        "播放标题": "title=\"&&\"",
-        "跳转播放链接": "var now=\"&&\"",
-        "搜索数组": "lazyload\"&&</a",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
-        "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
-      }
-    },
+    
     {
       "key": "纤纤影视",
       "name": "💄纤纤影视",
@@ -4716,17 +4668,7 @@
       "type": 1,
       "api": "https://cdk.centos.chat/api.php/provide/vod/"
     },
-    {
-      "key": "js_荐片",
-      "name": "⏳┃荐片┃影视",
-      "type": 3,
-      "api": "./lib/apiv15drpy2.min.js",
-      "ext": "./lib/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "js_磁力熊",
       "name": "🐻‍┃贝尔┃磁力",
