@@ -3053,16 +3053,7 @@
         "分类值": "dianying&lianxuju&zongyi&dongman&shaoer&duanju"
       }
     },
-    {
-      "key": "追风zfsp",
-      "name": "🍊追风",
-      "type": 1,
-      "api": "http://www.zfsp.cc/api.php/provide/vod",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 10
-    },
+   
     {
       "key": "率率suon",
       "name": "🎞影视 | 率率",
