@@ -4682,16 +4682,7 @@
         "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
       }
     },
-    {
-      "key": "js_555",
-      "name": "🌟┃三五┃影视",
-      "type": 3,
-      "api": "./lib/apiv15drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/555.js"
-    },
+   
     {
       "key": "影图",
       "name": "🎦影图┃2k",
