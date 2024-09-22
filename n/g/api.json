@@ -677,6 +677,17 @@
       }
     },
     {
+      "key": "nu在线",
+      "name": "Nuu|在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ3.jar",
+      "ext": {
+        "分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类": "電影$1#劇集$2#綜藝$3#動漫$4"
+      }
+    },
+    {
       "key": "csp_XBPQ_微云",
       "name": "影视 | 🍚微云(XBPQ)",
       "type": 3,
