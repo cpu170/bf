@@ -425,6 +425,25 @@
       "jar": "./jars/jiany.jar"
     },
     {
+      "key": "xbpq_蚂蚁影视",
+      "name": "💢蚂蚁影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "detail-sketch\">&&</span",
+        "线路名二次截取": "play_sourceclearfix&&</div>",
+        "线路数组": "<a&&</a>",
+        "线路标题": "💢👉+</em>&&</a>",
+        "分类url": "https://www.mayiyingshi.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "1&2&4&3"
+      },
+      "jar": "./jars/jiany.jar"
+    },
+    {
       "key": "csp_XBPQ_CY影视",
       "name": "🌤┃CY影视┃XB",
       "type": 3,
