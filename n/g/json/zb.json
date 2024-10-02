@@ -11,17 +11,7 @@
         "名称": "直播综合",
         "url":"http://home.jundie.top:81/Cat/tv/live.txt"
     },
-    {
-      "name": "sj直播",
-      "url": "https://6529.kstore.space/tvbox/sj-live.txt",
-      "type": 0,
-      "playerType": 1,
-      "ua": "okhttp/4.11",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png"
-    },
-    
-      
+       
      {
         "名称": "平安live",
         "url":"https://git.acwing.com/cnlv/tv/-/raw/main/live.txt"
@@ -32,13 +22,13 @@
     },
      {
             "name": "央卫v6_1",
-            "type": 0,
+            "类型": 0,
             "url": "https://9267.kstore.space/lib/央卫v6.txt",
             "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
         },
      {
       "name": "ycabao",
-      "type": 0,
+      "类型": 0,
       "url": "https://notabug.org/ycabao/TVBox/raw/master/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "徽标":"https://live.fanmingming.com/tv/{name}.png"
