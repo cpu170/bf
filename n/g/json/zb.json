@@ -12,13 +12,13 @@
         "url":"http://home.jundie.top:81/Cat/tv/live.txt"
     },
     {
-      "name": "sj直播",
+      "名称": "sj直播",
       "type": 0,
       "playerType": 1,
       "url": "https://6529.kstore.space/tvbox/sj-live.txt",
       "ua": "okhttp/3.15",
       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://diyp1.112114.xyz/logo/{name}.png"
+      "徽标":"https://diyp1.112114.xyz/logo/{name}.png"
     },
      {
       "name": "综合直播源[3vftp-zh]",
@@ -50,7 +50,7 @@
             "name": "央卫v6_1",
             "type": 0,
             "url": "https://9267.kstore.space/lib/央卫v6.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+            "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
         },
      {
       "name": "ycabao",
@@ -59,12 +59,12 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "徽标":"https://live.fanmingming.com/tv/{name}.png"
     },
-{{
-"名称": "1972-live","name": "1972-live",
-"url": " https://mirror.ghproxy.com/https:// raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u""url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u"
-},},
-{{
-        "名称": "Guovintv直播综合",
+   {
+    "name": "1972-live",
+    "url": " https://mirror.ghproxy.com/https:// raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u""url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u"
+},
+{
+        "name": "Guovintv直播综合",
         "url":"https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt"
     },
     {"name": "刺猬直播","url":"https://www.cwss.xyz/刺猬直播禁止贩卖","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":3},
@@ -91,8 +91,8 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-    	{"name": "🪣┃直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt","playerType":1},
-	{"name": "🖍️┃央卫地直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","playerType":1},
+    	{"name": "🪣┃直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt","playerType": 1},
+	{"name": "🖍️┃央卫地直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","playerType": 1},
 	{
             "name": "毒盒live",
             "type": 0,
