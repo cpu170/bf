@@ -21,15 +21,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     
-       {
-      "name": "综合直播源[3V-zh]",
-      "type": 0,
-      "url": "http://andysfly.3vcn.work/mitv/zh.json",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
-      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
+      
      {
         "名称": "平安live",
         "url":"https://git.acwing.com/cnlv/tv/-/raw/main/live.txt"
