@@ -20,15 +20,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
-      "name": "综合直播源[3vftp-zh]",
-      "type": 0,
-      "url": "http://andys3v.3vftp.cn/mitv/zh.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "徽标": "https://diyp1.112114.xyz/logo/{name}.png",
-      "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
-    },
+    
        {
       "name": "综合直播源[3V-zh]",
       "type": 0,
