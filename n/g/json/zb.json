@@ -12,13 +12,13 @@
         "url":"http://home.jundie.top:81/Cat/tv/live.txt"
     },
     {
-      "名称": "sj直播",
-      "类型": 0,
-      "playerType": 1,
+      "name": "sj直播",
       "url": "https://6529.kstore.space/tvbox/sj-live.txt",
-      "ua": "okhttp/3.15",
-      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://diyp1.112114.xyz/logo/{name}.png"
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/4.11",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
       "name": "综合直播源[3vftp-zh]",
@@ -26,7 +26,7 @@
       "url": "http://andys3v.3vftp.cn/mitv/zh.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
-      "logo": "https://diyp1.112114.xyz/logo/{name}.png",
+      "徽标": "https://diyp1.112114.xyz/logo/{name}.png",
       "epg":"https://diyp1.112114.xyz/?ch={name}&date={date}"
     },
        {
