@@ -1,25 +1,33 @@
 [
    {
-        "name": "超级MV",
-        "url": "http://rihou.cc:55/lib/MV.txt&&&https://s21.ax1x.com/2024/04/09/pFOV03Q.jpg"
+        "名称": "超级MV",
+        "url":"http://rihou.cc:55/lib/MV.txt&&&https://s21.ax1x.com/2024/04/09/pFOV03Q.jpg"
     },
      {
-        "name": "开心",
-        "url": "http://rihou.cc:55/lib/MV.txt&&&http://3650000.xyz/api/360.php?cid=6"
+        "名称": "开心",
+        "url":"http://rihou.cc:55/lib/MV.txt&&&http://3650000.xyz/api/360.php?cid=6"
     },
     {
-        "name": "直播综合",
-        "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+        "名称": "直播综合",
+        "url":"http://home.jundie.top:81/Cat/tv/live.txt"
     },
-    
+    {
+      "name": "sj直播",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://6529.kstore.space/tvbox/sj-live.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://diyp1.112114.xyz/logo/{name}.png"
+    },
 
      {
-        "name": "平安live",
-        "url": "https://git.acwing.com/cnlv/tv/-/raw/main/live.txt"
+        "名称": "平安live",
+        "url":"https://git.acwing.com/cnlv/tv/-/raw/main/live.txt"
     },
      {
-        "name": "平安live2",
-        "url": "https://www.gitlink.org.cn/api/cnlv/tvbox/raw/live.txt?ref=master"
+        "名称": "平安live2",
+        "url":"https://www.gitlink.org.cn/api/cnlv/tvbox/raw/live.txt?ref=master"
     },
      {
             "name": "央卫v6_1",
@@ -34,11 +42,11 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
-        "name": "1972-live",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u"
-    },
-     {
+{{
+"name": "1972-live"，"name": "1972-live",
+"url": " https://mirror.ghproxy.com/https:// raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u""url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u"
+},},
+{{
         "name": "Guovintv直播综合",
         "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt"
     },
@@ -64,7 +72,7 @@
       "playerType": 1,
       "ua": "okhttp/4.11",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     	{"name": "🪣┃直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt","playerType":1},
 	{"name": "🖍️┃央卫地直播","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","playerType":1},
