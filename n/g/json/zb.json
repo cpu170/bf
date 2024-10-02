@@ -13,12 +13,12 @@
     },
     {
       "名称": "sj直播",
-      "type": 0,
+      "类型": 0,
       "playerType": 1,
       "url": "https://6529.kstore.space/tvbox/sj-live.txt",
       "ua": "okhttp/3.15",
       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
-      "徽标":"https://diyp1.112114.xyz/logo/{name}.png"
+      "logo":"https://diyp1.112114.xyz/logo/{name}.png"
     },
      {
       "name": "综合直播源[3vftp-zh]",
