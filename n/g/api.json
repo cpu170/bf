@@ -8259,6 +8259,16 @@
       "playurl": ""
     },
     {
+      "key": "百万资源thzy",
+      "name": "百万资源🔞",
+      "type": 1,
+      "api": "https://api.baiwanapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": ""
+    },
+    {
       "key": "优优资源",
       "name": "优优资源🔞",
       "type": 1,
