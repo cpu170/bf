@@ -363,6 +363,23 @@
       }
     },
     {
+      "key": "麦田影视",
+      "name": "⭐麦田┃超清┃多源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "图片": "data-src=\"&&\"",
+        "线路数组": "<a class=\"swiper-slide\"&&</a>",
+        "线路标题": "</i>&nbsp;&&</a>+集",
+        "搜索url": "https://www.mtyy1.com/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
+      }
+    },
+    {
       "key": "豆瓣热播毒蛇资源",
       "name": "🌕影库┃电影频道",
       "type": 3,
