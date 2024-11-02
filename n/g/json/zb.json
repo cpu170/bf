@@ -11,6 +11,10 @@
         "name": "直播综合",
         "url": "http://home.jundie.top:81/Cat/tv/live.txt"
     },
+     {
+        "name": "飞翔电视",
+        "url": "https://notabug.org/HG520/YS/raw/main/feixiangdianshi4.1.txt"
+    },
    {
 	"name": "catbox.ipv6",
 	"type": 0,
