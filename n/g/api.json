@@ -2,14 +2,16 @@
   "spider": "./Yoursmile.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "🌕┃聪慧┃搜索",
+   
+     {
+      "key": "js豆瓣",
+      "name": "🍀┃豆豆┃秒搜",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "./api/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "./lib/douban.js"
     },
     {
       "key": "drpy_js_磁力熊搜索",
@@ -32,14 +34,13 @@
       "api": "./api/lf_search3_min.js"
     },
     {
-      "key": "js豆瓣",
-      "name": "🍀┃豆豆┃秒搜",
+      "key": "豆豆",
+      "name": "🌕┃聪慧┃搜索",
       "type": 3,
-      "api": "./api/drpy2.min.js",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/douban.js"
+      "filterable": 0
     },
     {
       "key": "csp_XBPQ_预告",
