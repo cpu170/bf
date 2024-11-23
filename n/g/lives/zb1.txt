@@ -1,6 +1,5 @@
 [
-{"name":"歌曲MV","url":"https://d.kstore.space/download/5403/Live/MTV.txt&&&https://api.likepoems.com/img/mc"},
-{"name":"Meroser/IPTV 网络电视","url":"https://iptv.b2og.com/txt/m_iptv.txt&&&http://w.g9.pub:66/f/yPrBfL/%E5%A3%81%E7%BA%B81.jpg"},
+
 {"name":"风扇/直播IPv6","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt&&&https://api.likepoems.com/img/mc"},
 {"name":"悦婵-直播IPTV","url":"https://iptv.b2og.com/txt/ycl_iptv.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"},
 {"name":"joevess/IPTV iptv","url":"https://iptv.b2og.com/txt/j_iptv.txt&&&https://api.likepoems.com/img/mc"},
