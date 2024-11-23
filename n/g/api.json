@@ -551,6 +551,24 @@
         "分类值": "2&1&3&4"
       }
     },
+     {
+      "key": "csp_moxmi",
+      "name": "💢乐美丨影视",
+      "type": 1,
+      "api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://iid.moxmi.top:81/gg.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/林中的小屋.jar",
+      "categories": [
+        "电影",
+        "剧集",
+        "综艺",
+        "动漫",
+        "短剧"
+      ]
+    },
     {
       "key": "🍑遥遥领先🍑_hhyy",
       "name": "白虎🐯监兵",
