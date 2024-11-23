@@ -217,6 +217,16 @@
       "filterable": 1,
       "ext": "./lives/zb.txt"
     },
+     {
+      "key": "csp_直播-1",
+      "name": "📡电视直播",
+      "type": 3,
+      "api": "./js/直播转点播.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lives/zb1.txt"
+    },
     {
       "key": "直播转点播",
       "name": "📺︎电视点播",
