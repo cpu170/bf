@@ -1,0 +1,13 @@
+[
+{"name":"歌曲MV","url":"https://d.kstore.space/download/5403/Live/MTV.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"Meroser/IPTV 网络电视","url":"https://iptv.b2og.com/txt/m_iptv.txt&&&http://w.g9.pub:66/f/yPrBfL/%E5%A3%81%E7%BA%B81.jpg"},
+{"name":"风扇/直播IPv6","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"悦婵-直播IPTV","url":"https://iptv.b2og.com/txt/ycl_iptv.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"},
+{"name":"joevess/IPTV iptv","url":"https://iptv.b2og.com/txt/j_iptv.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"YanG-1989 聚集","url":"https://iptv.b2og.com/txt/y_g.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"南风直播","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"多多直播","url":"https://bitbucket.org/xduo/duoapi/raw/master/v.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"唐三直播","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"太阳直播","url":"http://9xi4o.tk/sub/mytv.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"野火直播","url":"https://pastebin.com/raw/tuXBQs7U&&&https://api.likepoems.com/img/mc"}
+]
