@@ -62,7 +62,7 @@
     {"name":"饭太硬•综合","type":0,"url":"http://152.32.170.60/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
      {"name":"饭太硬直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt&&&https://api.likepoems.com/img/mc"},
     {"name":"饭live","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"},
-    {"name":"肥猫•综合","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+   
       {
       "name": "潇洒源",
       "url": "https://raw.gitmirror.com//PizazzGY/TVBox_warehouse/main/live.txt",
@@ -72,11 +72,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
-    "name": "GitHub-TXT",
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "img": "http://www.weibomn.com/uploadfile/image/20240622/5bf3ad336af04dc36b49ecd4a909882c.jpg"
-  },
+    
     {
             "name": "zb直播-1",
             "type": 0,
@@ -96,35 +92,10 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 
-  {
-    "name": "GitHub-M3U",
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-    "img": "http://www.weibomn.com/uploadfile/image/20240622/5bf3ad336af04dc36b49ecd4a909882c.jpg"
-  },
-   {
-    "name": "南风",
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/lives/live.txt",
-    "img": "./img/lives.jpg"
-  },
-  {
-    "name": "肥猫2",
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/lives/live.txt",
-    "img": "./img/lives.jpg"
-  },
-  {
-    "name": "开心频道",
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/lives/开心频道.txt",
-    "img": "./img/lives.jpg"
-  },
-      {
-      "name": "码点小干货",
-      "url": "http://120.79.4.185/new/mdlive.txt",
-      "type": 0,
-      "playerType": 1,
-      "ua": "okhttp/4.11",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+  
+ 
+ 
+      
       {
       "name": "ds.txt",
       "type": 0,
@@ -140,22 +111,8 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
   
-       {
-            "name": "小黑IPV",
-            "type": 0,
-            "url": "https://d.kstore.space/download/7395/xiaohei.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://1060s677v8.goho.co/epg.php",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "小米电视",
-            "type": 0,
-            "url": "http://124.223.177.85:88/svip/直播挺快.txt",
-            "ua": "okhttp/3.12.13",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+      
+       
       {
             "name": "摸鱼YG",
             "type": 0,
@@ -173,20 +130,20 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://tvbox.top/tvbox/logo/{name}.png"
         },
-        {"name":"tg直播接口","url":"https://raw.gitcode.com/tg888/zb/raw/main/zb.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
+       
          {"name":"b2og直播接口","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt&&&http://我不是.肥猫.live/lives/直播图6.png"},
          {"name":"y_g直播接口","url":"https://iptv.b2og.com/txt/y_g.txt&&&http://我不是.肥猫.live/lives/直播图2.png"},
-        {"name":"ycl直播接口","url":"https://iptv.b2og.com/txt/ycl_iptv.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
- { "name":"42web直播接口","url":"http://wz.42web.io/ipv6.txt &&&http://我不是.肥猫.live/lives/直播图3.png"},
- { "name":"wzsvip直播接口","url":"https://wzsvip.github.io/ipv6.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
- {"name":"ipv4直播接口","url":"https://wzsvip.github.io/ipv4.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
+       
+
+ 
+
  {"name":"dsj直播接口","url":"http://ww.weidonglong.com/dsj.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
  {"name":"zbc直播接口","url":"http://xhztv.top/zbc.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
- {"name":"六维直播","url":"https://4key.cn/ln &&&http://我不是.肥猫.live/lives/直播图3.png"},
+
 { "name":"放牛娃tv","url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
 {"name":"野火直播","url":"https://www.netpan.cn/down.php/fce05d2a28081ce42edc1c984a51573a.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
 {"name":"王小二TV","url":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt&&&http://我不是.肥猫.live/lives/直播图3.png"},
-{"name":"龍TV","url":"https://gitlab.com/tvtg/vip/-/raw/main/log.txt&&&http://我不是.肥猫.live/lives/直播图3.png"}, 
+
 
 {"name":"青鱼直播","url":"https://fel.forxhr.top:2022/down.php/b04945bc6640a33f693de484cf2095b2.txt&3344520&&&http://我不是.肥猫.live/lives/直播图3.png"},
 
