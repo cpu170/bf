@@ -1,25 +1,6 @@
 三级,#genre#
 
-新金瓶梅一,https://v6.jindangao.com/bb/b13/25/500kb/hls/index.m3u8
-新金瓶梅二,https://v6.jindangao.com/bb/b13/26/500kb/hls/index.m3u8
-新金瓶梅三,https://v6.jindangao.com/bb/b13/27/500kb/hls/index.m3u8
-新金瓶梅四,https://v6.jindangao.com/bb/b13/28/500kb/hls/index.m3u8
-新金瓶梅五,https://v6.jindangao.com/bb/b13/29/500kb/hls/index.m3u8
-艇妹,https://v6.jindangao.com/dd/d1/34/500kb/hls/index.m3u8
-我为卿狂,https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
-水浒传之英雄好色,https://v5.jindangao.com/gg/g9/23/hls/index.m3u8
-欲火狂蜜,https://v6.jindangao.com/hj/hj2/hj28/44/hls/index.m3u8
-新金瓶梅,2008https://v5.jindangao.com/zz/z8/10/hls/index.m3u8
-玉蒲团II之玉女心经,https://v5.jindangao.com/yy/y10/18/hls/index.m3u8
-竹夫人,https://v5.jindangao.com/eee/ee2/20/hls/index.m3u8
-激情艳女,https://v6.jindangao.com/v20/13/600kb/hls/index.m3u8
-满清十大酷刑,https://v5.jindangao.com/jj/j1/46/hls/index.m3u8
-剑奴,https://v5.jindangao.com/ff/f4/4/hls/index.m3u8
-婚前试爱,https://v5.jindangao.com/ff/f2/7/hls/index.m3u8
-爱的精灵,https://v5.jindangao.com/pp/p11/8/hls/index.m3u8
-卿本佳人,https://v5.jindangao.com/yy/y2/48/hls/index.m3u8
-蜜桃成熟时33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
-我来自北京,https://v5.jindangao.com/fff/ff7/8/hls/index.m3u8
+
 肉蒲团之夜销魂,https://v6.jindangao.com/aa/a30/28/500kb/hls/index.m3u8
 梁祝艳谭1集,https://v6.jindangao.com/dd/d16/2/1/700kb/hls/index.m3u8
 梁祝艳谭2集,https://v6.jindangao.com/dd/d16/2/2/700kb/hls/index.m3u8
