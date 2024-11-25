@@ -16,6 +16,9 @@
 ../lives/sg.txt
 #名优
 ../lives/you.txt
+#idol
+../lives/idol.txt
+
 
 
 #atsushi
