@@ -1,27 +1,7 @@
 三级,#genre#
 
 
-肉蒲团之夜销魂,https://v6.jindangao.com/aa/a30/28/500kb/hls/index.m3u8
-梁祝艳谭1集,https://v6.jindangao.com/dd/d16/2/1/700kb/hls/index.m3u8
-梁祝艳谭2集,https://v6.jindangao.com/dd/d16/2/2/700kb/hls/index.m3u8
-梁祝艳谭3集,https://v6.jindangao.com/dd/d16/2/3/700kb/hls/index.m3u8
-梁祝艳谭4集,https://v6.jindangao.com/dd/d16/2/4/700kb/hls/index.m3u8
-梁祝艳谭5集,https://v6.jindangao.com/dd/d16/2/4/700kb/hls/index.m3u8
-梁祝艳谭6集,https://v6.jindangao.com/dd/d16/2/6/700kb/hls/index.m3u8
-梁祝艳谭7集,https://v6.jindangao.com/dd/d16/2/7/700kb/hls/index.m3u8
-梁祝艳谭8集,https://v6.jindangao.com/dd/d16/2/8/700kb/hls/index.m3u8
-梁祝艳谭9集,https://v6.jindangao.com/dd/d16/2/9/700kb/hls/index.m3u8
-梁祝艳谭10集,https://v6.jindangao.com/dd/d16/2/10/700kb/hls/index.m3u8
-梁祝艳谭11集,https://v6.jindangao.com/dd/d16/2/11/700kb/hls/index.m3u8
-梁祝艳谭12集,https://v6.jindangao.com/dd/d16/2/12/700kb/hls/index.m3u8
-梁祝艳谭13集,https://v6.jindangao.com/dd/d16/2/13/700kb/hls/index.m3u8
-梁祝艳谭14集,https://v6.jindangao.com/dd/d16/2/14/700kb/hls/index.m3u8
-梁祝艳谭15集,https://v6.jindangao.com/dd/d16/2/15/700kb/hls/index.m3u8
-梁祝艳谭16集,https://v6.jindangao.com/dd/d16/2/16/700kb/hls/index.m3u8
-梁祝艳谭17集,https://v6.jindangao.com/dd/d16/2/17/700kb/hls/index.m3u8
-梁祝艳谭18集,https://v6.jindangao.com/dd/d16/2/18/700kb/hls/index.m3u8
-梁祝艳谭19集,https://v6.jindangao.com/dd/d16/2/19/700kb/hls/index.m3u8
-梁祝艳谭20集,https://v6.jindangao.com/dd/d16/2/20/700kb/hls/index.m3u8
+
 银家大院第一集之比武招精,https://player.hgcdn666.com/20230308/L1rUkKQP/index.m3u8
 银家大院第二集之夫人的吸哈教室,https://player.hgcdn666.com/20230308/7AaX784e/index.m3u8
 银家大院第三集之你是谁啊,https://player.hgcdn666.com/20230308/PCYK7V0o/index.m3u8
