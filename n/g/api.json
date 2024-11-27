@@ -1426,6 +1426,25 @@
       "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "黑墙影视",
+      "name": "🌠┣黑墙┫快播",
+      "type": 1,
+      "api": "https://blackwallvideo.online/api.php/provide/vod/"
+    },
+    {
+      "key": "鸣人资源",
+      "name": "🌠┣鸣人┫采集",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list"
+    },
+   
+    {
+      "key": "皇冠影视",
+      "name": "🌠┣皇冠┫快播",
+      "type": 1,
+      "api": "https://hong.hgyx.vip/api.php/provide/vod/"
+    },
+    {
       "key": "影猫资源",
       "name": "🌀┣影猫┃快播",
       "type": 1,
