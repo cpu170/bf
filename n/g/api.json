@@ -8507,16 +8507,7 @@
       "filterable": 0,
       "playurl": ""
     },
-    {
-      "key": "百万资源thzy",
-      "name": "百万资源🔞",
-      "type": 1,
-      "api": "https://api.baiwanapi.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": ""
-    },
+    
     {
       "key": "优优资源",
       "name": "优优资源🔞",
@@ -8537,16 +8528,7 @@
       "filterable": 1,
       "playurl": "https://gayzyjiexi.com/play/?url="
     },
-    {
-      "key": "越南资源",
-      "name": "越南资源🔞",
-      "type": 1,
-      "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": ""
-    },
+   
     {
       "key": "色南国资源",
       "name": "色南国资源🔞",
