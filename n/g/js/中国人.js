@@ -1,6 +1,6 @@
 var rule={
             title: '中國人',
-            host: 'https://chinaqtv.co',
+            host: 'https://chinaqtw.org',
             url:'/vodtype/fyclass.html',
           //https://chinaqtv.co/vodsearch/.html?wd=4
             searchUrl: '/vodsearch/.html?wd=**',    
