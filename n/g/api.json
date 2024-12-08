@@ -1148,6 +1148,17 @@
       }
     },
     {
+			"key": "-策驰影院-",
+			"name": "🏇策驰┃影院",
+			"jar": "./lib/xyqxbpq.jar",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"./json/策驰.json"
+    },
+    {
       "key": "🍑遥遥领先🍑_hhyy",
       "name": "白虎🐯监兵",
       "type": 3,
