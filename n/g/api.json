@@ -6050,28 +6050,6 @@
       }
     },
     {
-      "key": "csp_nkvlog",
-      "name": "💢┃NK┃点播(XBPQ)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/HCCX.jar",
-      "ext": "./json/nkvlog.json"
-    },
-    {
-      "key": "csp_lkvod",
-      "name": "💢┃来看┃点播(XBPQ)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/HCCX.jar",
-      "ext": "./json/lkvod.json"
-    },
-    {
       "key": "晴天qingtiantv",
       "name": "💢晴天",
       "type": 3,
@@ -6095,35 +6073,6 @@
       "filterable": 1,
       "jar": "./lib/HCCX.jar",
       "ext": "./json/hanjulao.json"
-    },
-    {
-      "key": "韩剧兔",
-      "name": "🏵韩剧TV|韩剧兔",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./lib/XBPQ2.jar",
-      "filterable": 1,
-      "ext": {
-        "请求头": "手机",
-        "图片代理": "",
-        "数组": "class=\"macplus-vodlist__bag\">&&</div></li>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "<i class=\"video-tag\">&&</i></a+<span class=\"pic-text text-right\">&&</span>",
-        "简介": "<strong>简介：</strong>&&<span",
-        "链接": "href=\"&&\"",
-        "线路二次截取": "",
-        "线路数组": "href=\"#con_playlist_*\"&&</li>",
-        "线路标题": "✨PYLB专享✨+tab\">&&</a",
-        "播放数组": "class=\"macplus-content__playlist column8 clearfix fade&&</ul>",
-        "跳转播放链接": "value=\"&&\"",
-        "嗅探词": "index.m3u8#.mp4",
-        "分类url": "https://www.hanjutu.com/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html[https://www.hanjutu.com/htm/{cateId}.html]",
-        "分类": "韩剧$hanju#日剧$riju#泰剧$taiju#剧情$hanju/juqingju#动作$hanju/dongzuoju#古装$hanju/guzhuangju#喜剧$hanju/xiju#奇幻$hanju/qihuanju#悬疑$hanju/xuanyiju#爱情$hanju/aiqingju#惊悚$hanju/jingsongju#犯罪$hanju/fanzuiju#韩综$zongyi#韩影$dianying"
-      }
     },
     {
       "key": "皮皮影视吧11",
@@ -6198,17 +6147,6 @@
       }
     },
     {
-      "key": "觅知影视",
-      "name": "👑觅知影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/觅知影视.json",
-      "jar": "./jars/XBPQ.jar"
-    },
-    {
       "key": "csp_超前",
       "name": "🥇┃超前┃点播",
       "type": 3,
@@ -6259,19 +6197,6 @@
       }
     },
     {
-      "key": "全集影视",
-      "name": "🎉全集┃高清┃快播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://quan.cn.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$39"
-      }
-    },
-    {
       "key": "飞流",
       "name": "🎗┣飞流┫速播",
       "type": 3,
@@ -6294,17 +6219,6 @@
       }
     },
     {
-      "key": "可乐影视kele",
-      "name": "🎗┣可乐┫蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
-        "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
-      }
-    },
-    {
       "key": "玄天影视",
       "name": "🌀玄天影视",
       "type": 3,
@@ -6323,21 +6237,10 @@
         "播放列表": "<li class=\"hl-col-xs-4&&</li>",
         "播放标题": ">&&</a>",
         "播放链接": "href=\"&&\"",
-        "分类url": "https://m.xt606.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类url": "https://www.xt606.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
         "分类": "电影&连续剧&综艺&动漫",
         "分类值": "1&2&3&4"
       }
-    },
-    {
-      "key": "XYQHiker_红领巾影院",
-      "name": "红领巾影院",
-      "type": 3,
-      "jar": "./jars/XYQ.jar",
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/红领巾影院.json"
     },
     {
       "key": "hipy_js_即看影视[优]",
