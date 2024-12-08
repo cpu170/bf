@@ -1148,7 +1148,7 @@
     {
       "key": "-策驰影院-",
       "name": "🏇策驰┃影院",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./jars/xyqxbpq.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
