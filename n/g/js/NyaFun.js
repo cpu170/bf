@@ -2,7 +2,7 @@ muban.短视2.二级.img = '.detail-pic&&img&&data-src';
 var rule = {
     title: 'NyaFun',
     模板:'短视2',
-    host: 'https://www.nyafun.net',
+    host: 'https://www.nyadm.net',
     homeUrl:'/map.html',
 	url: '/index.php/api/vod#type=fyclass&page=fypage',
     class_name:'番剧&剧场',
