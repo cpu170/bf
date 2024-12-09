@@ -8287,6 +8287,20 @@
       }
     },
     {
+      "key": "py_AiDou🔞",
+      "name": "AiDou(T4)🔞",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=AiDou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {
       "key": "php_madou🔞",
       "name": "麻豆(T4)🔞",
       "type": 4,
