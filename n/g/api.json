@@ -7957,7 +7957,7 @@
       "jar": "./jars/XBPQ.jar"
     },
     {
-      "key": "妹妹的妹妹",
+      "key": "妹妹的妹妹🔞",
       "name": "🏆妹妹的🔞",
       "type": 3,
       "api": "csp_XBPQ",
@@ -7975,7 +7975,7 @@
       "jar": "./jars/zy.jar"
     },
     {
-      "key": "纤纤影视福利版",
+      "key": "纤纤影视福利版🔞",
       "name": "🏆纤纤H版🔞",
       "type": 3,
       "api": "csp_XBPQ",
@@ -8010,6 +8010,26 @@
         "分类标题": ".html\">&&</a[不包含:2#3#4#5#下一页]",
         "分类ID": "href=\"/L/&&.html\"",
         "分类url": "https://www.xianxian174.com/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"
+      }
+    },
+    {
+      "key": "-麻豆-🔞",
+      "name": "🏆麻豆🔞",
+      "type": 3,
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./jars/xyqxbpq.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": {
+        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类": "日本视频$1#麻豆视频$2",
+        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+        "直接播放": "1"
       }
     },
     {
