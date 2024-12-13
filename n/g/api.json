@@ -342,6 +342,26 @@
       "ext": "./js/搜狗视频.js"
     },
     {
+      "key": "dianyiPQ",
+      "name": "💭电影先生┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/woniu.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html",
+        "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
+        "简介": "提醒🔺勿信广告，避免受骗🔺+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
+        "线路标题": "【线路】💠+<span>&&</span>[排序:TK>HD>XS>YI>DI>]"
+      }
+    },
+    {
       "key": "-森林CINEMA",
       "name": "🌳森林┃影视",
       "type": 3,
