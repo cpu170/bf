@@ -11,6 +11,8 @@
 https://ipv4wp.axzzz.top:9503/f/dqaIl/ZB.css
 #自用直播
 https://ipv4wp.axzzz.top:9503/f/6V9UM/ZY.css
+#自营直播
+https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt
 #晴天
 https://ipv4wp.axzzz.top:9503/f/7NBoS7/%E6%99%B4%E5%A4%A9.css
 #情缘TV
