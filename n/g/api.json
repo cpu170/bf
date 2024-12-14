@@ -1940,12 +1940,6 @@
       "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list"
     },
     {
-      "key": "皇冠影视",
-      "name": "🌠┣皇冠┫快播",
-      "type": 1,
-      "api": "https://hong.hgyx.vip/api.php/provide/vod/"
-    },
-    {
       "key": "猫咪资源",
       "name": "🌀┣猫咪┫采集",
       "type": 1,
