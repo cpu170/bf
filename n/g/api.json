@@ -1940,18 +1940,6 @@
       "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list"
     },
     {
-      "key": "猫咪资源",
-      "name": "🌀┣猫咪┫采集",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
-    },
-    {
-      "key": "五一资源",
-      "name": "🌀┣五一追剧┫采集",
-      "type": 1,
-      "api": "http://www.51zhuiju.cc/api.php/provide/vod/"
-    },
-    {
       "key": "无忧资源",
       "name": "🌀┣无忧┫采集",
       "type": 1,
@@ -3588,7 +3576,7 @@
       "key": "hyzy",
       "name": "🎦虎牙┃2k",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "playurl": "json:https://huyajx.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -4596,12 +4584,6 @@
       "name": "🤗小黄人",
       "type": 1,
       "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
-    },
-    {
-      "key": "34712d70104d3cdae7b92a0278d2dddb",
-      "name": "📹七之影视",
-      "type": 1,
-      "api": "https://cdk.centos.chat/api.php/provide/vod/"
     },
     {
       "key": "js_磁力熊",
@@ -6337,13 +6319,6 @@
       "ext": "./js/量子资源.js"
     },
     {
-      "key": "drpy_js_南瓜影视",
-      "name": "影视 | 南瓜影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/南瓜影视.js"
-    },
-    {
       "key": "hipy_js_一起看[优]",
       "name": "一起看[优](drpy_t3)",
       "type": 3,
@@ -6563,13 +6538,6 @@
       "ext": "./js/映迷影院.js"
     },
     {
-      "key": "drpy_js_中国人",
-      "name": "影视 | 中国人[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/中国人.js"
-    },
-    {
       "key": "drpy_js_子子影视",
       "name": "影视 | 子子影视[js]",
       "type": 3,
@@ -6594,13 +6562,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
-    },
-    {
-      "key": "drpy_js_曲奇影视[V2]",
-      "name": "影视 | 曲奇影视[V2][js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/曲奇影视[V2].js"
     },
     {
       "key": "drpy_js_奇优影院",
@@ -7161,17 +7122,6 @@
       "playurl": ""
     },
     {
-      "key": "色色虎资源",
-      "name": "色色虎资源🔞",
-      "type": 1,
-      "api": "https://sesehuzy1.com/api.php/provide/vod/at/json/",
-      "playerType": 1,
-      "playurl": "https://jx.jxsesehuzy.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "zp066",
       "name": "🔞花椒资源",
       "type": 0,
@@ -7421,7 +7371,7 @@
       "key": "玉兔资源网",
       "name": "玉兔资源🔞",
       "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+      "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -7685,14 +7635,6 @@
       "api": "https://hdys2.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "易看资源-伦理",
-      "name": "易看资源-伦理🔞",
-      "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "caoliuzyw",
