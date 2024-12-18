@@ -15,10 +15,6 @@ https://ipv4wp.axzzz.top:9503/f/6V9UM/ZY.css
 https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt
 #晴天
 https://ipv4wp.axzzz.top:9503/f/7NBoS7/%E6%99%B4%E5%A4%A9.css
-#情缘TV
-https://7854.kstore.space/QRzbTV1111111111111111111122222222222.txt
-#看电视
-http://tvbox6.icu/7.php?all=1
 #范明明
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 #直播天堂
@@ -28,29 +24,24 @@ https://2912.kstore.space/0328.txt
 #LIVE测试
 https://szyyds.cn/tv/live/x.txt
 #直播测试
-https://mirror.ghproxy.com/raw.githubusercontent.com/Newtxin/iptv/main/0504.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/Newtxin/iptv/refs/heads/main/0504.txt
 #开心线路
 http://kxrj.site:55/lib/kx2024.txt
 #猫TV直播
 http://rihou.cc:567/gggg.nzk
 #港澳
 http://home.jundie.top:81/Cat/tv/live.txt
-#高清源
-https://blog.4dz.top:18443/zhiboyuan/%E7%9B%B4%E6%92%AD%E6%BA%90.txt
-#👉糖意·直播在线
-https://gitcode.net/js283311816/ty/-/raw/master/糖意/
 #👉香雅情·直播在线
 http://home.jundie.top:81/ray/tvlive.txt
 #👉小米·直播在线
 http://home.jundie.top:81/Cat/tv/live.txt
 #👉酒店·每日更新
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 #🌺范明明·IPV6在线
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 #🌺YanG•IPV6在线
 https://fanmingming.com/txt?url=https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-#天威科技
-https://raw.gitcode.com/tg888/zb/raw/main/zb.txt
+
 
 #YanG•综合
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
@@ -58,10 +49,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Ga
 https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 #YueChan•综合
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-#Yoursmile•综合
-https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
-#饭太硬•综合
-https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 #Ray•综合
 https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
 #俊于•综合
