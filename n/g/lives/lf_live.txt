@@ -31,10 +31,6 @@ https://2912.kstore.space/0328.txt
 https://szyyds.cn/tv/live/x.txt
 #直播测试
 https://mirror.ghproxy.com/raw.githubusercontent.com/Newtxin/iptv/main/0504.txt
-#IPV4
-http://wz.42web.io/ipv4.txt
-#IPV6
-http://wz.42web.io/ipv6.txt
 #开心线路
 http://kxrj.site:55/lib/kx2024.txt
 #猫TV直播
