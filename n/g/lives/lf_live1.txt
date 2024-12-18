@@ -34,8 +34,6 @@ https://qu.ax/XstR.txt
 
 #快上车
 https://files.catbox.moe/w36yqk.txt
-#18禁
-https://d.kstore.space/download/5447/18/18禁.txt
 #更新
 https://files.catbox.moe/2o0yqn.txt
 #新福利
@@ -45,45 +43,45 @@ https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tv
 #c源
 https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
 #传媒2
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt
 #小武
 https://qu.ax/PEHy.txt
 #list
-https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt
+https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt
 #18live
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/kele1111/mengzehe/main/18/18live.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/kele1111/mengzehe/main/18/18live.txt
 #YanG-A
 https://tv.iill.top/m3u/Adult
 #港台三级集
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt
 #FDTV-Japan 1
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u
 #FDTV-Japan 2
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u
 #FDTV-Japan A-B
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u
 #FDTV-Japan C-H
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan C-H.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan C-H.m3u
 #FDTV-Japan I-L
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u
 #FDTV-Japan M-R
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u
 #FDTV-Japan S
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u
 #FDTV-Japan T-W
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u
 #FDTV-Japan X
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u
 #FDTV-Japan Y
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y.m3u
 #FDTV-Japan Z
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
 #爬虫H
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/爬虫H射仓库源.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/爬虫H射仓库源.txt
 #SSM0415
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt
 #zeee-u
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.txt
 #18+
 https://framagit.org/zhoujck/config/-/raw/master/json/18+/18
 #19
