@@ -8497,8 +8497,8 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
     },
     {
-      "key": "csp_hxc-ss",
-      "name": "🔞hxc成人",
+      "key": "csp_hxc-ss🔞",
+      "name": "hxc成人🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -8750,8 +8750,8 @@
       }
     },
     {
-      "key": "-俺要社",
-      "name": "⛩️神社┃影视",
+      "key": "-俺要社🔞",
+      "name": "⛩️神社┃影视🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jars/xyqxbpq.jar",
@@ -8776,8 +8776,8 @@
       }
     },
     {
-      "key": "-AV小次郎",
-      "name": "👯‍♀️AV┃小次郎",
+      "key": "-AV小次郎🔞",
+      "name": "👯‍♀️AV┃小次郎🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jars/xyqxbpq.jar",
@@ -8799,6 +8799,36 @@
         "分类": "国产精品&日本有码&日本无码&中文字幕&欧美情色&色情动漫&伦理三级&制服诱惑",
         "分类值": "826&828&829&830&831&832&955&956"
       }
+    },
+    {
+      "key": "drpyS_xvideos[密]",
+      "name": "xvideos[密](DS)🔞",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/xvideos[密]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_草榴社区[密]",
+      "name": "草榴社区[密](DS)🔞",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/草榴社区[密]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_黑料不打烊[密]🔞",
+      "name": "黑料不打烊[密](DS)🔞",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/黑料不打烊[密]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
     },
     {
       "key": "Aid",
