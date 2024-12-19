@@ -1,115 +1,109 @@
 [
-
-      
-     
-    
-      {
+  {
     "name": "18+",
     "url": "https://ipv4wp.axzzz.top:9503/f/lN8mf5/%E5%8D%B5%E9%A3%9E.txt&&&http://3650000.xyz/api/360.php?cid=6"
-    },
-    {"name":"福利直播",
-     "url":"https://f002.backblazeb2.com/file/oceans/lives/X2.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
-    },
-     {
-            "name": "cxr9912",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/cxr9912/cxr2022/main/live18.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        }, 
-       {
-            "name": "小林少_18点播",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18点播文件.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        },
-      {
-            "name": "小林少_18点播1",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18+点播文件1.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        },   
-       {
-            "name": "小林少_18tvlist",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18 千部独家传媒无水印来袭tvlist.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        },
-       {
-            "name": "WYB_tv3",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/tv3.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        }, 
-      {
-            "name": "追梦人_hongkongdoll",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/hongkongdoll.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        }, 
-      {
-            "name": "追梦人_YG",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/YG.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        }, 
-      {
-            "name": "追梦人_hsck",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/hsck.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        }, 
-      {
-            "name": "追梦人_idol",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/idol.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        },
-      {
-            "name": "追梦人_madou",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/madou.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        },  
-      {
-            "name": "追梦人_monlingwu",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/monlingwu.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-        },
-       {
-      "name": "国内18直播2",
-      "type": 0,
-      "url": "http://api.hclyz.com:81/mf/yuncaidan.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-     {
+  },
+  {
+    "name": "福利直播",
+    "url": "https://f002.backblazeb2.com/file/oceans/lives/X2.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
+  },
+  {
+    "name": "cxr9912",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/cxr9912/cxr2022/main/live18.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "小林少_18点播",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18点播文件.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "小林少_18点播1",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18+点播文件1.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "小林少_18tvlist",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18 千部独家传媒无水印来袭tvlist.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "WYB_tv3",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/tv3.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "追梦人_hongkongdoll",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/hongkongdoll.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "追梦人_YG",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/YG.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "追梦人_hsck",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/hsck.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "追梦人_idol",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/idol.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "追梦人_madou",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/madou.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "追梦人_monlingwu",
+    "playerType": 2,
+    "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/monlingwu.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+  },
+  {
+    "name": "国内18直播2",
+    "type": 0,
+    "url": "http://api.hclyz.com:81/mf/yuncaidan.txt",
+    "playerType": 2,
+    "ua": "okhttp/3.15",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
     "name": "午夜直播1",
     "url": "https://ipv4wp.axzzz.top:9503/f/AdgC8/DR1.css&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
-    },
-    {
+  },
+  {
     "name": "午夜直播2",
     "url": "https://ipv4wp.axzzz.top:9503/f/nBDfk/DR2.css&&&http://3650000.xyz/api/360.php?cid=6"
-    },
-    {
-        "name": "午夜直播3",
-        "url": "https://ipv4wp.axzzz.top:9503/f/VJOTW/DR3.css&&&http://3650000.xyz/api/360.php?cid=6"
-    },
-   
-    {
-        "name": "午夜直播4",
-        "url": "https://ipv4wp.axzzz.top:9503/f/9xVck/DR4.css&&&http://3650000.xyz/api/360.php?cid=6"
-    },
-    {
-        "name": "午夜直播5",
-        "url": "https://ipv4wp.axzzz.top:9503/f/O0dqi7/DR5.css&&&http://3650000.xyz/api/360.php?cid=6"
-    },
+  },
   {
-        "name": "午夜直播6",
-        "url": "https://ipv4wp.axzzz.top:9503/f/6Y7cM/DR6.css&&&http://3650000.xyz/api/360.php?cid=6"
-    }
-   
-  
+    "name": "午夜直播3",
+    "url": "https://ipv4wp.axzzz.top:9503/f/VJOTW/DR3.css&&&http://3650000.xyz/api/360.php?cid=6"
+  },
+  {
+    "name": "午夜直播4",
+    "url": "https://ipv4wp.axzzz.top:9503/f/9xVck/DR4.css&&&http://3650000.xyz/api/360.php?cid=6"
+  },
+  {
+    "name": "午夜直播5",
+    "url": "https://ipv4wp.axzzz.top:9503/f/O0dqi7/DR5.css&&&http://3650000.xyz/api/360.php?cid=6"
+  },
+  {
+    "name": "午夜直播6",
+    "url": "https://ipv4wp.axzzz.top:9503/f/6Y7cM/DR6.css&&&http://3650000.xyz/api/360.php?cid=6"
+  }
 ]
