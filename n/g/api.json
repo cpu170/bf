@@ -3252,7 +3252,7 @@
       "key": "bfzy",
       "name": "🎦暴风┃2k",
       "type": 1,
-      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "playurl": "",
       "searchable": 1,
       "quickSearch": 1,
