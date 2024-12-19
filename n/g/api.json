@@ -8831,6 +8831,23 @@
       "ext": ""
     },
     {
+      "key": "py_emby1",
+      "name": "Emby探花1️⃣",
+      "type": 3,
+      "api": "https://4723.kstore.space/lib/py_emby_proxy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "server": "https://tanhuatv.site",
+        "username": "qxmianchi",
+        "password": "19820130",
+        "thread": 0,
+        "proxy": ""
+      },
+      "changeable": 1
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
