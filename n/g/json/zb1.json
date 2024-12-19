@@ -76,7 +76,15 @@
             "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/monlingwu.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
         },
-   
+       {
+      "name": "国内18直播2",
+      "type": 0,
+      "url": "http://api.hclyz.com:81/mf/yuncaidan.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
      {
     "name": "午夜直播1",
     "url": "https://ipv4wp.axzzz.top:9503/f/AdgC8/DR1.css&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
