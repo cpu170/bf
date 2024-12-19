@@ -3239,16 +3239,6 @@
       ]
     },
     {
-      "key": "csp_XBPQ_kan",
-      "name": "🎦爱看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\n    \"主演\":\"主演：&&</div>\",\n    \"简介\":\"<p>&&<p>\",\n    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\n    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\n    \"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",\n    \"播放数组\":\"class=\\\"module-play-list&&</div>\",\n    \"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",\n    \"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
-    },
-    {
       "key": "bfzy",
       "name": "🎦暴风┃2k",
       "type": 1,
