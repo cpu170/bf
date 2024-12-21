@@ -455,6 +455,25 @@
       }
     },
     {
+      "key": "火车太堵电影猎手",
+      "name": "🌞首选┃蓝光┃急速",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片地区": "",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://tdgo.shop/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$20#剧集$21#综艺$23#动漫$22#短剧$24"
+      }
+    },
+    {
       "key": "全看影视",
       "name": "🟠小小┃高清┃秒播",
       "type": 3,
