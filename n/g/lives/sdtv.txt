@@ -9,6 +9,41 @@
 {"name":"自用直播","url":"https://ipv4wp.axzzz.top:9503/f/6V9UM/ZY.css&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
 {"name":"黑软直播","url":"https://ipv4wp.axzzz.top:9503/f/7oDc7/%E9%BB%91%E8%BD%AF.css&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
 {"name":"春盈天下","url":"http://156.225.20.86:888/lib/cy.txt&&&https://api.btstu.cn/sjbz/api.php"},
-{"name":"斯玛特","url":"https://ipv4wp.axzzz.top:9503/f/gMZIE/%E6%96%AF%E7%8E%9B%E7%89%B9.css&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"}
+{"name":"斯玛特","url":"https://ipv4wp.axzzz.top:9503/f/gMZIE/%E6%96%AF%E7%8E%9B%E7%89%B9.css&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
 
+{"name":"汇鑫直播①","url":"https://v4-7a53.5588888.xyz/api/v3/file/get/24086/%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E.txt?sign=DYBDoFBwmtHPat31lzVsNf54E_52TyJPXOzthpH6hLk%3D%3A0&&&http://3650000.xyz/api/360.php?cid=6"},
+{"name":"汇鑫直播②","url":" https://mirror.ghproxy.com/https://github.com/jindaxing/tv/blob/main/TV .txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
+{"name":"短剧 电视剧","url":" https://pan.xccld.icu/f/Zx4Hw/%E7%9F%AD%E5%89%A7%20%E7%94%B5%E8%A7%86%E5%89%A7.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
+
+{ "name": "盛世直播", "url": "https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u&&&http://3650000.xyz/api/360.php?cid=6"},
+{"name":"猫TV直播2","url":"http://rihou.cc:555/gggg.nzk&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+{"name": "央卫",  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/%E6%98%9F%E7%A9%BA%E4%BC%A0%E5%AA%92.txt&&&https://api.yimian.xyz/img?type=moe&size=1920x1080"  },
+{"name":"开心软件","url":"http://kxrj.site:55/lib/kx2024.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+
+{"name":"开心","url":"https://8059.kstore.space/yjhm/%E7%94%B5%E8%A7%861.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+{"name":"多省组播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+{"name":"电影轮播","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/直播转点播/影视.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"电视直播","url":"https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt&&&http://www.kf666888.cn/api/tvbox/img"},
+{ "name": "电视", "url": "https://ghp.ci/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+
+{"name":"自动更新组播源","url":"https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt&&&http://www.kf666888.cn/api/tvbox/img"},
+
+{"name":"最全直播","url":"http://rihou.cc:555/gggg.nzk&&&http://api.btstu.cn/sjbz/?lx=meizi"},
+{  "name": "超级MV", "url": "https://ipv4wp.axzzz.top:9503/f/naXBtk/%E8%B6%85%E7%BA%A7MV.txt&&&http://3650000.xyz/api/360.php?cid=6" },
+{"name": "MTV音乐视频", "url": "https://pan.xccld.icu/f/gOQCl/MTV%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+{"name": "MTV三万九", "url": "https://pan.xccld.icu/f/6brh6/MTV%E4%B8%89%E4%B8%87%E4%B9%9D%29.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+{  "name": "电台之声", "url": "https://pan.xccld.icu/f/o06i8/%E7%94%B5%E5%8F%B0%E4%B9%8B%E5%A3%B0.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+{"name": "2400多部恐怖电影[恐怖电影]",  "url": "https://pan.xccld.icu/f/2bZtG/2400%E9%83%A8%E6%81%90%E6%80%96%E7%94%B5%E5%BD%B1.txt&&&http://3650000.xyz/api/360.php?cid=6" },
+{"name": "十六万首MV[一共16万4千300多首MV]",  "url": "https://pan.xccld.icu/f/mBkCb/%E5%8D%81%E5%85%AD%E4%B8%87MV%E5%90%AC%E6%AD%8C.txt&&&http://3650000.xyz/api/360.php?cid=6" },
+{ "name": "广场舞", "url": "https://pan.xccld.icu/f/dN8HN/%E5%B9%BF%E5%9C%BA%E8%88%9E.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+{ "name": "涩涩直播", "url": "https://gh-proxy.com/https://github.com/fish2018/lib/raw/refs/heads/main/txt/%E7%BB%B4%E6%8A%A4%E6%88%90%E4%BA%BA.txt&&&https://api.dzzui.com/api/avatar"},
+{ "name": "涩涩直播①", "url": "https://pan.gt68.cn/down.php/de61ef510b931c1d3bc76cde257dc6c6.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+{ "name": "涩涩直播②", "url":"https://qu.ax/XstR.txt&&&https://v2.api-m.com/api/meinvpic?return=302"},
+{"name":"涩涩直播③","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18%E8%B5%84%E6%BA%90%E4%B8%B0%E5%AF%8C.txt&&&https://v2.api-m.com/api/meinvpic?return=302"},
+{"name":"涩涩直播④","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/%E5%81%9A%E7%88%B1%E5%A4%A7%E5%85%A8.txt&&&https://v2.api-m.com/api/meinvpic?return=302"},
+{"name":"涩涩直播⑤","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18zb.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php"},  
+{"name":"huangsuming","url":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/huangsuming/iptv/main/list/tvlist.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+{"name":"iptv","url":" https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/moIPTV/Files/IPTV.m3u&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+
+{"name":"chengren3","url":"http://adultiptv.net/lists/all.m3u&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" }
 ]
