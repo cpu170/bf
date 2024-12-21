@@ -890,6 +890,95 @@
       }
     },
     {
+      "key": "cj_kk资源",
+      "name": "♨️kk采集",
+      "type": 0,
+      "api": "http://kkwk123.top/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [],
+      "playUrl": ""
+    },
+    {
+      "key": "鬼片之家",
+      "name": "♨️鬼片┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://ipv4wp.axzzz.top:9503/f/bQZGfO/xyqxbpq.jar",
+      "ext": {
+        "分类url": "https://www.guipian365.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html",
+        "分类": "鬼片大全$1#电视剧$2#恐怖片$3#动漫$4#大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||空||空"
+      }
+    },
+    {
+      "key": "三集电影[自动]_js",
+      "name": "♨️三集电影",
+      "type": 3,
+      "api": "http://kxrj.site:55/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://pan.iptv6.icu/f/NYKTa/%E4%B8%89%E9%9B%86%E7%94%B5%E5%BD%B1%5B%E8%87%AA%E5%8A%A8%5D.js"
+    },
+    {
+      "key": "csp_appys_kuloo",
+      "name": "♨️酷窝资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "小宝zj",
+      "name": "♨️宝盒单仓┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+      }
+    },
+    {
+      "key": "99影视",
+      "name": "♨️99影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍: +col-pd text-collapse content\">&&</div>",
+        "分类url": "http://www.kangping99.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$25#电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "csp_丹江电影网",
+      "name": "♨️丹江电影网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "主页url": "http://www.danjiangpiaoliu.com/",
+        "分类url": "http://www.danjiangpiaoliu.com/{cateId}{class}{area}{year}{by}/",
+        "分类": "电影$dianying#电视剧$ilianxuju#综艺$izongyi#动漫$idongman#明星$mingxing#短剧$iweiduanju#风月片$ifengyuepian"
+      }
+    },
+    {
+      "key": "青柠影院",
+      "name": "♨️青柠影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "http://www.yiqilingyuan.com/yiqi/{cateId}-{catePg}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3#短剧$31"
+      }
+    },
+    {
       "key": "-统一影视",
       "name": "💯统一┃影视",
       "type": 3,
