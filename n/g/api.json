@@ -259,7 +259,7 @@
       "name": "🚻直播转播[密]③",
       "type": 3,
       "api": "./js/精简_直转点.js",
-      "ext": "https://pan.xccld.icu/f/Kresx/%E7%9B%B4%E8%BD%AC%E7%82%B9.txt"
+      "ext": "./live/z-b.txt"
     },
     {
       "key": "2400部恐怖电影📲",
