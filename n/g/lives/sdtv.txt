@@ -1,7 +1,6 @@
 [
 
 {"name":"猫TV直播","url":"http://rihou.cc:555/gggg.nzk&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
-{"name":"tvboxme","url":"https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
 {"name": "D佬","url": "http://rihou.cc:567/gggg.nzk&&&http://我不是.肥猫.live/lives/直播图2.png"},
 {"name": "3v-zh","url": "http://andys3v.3vftp.cn/mitv/zh.txt&&&http://我不是.肥猫.live/lives/直播图2.png"},
 {"name":"直播","url":"https://6529.kstore.space/tvbox/sj-live.txt&&&http://我不是.肥猫.live/lives/直播图2.png"},
@@ -20,11 +19,10 @@
 {"name": "央卫",  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/%E6%98%9F%E7%A9%BA%E4%BC%A0%E5%AA%92.txt&&&https://api.yimian.xyz/img?type=moe&size=1920x1080"  },
 {"name":"开心软件","url":"http://kxrj.site:55/lib/kx2024.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
 
-{"name":"开心","url":"https://8059.kstore.space/yjhm/%E7%94%B5%E8%A7%861.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
 {"name":"多省组播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
 {"name":"电影轮播","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/直播转点播/影视.txt&&&https://api.likepoems.com/img/mc"},
 {"name":"电视直播","url":"https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt&&&http://www.kf666888.cn/api/tvbox/img"},
-{ "name": "电视", "url": "https://ghp.ci/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+{ "name": "电视", "url": "https://ghproxy.net/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt&&&http://3650000.xyz/api/360.php?cid=6"},
 
 {"name":"自动更新组播源","url":"https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt&&&http://www.kf666888.cn/api/tvbox/img"},
 
