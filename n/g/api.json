@@ -1025,7 +1025,7 @@
         "播放链接": "href=\"&&\"",
         "跳转播放链接": "var player_*\"url\":\"&&\"",
         "分类url": "http://ty1010.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$2#电视剧$1#综艺$4#动漫$3#体育赛事$5#网红短剧$41"
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#体育赛事$5#网红短剧$41"
       }
     },
     {
@@ -1086,37 +1086,6 @@
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
         "分类url": "https://v.wetv.wang/whole/{cateId}_{area}_{class}__{year}___0_{by}__{catePg}.html",
         "排序": "最新$id#日榜$rhits#周榜$zhits#月榜$yhits#总榜$hits"
-      }
-    },
-    {
-      "key": "-88影视网",
-      "name": "8️⃣88┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.88tv.net/",
-        "二次截取": "class=\"myui-vodlist clearfix\"&&</ul>",
-        "数组": "lazyload\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "播放数组": "list sort-list clearfix\"&&</ul>",
-        "播放列表": "<a&&a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "<li class=\"active\"&&li>",
-        "线路标题": "\">&&</a>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.88tv.net/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/",
-        "分类": "电影$dy#电视剧$dsj#动漫$dm",
-        "类型": "动作$dz#科幻$kh#喜剧$xj#恐怖$kb#爱情$aq#战争$zz#剧情$jq#纪录$jl||陆剧$lj#美剧$mj#韩剧$hj#日剧$rj#泰剧$tj#台剧$twj#其他剧$qtj||空"
       }
     },
     {
