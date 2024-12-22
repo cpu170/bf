@@ -1025,7 +1025,7 @@
         "播放链接": "href=\"&&\"",
         "跳转播放链接": "var player_*\"url\":\"&&\"",
         "分类url": "http://ty1010.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#体育赛事$5#网红短剧$41"
+        "分类": "电视剧$1#电影$2#综艺$4#动漫$3#体育赛事$5#网红短剧$41"
       }
     },
     {
