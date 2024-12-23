@@ -126,59 +126,6 @@
       "filterable": 0
     },
     {
-      "key": "alist",
-      "name": "🦆小雅网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
-        "drives": [
-          {
-            "name": "🦆小雅网盘",
-            "server": "https://pan.mediy.cn/"
-          },
-          {
-            "name": "【4K点播】ecve资源站",
-            "server": "https://pan.ecve.cn"
-          },
-          {
-            "name": "星梦云盘",
-            "server": "https://pan.bashroot.top"
-          },
-          {
-            "name": "共享云盘",
-            "server": "https://pan.oldming.top/"
-          },
-          {
-            "name": "👽ECVE",
-            "server": "https://pan.ecve.cn/"
-          },
-          {
-            "name": "🦆小雅分类",
-            "server": "http://tptpwhc.tpddns.cn:1234/"
-          },
-          {
-            "name": "🐋七米蓝",
-            "server": "https://al.chirmyram.com"
-          }
-        ]
-      }
-    },
-    {
-      "key": "Alist2小雅",
-      "name": "🎦小雅网盘2",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./json/小雅.json"
-    },
-    {
       "key": "live10",
       "name": "📺︎live直播",
       "type": 3,
@@ -8859,6 +8806,59 @@
           }
         ]
       }
+    },
+     {
+      "key": "alist",
+      "name": "🦆小雅网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
+        "drives": [
+          {
+            "name": "🦆小雅网盘",
+            "server": "https://pan.mediy.cn/"
+          },
+          {
+            "name": "【4K点播】ecve资源站",
+            "server": "https://pan.ecve.cn"
+          },
+          {
+            "name": "星梦云盘",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "共享云盘",
+            "server": "https://pan.oldming.top/"
+          },
+          {
+            "name": "👽ECVE",
+            "server": "https://pan.ecve.cn/"
+          },
+          {
+            "name": "🦆小雅分类",
+            "server": "http://tptpwhc.tpddns.cn:1234/"
+          },
+          {
+            "name": "🐋七米蓝",
+            "server": "https://al.chirmyram.com"
+          }
+        ]
+      }
+    },
+    {
+      "key": "Alist2小雅",
+      "name": "🎦小雅网盘2",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./json/小雅.json"
     },
     {
       "key": "玩偶gg",
