@@ -289,30 +289,6 @@
       "ext": "./js/搜狗视频.js"
     },
     {
-      "key": "午夜影院",
-      "name": "正版🍁午夜影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "✨HD",
-        "分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "午夜$5#电影$1#剧集$2#综艺$3#动漫$4"
-      }
-    },
-    {
-      "key": "xbpq_高清剧场",
-      "name": "正版🍁高清剧场",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "✨HD+pic-text text-right\"&&</span>",
-        "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
-        "分类": "高清剧场$documentary#电影$movie#连续剧$series#动漫$anime#综艺$variety#网络短剧$skit#体育$sports",
-        "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
-        "过滤词": "/hls/#php"
-      }
-    },
-    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
@@ -2270,6 +2246,30 @@
         "搜索链接": "href=\"&&\"",
         "分类url": "https://www.dy131.org/{cateId}/index_{catePg}.html[https://www.dy131.org/{cateId}/index.html]",
         "分类": "动作片$/dy/bangumi/#喜剧片$/dy/tvplay/#爱情片$/dy/aqp/#科幻片$/dy/khp/#剧情片$/dy/jqp/#恐怖片$/dy/kbp/#战争片$/dy/kbp/#纪录片$/dy/jlp/#动画片$/dy/donghuapian/#国产剧$/dsj/dlj/#日韩剧$/dsj/rhj/#欧美剧$/dsj/omj/#短剧$dsj/duanju/#综艺$/zyjm/"
+      }
+    },
+    {
+      "key": "午夜影院",
+      "name": "正版🍁午夜影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "✨HD",
+        "分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "午夜$5#电影$1#剧集$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "xbpq_高清剧场",
+      "name": "正版🍁高清剧场",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "✨HD+pic-text text-right\"&&</span>",
+        "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
+        "分类": "高清剧场$documentary#电影$movie#连续剧$series#动漫$anime#综艺$variety#网络短剧$skit#体育$sports",
+        "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+        "过滤词": "/hls/#php"
       }
     },
     {
