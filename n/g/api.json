@@ -289,6 +289,52 @@
       "ext": "./js/搜狗视频.js"
     },
     {
+      "key": " fxzds ",
+      "name": "正版🍁袋鼠影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "<p>&&</p>",
+        "线路标题": ">蓝光专线</a>",
+        "线路数组": "data-parent=&&</a>[不包含:蓝光专线3]",
+        "播放数组": "<ul class=\"playlistlink&&</ul>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "✨HD+note textbg\">&&</span>",
+        "数组": "videopic lazy\"&&</a>",
+        "分类url": "https://dsdytv.com",
+        "分类数组": "tabbar visible-xs\">&&</div}"
+      }
+    },
+    {
+      "key": "shiju影视",
+      "name": "正版🍁视觉影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "数组": "lazy lazyloaded&&</a",
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "✨HD+video-class\">&&</span>",
+        "链接": "href=\"&&\"",
+        "简介": "vod_content\">&&<a",
+        "线路数组": "module-tab-item tab-item&&</div",
+        "线路标题": "💕播放👉+span>&&</span",
+        "播放数组": "<div class=\"module-blocklist&&</div",
+        "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")",
+        "搜索模式": "1",
+        "搜索数组": "lazy lazyload&&</h3",
+        "搜索图片": "data-src=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "video-serial\" href=*>&&</a >",
+        "搜索链接": "href=\"&&\"",
+        "搜索url": "https://6080z.com/vodsearch/{wd}----------{pg}---.html",
+        "搜索后缀": "/voddetail/",
+        "分类url": "https://6080z.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$39#体育$34#解说$40"
+      }
+    },
+    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
