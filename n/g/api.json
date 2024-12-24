@@ -289,6 +289,30 @@
       "ext": "./js/搜狗视频.js"
     },
     {
+      "key": "午夜影院",
+      "name": "正版🍁午夜影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "✨HD",
+        "分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "午夜$5#电影$1#剧集$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "xbpq_高清剧场",
+      "name": "正版🍁高清剧场",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "✨HD+pic-text text-right\"&&</span>",
+        "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
+        "分类": "高清剧场$documentary#电影$movie#连续剧$series#动漫$anime#综艺$variety#网络短剧$skit#体育$sports",
+        "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+        "过滤词": "/hls/#php"
+      }
+    },
+    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
@@ -2086,46 +2110,6 @@
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
         "分类url": "https://hong.hgyx.vip/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "高清剧场1",
-      "name": "💥高清剧场",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.kanbd.com/",
-        "数组": "class=\"hl-item-thumb hl-lazy\"&&</li",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-        "过滤词": "/hls/#php",
-        "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
-        "搜索url": "https://www.kanbd.com/search/-------------.html?wd={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<div class=\"hl-item-pic\"&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "href=\"javascript:void(0);\"&&</a>",
-        "线路标题": "alt=\"&&\"",
-        "播放数组": "id=\"hl-plays-list\"&&</ul>",
-        "状态": "地区：&&</li>",
-        "导演": "导演：&&</li>",
-        "主演": "主演：&&</li>",
-        "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类url": "https://www.kanbd.com/s/movie-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports"
       }
     },
     {
