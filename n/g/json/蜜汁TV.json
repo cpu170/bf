@@ -1,0 +1,13 @@
+                {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "数组": "class=\"figure\"&&</div>",
+                "标题": "title=\"&&\"",
+                "图片": "src=\"&&\"",
+                "副标题": "<time>&&</time>",
+                "链接": "href='&&'[替换:info>>play]",
+                "分类url": "https://mizhitv136.cfd/video/type/{cateId}/{catePg}.html[https://mizhitv136.cfd/video/type/{cateId}.html];;z",
+                "分类数组": "<li class=\"nav-item\"&&</li>",
+                "分类标题": "title=\"&&\"",
+                "分类ID": "href='/video/type/&&.html'"
+            }
