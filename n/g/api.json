@@ -392,6 +392,27 @@
       }
     },
     {
+      "key": "nm影视",
+      "name": "💫一号┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://www.1haotu.com/zixun/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$30"
+      }
+    },
+    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
