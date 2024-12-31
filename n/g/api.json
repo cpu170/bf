@@ -9210,6 +9210,7 @@
     {"name":"🔯解析","type":1,"url":"https://www.tcsbl.cn/api/lib/shuo.php?url="},
     {"name":"🔯解析¹","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
     {"name":"🔯解析²","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},
+    {"name":"🔯STK解析","type":1,"url":"http://112.74.124.75:8899/jiexi/api.php?url=","ext":{"flag":["ST4K"]}},
     {
       "name": "77",
       "type": 0,
