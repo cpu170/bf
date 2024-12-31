@@ -450,6 +450,25 @@
       }
     },
     {
+      "key": "八号影院",
+      "name": "💫八号影院┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "搜索url": "http://www.soutiyi.com/search.php?searchword={wd}",
+        "搜索链接": "href=\"&&\"",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<p class=\"col-pd detail\"&&</span>",
+        "线路数组": "<img src=\"/statics/icon/icon_26.png\"&&</h3>",
+        "线路标题": "蓝光专线",
+        "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
+        "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
+      }
+    },
+    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
