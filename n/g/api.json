@@ -624,6 +624,32 @@
       }
     },
     {
+      "key": "✨纵横|影视✨",
+      "name": "💫纵横┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://ipv4wp.axzzz.top:9503/f/bQZGfO/xyqxbpq.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://www.tonglicable.com",
+        "数组": "pic-img\"&&</a>",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "✨+titles\">&&</",
+        "线路数组": "\"bt\">&&/a>",
+        "线路标题": "✨免费✨+>&&<",
+        "播放数组": "id=\"con_playlist&&</ul>",
+        "播放列表": "<a&&a>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": "✨播放✨+>&&</",
+        "简介": "✨剧情✨+简介：&&</p>",
+        "分类url": "https://www.tonglicable.com/show/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$wenduan"
+      }
+    },
+    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
