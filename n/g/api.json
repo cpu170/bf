@@ -9230,6 +9230,15 @@
       "ext": ""
     },
     {
+      "key": "麻1豆🔞",
+      "name": "豆豆🔞",
+      "type": 1,
+      "api": "https://www.md91.cc/api.php/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
