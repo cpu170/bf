@@ -7842,6 +7842,24 @@
       "playurl": "json:https://aosikazyplayurl.com/?url="
     },
     {
+      "key": "乐播🔞",
+      "name": "🔞[乐播]🔞",
+      "type": 0,
+      "playUrl": "https://lbjx9.com/?url=",
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+        "Referer": "https://lbjx9.com/",
+        "Accept-Encoding": "identity;q=1, *;q=0",
+        "Range": "bytes=0-"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
       "key": "乐播资源网",
       "name": "乐播资源🔞",
       "type": 1,
