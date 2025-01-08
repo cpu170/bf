@@ -392,21 +392,33 @@
       }
     },
     {
-      "key": "💫03影院",
-      "name": "💫候选03影院┃影库",
+      "key": "星星影院",
+      "name": "星星",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "副标题": "免费",
-        "影片地区": "影院",
-        "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
-        "线路数组": "onclick=&&</li>",
-        "线路标题": "播放线路",
-        "分类url": "https://www.03yy.live/{cateId}-{catePg}.html",
-        "分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#战争片$type/index9#剧情片$type/index12#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#日本剧$type/index16#泰国剧$type/index47#海外剧$type/index28#大陆动漫$type/index33#日韩动漫$type/index34#欧美动漫$type/index35#少儿动画$type/index64#大陆综艺$type/index29#港台综艺$type/index30#日韩综艺$type/index31#欧美综艺$type/index32#经典韩剧（国语）$topiclist/19#经典港剧（粤语）$topiclist/18#经典美剧（英语）$topiclist/21"
+        "请求头": "手机",
+        "主页url": "https://www.guosheji.com/",
+        "数组": "myui-vodlist__thumb&&</a>",
+        "简介": "简介：&&</a>",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "线路数组": "#playlist&&</li>[不包含:秒播]",
+        "线路标题": "+>&&</a>+",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "text-right\">&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+        "播放标题": ">&&</a>[不包含:дрр滈凊]",
+        "播放列表": "<li&&</li>",
+        "跳转解析": "默认$https://jiexi.ddmz6.com/api/publicApi.php?url=",
+        "搜索url": "https://www.guosheji.com/xingsc/{wd}-------------.html",
+        "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://www.guosheji.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"
       }
     },
     {
