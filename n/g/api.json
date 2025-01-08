@@ -716,6 +716,104 @@
       }
     },
     {
+      "key": "csp_XBPQ_laoyingdiany",
+      "name": "🦆老鹰电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "ext": {
+        "分类url": "https://www.laoyingwang.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$30#今日更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_gaoqingzaix",
+      "name": "🦆高清低端影视在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "ext": {
+        "分类url": "https://gxyj.org/gxvodshow/{cateId}--------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#今日更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_zhuijuba",
+      "name": "🎃追剧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "ext": {
+        "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_quanjiw",
+      "name": "🎃全集影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "ext": {
+        "分类url": "https://www.yijia5.com/{cateId}-all-all-{year}-time_{catePg}.html",
+        "分类": "电影$dianying#电视剧$dianshij#综艺$zongyi#动漫$dongman#更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_xinshijuezhilian",
+      "name": "👓悟空影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "ext": {
+        "分类url": "https://www.chinasumadang.com/sumadangVS/{cateId}--------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$44"
+      }
+    },
+    {
+      "key": "csp_XBPQ_huoniaoys",
+      "name": "👀火鸟影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "ext": {
+        "分类url": "https://www.isantai.com/stshow/{cateId}--------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$dongman#短剧$weiduanju#更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_qiyouyy2",
+      "name": "🔆奇优电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/hx.jar",
+      "ext": {
+        "分类url": "http://www.jzhcjs.com/qys/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$fuli#纪录片$jilu"
+      }
+    },
+    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
