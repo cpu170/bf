@@ -814,6 +814,23 @@
       }
     },
     {
+      "key": "奇优影院",
+      "name": "🧿奇优┃蓝光",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./jars/HeChengChaXiu.jar",
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+        "搜索url": "http://www.dyxz2.com/search.php;post;searchword={wd}",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$6",
+        "分类url": "http://www.dyxz2.com/list/{cateId}_{catePg}.html?order=time"
+      }
+    },
+    {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
       "type": 3,
@@ -939,6 +956,20 @@
         "搜索url": "https://www.mtyy1.com/vodsearch/-------------.html?wd={wd}",
         "分类url": "https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
+      }
+    },
+   {
+      "key": "极速电影1",
+      "name": "🌞首选┃蓝光┃极速",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/o.jar",
+      "ext": {
+        "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
       }
     },
     {
