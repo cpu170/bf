@@ -300,6 +300,17 @@
       "changeable": 1
     },
     {
+      "key": "csp_Fantuan",
+      "name": "🍙饭团",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "https://www.fantuan.vip"
+    },
+    {
       "key": "csp_XBPQ_fxzcjy",
       "name": "正版🍁柴姬影视",
       "type": 3,
