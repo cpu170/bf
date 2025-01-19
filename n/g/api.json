@@ -864,16 +864,6 @@
       }
     },
     {
-      "key": "明渊影视",
-      "name": "🏅明渊高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://v.miuu.cc/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
       "key": "火车太堵电影猎手",
       "name": "🌞首选┃蓝光┃急速",
       "type": 3,
