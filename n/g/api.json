@@ -289,6 +289,16 @@
       "ext": "./js/搜狗视频.js"
     },
     {
+      "key": "csp_Jpys",
+      "name": "🥇金牌",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_XBPQ_fxzcjy",
       "name": "正版🍁柴姬影视",
       "type": 3,
