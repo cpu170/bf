@@ -3,14 +3,19 @@
   "logo":"./img/0012.gif",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-     {
-      "key": "豆豆",
-      "name": "🌕┃聪慧┃搜索",
+     
+    {
+      "key": "csp_DouDou",
+      "name": "🔍豆瓣┃热映",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+        "filter": "./json/douban.json"
+      }
     },
     {
       "key": "js豆瓣",
