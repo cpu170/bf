@@ -311,6 +311,25 @@
       "ext": "https://www.fantuan.vip"
     },
     {
+      "key": "csp_ReBo",
+      "name": "☀️热播",
+      "type": 3,
+      "api": "csp_ReBo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SuBaiBai",
+      "name": "🏳️素白白",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://subaibai.com"
+    },
+    {
       "key": "csp_XBPQ_fxzcjy",
       "name": "正版🍁柴姬影视",
       "type": 3,
