@@ -647,23 +647,6 @@
       }
     },
     {
-      "key": "凯奇影视",
-      "name": "💫凯奇┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "提醒请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-        "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
-        "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
-        "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
-      }
-    },
-    {
       "key": "✨纵横|影视✨",
       "name": "💫纵横┃影视",
       "type": 3,
