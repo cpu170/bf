@@ -7278,6 +7278,30 @@
     {"key":"XBPQ_电影猎手","name":"㊙️电影猎手","type":3,"api":"csp_XBPQ","ext":"./json/电影猎手.json"},
     {"key":"XBPQ_九一午夜","name":"㊙️九一午夜","type":3,"api":"csp_XBPQ","ext":"./json/九一午夜.json"},
     {
+      "key": "色戒🔞",
+      "name": "😀色戒🔞",
+      "type": 1,
+      "api": "https://sjzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "瑟碧🔞",
+      "name": "🥰瑟碧🔞",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "百万🔞",
+      "name": "😊百万🔞",
+      "type": 1,
+      "api": "https://api.bwzym3u8.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "汪汪汪影院",
       "name": "🐶汪汪┃影院🔞",
       "type": 3,
