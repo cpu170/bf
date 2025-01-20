@@ -8506,6 +8506,15 @@
       "quickSearch": 1
     },
     {
+      "key": "*91资源",
+      "name": "🏆91麻豆🔞",
+      "type": 1,
+      "api": "http://www.9191md.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "水果派",
       "name": "水果派🔞",
       "type": 1,
