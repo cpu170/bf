@@ -357,6 +357,68 @@
       }
     },
     {
+      "key": "好乐影视",
+      "name": "👶 好乐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      //"jar": "./jars/XB-BILI.jar",
+      "ext": {
+        "数组": "<a&&</div>[不包含:部#最新#最热#]",
+        "影片类型":"hl-dc-headwrap\">&&</div>",
+        "线路数组": "swiper-slide-active&&</a>",
+        "线路标题": "海风",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "分类url": "https://www.haolev.com/haoshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": " MXVOD",
+      "name": "🦊 MXVOD",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+      "主页url": "https://mxvod.com/",
+      "数组": "module-item-pic\">&&</div>",
+      "线路数组": "module-tab-content\">&&</div>",
+      "线路标题": "data-dropdown-value=\"*\"&&</div>",
+      "直接播放": "0",
+      "播放数组": "module-blocklist scroll-box scroll-box-y\">&&</div>",
+      "播放标题": "<span>&&</span>",
+      "链接":"href=\"&&\"",
+      "嗅探词":"top#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a",
+      "分类url": "https://mxvod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+      "分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
+      }
+    },
+   {
+      "key": "小虎斑!",
+      "name": "小虎斑 | [资]",
+      "type": 1,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://gy.xn--yet24tmq1a.xyz/api.php/provide/vod/",
+      "categories": []
+    },
+    {
+      "key": "猎手",
+      "name": "🚛猎手",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://dylstv.com/",
+        "图片": "data-original=\"&&\"",
+        "搜索url": "https://tdgo.shop/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://tdgo.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "短剧$24#电影$20#电视剧$21#综艺$23#动漫$22"
+      }
+    },
+    {
       "key": "csp_XBPQ_fxzcjy",
       "name": "正版🍁柴姬影视",
       "type": 3,
