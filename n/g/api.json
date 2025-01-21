@@ -335,6 +335,28 @@
       "ext": "http://subaibai.com"
     },
     {
+      "key": "gzvod",
+      "name": "🌸瓜子☪秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.gzvod.cc/",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "数组": "<a&&</a>[不包含:添加时间#人气高低#评分高低]",
+        "标题": "title\">&&</div>",
+        "副标题": "tag text-overflow\">&&</div>",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "简介": "info-intro\">&&</div>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "倒序": "否",
+        "搜索url": "https://www.gzvod.cc/index.php/vod/search.html?wd={wd}",
+        "分类": "短剧$5#电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://www.gzvod.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
       "key": "csp_XBPQ_fxzcjy",
       "name": "正版🍁柴姬影视",
       "type": 3,
