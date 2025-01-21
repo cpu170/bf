@@ -335,15 +335,6 @@
       "ext": "http://subaibai.com"
     },
     {
-      "key": "追剧吧",
-      "name": "🏃追剧吧",
-      "type": 1,
-      "api": "https://zjuba.vip//api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "csp_TianTian",
       "name": "🦉天天",
       "type": 3,
@@ -2031,6 +2022,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
+    },
+     {
+      "key": "追剧吧",
+      "name": "🏃追剧吧",
+      "type": 1,
+      "api": "https://zjuba.vip//api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "河狸",
