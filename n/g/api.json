@@ -343,6 +343,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+     {
+      "key": "瓜子",
+      "name": "🍉瓜子",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "gzvod",
       "name": "🌸瓜子☪秒播",
@@ -1991,15 +2000,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/微云tv.json"
-    },
-    {
-      "key": "瓜子",
-      "name": "🍉瓜子",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_AppRZ",
