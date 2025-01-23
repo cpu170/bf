@@ -9345,6 +9345,32 @@
       }
     },
     {
+      "key": "大香蕉",
+      "name": "🏆大香蕉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/最新.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "发布地址": "https://www.cc59.xyz/",
+        "主页url": "https://ukui.736403.xyz/",
+        "二次截取": "<div class=\"vdd\"&&<div class=\"pag\"",
+        "数组": "<a&&</a",
+        "图片": "data-src=\"\" src=\"&&\"",
+        "标题": "<p>&&</p",
+        "副标题": "",
+        "简介": "description\" content=\"&&免费",
+        "链接": "https://ukui.736403.xyz/cv/+href=\"/cf/&&.html\"+-1-1.html",
+        "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+        "搜索模式": "1",
+        "搜索url": "https://ukui.736403.xyz/co/page/{pg}/wd/{wd}.html",
+        "分类url": "https://ukui.736403.xyz/cx/{cateId}-{catePg}.html;;z",
+        "分类": "国产$1#黑料$2#三级$3#其他$4#日本$5#动漫$6"
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
