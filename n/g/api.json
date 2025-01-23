@@ -9445,6 +9445,17 @@
       "jar": "./jars/hl.jar"
     },
     {
+      "key": "暗网色库1",
+      "name": "🏆暗网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/最新.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "./json/暗网.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
