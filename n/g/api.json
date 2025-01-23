@@ -335,14 +335,13 @@
       "filterable": 1
     },
     {
-      "key": "csp_SuBaiBai",
-      "name": "🏳️素白白",
+      "key": "csp_Lkdy",
+      "name": "🏔️来看",
       "type": 3,
-      "api": "csp_SuBaiBai",
+      "api": "csp_Lkdy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://subaibai.com"
+      "filterable": 1
     },
     {
       "key": "csp_TianTian",
