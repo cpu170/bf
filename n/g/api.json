@@ -9721,6 +9721,17 @@
       "ext": "./js/含羞草kz.js"
     },
     {
+      "key": "hipy_js乐草",
+      "name": "🏆乐草",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/乐草TV[密].js"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
