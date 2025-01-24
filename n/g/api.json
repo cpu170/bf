@@ -9476,6 +9476,31 @@
       "ext": "./json/女优.json"
     },
     {
+      "key": "51黑料福利社",
+      "name": "🏆51黑料福利社",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/最新.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "发布地址": "https://51heiliaofulishe.com",
+        "主页url": "https://51heiliaofulishe.com/ko",
+        "数组": "class=\"item-box\">&&</a",
+        "图片": "src=\"&&\"",
+        "副标题": "<!-- <small>&&</small> -->",
+        "简介": "description\" content=\"&&|全站免费",
+        "链接": "https://51heiliaofulishe.com/v/+href=\"/voddetail/&&/\"+/",
+        "搜索模式": "1",
+        "搜索url": "https://51heiliaofulishe.com/s/page/{pg}/wd/{wd}/",
+        "分类数组": "<a&&/a",
+        "分类标题": ">&&<",
+        "分类ID": "/t/&&/",
+        "分类url": "https://51heiliaofulishe.com/t/{cateId}-{catePg}/;;z"
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
