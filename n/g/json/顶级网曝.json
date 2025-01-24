@@ -1,0 +1,19 @@
+{
+  "请求头": "手机",
+  "站名": "顶级网曝",
+  "主页url": "https://www.xiaoyg1.sbs/",
+  "数组": "<li class=\"content-item\">&&</a>",
+  "标题": "title=\"&&\"",
+  "图片": "data-original=\"&&\"",
+  "播放数组": "<td>&&</td>",
+  "播放链接": "href=\"&&\"",
+  "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+  "免嗅": "0",
+  "搜索url": "https://www.xiaoyg1.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+  "嗅探词": ".m3u8#.mp4",
+  "分类url": "https://www.xiaoyg1.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+  "分类数组": "<li&&</li>",
+  "分类": "角色$76#黑料$80#中文$78#国$77#极品$98#其他$87#地$79#a$82#麻豆$81#c$83#d$84#e$85#f$86#h$88#j$89#k$90#l$91#m$92#n$93#y$94#u$95#三级$96#o$97#p$99#q$75#w$74#r$73#t$100#s$72#aa$71#ab$70#as$101#ad$102#ac$103#af$104#am$105#an$106#ao$107#av$67#ax$66#ay$65#ai$69#ap$68#aaa$64#aas$63#adf$62#asd$61",
+  "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+  "分类ID": "/index.php/vod/type/id/&&.html"
+}
