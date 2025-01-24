@@ -9630,6 +9630,39 @@
       }
     },
     {
+      "key": "偷拍群https://toupaiqun.top/",
+      "name": "🏆偷拍群视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "jar": "./jars/最新.jar",
+      "ext": {
+        "分类url": "https://web.toupaiqun16.xyz/tpq/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "分类": "黄瓜资源&155资源&仓仓资源&极品资源&奥斯卡资源",
+        "分类值": "87&203&253&272&86"
+      }
+    },
+    {
+      "key": "H色车房https://hskffby.com/",
+      "name": "🏆H色车房",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": {
+        "分类url": "https://hskf12.shop/vodtype/{cateId}-{catePg}.html",
+        "直接播放": "1",
+        "分类": "日韩专区&国产专区&欧美专区&动漫专区",
+        "分类值": "7&10&11&12"
+      },
+      "jar": "./jars/最新.jar"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
