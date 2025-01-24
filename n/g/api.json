@@ -9539,6 +9539,32 @@
       }
     },
     {
+      "key": "国产传媒1",
+      "name": "🏆国产传媒2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/最新.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "发布页": "www.7000.me",
+        "主页url": "https://www.vm9.cc",
+        "数组": "lazyload&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "description\" content=\"&&\"",
+        "分类url": "https://www.vm9.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+        "分类二次截取": "tab_head\">&&</ul>",
+        "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/index.php/vod/show/id/&&.html"
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
