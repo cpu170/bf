@@ -9616,6 +9616,20 @@
       "jar": "./jars/zy.jar"
     },
     {
+      "key": "404库",
+      "name": "🏆404库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "jar": "./jars/zy.jar",
+      "ext": {
+        "分类url": "https://www.63404jp.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "直接播放": "1",
+        "分类": "国产视频&国产精品&日韩视频&欧美",
+        "分类值": "29&75&1&34"
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
