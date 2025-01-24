@@ -9565,6 +9565,18 @@
       }
     },
     {
+      "key": "csp_顶级网曝1https://www.djwb3.top",
+      "name": "🏆顶级网曝",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./jars/xyq(1).jar",
+      "ext": "./json/顶级网曝.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
