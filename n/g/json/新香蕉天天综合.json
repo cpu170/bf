@@ -1,0 +1,290 @@
+{
+  "站名": "天天综合",
+  "主页url": "https://28jjkk.vip/",
+  "直接播放": "1",
+  "图片": "data-original=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
+  "副标题": "<div class=\"duration\">&&</div>",
+  "简介": "<title>&&</title>",
+  "搜索模式": "1",
+  "搜索url": "https://28jjkk.vip/vod/search/page/{pg}/wd/{wd}/",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "<div class=\"duration\">&&</div>",
+  "免嗅": "0",
+  "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+  "分类": "天天综合$/xjzy/cn-zhongwenhushi",
+  "分类url": "https://28jjkk.vip/{cateId}/{catePg}.html",
+  "筛选": {
+    "/xjzy/cn-zhongwenhushi": [
+      {
+        "key": "cateId",
+        "name": "中文字幕",
+        "value": [
+          {
+            "n": "无码中文",
+            "v": "/xjzy/cn-zhongwenwuma"
+          },
+          {
+            "n": "中文综合",
+            "v": "/xjzy/cn-zhongwenzonghe"
+          },
+          {
+            "n": "中文近亲",
+            "v": "/xjzy/cn-zhongwenjingqing"
+          },
+          {
+            "n": "中文护士",
+            "v": "/xjzy/cn-zhongwenhushi"
+          },
+          {
+            "n": "中文师生",
+            "v": "/xjzy/cn-zhongwenshisheng"
+          },
+          {
+            "n": "中文强奸",
+            "v": "/xjzy/cn-zhongwenqiangjian"
+          },
+          {
+            "n": "明星淫梦",
+            "v": "/xjzy/cn-mingxingyinmeng"
+          },
+          {
+            "n": "国产自拍",
+            "v": "/xjzy/cn-guochanzipai"
+          },
+          {
+            "n": "原片解说",
+            "v": "/xjzy/cn-jieshuoyuanpian"
+          },
+          {
+            "n": "三级资源",
+            "v": "/xjzy/cn-sanjizonghe"
+          }
+        ]
+      },
+      {
+        "key": "cateId",
+        "name": "国产传媒",
+        "value": [
+          {
+            "n": "综合传媒",
+            "v": "/gccm/91-madouyuanchuang"
+          },
+          {
+            "n": "91制片",
+            "v": "/gccm/91-91zhipianchang"
+          },
+          {
+            "n": "性吧原创",
+            "v": "/gccm/91-xingbayuanchuang"
+          },
+          {
+            "n": "糖心Vlgo",
+            "v": "/gccm/91-tangxinVlgo"
+          },
+          {
+            "n": "天美传媒",
+            "v": "/gccm/91-tianmeichuanmei"
+          },
+          {
+            "n": "蜜桃传媒",
+            "v": "/gccm/91-mitaochuanmei"
+          },
+          {
+            "n": "星空传媒",
+            "v": "/gccm/91-xingkongchuanmei"
+          },
+          {
+            "n": "精东影业",
+            "v": "/gccm/91-jingdongyingye"
+          },
+          {
+            "n": "兔子先生",
+            "v": "/gccm/91-tuzixiansheng"
+          },
+          {
+            "n": "大象传媒",
+            "v": "/gccm/91-daxiangchuanmei"
+          }
+        ]
+      },
+      {
+        "key": "cateId",
+        "name": "久久热资源",
+        "value": [
+          {
+            "n": "国产自拍",
+            "v": "/99re/kdw-guochanzipai"
+          },
+          {
+            "n": "欧美",
+            "v": "/99re/kdw-oumei"
+          },
+          {
+            "n": "中文字幕",
+            "v": "/99re/kdw-zhongwenzimu"
+          },
+          {
+            "n": "李宗瑞全集",
+            "v": "/99re/kdw-lizongruiquanji"
+          },
+          {
+            "n": "日本无码",
+            "v": "/99re/kdw-ribenwuma"
+          },
+          {
+            "n": "加勒比",
+            "v": "/99re/kdw-jialebi"
+          },
+          {
+            "n": "日本有码",
+            "v": "/99re/kdw-ribenyouma"
+          },
+          {
+            "n": "一本道",
+            "v": "/99re/kdw-yibendao"
+          },
+          {
+            "n": "高清",
+            "v": "/99re/kdw-gaoqing"
+          },
+          {
+            "n": "潮吹",
+            "v": "/99re/kdw-chaochui"
+          },
+          {
+            "n": "会员认证作品",
+            "v": "/99re/kdw-jiujiurehuiyuanrenzhengzuopin"
+          },
+          {
+            "n": "制服丝袜",
+            "v": "/99re/kdw-zhifusiwa"
+          },
+          {
+            "n": "口爆颜射",
+            "v": "/99re/kdw-koubaoyanshe"
+          },
+          {
+            "n": "肛交",
+            "v": "/99re/kdw-gangjiao"
+          },
+          {
+            "n": "东京热",
+            "v": "/99re/kdw-dongjingre"
+          },
+          {
+            "n": "小格式综合",
+            "v": "/99re/kdw-xiaogeshizonghe"
+          },
+          {
+            "n": "女主播系列",
+            "v": "/99re/kdw-hanguonvzhuboxilie"
+          },
+          {
+            "n": "成人动漫",
+            "v": "/99re/kdw-chengrendongman"
+          },
+          {
+            "n": "SM性虐",
+            "v": "/99re/kdw-SMxingnue"
+          },
+          {
+            "n": "韩国综合",
+            "v": "/99re/kdw-hanguozonghe"
+          }
+        ]
+      },
+      {
+        "key": "cateId",
+        "name": "废柴网资源",
+        "value": [
+          {
+            "n": "VIP专区",
+            "v": "/fcw/ff-VIPzhuanqu"
+          },
+          {
+            "n": "偷拍系列",
+            "v": "/fcw/ff-toupaixilie"
+          },
+          {
+            "n": "国产自拍",
+            "v": "/fcw/ff-guochanzipai"
+          },
+          {
+            "n": "日本有码",
+            "v": "/fcw/ff-ribenyouma"
+          },
+          {
+            "n": "日本无码",
+            "v": "//fcw/ff-ribenwuma"
+          },
+          {
+            "n": "成人动漫",
+            "v": "/fcw/ff-chengrendongman"
+          },
+          {
+            "n": "韩国综合",
+            "v": "/fcw/ff-hanguozonghe"
+          },
+          {
+            "n": "VR专区",
+            "v": "/fcw/ff-VRzhuanqu"
+          },
+          {
+            "n": "欧美",
+            "v": "/fcw/ff-oumei"
+          }
+        ]
+      },
+      {
+        "key": "cateId",
+        "name": "超清资源",
+        "value": [
+          {
+            "n": "亚洲AV",
+            "v": "/cq/2k-yazhou"
+          },
+          {
+            "n": "丝袜制服",
+            "v": "/cq/2k-siwazhifu"
+          },
+          {
+            "n": "自拍偷拍",
+            "v": "/cq/2k-zipaitoupai"
+          },
+          {
+            "n": "超清传媒",
+            "v": "/cq/2k-chaoqingchuanmei"
+          },
+          {
+            "n": "乱伦人妻",
+            "v": "/cq/2k-luanlunrenqi"
+          },
+          {
+            "n": "3D动漫",
+            "v": "/cq/2k-3Ddongman"
+          },
+          {
+            "n": "直播录播",
+            "v": "/cq/2k-zhibolubo"
+          },
+          {
+            "n": "超清三级",
+            "v": "/cq/2k-chaoqingsanji"
+          },
+          {
+            "n": "SM另类",
+            "v": "/cq/2k-SMlinglei"
+          },
+          {
+            "n": "欧美AV",
+            "v": "/cq/2k-oumei"
+          }
+        ]
+      }
+    ]
+  }
+}
