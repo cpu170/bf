@@ -384,6 +384,14 @@
       }
     },
     {
+      "key": "csp_xBPQ_素白",
+      "name": "素白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./json/素白白影视1.json"
+    },
+    {
       "key": "素白ys",
       "name": "小白┃影视",
       "type": 3,
