@@ -9842,6 +9842,16 @@
       "ext": "./json/en.json"
     },
     {
+      "key": "csp_XBPQ_国产视频",
+      "name": "🏆国产视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/国产视频.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
