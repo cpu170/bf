@@ -9832,6 +9832,16 @@
       }
     },
     {
+      "key": "csp_XBPQ_en",
+      "name": "🏆en",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/en.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
