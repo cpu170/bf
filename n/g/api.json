@@ -2975,16 +2975,16 @@
         "简介": "⚠️观影愉快⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
       }
     },
-    {
-      "key": "苹果高清在线",
-      "name": "🎦苹果影视站",
+   {
+      "key": "桃子高清在线",
+      "name": "🎬喵豆高清",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
         "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
         "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
-        "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
+        "分类url": "https://www.gxfiber.com/index.php/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
       }
     },
     {
