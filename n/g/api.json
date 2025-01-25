@@ -453,6 +453,24 @@
       }
     },
     {
+      "key": "统一影视",
+      "name": "🎬超清┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "线路数组": "<i class=\"fa ds-dianying\"&&</a>",
+        "线路标题": "</i>&nbsp;&&<",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</li>",
+        "分类url": "https://ty1010.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$2#电视剧$1#动漫$3#综艺$4#体育赛事$5#短剧$41"
+      }
+    },
+    {
       "key": "csp_XBPQ_fxzcjy",
       "name": "正版🍁柴姬影视",
       "type": 3,
