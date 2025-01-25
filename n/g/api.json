@@ -7511,7 +7511,7 @@
     },
     {
       "key": "︎奇优影院1🔞",
-      "name": "🚴‍♂️奇优┃影视-日本无码🔞",
+      "name": "奇优┃伦理1🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jars/xyqxbpq.jar",
@@ -9870,6 +9870,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/国产视频.json"
+    },
+    {
+      "key": "秀人1",
+      "name": "🔞秀人资源",
+      "type": 1,
+      "api": "https://xiuren.site/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [],
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
     },
     {
       "key": "Aid",
