@@ -116,6 +116,14 @@
         "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&22&23&24&25&26&27&28&29&30&31&32&33&34&35"
     },
     {
+        "name": "掏片资源",
+        "url": "https://taopianapi.com",
+        "api": "/cjapi/mc/vod/json.html",
+        "class_name": "H4sIAAAAAAAAAGWQSQ6CMBSGb+OWKzpEtCxUDKIoiRuwDiRCjFFRPA3vVW5htS20umu//FMLzhYfBwvPF4h8+F5a7P54kVwycanZPK7WO8W884vaQKgF4xRvT36qdQllz9GP93rkuj8vnlJYFZoXIloFttSB3PfNk/sk464ypybj+zBM1DvqDr5ZdTS9QmqwahN8VhpM1phe8V2CQZFZOFyUOWFkoACjLtzuGoB40AAVI17VxIA9rYKd7nK2zDNi/JDrTUVZhHrzMMNeXwPYmWDb10HPwe5SzyD0x9JNmO/qofkeihkHbzgO+6MwAgAA",
+        "class_url": "16515072&16449536&16384000&16318464&16252928&16187392&16121856&16056320&15990784&15925248&15859712&15794176&15728640&15663104&15597568&15532032&15400960&15335424&15269888&15204352&15138816&15073280&15007744&14942208&14876672&14811136&14614528&14548992&8388608&1179648"
+    },
+
+    {
         "name": "飞刀💎资源",
         "url": "http://www.feidaozy.com",
         "parse_url": "",
