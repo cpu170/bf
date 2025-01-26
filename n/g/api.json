@@ -252,7 +252,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/腾讯视频.js"
+      "ext": "./js/腾讯VIP.js"
     },
     {
       "key": "drpy_优酷",
