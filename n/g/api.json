@@ -10315,6 +10315,36 @@
     {"name":"🔯解析²","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},
     {"name":"🔯STK解析","type":1,"url":"http://112.74.124.75:8899/jiexi/api.php?url=","ext":{"flag":["ST4K"]}},
     {
+      "name": "影视4k解析",
+      "type": 1,
+      "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=312821&key=abfgjnwxEGJTVXZ569&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "77",
       "type": 0,
       "url": "https://jx.77flv.cc/?url=",
