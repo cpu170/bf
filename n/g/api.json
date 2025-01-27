@@ -9958,6 +9958,15 @@
       }
     },
     {
+      "key": "极品资源24",
+      "name": "极品资源🔞",
+      "type": 1,
+      "api": "https://jipinzyapi.com/api.php/provide/vod/at/json/",
+      "playurl": "json:https://jipinzybfqurl.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
