@@ -457,6 +457,50 @@
       "ext": "./json/Euvod影视.json"
     },
     {
+      "key": "香蕉影视789",
+      "name": "香蕉 | 影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/香蕉影视.json"
+    },
+    {
+      "key": "永乐1",
+      "name": "永乐 | 影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/永乐影视.json"
+    },
+    {
+      "key": "Kimivod1",
+      "name": "Kimi | 影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/Kimivod.json"
+    },
+    {
+      "key": "wvod1",
+      "name": "蛙 | 影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/蛙影视.json"
+    },
+    {
       "key": "好乐影视",
       "name": "👶 好乐影视",
       "type": 3,
