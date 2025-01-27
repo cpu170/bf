@@ -446,6 +446,17 @@
       "filterable": 1
     },
     {
+      "key": "Euvod影视",
+      "name": "Euvod | 影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/Euvod影视.json"
+    },
+    {
       "key": "好乐影视",
       "name": "👶 好乐影视",
       "type": 3,
