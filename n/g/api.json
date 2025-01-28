@@ -501,6 +501,14 @@
       "ext": "./json/蛙影视.json"
     },
     {
+      "key": "csp_xBPQ_淘影",
+      "name": "淘影┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./json/淘影.json"
+    },
+    {
       "key": "好乐影视",
       "name": "👶 好乐影视",
       "type": 3,
