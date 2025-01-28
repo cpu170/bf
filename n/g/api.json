@@ -2300,16 +2300,6 @@
       "changeable": 1
     },
     {
-      "key": "酷影视",
-      "name": "APP | 酷影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
       "key": "腐剧",
       "name": "腐剧",
       "type": 3,
