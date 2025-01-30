@@ -509,6 +509,17 @@
       "ext": "./json/淘影.json"
     },
     {
+      "key": "可可影视12",
+      "name": "可可影视┃推荐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/dokilwss.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/可可影视推荐.json"
+    },
+    {
       "key": "好乐影视",
       "name": "👶 好乐影视",
       "type": 3,
