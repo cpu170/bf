@@ -5167,16 +5167,6 @@
       "ext": "./lib/bear.js"
     },
     {
-      "key": "js_酷吧",
-      "name": "😎┃酷吧┃磁力",
-      "type": 3,
-      "api": "./lib/apiv15drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/kuba.js"
-    },
-    {
       "key": "XYQH_电影港",
       "name": "🛳┃港口┃磁力",
       "type": 3,
@@ -6862,24 +6852,6 @@
       }
     },
     {
-      "key": "hipy_js_即看影视[优]",
-      "name": "即看影视[优](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/即看影视.js"
-    },
-    {
-      "key": "drpy_js_量子资源",
-      "name": "量子[js]",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/量子资源.js"
-    },
-    {
       "key": "hipy_js_一起看[优]",
       "name": "一起看[优](drpy_t3)",
       "type": 3,
@@ -6891,64 +6863,11 @@
       "ext": "./js/一起看[优].js"
     },
     {
-      "key": "hipy_js_闪雷电",
-      "name": "闪雷电(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/闪雷电.js"
-    },
-    {
       "key": "drpy_js_凌云影视",
       "name": "影视 | 凌云影视[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/凌云影视.js"
-    },
-    {
-      "key": "drpy_js_爱迪影视",
-      "name": "影视 | 爱迪影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱迪影视.js"
-    },
-    {
-      "key": "drpy_js_333影视",
-      "name": "影视 | 333影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/333影视.js"
-    },
-    {
-      "key": "drpy_js_TVB云播",
-      "name": "影视 | TVB云播[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/TVB云播.js"
-    },
-    {
-      "key": "drpy_js_达达龟",
-      "name": "影视 | 达达龟[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/达达龟.js"
-    },
-    {
-      "key": "drpy_js_蛋蛋赞",
-      "name": "影视 | 蛋蛋赞[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/蛋蛋赞.js"
-    },
-    {
-      "key": "drpy_js_多瑙影视",
-      "name": "影视 | 多瑙影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/多瑙影视.js"
     },
     {
       "key": "drpy_js_看韩剧",
@@ -6963,31 +6882,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/看了么.js"
-    },
-    {
-      "key": "drpy_js_蓝光影院",
-      "name": "影视 | 蓝光影院[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/蓝光影院.js"
-    },
-    {
-      "key": "drpy_js_影视工场",
-      "name": "影视 | 影视工场[js]",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/影视工场.js"
-    },
-    {
-      "key": "drpy_js_kuba",
-      "name": "酷吧[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/kuba.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
     },
     {
       "key": "drpy_js_360影视",
