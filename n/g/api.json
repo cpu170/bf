@@ -1051,7 +1051,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/qiyou.json"
+      "ext":"./json/qiyou.json"
     },
     {
       "key": "csp_XBPQ_qiyouyy2",
