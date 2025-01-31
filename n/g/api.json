@@ -9875,6 +9875,46 @@
       "quickSearch": 1
     },
     {
+      "key": "wxts🔞",
+      "name": "无限臀山🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/最新.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "首页": "韩国主播",
+        "分类url": "https://wxts.wuxiants340.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "图片": "data-src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "直接播放": "1",
+        "分类": "网曝门$39#抖阴视频$62#探花系列$41#过膝袜$38#麻豆传媒$43#学生诱惑$83#韩国主播$64#欧美精品$32"
+      }
+    },
+    {
+      "key": "112VV🔞",
+      "name": "112VV🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/最新.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://www.112vv.me/vodtype/9.html",
+        "分类url": "https://www.112vv.me/vodtype/{cateId}-{catePg}.html",
+        "图片": "data-src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "直接播放": "1",
+        "分类": "国产视频$6#国产探花$36#国产传媒$12#日韩无码$23#欧美无码$24#制服丝袜$30#少妇淫妻$21#清纯学生$10"
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
