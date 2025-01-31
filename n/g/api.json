@@ -2104,16 +2104,6 @@
       "ext": "https://www.heli888.cc/api.php/app/"
     },
     {
-      "key": "泰泰",
-      "name": "🎈tv酷影",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
       "key": "星易app",
       "name": "🏧┣星影┫APP",
       "type": 3,
