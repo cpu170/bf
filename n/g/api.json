@@ -1043,6 +1043,16 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$dongman#短剧$weiduanju#更新$new"
       }
     },
+     {
+      "key": "csp_xBPQ_奇优",
+      "name": "🎦奇优┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/qiyou.json"
+    },
     {
       "key": "csp_XBPQ_qiyouyy2",
       "name": "🔆奇优电影",
@@ -3137,16 +3147,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/xcys.json"
-    },
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "🎦奇优┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/qiyou.json"
     },
     {
       "key": "VIP影视",
