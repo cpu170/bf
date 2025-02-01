@@ -9814,6 +9814,17 @@
       }
     },
     {
+      "key": "花丛视频🔞",
+      "name": "☪花丛魔法🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/xpbq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/花丛视频.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
