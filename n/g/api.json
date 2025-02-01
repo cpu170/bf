@@ -2104,13 +2104,6 @@
       "ext": "https://www.heli888.cc/api.php/app/"
     },
     {
-      "key": "星易app",
-      "name": "🏧┣星影┫APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.xingyiying.com/api.php/v1.vod"
-    },
-    {
       "key": "csp_Kuaikan",
       "name": "👀快看",
       "type": 3,
