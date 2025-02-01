@@ -7410,6 +7410,17 @@
       }
     },
     {
+      "key": "蜻蜓伦理🔞",
+      "name": "☪蜻蜓伦理🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/xpbq.jar",
+      "ext": {
+        "分类url": "https://www.qingtingyy.com/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "伦理$36"
+      }
+    },
+    {
       "key": "大尺度影视",
       "name": "大尺度影视伦理🔞",
       "type": 3,
