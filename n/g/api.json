@@ -9847,6 +9847,22 @@
       "ext": "./json/仕妻舞.json"
     },
     {
+      "key": "溏心次元1",
+      "name": "☪溏心次元1🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/xpbq.jar",
+      "ext": "./json/溏心次元1.json"
+    },
+    {
+      "key": "溏心次元2",
+      "name": "☪溏心次元2🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/xpbq.jar",
+      "ext": "./json/溏心次元2.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
