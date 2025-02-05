@@ -1495,7 +1495,7 @@
       "name": "♨️鬼片┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ipv4wp.axzzz.top:9503/f/bQZGfO/xyqxbpq.jar",
+      "jar": "./jars/xyqxbpq.jar",
       "ext": {
         "分类url": "https://www.guipian365.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html",
         "分类": "鬼片大全$1#电视剧$2#恐怖片$3#动漫$4#大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||空||空"
