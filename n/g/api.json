@@ -10082,6 +10082,24 @@
       }
     },
     {
+      "key": "csp_XBPQ_午夜福利视频",
+      "name": "午夜福利视频[🔞]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.3av.me/vodtype/{cateId}-{catePg}.html",
+        "数组": "class=\"myui-vodlist__box\"&&</a>",
+        "搜索url": "https://www.3av.me/vodsearch/{wd}-/page/{pg}.html",
+        "直接播放": "1",
+        "图片": "data-original=\"&&\"",
+        "分类": ""
+      },
+      "jar": "./jars/zy.jar"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
