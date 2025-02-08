@@ -7320,20 +7320,6 @@
       }
     },
     {
-      "key": "drpy_js_AnFuns",
-      "name": "动漫 | AnFuns[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/AnFuns.js"
-    },
-    {
-      "key": "drpy_js_NyaFun",
-      "name": "动漫 | NyaFun[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/NyaFun.js"
-    },
-    {
       "key": "drpy_js_NT动漫",
       "name": "动漫 | NT动漫[js]",
       "type": 3,
