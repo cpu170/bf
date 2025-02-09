@@ -7181,16 +7181,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/360.js"
     },
     {
-      "key": "csp_XYQHiker_河马短剧",
-      "name": "🐴河马短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/河马短剧.json"
-    },
-    {
       "key": "csp_Dm84",
       "name": "🚌动漫┃巴士",
       "type": 3,
