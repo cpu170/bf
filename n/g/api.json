@@ -8486,6 +8486,94 @@
       "ext": "./json/新香蕉搜索-女优.json"
     },
     {
+      "key": "csp_xBPQ_香蕉超清1🔞",
+      "name": "🏆香蕉超清",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/%e9%a6%99%e8%95%89%e8%b6%85%e6%b8%85.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
+      "key": "csp_xBPQ_香蕉久久热1🔞",
+      "name": "🏆香蕉久久热",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/香蕉久久热.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
+      "key": "csp_xBPQ_香蕉国产1🔞",
+      "name": "🏆香蕉国产",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/香蕉国产.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
+      "key": "csp_xBPQ_香蕉搜索1🔞",
+      "name": "🏆香蕉搜索",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/香蕉搜索.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
+      "key": "csp_xBPQ_香蕉资源1🔞",
+      "name": "🏆香蕉资源",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/香蕉资源.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
+      "key": "csp_xBPQ_香蕉AV解说1🔞",
+      "name": "🏆香蕉解说",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/%e9%a6%99%e8%95%89%e8%a7%a3%e8%af%b4.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
+      "key": "csp_xBPQ_香蕉废柴1🔞",
+      "name": "🏆香蕉废柴",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/%e9%a6%99%e8%95%89%e5%ba%9f%e6%9f%b4.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
+      "key": "csp_xBPQ_香蕉直播1🔞",
+      "name": "🏆香蕉直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/%e9%a6%99%e8%95%89%e7%9b%b4%e6%92%ad.json",
+      "jar": "./jars/xBPQ1.jar"
+    },
+    {
       "key": "csp_xBPQ_黄仓库",
       "name": "🏆黄仓库🔞",
       "type": 3,
