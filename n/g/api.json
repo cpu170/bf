@@ -593,6 +593,16 @@
       }
     },
     {
+      "key": "drpy_555电影",
+      "name": "速播┃影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/555.json"
+    },
+    {
       "key": "好乐影视",
       "name": "👶 好乐影视",
       "type": 3,
