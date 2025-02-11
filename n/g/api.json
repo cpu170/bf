@@ -200,6 +200,17 @@
       "ext": "./json/zb1.json"
     },
     {
+      "key": "新lf_live10_min",
+      "name": "📺︎新直播丨Live",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "./lib/lf_live10_min-output.js",
+      "ext": "./lives/lf_live.json"
+    },
+    {
       "key": "zhibo影视",
       "name": "┃猫直播大全┃",
       "type": 3,
