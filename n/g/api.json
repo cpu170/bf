@@ -306,6 +306,36 @@
       "ext": "./js/搜狗视频.js"
     },
     {
+      "key": "py_jieyingshi",
+      "name": "界影视(T3)",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_UpFuHn-Hi",
+      "name": "Hi视频(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=UpFuHn",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_BaHaoTV",
+      "name": "八号影院(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=BaHaoTV",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
       "key": "csp_SaoHuo",
       "name": "🔥骚火",
       "type": 3,
