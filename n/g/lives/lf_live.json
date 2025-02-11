@@ -4,6 +4,9 @@
 相对路径说明
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
+
+#自营直播
+https://raw.gitmirror.com/T00700/TVBoxSE/master/live.txt
 #feiyang.allinone
 http://127.0.0.1:35457/tv.m3u
 #feiyang.tptv
