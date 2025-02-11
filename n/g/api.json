@@ -306,6 +306,16 @@
       "ext": "./js/搜狗视频.js"
     },
     {
+      "key": "drpy_555电影",
+      "name": "55速播┃影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/555.json"
+    },
+    {
       "key": "py_jieyingshi",
       "name": "界影视(T3)",
       "type": 3,
@@ -632,16 +642,6 @@
         "分类url": "https://www.brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$movie#电视剧$tv#综艺$show#动漫$cartoon#纪录片$documentary"
       }
-    },
-    {
-      "key": "drpy_555电影",
-      "name": "55速播┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/555.json"
     },
     {
       "key": "好乐影视",
