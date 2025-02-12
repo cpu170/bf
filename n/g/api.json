@@ -3427,6 +3427,16 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "drpy_6vdy电影",
+      "name": "6v电影",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/6v.js"
+    },
+    {
       "key": "迅雷8",
       "name": "🧲迅雷吧|XBPQ|磁力",
       "type": 3,
