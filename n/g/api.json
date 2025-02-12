@@ -2137,17 +2137,6 @@
       "filterable": 1,
       "ext": "./json/微云tv.json"
     },
-    {
-      "key": "csp_AppRZ",
-      "name": "🕵忍者",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_AppRZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rzys.xyz/"
-    },
      {
       "key": "追剧吧",
       "name": "🏃追剧吧",
