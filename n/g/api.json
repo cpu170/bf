@@ -9563,28 +9563,8 @@
       },
       "jar": "./jars/hl.jar"
     },
-    {
-      "key": "暗网色库1",
-      "name": "🏆暗网",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/最新.jar",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": "./json/暗网.json"
-    },
-    {
-      "key": "女优色库",
-      "name": "🏆女优色库",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/最新.jar",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": "./json/女优.json"
-    },
+    {"key":"暗网色库1","name":"🏆暗网","type":3,"api":"csp_XBPQ","jar":"./jars/最新.jar","style":{"ratio":1.7},"ext":"./json/暗网.json"},
+    {"key":"女优色库","name":"🏆女优色库","type":3,"api":"csp_XBPQ","jar":"./jars/最新.jar","style":{"ratio":1.7},"ext":"./json/女优.json"},
     {
       "key": "51黑料福利社",
       "name": "🏆51黑料福利社",
@@ -9786,39 +9766,9 @@
       },
       "jar": "./jars/zy.jar"
     },
-    {
-      "key": "hipy_js_小女18[密]",
-      "name": "🏆小女18",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/小女18[密].js"
-    },
-    {
-      "key": "hipy_js_含羞草",
-      "name": "🏆含羞草",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/含羞草kz.js"
-    },
-    {
-      "key": "hipy_js乐草",
-      "name": "🏆乐草",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/乐草TV[密].js"
-    },
+    {"key":"hipy_js_小女18[密]","name":"🏆小女18","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/小女18[密].js"},
+    {"key":"hipy_js_含羞草","name":"🏆含羞草","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/含羞草kz.js"},
+    {"key":"hipy_js乐草","name":"🏆乐草","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/乐草TV[密].js"},
     {
       "key": "yyb1🏆",
       "name": "🏆淫用宝",
@@ -9912,48 +9862,10 @@
         "分类": "国产视频$6#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#制服诱惑$20#直播主播$21#糖心Vlog$22#激情动漫$23#抖阴视频$63#女优明星$24#网-曝-门$25#伦理三级$26#AV解说$30#SM调教$31#萝莉少女$37#极品媚黑$32#女同性恋$33"
       }
     },
-    {
-      "key": "csp_XBPQ_en",
-      "name": "🏆en",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/en.json"
-    },
-    {
-      "key": "csp_XBPQ_国产视频",
-      "name": "🏆国产视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/国产视频.json"
-    },
-    {
-      "key": "秀人1",
-      "name": "🔞秀人资源",
-      "type": 1,
-      "api": "https://xiuren.site/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [],
-      "style": {
-        "type": "rect",
-        "ratio": 1.6
-      }
-    },
-    {
-      "key": "极品资源24",
-      "name": "极品资源🔞",
-      "type": 1,
-      "api": "https://jipinzyapi.com/api.php/provide/vod/at/json/",
-      "playurl": "json:https://jipinzybfqurl.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+    {"key":"csp_XBPQ_en","name":"🏆en","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/en.json"},
+    {"key":"csp_XBPQ_国产视频","name":"🏆国产视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/国产视频.json"},
+    {"key":"秀人1","name":"🔞秀人资源","type":1,"api":"https://xiuren.site/api.php/provide/vod/","searchable":1,"changeable":1,"categories":[],"style":{"type":"rect","ratio":1.6}},
+    {"key":"极品资源24","name":"极品资源🔞","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/at/json/","playurl":"json:https://jipinzybfqurl.com/?url=","searchable":1,"quickSearch":1},
     {
       "key": "wxts🔞",
       "name": "无限臀山🔞",
@@ -9994,63 +9906,12 @@
         "分类": "国产视频$6#国产探花$36#国产传媒$12#日韩无码$23#欧美无码$24#制服丝袜$30#少妇淫妻$21#清纯学生$10"
       }
     },
-    {
-      "key": "花丛视频🔞",
-      "name": "☪花丛魔法🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xpbq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/花丛视频.json"
-    },
-    {
-      "key": "仕妻影院🔞",
-      "name": "☪仕妻舞🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xpbq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/仕妻舞.json"
-    },
-    {
-      "key": "溏心次元1",
-      "name": "☪溏心次元1🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xpbq.jar",
-      "ext": "./json/溏心次元1.json"
-    },
-    {
-      "key": "溏心次元2🔞",
-      "name": "☪溏心次元2🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xpbq.jar",
-      "ext": "./json/溏心次元2.json"
-    },
-    {
-      "key": "不雅视频🔞",
-      "name": "☪雅趣影视🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xpbq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/不雅视频.json"
-    },
-    {
-      "key": "金陵乐园🔞",
-      "name": "☪金陵乐园🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xpbq.jar",
-      "ext": "./json/金陵乐园.json"
-    },
+    {"key":"花丛视频🔞","name":"☪花丛魔法🔞","type":3,"api":"csp_XBPQ","jar":"./jars/xpbq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/花丛视频.json"},
+    {"key":"仕妻影院🔞","name":"☪仕妻舞🔞","type":3,"api":"csp_XBPQ","jar":"./jars/xpbq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/仕妻舞.json"},
+    {"key":"溏心次元1","name":"☪溏心次元1🔞","type":3,"api":"csp_XBPQ","jar":"./jars/xpbq.jar","ext":"./json/溏心次元1.json"},
+    {"key":"溏心次元2🔞","name":"☪溏心次元2🔞","type":3,"api":"csp_XBPQ","jar":"./jars/xpbq.jar","ext":"./json/溏心次元2.json"},
+    {"key":"不雅视频🔞","name":"☪雅趣影视🔞","type":3,"api":"csp_XBPQ","jar":"./jars/xpbq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/不雅视频.json"},
+    {"key":"金陵乐园🔞","name":"☪金陵乐园🔞","type":3,"api":"csp_XBPQ","jar":"./jars/xpbq.jar","ext":"./json/金陵乐园.json"},
     {"key":"果冻破解版🔞","name":"🍮果冻┃破解🔞","type":3,"jar":"./jars/xyqxbpq.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","主页url":"https://zvz.gdpjb8.work/cn/home/web/","数组":"well well-sm&&/a>","标题":"m-t-5\">&&<","副标题":"duration\">&&</div>","图片":"img src=\"&&\"","链接":"href=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"","简介":"description\" content=\"&&\"","搜索url":"https://zvz.gdpjb8.work/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html","分类url":"https://zvz.gdpjb8.work/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","分类二次截取":"<ul>&&ul>","分类数组":"<a&&a>","分类标题":"title=\"&&\"","分类ID":"/cn/home/web/index.php/vod/type/id/&&.html"}},
     {"key":"流氓兔🔞","name":"🐇流氓┃兔兔🔞","type":3,"jar":"./jars/xyqxbpq.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","主页url":"https://fyu.lmt4.monster/cn/home/web/","数组":"<article>&&</article>","标题":"alt=\"&&\"","副标题":"actress\">&&</div>","图片":"img src=\"&&\"","链接":"href=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"","简介":"description\" content=\"&&\"","搜索url":"https://fyu.lmt4.monster/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html","分类url":"https://fyu.lmt4.monster/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","分类数组":"<a&&a>","分类标题":">&&<","分类ID":"/cn/home/web/index.php/vod/type/id/&&.html"}},
     {"key":"百草香🔞","name":"☘️百草┃视频🔞","type":3,"jar":"./jars/xyqxbpq.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","主页url":"https://kcd.bxc7.one/cn/home/web/","数组":"lazyload\"&&/a>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接":"href=\"&&\"","跳转播放链接":"vod_play_url = '&&'","简介":"description\" content=\"&&\"","搜索url":"https://kcd.bxc7.one/s/{wd}/page/{pg}.html","分类url":"https://kcd.bxc7.one/vodtype/{cateId}-{catePg}.html;;z","分类二次截取":"<ul&&ul>","分类数组":"<a&&a>","分类标题":">&&<","分类ID":"/vodtype/&&.html"}},
@@ -10123,41 +9984,9 @@
         "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
       }
     },
-    {
-      "key": "虎牙直播",
-      "name": "🐯虎牙直播",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js"
-    },
-    {
-      "key": "斗鱼直播",
-      "name": "🐠斗鱼直播",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js"
-    },
-    {
-      "key": "csp_Kugou",
-      "name": "🐶酷狗",
-      "type": 3,
-      "api": "csp_Kugou",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-    },
+    {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./api/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/虎牙直播.js"},
+    {"key":"斗鱼直播","name":"🐠斗鱼直播","type":3,"api":"./api/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/斗鱼直播.js"},
+    {"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
      {
       "key": "alist",
       "name": "🦆小雅网盘",
@@ -10200,80 +10029,12 @@
         ]
       }
     },
-    {
-      "key": "Alist2小雅",
-      "name": "🎦小雅网盘2",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./json/小雅.json"
-    },
-    {
-      "key": "玩偶gg",
-      "name": "👽玩偶哥哥",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "https://www.wogg.net/",
-        "filter": "http://127.0.0.1:9978/file/TVBox/wogg.json"
-      }
-    },
-    {
-      "key": "蜡笔",
-      "name": "🖍︎蜡笔",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "https://duopan.fun",
-        "filter": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"
-      }
-    },
-    {
-      "key": "星剧社",
-      "name": "⭐️星剧社",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-      }
-    },
-    {
-      "key": "易搜",
-      "name": "🆎易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-      }
-    },
-    {
-      "key": "网盘集合",
-      "name": "🅿网盘集合|4K",
-      "type": 3,
-      "api": "csp_网盘集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "share": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"
-      }
-    },
+    {"key":"Alist2小雅","name":"🎦小雅网盘2","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/小雅.json"},
+    {"key":"玩偶gg","name":"👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://wogg.xxooo.cf/","filter":"./json/wogg.json"}},
+    {"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://feimaoai.site","filter":"./json/wogg.json"}},
+    {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+    {"key":"易搜","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+    {"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","share":"./json/网盘集合.json"}},
     {
       "key": "hipy_js_六月听书[听]",
       "name": "六月听书[听](drpy_t3)",
@@ -10314,17 +10075,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./js/老白故事[box].js"
-    },
-    {
-      "key": "push_agent",
-      "name": "🍭推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-      }
     },
     {
       "key": "dr_兔小贝",
@@ -10396,6 +10146,7 @@
       "changeable": 0,
       "ext": "./json/高中课堂.json"
     },
+    {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
     {
       "key": "cc",
       "name": "不要相信视频中广告",
