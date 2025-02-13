@@ -350,7 +350,6 @@
     {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
     {"key":"追剧","name":"✈追剧","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"daHR0cDovL3YubGt1eXMuY24="},
-    {"key":"csp_APPTT","name":"🗺图图","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="},
     {"key":"天天","name":"🦉天天","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
     {"key":"热播","name":"☀️热播","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"caHR0cDovL3YucmJvdHYuY24="},
     {"key":"csp_Nongm","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
@@ -374,6 +373,7 @@
     {"key":"csp_Ddrk","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
     {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"👻Auete","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_APPTT","name":"🗺图图","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="},
     {
       "key": "gzvod",
       "name": "🌸瓜子☪秒播",
