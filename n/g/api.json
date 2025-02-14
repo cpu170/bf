@@ -21,7 +21,7 @@
     {"key":"直播转点播","name":"📺︎电视点播","type":3,"api":"./lib/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/zb.json"},
     {"key":"直播转点播-1","name":"📺︎视频点播[密]","type":3,"api":"./lib/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/zb1.json"},
     {"key":"新lf_live10_min","name":"📺︎新直播丨Live","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/lf_live10_min-output.js","ext":"./lives/lf_live.json"},
-    {"key":"lf_live10[密]_min","name":"新直播[密]丨Live","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/lf_live10_min-output.js","ext":"./lives/lf_live[密].json"},
+    {"key":"lf_live10[密]_min","name":"📺︎新直播[密]丨Live","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/lf_live10_min-output.js","ext":"./lives/lf_live[密].json"},
     {"key":"zhibo影视","name":"┃猫直播大全┃","type":3,"api":"./js/sdtv.js","ext":"./lives/sdtv.txt","jar":"./jars/sdtv.jar"},
     {"key":"2400部恐怖电影📲","name":"💖分享恐怖电影","type":3,"api":"http://zb.hys.cool/app/lib/16万hys.js","ext":"http://zb.hys.cool/app/lib/2400部恐怖电影.js"},
     {"key":"采集_CJzw1","name":"综合┃采集","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./js/采集之王.js?type=url&params=./json/采集静态.json"},
