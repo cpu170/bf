@@ -1639,9 +1639,6 @@
     },
     {"key":"csp_XBPQ_微云","name":"影视 | 🍚微云(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/微云tv.json"},
     {"key":"追剧吧","name":"🏃追剧吧","type":1,"api":"https://zjuba.vip//api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-    {"key":"河狸","name":"🦛河狸┃蓝光┃纯净","type":3,"api":"csp_AppYsV2","ext":"https://www.heli888.cc/api.php/app/"},
-    {"key":"影馆","name":"🐔影馆┃蓝光┃纯净","type":3,"api":"csp_AppYsV2","ext":"https://4kdyg.top/api.php/v1.vod"},
-    {"key":"河狸2","name":"河狸影视┃┃💠V2","type":3,"api":"csp_AppYsV2","ext":"https://www.heli888.cc/api.php/app/"},
     {"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"华为吧资源站","name":"🎦华为吧资源站","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":""},
     {
@@ -1748,34 +1745,6 @@
         "分类": "电影$1#连续剧$2#综艺$4#动漫$3"
       }
     },
-    {
-      "key": "奴娜app",
-      "name": "🏧┣奴娜┫APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.nntv.in/api.php/v1.vod"
-    },
-    {
-      "key": "鸭奈飞",
-      "name": "😎奈飞┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yanetflix.me/api.php/app/"
-    },
-    {
-      "key": "csp_Zxzj",
-      "name": "🏚️在线",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
    {
       "key": "taopian",
       "name": "🕹️淘片┃采集",
@@ -1850,36 +1819,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "五一零刻影院",
-      "name": "⚡五一零刻影院┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "NRTFIY星球",
-      "name": "⚡NETFIY┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.netfly.tv/api.php/app/"
-    },
-    {
-      "key": "河狸影视",
-      "name": "⚡河狸┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.heli888.cc/api.php/app/"
     },
     {
       "key": "纯享影视",
