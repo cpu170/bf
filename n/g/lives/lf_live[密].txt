@@ -81,27 +81,8 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/head
 https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx.m3u
 #FDTV-Japan J-L
 https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20J-L.m3u
-#爬虫H
-https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/爬虫H射仓库源.txt
 #SSM0415
 https://github.moeyy.xyz/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt
 #zeee-u
 https://github.moeyy.xyz/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.txt
-#18+
-https://framagit.org/zhoujck/config/-/raw/master/json/18+/18
-#19
-https://framagit.org/zhoujck/config/-/raw/master/json/18+/19
-#20
-https://framagit.org/zhoujck/config/-/raw/master/json/18+/20
-#YanG
-https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
-#atsushi
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
-#直播
-https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/XX.m3u
-#糖衣
-https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt
-#闲人大湿专用2
-https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt
-
 
