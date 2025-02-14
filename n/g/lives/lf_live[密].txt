@@ -54,25 +54,25 @@ https://tv.iill.top/m3u/Adult
 #港台三级集
 https://github.moeyy.xyz/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt
 #FDTV-Japan 1
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%201.m3u
 #FDTV-Japan 2
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%202.m3u
 #FDTV-Japan A-B
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20A.m3u
 #FDTV-Japan C-H
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan C-H.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20B.m3u
 #FDTV-Japan I-L
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20C-E.m3u
 #FDTV-Japan M-R
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20F-I.m3u
 #FDTV-Japan S
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20M-R.m3u
 #FDTV-Japan T-W
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20S.m3u
 #FDTV-Japan X
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20S2%EF%BC%88Shi%EF%BC%89.m3u
 #FDTV-Japan Y
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20T-W.m3u
 #FDTV-Japan Z
 https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
 #爬虫H
