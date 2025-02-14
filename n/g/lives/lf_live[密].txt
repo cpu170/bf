@@ -46,8 +46,7 @@ https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt
 #小武
 https://qu.ax/PEHy.txt
-#list
-https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt
+
 #18live
 https://github.moeyy.xyz/https://raw.githubusercontent.com/kele1111/mengzehe/main/18/18live.txt
 #YanG-A
