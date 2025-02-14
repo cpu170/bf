@@ -4,49 +4,10 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
      
-    {
-      "key": "csp_DouDou",
-      "name": "🔍豆瓣┃热映",
-      "type": 3,
-      "api": "csp_DouBan",
-      "searchable": 0,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "filter": "./json/douban.json"
-      }
-    },
-    {
-      "key": "js豆瓣",
-      "name": "🍀┃豆豆┃秒搜",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/douban.js"
-    },
-    {
-      "key": "drpy_js_磁力熊搜索",
-      "name": "🐻┃磁力熊┃搜索",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./lib/cilixiong.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1
-    },
-    {
-      "key": "lf_js_search",
-      "name": "🔭┃各大视频站点|搜索",
-      "type": 3,
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "api": "./api/lf_search3_min.js"
-    },
+    {"key":"csp_DouDou","name":"🔍豆瓣┃热映","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"./json/douban.json"}},
+    {"key":"js豆瓣","name":"🍀┃豆豆┃秒搜","type":3,"api":"./api/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
+    {"key":"drpy_js_磁力熊搜索","name":"🐻┃磁力熊┃搜索","type":3,"api":"./api/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
+    {"key":"lf_js_search","name":"🔭┃各大视频站点|搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./api/lf_search3_min.js"},
     {
       "key": "csp_XBPQ_预告",
       "name": "🚀新片预告",
