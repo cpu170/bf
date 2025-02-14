@@ -72,9 +72,9 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/head
 #FDTV-Japan X
 https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20S2%EF%BC%88Shi%EF%BC%89.m3u
 #FDTV-Japan Y
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20T-W.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20X2%EF%BC%88Xiao%EF%BC%89.m3u
 #FDTV-Japan Z
-https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/eklins/FDTV/refs/heads/main/tv/xxx%20Japan%20Y.m3u
 #爬虫H
 https://github.moeyy.xyz/https://raw.githubusercontent.com/kan31467/1/main/tv/爬虫H射仓库源.txt
 #SSM0415
