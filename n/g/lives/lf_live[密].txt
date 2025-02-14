@@ -27,8 +27,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/m
 #AV集
 ../lives/livex.m3u
 
-#糖意
-https://agit.ai/fenwe/TVBox/raw/branch/master/tv/%e7%b3%96%e6%84%8f.txt
+
 #麻豆
 https://qu.ax/XstR.txt
 #avlive
