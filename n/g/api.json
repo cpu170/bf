@@ -8,28 +8,7 @@
     {"key":"js豆瓣","name":"🍀┃豆豆┃秒搜","type":3,"api":"./api/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
     {"key":"drpy_js_磁力熊搜索","name":"🐻┃磁力熊┃搜索","type":3,"api":"./api/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
     {"key":"lf_js_search","name":"🔭┃各大视频站点|搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./api/lf_search3_min.js"},
-    {
-      "key": "csp_XBPQ_预告",
-      "name": "🚀新片预告",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "ext": {
-        "首页": "正在热映",
-        "图片代理": "",
-        "分类url": "https://movie.douban.com/{cateId}/;;aRC",
-        "分类": "即将上映$cinema/later#正在热映$cinema/nowplaying",
-        "数组": "class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>",
-        "图片": "src=\"&&\"",
-        "标题": "\"intro\">&&</a>",
-        "链接": "href=\"&&\"",
-        "副标题": "评分+data-score=\"&&\"+class=\"release-date\">&&</li>",
-        "播放数组": "<li class=\"video&&</li>",
-        "播放列表": "<a&&</a>",
-        "播放标题": "alt=\"&&\"",
-        "播放链接": "https://m.douban.com+href=\"&&\""
-      }
-    },
+    {"key":"csp_XBPQ_预告","name":"🚀新片预告","type":3,"api":"csp_XBPQ","playerType":2,"ext":"./json/新片预告.json"},
     {
       "key": "配置",
       "name": "YouTube代理设置",
