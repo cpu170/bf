@@ -91,171 +91,22 @@
         "singbox_template_url": "https://666.ewwe.gq/xiaolinshao/linshao/main/singbox.json"
       }
     },
-    {
-      "key": "csp_KungFu404",
-      "name": "🎦阿里设置暂时不用",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./jars/csp_KungFu404.jar",
-      "ext": "http://127.0.0.1:9978/TVBox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "ConfigCenter",
-      "name": "🅿网盘配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-      }
-    },
-    {
-      "key": "csp_Local",
-      "name": "📚本地资源播放",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "mingxingmtv",
-      "name": "🎼明星MTV",
-      "type": 1,
-      "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "live10",
-      "name": "📺︎live直播",
-      "type": 3,
-      "api": "./lib/lf_live10_min.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lives/lf_live.txt"
-    },
-    {
-      "key": "live10-1",
-      "name": "📺︎live直播[密]",
-      "type": 3,
-      "api": "./lib/lf_live10_min.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lives/lf_live1.txt"
-    },
-    {
-      "key": "csp_直播",
-      "name": "📺︎福利直播",
-      "type": 3,
-      "api": "./js/直播转点播.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lives/zb.txt"
-    },
-    {
-      "key": "csp_直播-1",
-      "name": "📡电视直播",
-      "type": 3,
-      "api": "./js/直播转点播.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lives/zb1.txt"
-    },
-    {
-      "key": "直播转点播",
-      "name": "📺︎电视点播",
-      "type": 3,
-      "api": "./lib/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/zb.json"
-    },
-    {
-      "key": "直播转点播-1",
-      "name": "📺︎视频点播[密]",
-      "type": 3,
-      "api": "./lib/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/zb1.json"
-    },
-    {
-      "key": "新lf_live10_min",
-      "name": "📺︎新直播丨Live",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "./lib/lf_live10_min-output.js",
-      "ext": "./lives/lf_live.json"
-    },
-    {
-      "key": "lf_live10[密]_min",
-      "name": "新直播[密]丨Live",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "./lib/lf_live10_min-output.js",
-      "ext": "./lives/lf_live[密].json"
-    },
-    {
-      "key": "zhibo影视",
-      "name": "┃猫直播大全┃",
-      "type": 3,
-      "api": "./js/sdtv.js",
-      "ext": "./lives/sdtv.txt",
-      "jar": "./jars/sdtv.jar"
-    },
-    {
-      "key": "2400部恐怖电影📲",
-      "name": "💖分享恐怖电影",
-      "type": 3,
-      "api": "http://zb.hys.cool/app/lib/16万hys.js",
-      "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
-    },
-    {
-      "key": "采集_CJzw1",
-      "name": "综合┃采集",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "order_num": 142,
-      "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
-    },
-    {
-      "key": "采集_CJzw2",
-      "name": "综合┃采集[密]",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "order_num": 142,
-      "ext": "./js/采集之王.js?type=url&params=./json/采集[密]静态.json"
-    },
+    {"key":"csp_KungFu404","name":"🎦阿里设置暂时不用","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"jar":"./jars/csp_KungFu404.jar","ext":"http://127.0.0.1:9978/TVBox/token.txt+4k|fhd|auto"},
+    {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+    {"key":"csp_Local","name":"📚本地资源播放","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"mingxingmtv","name":"🎼明星MTV","type":1,"api":"https://tvbox-mv.cyao.eu.org/mv/vod","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"live10","name":"📺︎live直播","type":3,"api":"./lib/lf_live10_min.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./lives/lf_live.txt"},
+    {"key":"live10-1","name":"📺︎live直播[密]","type":3,"api":"./lib/lf_live10_min.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./lives/lf_live1.txt"},
+    {"key":"csp_直播","name":"📺︎福利直播","type":3,"api":"./js/直播转点播.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lives/zb.txt"},
+    {"key":"csp_直播-1","name":"📡电视直播","type":3,"api":"./js/直播转点播.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lives/zb1.txt"},
+    {"key":"直播转点播","name":"📺︎电视点播","type":3,"api":"./lib/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/zb.json"},
+    {"key":"直播转点播-1","name":"📺︎视频点播[密]","type":3,"api":"./lib/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/zb1.json"},
+    {"key":"新lf_live10_min","name":"📺︎新直播丨Live","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/lf_live10_min-output.js","ext":"./lives/lf_live.json"},
+    {"key":"lf_live10[密]_min","name":"新直播[密]丨Live","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/lf_live10_min-output.js","ext":"./lives/lf_live[密].json"},
+    {"key":"zhibo影视","name":"┃猫直播大全┃","type":3,"api":"./js/sdtv.js","ext":"./lives/sdtv.txt","jar":"./jars/sdtv.jar"},
+    {"key":"2400部恐怖电影📲","name":"💖分享恐怖电影","type":3,"api":"http://zb.hys.cool/app/lib/16万hys.js","ext":"http://zb.hys.cool/app/lib/2400部恐怖电影.js"},
+    {"key":"采集_CJzw1","name":"综合┃采集","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./js/采集之王.js?type=url&params=./json/采集静态.json"},
+    {"key":"采集_CJzw2","name":"综合┃采集[密]","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./js/采集之王.js?type=url&params=./json/采集[密]静态.json"},
     {"key":"drpy_360影视","name":"360影视","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/360影视2.js"},
     {"key":"drpy_腾讯视频","name":"腾讯视频","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/腾讯VIP.js"},
     {"key":"drpy_优酷","name":"优酷","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优酷.js"},
