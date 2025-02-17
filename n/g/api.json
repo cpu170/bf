@@ -2548,27 +2548,6 @@
       "ext": "./json/guangun.json"
     },
     {
-      "key": "小白",
-      "name": "🧲 4小白磁力🧲 |XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 1,
-      "jar": "./jars/XBPQ.jar",
-      "ext": {
-        "主页url": "https://www.xbw20.com/",
-        "编码": "gb2312",
-        "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题": "class=\"time\">&&</label",
-        "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "迅雷下载</div>&&</div>",
-        "播放列表": "<a&&</a >"
-      }
-    },
-    {
       "key": "布谷tv",
       "name": "🐦布谷|4K磁力|XBPQ",
       "type": 3,
@@ -2589,34 +2568,13 @@
         "搜索数组": "class=\"entry-media\">&&</div"
       }
     },
-    {
-      "key": "csp_Mp4Mov",
-      "name": "🧲Mp4电影",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Xlys",
-      "name": "🧲修罗",
-      "type": 3,
-      "api": "csp_Xlys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
+    {"key":"csp_Xlys","name":"🧲修罗","type":3,"api":"csp_Xlys","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Mp4Mov","name":"🧲Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_New6v","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "drpy_6vdy电影",
       "name": "6v电影",
