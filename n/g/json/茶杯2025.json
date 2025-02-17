@@ -1,0 +1,34 @@
+{
+"请求头": "",
+"主页url": "https://www.cupfox2025.com/",
+"分类url": "https://www.cupfox2025.com/vodshow/id/fenlei{cateId}/page/{catepg}.html",
+"分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$5",
+
+
+"二次截取": "",
+"数组": "<a&&</a>",
+"图片": "data-original=\"&&\"",
+"标题": "title\">&&<",
+"副标题": "module-item-note\">&&<",
+"链接": "href=\"&&\"",
+
+"搜索模式": "",
+"搜索url": "https://www.cupfox2025.com/vodsearch/wd/{wd}.html",
+"搜索数组": "module-card-item module-item&&module-card-item-footer",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "alt=\"&&\"",
+"搜索副标题": "module-item-note\">&&<",
+
+"导演": "--",
+"主演": "--",
+"简介": "",
+
+"线路数组": "module-tab-item tab-item&&</div>[排序:高清云播>备用线路>茶杯狐云播]",
+"线路标题": "<span>&&</span>",
+
+"播放数组": "",
+"播放标题": "",
+"倒序":""
+
+
+}
