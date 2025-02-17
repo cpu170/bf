@@ -40,6 +40,8 @@
     {"key":"T4-安博","name":"🍑安博[T4]","type": 4,"api":"https://tang.hz.cz/power/ub18?token=30b05f5f","searchable": 0,"quickSearch": 1,"filterable": 1,"changeable": 0},
     {"key":"T4_嗨视","name":"🌀嗨视[T4]","type":4,"api":"https://spider.doube.eu.org/spider?site=UpFuHn","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
     {"key":"白羊影院","name":"♈白羊┃影院","type":3,"api":"csp_XBPQ","jar":"./jars/xyqxbpq.jar","ext":"./json/白羊影院.json"},
+    { "key": "茶杯线路3", "name": "🌼茶杯","type":3,"api":"csp_XBPQ","ext":"./json/茶杯2025.json"},
+    { "key": "天龙线路4", "name": "🌼天龙","type":3,"api":"csp_XBPQ","ext":"./json/天龙.json"},
     {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
     {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
