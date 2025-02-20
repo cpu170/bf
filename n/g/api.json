@@ -4096,44 +4096,6 @@
       ]
     },
     {
-      "key": "⑤赛维lsys",
-      "name": "📽赛维",
-      "type": 1,
-      "api": "https://lsys.dsmynas.com:3000/api.php/provide/vod/",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": ""
-    },
-    {
-      "key": "宝片zpsps",
-      "name": "📽宝片",
-      "type": 1,
-      "api": "https://zpsps.com/api.php/provide/vod/",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": ""
-    },
-    {
-      "key": "xiaohuangrentv",
-      "name": "🤗小黄人",
-      "type": 1,
-      "api": "http://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
-    },
-    {
-      "key": "js_磁力熊",
-      "name": "🐻‍┃贝尔┃磁力",
-      "type": 3,
-      "api": "./lib/apiv15drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/bear.js"
-    },
-    {
       "key": "XYQH_电影港",
       "name": "🛳┃港口┃磁力",
       "type": 3,
@@ -4141,16 +4103,6 @@
       "api": "csp_XYQHiker",
       "jar": "./lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
       "ext": "./lib/港口.json"
-    },
-    {
-      "key": "js_changmeng",
-      "name": "💤┃畅梦┃影视",
-      "type": 3,
-      "api": "./lib/apiv15drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/changmeng.js"
     },
     {
       "key": "在线电影吧",
