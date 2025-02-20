@@ -121,22 +121,7 @@
       }
     },
     {"key":"小虎斑!","name":"小虎斑 | [资]","type":1,"playerType":2,"searchable":1,"quickSearch":1,"api":"http://gy.xn--yet24tmq1a.xyz/api.php/provide/vod/","categories":[]},
-    {
-      "key": "猎手",
-      "name": "🚛猎手",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://dylstv.com/",
-        "图片": "data-original=\"&&\"",
-        "搜索url": "https://tdgo.shop/vodsearch/-------------.html?wd={wd}",
-        "分类url": "https://tdgo.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "短剧$24#电影$20#电视剧$21#综艺$23#动漫$22"
-      }
-    },
+    {"key":"猎手","name":"🚛猎手","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://dylstv.com/","图片":"data-original=\"&&\"","搜索url":"https://tdgo.shop/vodsearch/-------------.html?wd={wd}","分类url":"https://tdgo.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"短剧$24#电影$20#电视剧$21#综艺$23#动漫$22"}},
     {
       "key": "统一影视",
       "name": "🎬超清┃蓝光",
@@ -156,24 +141,7 @@
       }
     },
     {"key":"csp_XBPQ_fxzcjy","name":"正版🍁柴姬影视","type":3,"api":"csp_XBPQ","ext":"./json/柴姬影视.json"},
-    {
-      "key": " fxzds ",
-      "name": "正版🍁袋鼠影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "<p>&&</p>",
-        "线路标题": ">蓝光专线</a>",
-        "线路数组": "data-parent=&&</a>[不包含:蓝光专线3]",
-        "播放数组": "<ul class=\"playlistlink&&</ul>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "✨HD+note textbg\">&&</span>",
-        "数组": "videopic lazy\"&&</a>",
-        "分类url": "https://dsdytv.com",
-        "分类数组": "tabbar visible-xs\">&&</div}"
-      }
-    },
+    {"key":" fxzds ","name":"正版🍁袋鼠影视","type":3,"api":"csp_XBPQ","ext":{"简介":"<p>&&</p>","线路标题":">蓝光专线</a>","线路数组":"data-parent=&&</a>[不包含:蓝光专线3]","播放数组":"<ul class=\"playlistlink&&</ul>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"✨HD+note textbg\">&&</span>","数组":"videopic lazy\"&&</a>","分类url":"https://dsdytv.com","分类数组":"tabbar visible-xs\">&&</div}"}},
     {
       "key": "shiju影视",
       "name": "正版🍁视觉影院",
@@ -253,20 +221,7 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$30"
       }
     },
-    {
-      "key": "80影视",
-      "name": "💫80先生┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/o.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.hd8090.cc/fl/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$3#综艺$5#伦理$22"
-      }
-    },
+    {"key":"80影视","name":"💫80先生┃蓝光","type":3,"api":"csp_XBPQ","jar":"./jars/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.hd8090.cc/fl/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$3#综艺$5#伦理$22"}},
     {
       "key": "爱看影视1",
       "name": "💫爱看┃蓝光",
@@ -290,39 +245,8 @@
         "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
       }
     },
-    {
-      "key": "八号影院",
-      "name": "💫八号影院┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/o.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索url": "http://www.soutiyi.com/search.php?searchword={wd}",
-        "搜索链接": "href=\"&&\"",
-        "简介": "请勿相信影片中的广告，以免上当受骗。+<p class=\"col-pd detail\"&&</span>",
-        "线路数组": "<img src=\"/statics/icon/icon_26.png\"&&</h3>",
-        "线路标题": "蓝光专线",
-        "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
-        "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
-      }
-    },
-    {
-      "key": "dandan影视",
-      "name": "💫蛋蛋剧┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/o.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.ddjhd.com/type/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
+    {"key":"八号影院","name":"💫八号影院┃影视","type":3,"api":"csp_XBPQ","jar":"./jars/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"搜索url":"http://www.soutiyi.com/search.php?searchword={wd}","搜索链接":"href=\"&&\"","简介":"请勿相信影片中的广告，以免上当受骗。+<p class=\"col-pd detail\"&&</span>","线路数组":"<img src=\"/statics/icon/icon_26.png\"&&</h3>","线路标题":"蓝光专线","分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html","分类":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"}},
+    {"key":"dandan影视","name":"💫蛋蛋剧┃蓝光","type":3,"api":"csp_XBPQ","jar":"./jars/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ddjhd.com/type/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
     {
       "key": "xbpq_欧库影视",
       "name": "💫欧库",
@@ -351,73 +275,9 @@
         "排序": "最近热映$rankhot#最近上映$ranklatest#最近好评$rankpoint"
       }
     },
-    {
-      "key": "huawen",
-      "name": "💫华文",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "changeable": 1,
-      "ext": "http://zytv.eztv.video/api.php/app/",
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "xbpq_万能",
-      "name": "💫万能",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "主页url": "https://www.wnvod.cc/",
-        "分类url": "https://www.wnvod.cc/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$6#纪录片$20#短视频$26"
-      }
-    },
-    {
-      "key": "天狗追剧",
-      "name": "💫天狗追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "图片代理": "0",
-        "直接播放": "0",
-        "播放请求头": "",
-        "主页url": "http://www.jlspyy.com.cn",
-        "首页": "120",
-        "起始页": "1",
-        "分类url": "http://www.jlspyy.com.cn/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
-        "二次截取": "class=\"evg6xn stui-vodlist clearfix&&</ul>",
-        "数组": "thumb lazyload&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "pic-text text-right\">&&</span></a>",
-        "链接": "href=\"&&\"",
-        "线路数组": "class=*nore text-muted pull-right\"&&</div>",
-        "线路标题": "title\">&&</h3>",
-        "播放数组": "playlist clearfix&&</ul>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "类型": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#犯罪片$fanzuipian#动画片$donghuapian#伦理片$lunlipian国产剧$guochanju#香港剧$gangju#韩国剧$hanju#欧美剧$oumeiju#台湾剧$taiwanju#泰剧$taiju#日本剧$riju#其它剧$haiwaiju空空空"
-      }
-    },
+    {"key":"huawen","name":"💫华文","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"changeable":1,"ext":"http://zytv.eztv.video/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
+    {"key":"xbpq_万能","name":"💫万能","type":3,"api":"csp_XBPQ","filterable":1,"changeable":1,"ext":{"主页url":"https://www.wnvod.cc/","分类url":"https://www.wnvod.cc/vodshow/{cateId}--------{catePg}---.html","分类":"电影$1#连续剧$2#综艺$3#动漫$4#短剧$6#纪录片$20#短视频$26"}},
+    {"key":"天狗追剧","name":"💫天狗追剧","type":3,"api":"csp_XBPQ","jar":"./jars/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天狗追剧.json"},
     {
       "key": "LKDB",
       "name": "💫来看点播影视",
