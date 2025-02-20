@@ -78,6 +78,7 @@
     {"key":"wvod1","name":"蛙 | 影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"./json/蛙影视.json"},
     {"key":"csp_xBPQ_淘影","name":"淘影┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./json/淘影.json"},
     {"key":"可可影视12","name":"可可影视┃推荐","type":3,"api":"csp_XBPQ","jar":"./jars/dokilwss.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/可可影视推荐.json"},
+    {"key":"csp_xBPQ可可","name":"🎦可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/可可影视.json"},
     {
       "key": "雨见视频",
       "name": "雨见┃蓝光",
@@ -2336,16 +2337,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/小茶狐.json"
-    },
-    {
-      "key": "csp_xBPQ可可",
-      "name": "🎦可可影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/可可影视.json"
     },
     {
       "key": "TVB云播",
