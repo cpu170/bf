@@ -43,6 +43,7 @@
     { "key": "茶杯线路", "name": "🌼茶杯","type":3,"api":"csp_XBPQ","ext":"./json/茶杯2025.json"},
     { "key": "天龙线路", "name": "🌼天龙","type":3,"api":"csp_XBPQ","ext":"./json/天龙.json"},
     { "key": "低端线路", "name": "🌼低端","type":3,"api":"csp_XBPQ","ext":"./json/低端.json"},
+    {"key":"csp_Czsapp厂长","name":"🏭厂长┃影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"ext":"./json/厂长影院1.json"},
     {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
     {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
