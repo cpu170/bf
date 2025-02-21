@@ -6588,23 +6588,6 @@
       }
     },
     {
-      "key": "椰子逍遥",
-      "name": "椰子逍遥🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "http://www.coco-photo.com/type/30.html",
-        "分类url": "http://www.coco-photo.com/show/30-{cateId}-------{catePg}---.html",
-        "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
-        "分类值": "*"
-      }
-    },
-    {
       "key": "vod_魔都",
       "name": "️魔都动漫资源含🔞",
       "type": 1,
@@ -6688,15 +6671,6 @@
       "name": "🍇富家┃二代🔞",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=list&pg=1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp066",
-      "name": "🔞花椒资源",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -6990,7 +6964,7 @@
       "key": "jkzy",
       "name": "jkun资源🔞",
       "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
       "playurl": "https://www.jkunjx.com/?url=",
       "playerType": 2,
       "searchable": 1,
@@ -7004,35 +6978,6 @@
       "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
-    },
-    {
-      "key": "探探资源",
-      "name": "探探资源🔞",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "",
-      "categories": [
-        "精品推荐",
-        "国产视频",
-        "主播直播",
-        "日本无码",
-        "日本有码",
-        "中文字幕",
-        "巨乳美乳",
-        "熟女人妻",
-        "强奸乱伦",
-        "欧美精品",
-        "少女萝莉",
-        "三级伦理",
-        "成人动漫",
-        "制服丝袜",
-        "角色扮演",
-        "口交颜射",
-        "偷拍自拍"
-      ]
     },
     {
       "key": "麻豆村",
@@ -7169,14 +7114,6 @@
       "quickSearch": 0
     },
     {
-      "key": "*老鸭资源",
-      "name": "*老鸭资源🔞",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
       "key": "*老鸨资源",
       "name": "*老鸨资源🔞",
       "type": 1,
@@ -7221,7 +7158,7 @@
       "key": "花都影视",
       "name": "花都影视🔞\"",
       "type": 1,
-      "api": "https://hdys2.com/api.php/provide/vod/",
+      "api": "https://hd.hdys2.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
     },
