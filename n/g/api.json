@@ -9082,8 +9082,10 @@
     {"name":"🔯解析¹","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
     {"name":"🔯解析²","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},
     {"name":"🔯STK解析","type":1,"url":"http://112.74.124.75:8899/jiexi/api.php?url=","ext":{"flag":["ST4K"]}},
+    {"name":"🌌推荐","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
+    {"name":"🌌臻享","type":1,"url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
     {
-      "name": "影视4k解析",
+      "name": "🌌影视4k解析",
       "type": 1,
       "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=312821&key=abfgjnwxEGJTVXZ569&url=",
       "ext": {
