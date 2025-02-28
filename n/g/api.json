@@ -60,6 +60,7 @@
     {"key":"csp_Kuaikan👀","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ikanbot机器","name":"👾Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Wetv","name":"🚗尘落","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_XBPQ_臻品电影","name":"🎬臻品电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/臻品电影.json"},
     {"key":"gzvod","name":"🌸瓜子☪秒播","type":3,"api":"csp_XBPQ","ext":"./json/瓜子影视.json"},
     {"key":"csp_xBPQ_素白","name":"素白┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./json/素白白影视1.json"},
     {"key":"素白ys","name":"小白┃影视","type":3,"api":"csp_XBPQ","ext":"./json/素白白影视ys.json"},
