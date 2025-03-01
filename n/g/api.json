@@ -8816,6 +8816,7 @@
     {"key":"csp_XBPQ_婷美AV","name":"婷美AV[🔞]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","直接播放":"","分类url":"https://tmav5.cfd/frim/index{cateId}-{catePg}.html","搜索url":"https://tmav5.cfd/search.php?page={pg}&searchword={wd}&searchtype=","搜索模式":"1","图片":"data-original=\"&&\"","数组":"class=\"stui-vodlist__box&&</div","播放数组":"class=\"stui-pannel_bd col-pd clearfix&&</div>","分类":""},"jar":"./jars/zy.jar"},
     {"key":"洋马🔞","name":"🔞洋马","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"./py/洋马.py"},
     {"key":"熊猫🔞","name":"🔞熊猫","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./jars/182.jar"},
+    {"key":"csp_XBPQ_头等舱AV","name":"头等舱🔞🛩️","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/AV头等舱.json"},
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
