@@ -1,0 +1,16 @@
+{
+    "请求头": "手机",
+    "站名": "AV头等舱",
+    "主页url": "https://avtdc.avtdc.xyz/",
+    "数组": "<div class=\"content\">&&</a>",
+    "直接播放": "1",
+    "标题": "title=\"&&\"",
+    "图片": "src=\"&&\"",
+    "免嗅": "1",
+    "搜索url": "https://avtdc84.mom/index.php/vod/search/page/{pg}/wd/{wd}.html",
+    "嗅探词": ".m3u8#.mp4",
+    "分类url": "https://avtdc84.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+    "分类数组": "<li&&</li>",
+    "分类标题": ">&&/a>",
+    "分类ID": "/index.php/vod/type/id/&&.html"
+}
