@@ -2334,7 +2334,7 @@
         "搜索数组": "class=\"entry-media\">&&</div"
       }
     },
-    {"key":"修罗","name":"🧲修罗","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/修罗影视.json"},
+    {"key":"修罗","name":"🧲修罗","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/修罗影视.json"},
     {"key":"csp_Mp4Mov","name":"🧲Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_New6v","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
