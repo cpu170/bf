@@ -1,0 +1,20 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://www.wwgz.cn/",
+    "二次截取": "resize_list\"&&</ul>",
+    "数组": "<li&&/li>",
+    "标题": "title=\"&&\"",
+    "图片": "src=\"&&\"",
+    "副标题": "<span>&&</em>",
+    "链接": "href=\"&&\"",
+    "播放数组": "class=\"numList\"&&</ul>",
+    "播放列表": "<a&&a>",
+    "播放链接": "href=\"&&\"",
+    "播放标题": ">&&</",
+    "线路数组": "<li><a href=\"javascript:;&&</li>",
+    "线路标题": "\">&&</a>",
+    "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter-{letter}-area-{area}-lang-{lang}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$26",
+    "类型": "动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#惊悚片$16#奇幻片$17||国产剧#12港台泰#13日韩剧#14欧美剧#15||空||动漫剧#18动漫片#19||空"
+}
