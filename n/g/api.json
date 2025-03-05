@@ -75,6 +75,7 @@
     {"key":"gzvod","name":"🌸瓜子☪秒播","type":3,"api":"csp_XBPQ","ext":"./json/瓜子影视.json"},
     {"key":"csp_xBPQ_素白","name":"素白┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./json/素白白影视1.json"},
     {"key":"素白ys","name":"小白┃影视","type":3,"api":"csp_XBPQ","ext":"./json/素白白影视ys.json"},
+    {"key":"csp_XBPQ_4KAV","name":" 👺4KAV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KAV.json"},
     {"key":"奴娜TV","name":"🅰️奴娜TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.nntv.in/api.php/v1.vod"},
     {"key":"聚合蓝光","name":"🅰️聚合蓝光[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://kkwk123.top/api.php/app/"},
     {"key":"宝片视频","name":"🅰️宝片视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://172.247.189.145:8989/api.php/app/"},
