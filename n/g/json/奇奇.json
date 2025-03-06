@@ -1,0 +1,19 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "数组": "lazyload&&</a>",
+    "标题": "title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "副标题": "right\">&&</span>",
+    "链接": "href=\"&&\"",
+    "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+    "播放列表": "<a&&a>",
+    "播放链接": "href='&&'",
+    "播放标题": ">&&</",
+    "线路数组": "class=\"more text-muted pull-right&&</div>",
+    "线路标题": ".:雷蒙影视:.+title\">&&</",
+    "起始页": "0",
+    "分类url": "http://www.csjlbj.com/e/action/ListInfo.php?page={catePg}&classid={cateId}&line=24&tempid=9&orderby={by}&myorder=0&ph=1&tempid=9&nianfen={year}&yuyan={lang}&zimu={letter}&diqu={area};;x",
+    "分类": "电影$1#电视剧$20#综艺$30#动漫$26#精品短剧$43#体育赛事$45",
+    "类型": "动作片$2#喜剧片$3#爱情片$4#科幻片$5#剧情片$6#恐怖片$7#战争片$17#纪录片$18#动画片$41#预告片$42#影视解说$44国产剧$21#港台剧$22#日韩剧$23#欧美剧$24#泰剧$25大陆综艺$31#港台综艺$32#海外综艺$33国产动漫$27#日本动漫$28#海外动漫$29空||空",
+    "排序": "按时间$newstime#按人气$onclick#按推荐$isgood"
+}
