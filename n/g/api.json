@@ -672,7 +672,6 @@
     },
     {"key":"星空影院2","name":"星空影院2｜蓝色影视","type":3,"api":"csp_XBPQ","ext":{"简介":"","线路数组":"#playlist*\"&&</a ></li>[排序:天空资源>百度云M3U8>]","线路标题":"✨PYLB专享✨+tab\">&&</a >","搜索url":"https://www.ybjk.cc/mdeb/search--------------.html?wd={wd}","搜索模式":"1","播放数组":"","分类url":"https://www.ybjk.cc/jrgm/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
     {"key":"小白菜","name":"小白菜☪电影","type":3,"api":"csp_XBPQ","searchable":1,"ext":{"播放标题":"📹+>&&</a>","分类url":"https://www.xbcdy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类数组":"*\">&&</li>[不包含:部#最新#最热#]","分类标题":">&&</a>"}},
-    {"key":"海纳TV","name":"🧿海纳┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/海纳TV.json"},
     {"key":"好影快看","name":"🧿好影┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"ext":"./json/好影快看.json"},
     {
       "key": "天龙高清",
