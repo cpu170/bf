@@ -87,6 +87,7 @@
     {"key":"csp_XBPQ_木瓜瓜","name":"🍚瓜瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/木瓜.json"},
     {"key":"csp_XBPQ_影大","name":"🍚影大","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/影大.json"},
     {"key":"csp_XBPQ_开心","name":"🍚开心","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/开心.json"},
+    {"key":"csp_XBPQ_辰辰","name":"🍚辰辰","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/辰辰.json"},
     {"key":"奴娜TV","name":"🅰️奴娜TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.nntv.in/api.php/v1.vod"},
     {"key":"聚合蓝光","name":"🅰️聚合蓝光[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://kkwk123.top/api.php/app/"},
     {"key":"宝片视频","name":"🅰️宝片视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://172.247.189.145:8989/api.php/app/"},
