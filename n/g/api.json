@@ -192,56 +192,9 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#战争片$12||日剧$26#海外剧$27#国产剧$13#港台剧$14#韩剧$15#美剧$16||空||空||空"
       }
     },
-    {
-      "key": "火车太堵电影猎手",
-      "name": "🌞首选┃蓝光┃急速",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "影片年代": "<div class=\"module-info-tag\">&&</div>",
-        "影片地区": "",
-        "影片状态": "备注：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-        "分类url": "https://tdgo.shop/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$20#剧集$21#综艺$23#动漫$22#短剧$24"
-      }
-    },
-    {
-      "key": "麦田影视",
-      "name": "⭐麦田┃超清┃多源有广",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "图片": "data-src=\"&&\"",
-        "线路数组": "<a class=\"swiper-slide\"&&</a>",
-        "线路标题": "</i>&nbsp;&&</a>+集",
-        "搜索url": "https://www.mtyy1.com/vodsearch/-------------.html?wd={wd}",
-        "分类url": "https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
-      }
-    },
-   {
-      "key": "极速电影1",
-      "name": "🌞首选┃蓝光┃极速",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/o.jar",
-      "ext": {
-        "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
-      }
-    },
+    {"key":"火车太堵电影猎手","name":"🌞首选┃蓝光┃急速","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片年代":"<div class=\"module-info-tag\">&&</div>","影片地区":"","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://tdgo.shop/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$20#剧集$21#综艺$23#动漫$22#短剧$24"}},
+    {"key":"麦田影视","name":"⭐麦田┃超清┃多源有广","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"图片":"data-src=\"&&\"","线路数组":"<a class=\"swiper-slide\"&&</a>","线路标题":"</i>&nbsp;&&</a>+集","搜索url":"https://www.mtyy1.com/vodsearch/-------------.html?wd={wd}","分类url":"https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"}},
+    {"key":"极速电影1","name":"🌞首选┃蓝光┃极速","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/o.jar","ext":{"分类url":"https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"}},
     {"key":"豆瓣热播毒蛇资源","name":"🌕影库┃电影频道","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/豆瓣热播毒蛇资源.json"},
     {
       "key": "csp_xbpq_映播",
@@ -278,19 +231,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-    {
-      "key": "csp_XBPQ_88影视",
-      "name": "💫┃88影视┃XB",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$5",
-        "分类url": "https://www.88tvs.cn/vodtype/{cateId}-{catePg}.html"
-      }
-    },
+    {"key":"csp_XBPQ_88影视","name":"💫┃88影视┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$5","分类url":"https://www.88tvs.cn/vodtype/{cateId}-{catePg}.html"}},
     {
       "key": "花姐香影院",
       "name": "花姐影院",
@@ -313,24 +254,7 @@
         "分类值": "2&1&3&4"
       }
     },
-    {
-      "key": "csp_moxmi",
-      "name": "💢乐美丨影视",
-      "type": 1,
-      "api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list",
-      "playUrl": "json:http://iid.moxmi.top:81/gg.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/林中的小屋.jar",
-      "categories": [
-        "电影",
-        "剧集",
-        "综艺",
-        "动漫",
-        "短剧"
-      ]
-    },
+    {"key":"csp_moxmi","name":"💢乐美丨影视","type":1,"api":"http://mi.moxmi.top:81/api.php/provide/vod/?ac=list","playUrl":"json:http://iid.moxmi.top:81/gg.php?url=","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/林中的小屋.jar","categories":["电影","剧集","综艺","动漫","短剧"]},
     {
       "key": "xmxs_0416",
       "name": "HZM柯觅┃影视",
@@ -510,63 +434,12 @@
       }
     },
     {"key":"cj_kk资源","name":"♨️kk采集","type":0,"api":"http://kkwk123.top/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":[],"playUrl":""},
-    {
-      "key": "鬼片之家",
-      "name": "♨️鬼片┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jars/xyqxbpq.jar",
-      "ext": {
-        "分类url": "https://www.guipian365.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html",
-        "分类": "鬼片大全$1#电视剧$2#恐怖片$3#动漫$4#大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||空||空"
-      }
-    },
+    {"key":"鬼片之家","name":"♨️鬼片┃影视","type":3,"api":"csp_XBPQ","jar":"./jars/xyqxbpq.jar","ext":{"分类url":"https://www.guipian365.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html","分类":"鬼片大全$1#电视剧$2#恐怖片$3#动漫$4#大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||空||空"}},
     {"key":"csp_appys_kuloo","name":"♨️酷窝资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
-    {
-      "key": "小宝zj",
-      "name": "♨️宝盒单仓┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
-      }
-    },
-    {
-      "key": "99影视",
-      "name": "♨️99影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "剧情介绍: +col-pd text-collapse content\">&&</div>",
-        "分类url": "http://www.kangping99.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$25#电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "csp_丹江电影网",
-      "name": "♨️丹江电影网",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "主页url": "http://www.danjiangpiaoliu.com/",
-        "分类url": "http://www.danjiangpiaoliu.com/{cateId}{class}{area}{year}{by}/",
-        "分类": "电影$dianying#电视剧$ilianxuju#综艺$izongyi#动漫$idongman#明星$mingxing#短剧$iweiduanju#风月片$ifengyuepian"
-      }
-    },
-    {
-      "key": "青柠影院",
-      "name": "♨️青柠影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "http://www.yiqilingyuan.com/yiqi/{cateId}-{catePg}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3#短剧$31"
-      }
-    },
+    {"key":"小宝zj","name":"♨️宝盒单仓┃秒播","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
+    {"key":"99影视","name":"♨️99影视","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍: +col-pd text-collapse content\">&&</div>","分类url":"http://www.kangping99.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电影$1#连续剧$2#动漫$4#综艺$3"}},
+    {"key":"csp_丹江电影网","name":"♨️丹江电影网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"http://www.danjiangpiaoliu.com/","分类url":"http://www.danjiangpiaoliu.com/{cateId}{class}{area}{year}{by}/","分类":"电影$dianying#电视剧$ilianxuju#综艺$izongyi#动漫$idongman#明星$mingxing#短剧$iweiduanju#风月片$ifengyuepian"}},
+    {"key":"青柠影院","name":"♨️青柠影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"http://www.yiqilingyuan.com/yiqi/{cateId}-{catePg}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3#短剧$31"}},
     {
       "key": "-飘花影院",
       "name": "🌺飘花┃影院",
