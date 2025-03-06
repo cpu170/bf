@@ -118,6 +118,7 @@
     {"key":"csp_XBPQ_Y3","name":"🍚Y3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Y3.json"},
     {"key":"csp_XBPQ_蝌蚪","name":"🍚蝌蚪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蝌蚪.json"},
     {"key":"csp_XBPQ_淘剧","name":"🍚淘剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"http://www.taoju.tv/list/{cateId}.html","分类":"电影$1#连续剧$2#动漫$3#综艺$4"}},
+    {"key":"csp_XBPQ_小镇","name":"🍚小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小镇.json"},
     {"key":"奴娜TV","name":"🅰️奴娜TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.nntv.in/api.php/v1.vod"},
     {"key":"聚合蓝光","name":"🅰️聚合蓝光[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://kkwk123.top/api.php/app/"},
     {"key":"宝片视频","name":"🅰️宝片视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://172.247.189.145:8989/api.php/app/"},
