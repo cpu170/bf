@@ -4748,10 +4748,10 @@
     },
     {
       "key": "drpy_js_骚火电影",
-      "name": "影视 | 骚火电影[js]",
+      "name": "影视 | 骚火电影[优]",
       "type": 3,
       "api": "./api/drpy2.min.js",
-      "ext": "./js/骚火电影.js"
+      "ext": "./js/烧火影视[优].js"
     },
     {
       "key": "drpy_js_网飞.TV",
