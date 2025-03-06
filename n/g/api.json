@@ -115,6 +115,7 @@
     {"key":"csp_XBPQ_独播","name":"🍚独播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/独播.json"},
     {"key":"csp_XBPQ_青柠","name":"🍚青柠","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青柠.json"},
     {"key":"csp_XBPQ_八一","name":"🍚八一","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"detail-sketch\">&&","搜索url":"https://www.hihedon.com/vodsearch/{wd}----------{pg}---.html","分类url":"https://www.hihedon.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$dy#连续剧$dsj#动漫$dm#综艺$zy#解说$js"}},
+    {"key":"csp_XBPQ_Y3","name":"🍚Y3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Y3.json"},
     {"key":"奴娜TV","name":"🅰️奴娜TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.nntv.in/api.php/v1.vod"},
     {"key":"聚合蓝光","name":"🅰️聚合蓝光[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://kkwk123.top/api.php/app/"},
     {"key":"宝片视频","name":"🅰️宝片视频[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://172.247.189.145:8989/api.php/app/"},
