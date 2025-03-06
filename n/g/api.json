@@ -109,6 +109,7 @@
     {"key":"csp_XBPQ_飞猫","name":"🍚飞猫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/飞猫.json"},
     {"key":"csp_XBPQ_玫瑰","name":"🍚玫瑰","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/玫瑰.json"},
     {"key":"csp_XBPQ_海纳","name":"🍚海纳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/海纳TV.json"},
+    {"key":"csp_XBPQ_全民","name":"🍚全民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/全民.json"},
     {"key":"csp_XBPQ_Cally影视","name":"🍚影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Cally.json"},
     {"key":"奴娜TV","name":"🅰️奴娜TV[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.nntv.in/api.php/v1.vod"},
     {"key":"聚合蓝光","name":"🅰️聚合蓝光[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://kkwk123.top/api.php/app/"},
