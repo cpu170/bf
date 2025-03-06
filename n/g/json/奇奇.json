@@ -10,7 +10,7 @@
     "播放链接": "href='&&'",
     "播放标题": ">&&</",
     "线路数组": "class=\"more text-muted pull-right&&</div>",
-    "线路标题": ".:雷蒙影视:.+title\">&&</",
+    "线路标题": "+title\">&&</",
     "起始页": "0",
     "分类url": "http://www.csjlbj.com/e/action/ListInfo.php?page={catePg}&classid={cateId}&line=24&tempid=9&orderby={by}&myorder=0&ph=1&tempid=9&nianfen={year}&yuyan={lang}&zimu={letter}&diqu={area};;x",
     "分类": "电影$1#电视剧$20#综艺$30#动漫$26#精品短剧$43#体育赛事$45",
