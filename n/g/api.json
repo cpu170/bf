@@ -49,6 +49,7 @@
     {"key":"drpyS_麦田影院ds","name":"🌍麦田影院(DS)","type":4,"api":"https://drpys.6516789.xyz/api/麦田影院","searchable":2,"filterable":0,"quickSearch":0,"ext":""},
     {"key":"drpyS_专享影视ds","name":"🌍专享影视(DS)","type":4,"api":"https://drpys.6516789.xyz/api/专享影视","searchable":1,"filterable":0,"quickSearch":0,"ext":""},
     {"key": "py_光速","name": "💡┃光速┃影视","type": 3,"api": "./py/光速.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
+    {"key": "hitv","name": "🎸┃Hitv┃影视","type": 3,"api": "./py/hitv.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
     {"key":"白羊影院","name":"♈白羊┃影院","type":3,"api":"csp_XBPQ","jar":"./jars/xyqxbpq.jar","ext":"./json/白羊影院.json"},
     { "key": "茶杯线路", "name": "🌼茶杯","type":3,"api":"csp_XBPQ","ext":"./json/茶杯2025.json"},
     { "key": "天龙线路", "name": "🌼天龙","type":3,"api":"csp_XBPQ","ext":"./json/天龙.json"},
