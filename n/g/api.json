@@ -7737,7 +7737,7 @@
     {"key":"csp_XBPQ_小马🔞","name":"小马[🔞]","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://xn--q5rp79mba.llcaoxm-jam.buzz/index.php/vodtype/{cateId}-{catePg}.html","直接播放":"1","图片":"data-original=\"&&\"","分类":"日本视频$10#有码视频$47#无码视频$48#中文字幕$49#国产视频$44#国产传媒$160#韩国精品$37#欧美性爱$35#成人动画$42"},"jar":"./jars/zy.jar"},
     {"key":"csp_XBPQ_U.U互联网🔞","name":"U.U互联网[🔞]","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://xn--8prv51fzli.mtlovefree.buzz/index.php/vodtype/{cateId}-{catePg}.html","直接播放":"1","图片":"data-original=\"&&\"","分类":"麻豆视频$161#91制片厂$162#天美传媒$163#蜜桃传媒$164#皇家华人$165#星空传媒$166#sa国际传媒$175#糖心Vlog$178#囯产視頻$44#福利姬$54#明星换脸$79#伦理三级$80#SWAG$89#杏吧原创$172#起点传媒$174#草莓猛料$176#有码视频$47#无码视频$48#中文字幕$49#巨乳美乳$84#制服师生$85#丝袜美腿$86#少女萝莉$87#重口色情$88"},"jar":"./jars/zy.jar"},
     {"key":"yyb--","name":"🔞淫宝资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/淫宝资源.json"},	
-    {"key":"csp_XBPQ_久草","name":"久草🔞]","type":3,"api":"csp_XBPQ","jar":"./jars/XBPQ-v.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/久草在线.json"},
+    {"key":"csp_XBPQ_久草","name":"久草在线🔞","type":3,"api":"csp_XBPQ","jar":"./jars/XBPQ-v.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/久草在线.json"},
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
