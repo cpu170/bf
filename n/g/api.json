@@ -181,7 +181,7 @@
     {"key":"熊猫影视⑧","name":"熊猫┃秒看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影视.json"},
     {"key":"大鹅影视","name":"大鹅┃秒看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/大鹅影视.json"},
     {"key":"蝌蚪影视①","name":"蝌蚪┃秒看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蝌蚪影视.json"},
-    {"key":"魔方","name":"魔方┃影视","type":3,"jar":"./jars/XBPQ6.jar","api":"csp_XBPQ","ext":{"分类url":"https://www.mfys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/"}},
+   
     {
       "key": "dianyiPQ",
       "name": "💭电影先生┃秒播",
