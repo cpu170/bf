@@ -7456,9 +7456,7 @@
       "changeable": 0,
       "ext": "./json/高中课堂.json"
     },
-    {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}}
-    
-  ],
+    {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}}],
   "parses": [
     {"type":3,"url":"Web","ext":{"flags":["YouKu","youku","优酷","优 酷","优酷视频","qq","企鹅","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","奇艺视频","爱奇艺视频","m1905","xigua","西瓜视频","letv","leshi","LeShi","乐视","乐 视","乐视视频","sohu","SoHu","搜狐","搜 狐","搜狐视频","tudou","土豆视频","pptv","PPTV","mgtv","芒果","imgo","MangGuo","芒果TV","芒 果 T V","芒果视频","bilibili","哔哩","哔 哩","哔 哩 哔 哩","seven","wasu"],"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
     {"name":"🔯解析","type":1,"url":"https://www.tcsbl.cn/api/lib/shuo.php?url="},
