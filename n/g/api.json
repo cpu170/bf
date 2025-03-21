@@ -273,48 +273,9 @@
     {"key":"万家影视","name":"万家影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.lwjtv.com/ystop/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongmna"}},
     {"key":"csp_XBPQ_观影台","name":"影视 | 🍚观影台(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/观影台.json"},
     {"key":"csp_XBPQ_maicaiyingyuan","name":"👺麦菜影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/hx.jar","ext":{"分类url":"https://wap.maicai.la/type/{cateId}/--{year}---addtime.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$43"}},
-    {
-      "key": "csp_XBPQ_letuys",
-      "name": "👺乐途影视(XP)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/hx.jar",
-      "ext": {
-        "分类url": "https://www.n-meng.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$25#韩剧$16#美剧$29#短剧$26"
-      }
-    },
-    {
-      "key": "大海影视",
-      "name": "📛大海┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/hx.jar",
-      "ext": {
-        "分类url": "https://m.yfysit.com/dahaisw/{cateId}--------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$new"
-      }
-    },
-    {
-      "key": "免费影视",
-      "name": "📛免费┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/hx.jar",
-      "ext": {
-        "分类url": "https://www.eyouhao.com/vodshow/{cateId}--------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$new"
-      }
-    },
+    {"key":"csp_XBPQ_letuys","name":"👺乐途影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/hx.jar","ext":{"分类url":"https://www.n-meng.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&jq={class}&area={area}&year={year}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$25#韩剧$16#美剧$29#短剧$26"}},
+    {"key":"大海影视","name":"📛大海┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/hx.jar","ext":{"分类url":"https://www.vsyy520.net/dahaisw/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$new"}},
+    {"key":"免费影视","name":"📛免费┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/hx.jar","ext":{"分类url":"https://www.eyouhao.com/vodshow/{cateId}--------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$new"}},
     {
       "key": "rarbt",
       "name": "🎦rarbt",
