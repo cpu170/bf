@@ -1,0 +1,13 @@
+{
+        "图片": "data-src=\"&&\"",
+        "副标题": "<divclass=\"absoluterightbottomsmall-marginsmall-roundblackwhite-textsmall-text\">&nbsp;&&&nbsp;",
+        "影片地区": "地区",
+        "影片类型": "<navclass=\"scrollno-margin\"&&</nav>",
+        "导演": "導演:&&</a>",
+        "主演": "主演:&&</p>",
+        "简介": "+<pstyle=\"position:relative;display:inline-block;\"&&</div>",
+        "线路数组": "<adata-ui=\"&&</div>",
+        "线路标题": ">&&</span>",
+        "分类url": "https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
+      }
