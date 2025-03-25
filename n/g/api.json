@@ -7939,7 +7939,8 @@
     {
       "name": "sn",
       "hosts": [
-        "suonizy"
+        "suonizy",
+	"qrssv.com"      
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -7985,7 +7986,7 @@
     {
       "name": "lz",
       "hosts": [
-        "vip.lz",
+        "vip.lz",     
         "hd.lz",
         "v.cdnlz1",
         "v.cdnlz",
@@ -7996,6 +7997,8 @@
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",      
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -8021,6 +8024,7 @@
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",      
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -8133,10 +8137,13 @@
     {
       "name": "♻️优质",
       "hosts": [
-        "yzzy"
+        "yzzy",
+	"playback"      
       ],
       "regex": [
         "18.66",
+	"16.63",
+	"17.66",      
         "19.52",
         "19.13"
       ]
@@ -8155,7 +8162,8 @@
     {
       "name": "kk",
       "hosts": [
-        "kuaikan"
+        "kuaikan",
+	"vip.kuaikan"      
       ],
       "regex": [
         "5",
@@ -8163,6 +8171,7 @@
         "15.231",
         "20.123",
         "20.167",
+	"18.066",      
         "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY",
