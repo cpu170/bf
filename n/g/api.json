@@ -7961,7 +7961,9 @@
       "name": "bf",
       "hosts": [
         "bfzy",
+	"bfengbf.com",     
         "bfbfvip",
+	"c1",      
         "s5.bfzycdn"
       ],
       "regex": [
@@ -8129,6 +8131,17 @@
         "19.13"
       ]
     },
+    {
+	"name": "♻️饭团点击",
+	"hosts": [
+		"dadagui",
+		"freeok",
+		"dadagui"
+	],
+	"script": [
+		"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+	]
+   },  
     {
       "name": "kk",
       "hosts": [
