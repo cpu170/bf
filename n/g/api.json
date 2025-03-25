@@ -4522,6 +4522,7 @@
         "分类": "动漫剧场$3#好看动漫$4"
       }
     },
+    {"key":"细胞资源网","name":"细胞🔞","type":1,"api":"https://www.xxibaozyw.com/api.php/provide/vod/?ac=list","playUrl":"json:https://www.xxibaozyw.com/player.php?url=","playerType":0,"searchable":1,"quickSearch":1,"filterable":1},	  
     {"key":"XBPQ_超级社区","name":"㊙️超级社区","type":3,"api":"csp_XBPQ","ext":"./json/超级社区.json"},
     {"key":"XBPQ_蜜汁TV","name":"㊙️蜜汁TV","type":3,"api":"csp_XBPQ","ext":"./json/蜜汁TV.json"},
     {"key":"XBPQ_九一午夜","name":"㊙️九一午夜","type":3,"api":"csp_XBPQ","ext":"./json/九一午夜.json"},
