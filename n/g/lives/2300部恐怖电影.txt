@@ -2159,6 +2159,7 @@ X博士（美国恐怖片）,https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index
 怪物2005（大陆恐怖片）,https://vip1.lz-cdn1.com/20220415/2004_47eaae5d/index.m3u8
 极度恐慌1983（西班牙恐怖片）,https://vip1.lz-cdn1.com/20220415/1989_43e31e1a/index.m3u8
 电影23,#genre#
+南洋十大邪术【粤语】（香港恐怖片）,https://jkunbf.com/20240127/Pkjuy2rK/index.m3u8
 女校风云之邪教入侵【粤语】（香港恐怖片）,https://vip2.fhbf9.com/20210804/Ghay3wou/index.m3u8
 邪斗邪【国语】（香港恐怖片）,https://vip2.fhbf9.com/20210804/foK9Dgji/index.m3u8
 邪【粤语】（香港恐怖片）,https://vip2.fhbf9.com/20210804/M20LErxM/index.m3u8
