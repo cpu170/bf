@@ -8112,6 +8112,16 @@
       ]
     },
     {
+	"name": "♻️360",
+	"hosts": [
+		"lyhuicheng"
+	],
+	"regex": [
+		"#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+		"#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+	]
+    },  
+    {
       "name": "♻️乐视",
       "hosts": [
         "leshiyun"
