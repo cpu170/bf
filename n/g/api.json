@@ -8217,6 +8217,19 @@
       ]
     },
     {
+	"name": "♻️开源棋牌",
+	"hosts": [
+		"askzycdn",
+		"jkunbf",
+		"bfikuncdn",
+		"bfaskcdn"
+	],
+	"regex": [
+		"#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+	]
+   },  
+    {
       "name": "Xinsj",
       "hosts": [
         "magnet",
