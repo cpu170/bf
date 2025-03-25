@@ -2159,6 +2159,7 @@ X博士（美国恐怖片）,https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index
 怪物2005（大陆恐怖片）,https://vip1.lz-cdn1.com/20220415/2004_47eaae5d/index.m3u8
 极度恐慌1983（西班牙恐怖片）,https://vip1.lz-cdn1.com/20220415/1989_43e31e1a/index.m3u8
 电影23,#genre#
+魔唇劫 1991【国语】（香港恐怖片）,https://v2024.sysybf.com/20250128/KM5PwmIy/index.m3u8
 色降2之血玫瑰【国语】（香港恐怖片）,https://vip3.newljlj.com/20250322/40dGHPd4/index.m3u8
 僵尸大时代【国语】（香港恐怖片）,https://vip1.lz-cdn1.com/20220415/1977_502d5769/index.m3u8
 ICQ幽灵【国语】（香港恐怖片）,https://vip.lzcdn2.com/20220412/3163_cae2a61d/index.m3u8
