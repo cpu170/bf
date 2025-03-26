@@ -7142,165 +7142,23 @@
     {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./api/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/虎牙直播.js"},
     {"key":"斗鱼直播","name":"🐠斗鱼直播","type":3,"api":"./api/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/斗鱼直播.js"},
     {"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
-     {
-      "key": "alist",
-      "name": "🦆小雅网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
-        "drives": [
-          {
-            "name": "🦆小雅网盘",
-            "server": "https://pan.mediy.cn/"
-          },
-          {
-            "name": "【4K点播】ecve资源站",
-            "server": "https://pan.ecve.cn"
-          },
-          {
-            "name": "星梦云盘",
-            "server": "https://pan.bashroot.top"
-          },
-          {
-            "name": "共享云盘",
-            "server": "https://pan.oldming.top/"
-          },
-          {
-            "name": "👽ECVE",
-            "server": "https://pan.ecve.cn/"
-          },
-          {
-            "name": "🦆小雅分类",
-            "server": "http://tptpwhc.tpddns.cn:1234/"
-          },
-          {
-            "name": "🐋七米蓝",
-            "server": "https://al.chirmyram.com"
-          }
-        ]
-      }
-    },
+    
     {"key":"Alist2小雅","name":"🎦小雅网盘2","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/小雅.json"},
     {"key":"玩偶gg","name":"👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://wogg.xxooo.cf/","filter":"./json/wogg.json"}},
     {"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://feimaoai.site","filter":"./json/wogg.json"}},
     {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
     {"key":"易搜","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
     {"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","share":"./json/网盘集合.json"}},
-    {
-      "key": "hipy_js_六月听书[听]",
-      "name": "六月听书[听](drpy_t3)",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/六月听书[听].js"
-    },
-    {
-      "key": "drpy_js_爱上你听书网",
-      "name": "听书 | 爱上你听书网[js]",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/爱上你听书网.js",
-      "playerType": "2"
-    },
-    {
-      "key": "hipy_js_i275听书[听]",
-      "name": "i275听书[听](drpy_t3)",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/i275听书[听].js"
-    },
-    {
-      "key": "hipy_js_老白故事[box]",
-      "name": "老白故事[听](drpy_t3)",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/老白故事[box].js"
-    },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/兔小贝.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/高中课堂.json"
-    },
+    {"key":"hipy_js_六月听书[听]","name":"六月听书[听](drpy_t3)","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/六月听书[听].js"},
+    {"key":"drpy_js_爱上你听书网","name":"听书 | 爱上你听书网[js]","type":3,"api":"./api/drpy2.min.js","ext":"./js/爱上你听书网.js","playerType":"2"},
+    {"key":"hipy_js_i275听书[听]","name":"i275听书[听](drpy_t3)","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/i275听书[听].js"},
+    {"key":"hipy_js_老白故事[box]","name":"老白故事[听](drpy_t3)","type":3,"api":"./api/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/老白故事[box].js"},
+    {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"./api/drpy2.min.js","ext":"./js/兔小贝.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
+    {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/少儿教育.json"},
+    {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/小学课堂.json"},
+    {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/初中课堂.json"},
+    {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/高中课堂.json"},
+
     {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}}],
   "parses": [
     {"type":3,"url":"Web","ext":{"flags":["YouKu","youku","优酷","优 酷","优酷视频","qq","企鹅","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","奇艺视频","爱奇艺视频","m1905","xigua","西瓜视频","letv","leshi","LeShi","乐视","乐 视","乐视视频","sohu","SoHu","搜狐","搜 狐","搜狐视频","tudou","土豆视频","pptv","PPTV","mgtv","芒果","imgo","MangGuo","芒果TV","芒 果 T V","芒果视频","bilibili","哔哩","哔 哩","哔 哩 哔 哩","seven","wasu"],"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
