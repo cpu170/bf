@@ -15,6 +15,7 @@
     {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
     {"key":"csp_Local","name":"📚本地资源播放","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"mingxingmtv","name":"🎼明星MTV","type":1,"api":"https://tvbox-mv.cyao.eu.org/mv/vod","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"drjs_36直播[密]","name":"💗️美女直播","type":3,"jar":"./jars/XBPQ5.jar","api":"./api/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/36直播.js"},  
     {"key":"live10","name":"📺︎live直播","type":3,"api":"./lib/lf_live10_min.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./lives/lf_live.txt"},
     {"key":"live10-1","name":"📺︎live直播[密]","type":3,"api":"./lib/lf_live10_min.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./lives/lf_live[密].txt"},
     {"key":"csp_直播","name":"📺︎福利直播","type":3,"api":"./js/直播转点播.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lives/zb.txt"},
