@@ -1,13 +1,13 @@
 [
 
-{"name":"🔒大师吐血推荐","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/dstj.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"🔒大师吐血推荐","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/dstj.txt"},
 
-{"name":"📡直播","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/zba.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"📡直播","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/zba.txt"},
 
-{"name":"🎬欧美","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/omdb.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"🎬欧美","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/omdb.txt"},
 
-{"name":"🎬国产","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/gcdb.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"🎬国产","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/gcdb.txt"},
 
-{"name":"🎬日韩","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/rhdb.txt&&&https://api.likepoems.com/img/mc"}
+{"name":"🎬日韩","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/rhdb.txt"}
 
 ]
