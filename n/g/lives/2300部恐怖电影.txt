@@ -1872,9 +1872,6 @@ Soho区惊魂夜（英国恐怖片）,https://vip1.lz-cdn1.com/20220610/8510_b98
 我们依然在这（美国恐怖片）,https://vip1.lz-cdn1.com/20220522/6456_3c403259/index.m3u8
 吸血鬼马戏团（英国恐怖片）,https://vip1.lz-cdn1.com/20220522/6454_1c4f17aa/index.m3u8
 异象（美国恐怖片）,https://vip1.lz-cdn1.com/20220522/6439_518f0d02/index.m3u8
-追凶二十年【国语】（香港恐怖片）,https://vip1.lz-cdn1.com/20220522/6368_2344f2d9/index.m3u8
-夜半一点钟【国语】（香港恐怖片）,https://vip1.lz-cdn1.com/20220522/6353_43a8c495/index.m3u8
-七月又十四之信不信由你【国语】（香港恐怖片）,https://vip1.lz-cdn1.com/20220522/6336_1958e9bd/index.m3u8
 7500航班（日本恐怖片）,https://vip1.lz-cdn1.com/20220522/6307_beb05336/index.m3u8
 地狱1980（意大利恐怖片）,https://vip1.lz-cdn1.com/20220522/6302_fcfa5ea1/index.m3u8
 宠物坟场（美国恐怖片）,https://vip1.lz-cdn1.com/20220522/6300_5d4e319c/index.m3u8
@@ -2156,6 +2153,9 @@ X博士（美国恐怖片）,https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index
 怪物2005（大陆恐怖片）,https://vip1.lz-cdn1.com/20220415/2004_47eaae5d/index.m3u8
 极度恐慌1983（西班牙恐怖片）,https://vip1.lz-cdn1.com/20220415/1989_43e31e1a/index.m3u8
 电影23,#genre#
+追凶二十年【国语】（香港恐怖片）,https://vip1.lz-cdn1.com/20220522/6368_2344f2d9/index.m3u8
+夜半一点钟【国语】（香港恐怖片）,https://vip1.lz-cdn1.com/20220522/6353_43a8c495/index.m3u8
+七月又十四之信不信由你【国语】（香港恐怖片）,https://vip1.lz-cdn1.com/20220522/6336_1958e9bd/index.m3u8
 僵尸2013【粤语】（香港恐怖片）,https://vip.lz-cdn16.com/20230726/32622_3d7f4974/index.m3u8
 僵尸2013【国语】（香港恐怖片）,https://vip.lz-cdn16.com/20230726/32621_2bd0fafa/index.m3u8
 僵尸翻生【粤语】（香港恐怖片）,https://vip1.lz-cdn6.com/20220410/3281_05ee37d4/index.m3u8
