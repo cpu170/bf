@@ -1,6 +1,6 @@
 [
 
-{"name":"🔒大师吐血推荐","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/dstj.txt"},
+{"name":"📡yang-1989","url":"https://tv.iill.top/m3u/Live"},
 
 {"name":"📡直播","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/av/zba.txt"},
 
