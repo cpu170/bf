@@ -7640,100 +7640,16 @@
     {"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
   ],
   "doh": [
-    {
-      "name": "OpenDNS",
-      "url": "https://208.67.222.222/dns-query",
-      "ips": [
-        "208.67.222.222",
-	"208.67.222.220",
-	"208.67.220.222",
-	"2620:119:35::35",
-	"2620:119:53::53",      
-        "208.67.220.220"
-      ]
-    },
-    {
-      "name": "114dns",
-      "url": "https://dns.114dns.com/dns-query",
-      "ips": [
-        "114.114.114.114",
-        "114.114.115.115"
-      ]
-    },
-    {
-      "name": "腾讯",
-      "url": "https://doh.pub/dns-query",
-      "ips": [
-        "119.29.29.29",
-	"2402:4e00::", 
-	"2402:4e00:1::",      
-        "119.28.28.28"
-      ]
-    },
-    {
-      "name": "阿里",
-      "url": "https://dns.alidns.com/dns-query",
-      "ips": [
-        "223.6.6.6",
-	"2400:3200::1", 
-	"2400:3200:baba::1",      
-        "223.5.5.5"
-      ]
-    },
-    {
-      "name": "360",
-      "url": "https://doh.360.cn/dns-query",
-      "ips": [
-        "101.226.4.6",
-	"218.30.118.6",
-	"123.125.81.6",
-	"140.207.198.6",      
-	"101.198.198.198"      
-      ]
-    },
-    {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-	"2001:4860:4860::8888",
-	"2001:4860:4860::8844",      
-        "8.8.8.8"
-      ]
-    },
-    {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ]
-    },
-    {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
-      "ips": [
-        "94.140.14.140",
-	"2a10:50c0::1:ff",
-	"2a10:50c0::2:ff",      
-        "94.140.14.141"
-      ]
-    },
-    {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
-      "ips": [
-        "9.9.9.9",
-	"149.112.112.9", 
-	"2620:fe::fe",
-	"2620:fe::9",
-	"2620:fe::fe:9",      
-        "149.112.112.112"
-      ]
-    }
-  ],
+   {"name":"OpenDNS","url":"https://208.67.222.222/dns-query","ips":["208.67.222.222","208.67.222.220","208.67.220.222","2620:119:35::35","2620:119:53::53","208.67.220.220"]},
+   {"name":"114dns","url":"https://dns.114dns.com/dns-query","ips":["114.114.114.114","114.114.115.115"]},
+   {"name":"腾讯","url":"https://doh.pub/dns-query","ips":["119.29.29.29","2402:4e00::","2402:4e00:1::","119.28.28.28"]},
+   {"name":"阿里","url":"https://dns.alidns.com/dns-query","ips":["223.6.6.6","2400:3200::1","2400:3200:baba::1","223.5.5.5"]},
+   {"name":"360","url":"https://doh.360.cn/dns-query","ips":["101.226.4.6","218.30.118.6","123.125.81.6","140.207.198.6","101.198.198.198"]},
+   {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844","8.8.8.8"]},
+   {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+   {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","2a10:50c0::1:ff","2a10:50c0::2:ff","94.140.14.141"]},
+   {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.9","2620:fe::fe","2620:fe::9","2620:fe::fe:9","149.112.112.112"]} ],
+
 "rules": [
    {"name":"hwk","hosts":["haiwaikan"],"regex":["8.16","10.0099","10.3333","16.0599","8.1748","12.33","10.85","#EXTINF:(0|1|2|7\\.90).*?\\s+.*?921c07e8bfad6789.*?\\.ts\\s+","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
    {"name":"yqk","hosts":["yqk88","yqk","ydd"],"regex":["18.4","18.4666","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"]},
