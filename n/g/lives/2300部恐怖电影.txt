@@ -353,7 +353,6 @@
 淡季2021（美国恐怖片）,https://v.cdnlz12.com/20230913/10348_557034d8/index.m3u8
 回应我（澳大利亚 / 英国恐怖片）,https://v.cdnlz12.com/20230912/10299_8072653b/index.m3u8
 索命咒（美国恐怖片）,https://v.cdnlz12.com/20230912/10287_66283cf6/index.m3u8
-僵尸翻生【粤语】（香港恐怖片）,https://vip1.lz-cdn6.com/20220410/3281_05ee37d4/index.m3u8
 回溯迷踪2015（西班牙恐怖片）,https://v.cdnlz12.com/20230911/10213_f7b22dd2/index.m3u8
 至死不渝的爱（日本恐怖片）,https://v.cdnlz16.com/20230911/38417_8edc1cea/index.m3u8
 幽霊VS宇宙人（日本恐怖片）,https://v.cdnlz16.com/20230911/38418_4bd08316/index.m3u8
@@ -480,8 +479,6 @@ X圣治（日本恐怖片）,https://v.cdnlz3.com/20230904/21591_14cb8159/index.
 换命天堂（德国恐怖片）,https://vip1.lz-cdn1.com/20230727/21462_2a3c8196/index.m3u8
 咒怨：黑少女（日本恐怖片）,https://vip.lz-cdn16.com/20230725/32579_1ec57c37/index.m3u8
 咒怨：白老妇（日本恐怖片）,https://vip.lz-cdn16.com/20230725/32578_0708cd61/index.m3u8
-僵尸2013【粤语】（香港恐怖片）,https://vip.lz-cdn16.com/20230726/32622_3d7f4974/index.m3u8
-僵尸2013【国语】（香港恐怖片）,https://vip.lz-cdn16.com/20230726/32621_2bd0fafa/index.m3u8
 寂静岭原声（加拿大恐怖片）,https://vip.lz-cdn16.com/20230726/32620_7d80a3e5/index.m3u8
 行尸之惧：462航班（美国恐怖片）,https://vip.lz-cdn16.com/20230723/32503_4e3d35f3/index.m3u8
 吸血鬼在塞尔维亚（英国恐怖片）,https://vip1.lz-cdn1.com/20230726/21442_cbdc6eaf/index.m3u8
@@ -2159,6 +2156,9 @@ X博士（美国恐怖片）,https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index
 怪物2005（大陆恐怖片）,https://vip1.lz-cdn1.com/20220415/2004_47eaae5d/index.m3u8
 极度恐慌1983（西班牙恐怖片）,https://vip1.lz-cdn1.com/20220415/1989_43e31e1a/index.m3u8
 电影23,#genre#
+僵尸2013【粤语】（香港恐怖片）,https://vip.lz-cdn16.com/20230726/32622_3d7f4974/index.m3u8
+僵尸2013【国语】（香港恐怖片）,https://vip.lz-cdn16.com/20230726/32621_2bd0fafa/index.m3u8
+僵尸翻生【粤语】（香港恐怖片）,https://vip1.lz-cdn6.com/20220410/3281_05ee37d4/index.m3u8
 南洋十大邪术【粤语】（香港恐怖片）,https://jkunbf.com/20240127/Pkjuy2rK/index.m3u8
 女校风云之邪教入侵【粤语】（香港恐怖片）,https://vip2.fhbf9.com/20210804/Ghay3wou/index.m3u8
 邪斗邪【国语】（香港恐怖片）,https://vip2.fhbf9.com/20210804/foK9Dgji/index.m3u8
