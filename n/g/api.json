@@ -21,6 +21,8 @@
     {"key":"csp_直播-1","name":"📡电视直播","type":3,"api":"./js/直播转点播.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lives/zb1.txt"},
     {"key":"直播转点播","name":"📺︎电视点播","type":3,"api":"./lib/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/zb.json"},
     {"key":"直播转点播-1","name":"📺︎视频点播[密]","type":3,"api":"./lib/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/zb1.json"},
+    {"key":"直播转点播v7","name":"📡经典私藏[密]","type":3,"api":"./api/直播转点播v7.js","ext":"./lives/zbtodbA.txt"},
+    {"key":"直播转点播-v7","name":"📡经典私藏","type":3,"api":"./api/直播转点播v7.js","ext":"./lives/zbtodbB.txt"},  
     {"key":"新lf_live10_min","name":"📺︎新直播丨Live","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/lf_live10_min-output.js","ext":"./lives/lf_live.json"},
     {"key":"lf_live10[密]_min","name":"📺︎新直播[密]丨Live","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/lf_live10_min-output.js","ext":"./lives/lf_live[密].json"},
     {"key":"zhibo影视","name":"┃猫直播大全┃","type":3,"api":"./js/sdtv.js","ext":"./lives/sdtv.txt","jar":"./jars/sdtv.jar"},
