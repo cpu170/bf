@@ -284,6 +284,7 @@
     {"key":"csp_XBPQ_傻傻","name":"📹傻傻","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","ext":"./json/傻傻.json"},  
     {"key":"csp_XBPQ_快剧屋","name":"📹快剧屋","type":3,"api":"csp_XBPQ","jar":"./jars/lege.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/快剧屋.json"},  
     {"key":"csp_XBPQ_韩片网","name":"📹韩片网","type":3,"playerType":2,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/韩片网.json"},  
+    {"key":"csp_XBPQ_哩咕TV","name":"📹哩咕TV","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ligutv.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$3#综艺$4#短剧$5"}},  
     {
       "key": "rarbt",
       "name": "🎦rarbt",
