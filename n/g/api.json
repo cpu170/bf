@@ -287,7 +287,8 @@
     {"key":"csp_XBPQ_哩咕TV","name":"📹哩咕TV","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ligutv.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$3#综艺$4#短剧$5"}}, 
     {"key":"csp_XBPQ_速影TV","name":"📹速影TV","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","ext":"./json/速影TV.json"},  
     {"key":"csp_XBPQ_洋葱影视","name":"📹洋葱影视","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/洋葱影视.json"},
-    {"key":"csp_XBPQ_可可宝影院","name":"📹可可宝影院","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/可可宝影院.json"},	  
+    {"key":"csp_XBPQ_可可宝影院","name":"📹可可宝影院","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/可可宝影院.json"},
+    {"key":"csp_XBPQ_远博片库网","name":"📹远博片库网","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/远博片库网.json"},  
     {
       "key": "rarbt",
       "name": "🎦rarbt",
