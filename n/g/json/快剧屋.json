@@ -1,0 +1,11 @@
+{
+		"请求头": "手机",
+		"分类url": "http://kd117.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+		"搜索url": "",
+		"直接播放": "0",
+		"图片": "img src=\"&&\"",
+		"图片代理": "1",
+		"数组": "class=\"module-item-cover&&</div>",
+		"播放数组": "class=\"video-info-header&&</div>",
+		"分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$35#伦理$5"
+	}
