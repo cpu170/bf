@@ -1,0 +1,11 @@
+{
+		"请求头": "手机",
+		"分类url": "https://www.foryuanbo.com/votype/{cateId}-{area}-------{catePg}---{year}.html",
+		"搜索url": "https://www.foryuanbo.com/search/{wd}----------{pg}---.html",
+		"直接播放": "0",
+		"图片": "data-original=\"&&\"",
+		"图片代理": "1",
+		"数组": "class=\"module-item-cover\"&&</div>",
+		"播放数组": "class=\"sort-item&&</div>",
+		"分类": "电影$54#连续剧$62#综艺$69#动漫$52#短劇$74#纪录片$75"
+	}
