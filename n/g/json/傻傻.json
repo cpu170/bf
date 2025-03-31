@@ -1,0 +1,12 @@
+ {
+		"请求头": "User-Agent$MOBILE_UA",
+		"编码": "UTF-8",
+		"主页url": "https://shasha.one/",
+		"分类url": "https://shasha.one/p/{cateId}?page={catePg}",
+		"搜索url": "https://shasha.one/q/{wd}?page={pg}",
+		"搜索模式": "",
+		"图片": "src=\"&&\"",
+		"数组": "embed-responsive embed-responsive-16by9-rotating position-relative\">&&</div",
+		"播放数组": "class=\"seqs mb-4&&</div>",
+		"分类": ""
+	}
