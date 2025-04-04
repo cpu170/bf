@@ -346,7 +346,7 @@ class Spider(Spider):
             name = self.extract_middle_text(code, "s1='", "'", 0)
             Jumps = self.extract_middle_text(code, "s2='", "'", 0)
 
-            vod_content = '繁华🎉为您介绍剧情📢' + detail['vod']['vod_blurb']
+            vod_content = '🎉为您介绍剧情📢' + detail['vod']['vod_blurb']
 
 
             vod_actor = detail['vod']['vod_actor']
