@@ -308,6 +308,8 @@
     {"key":"csp_XBPQ_洋葱影视","name":"📹洋葱影视","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/洋葱影视.json"},
     {"key":"csp_XBPQ_可可宝影院","name":"📹可可宝影院","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/可可宝影院.json"},
     {"key":"csp_XBPQ_远博片库网","name":"📹远博片库网","type":3,"api":"csp_XBPQ","jar":"./jars/zy.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/远博片库网.json"},  
+    {"key":"ZTYY姿态","name":"姿态┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/姿态影院.json"},
+    {"key":"ling飞快","name":"飞快┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/飞快tv.json"},
     {
       "key": "rarbt",
       "name": "🎦rarbt",
