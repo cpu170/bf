@@ -17,14 +17,14 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://tv.iill.top/m3u/Live
 #电视直播
 https://d.kstore.dev/download/6317/ZB/%E6%AF%94%E7%84%A6%E4%BD%A0-%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt
-#feiyang.bililive
-http://127.0.0.1:35457/bililive.m3u
-#feiyang.huyayqk
-http://127.0.0.1:35457/huyayqk.m3u
-#feiyang.douyuyqk
-http://127.0.0.1:35457/douyuyqk.m3u
-#feiyang.yylunbo
-http://127.0.0.1:35457/yylunbo.m3u
+#秒播直播
+http://211.154.28.50:5898/2025.txt
+#秒播直播1
+http://211.154.28.50:5898/xwlj.txt
+#流畅源1
+http://211.154.28.50:5898/20251.txt
+#流畅源2
+http://211.154.28.50:5898/20252.txt
 
 
 
