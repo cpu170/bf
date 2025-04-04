@@ -46,6 +46,7 @@
     {"key": "hitv","name": "🎸┃Hitv┃影视","type": 3,"api": "./py/hitv.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
     {"key":"py_火车影视","name":"💡┃火车┃影视","type":3,"api":"./py/火车影视 (2).py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
     {"key":"py_嗨皮影视","name":"💡┃嗨皮┃影视","type":3,"api":"./py/嗨皮影视 (2).py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
+    {"key":"py_萝卜影视","name":"💡┃萝卜┃影视","type":3,"api":"./py/萝卜.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
     {"key":"白羊影院","name":"♈白羊┃影院","type":3,"api":"csp_XBPQ","jar":"./jars/xyqxbpq.jar","ext":"./json/白羊影院.json"},
     { "key": "茶杯线路", "name": "🌼茶杯","type":3,"api":"csp_XBPQ","ext":"./json/茶杯2025.json"},
     { "key": "天龙线路", "name": "🌼天龙","type":3,"api":"csp_XBPQ","ext":"./json/天龙.json"},
